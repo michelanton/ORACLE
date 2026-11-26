@@ -18,7 +18,15 @@
         <section id="consultation">
             <div class="emblem" aria-hidden="true">✧</div>
             <h1>Toutes les sagesses.<br>Un seul oracle.</h1>
-            <p id="intro"></p><button id="draw" disabled>Consulter l’oracle</button>
+            <p id="intro"></p>
+            <p style="font-size:0.9rem;color:#d8c5a0;text-align:center;">Le hasard propose. À vous d’interpréter.</p>
+            <!-- Invitation à la réflexion avant chaque consultation. -->
+            <p
+                style="font-family:Georgia,serif;font-size:0.9rem;font-style:italic;line-height:1.6;color:#c1b6a4;text-align:center;">
+                Avant chaque consultation, accorde-toi un instant de calme. Libère ton esprit de tes attentes et
+                accueille le message sans chercher immédiatement à l'interpréter.<br><br>Une pensée peut sembler
+                étrangère à ta situation et pourtant prendre tout son sens au fil de ta réflexion.</p><button id="draw"
+                disabled>Consulter l’oracle</button>
             <div id="results" aria-live="polite"></div><button id="save" hidden>♡ Conserver le tirage</button>
             <div class="mode-consultation"><label for="mode">Mode de consultation</label><select id="mode">
                     <option value="simple">Tirage simple</option>
@@ -43,7 +51,6 @@
             <p>Version 1.15 (base 1.11) — Les favoris sont stockés sur cet appareil.</p>
         </section>
         <p id="status" role="status">Chargement des symboles…</p>
-        <footer>Le hasard propose. À vous d’interpréter.</footer>
     </main>
     <nav aria-label="Navigation"><button data-page="consultation" aria-current="page">Oracle</button><button
             data-page="favorites">Favoris</button><button data-page="info">Infos</button></nav>

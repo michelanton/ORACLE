@@ -88,9 +88,10 @@ function renderSaved(){$('saved').replaceChildren();if(!favorites.length)$('save
 const texteMeditation="Prends le temps de la réflexion et de la méditation. Ne cherche pas une réponse immédiate, mais laisse ces trois messages résonner en toi. Leur sens se révèle dans les liens que tu établis avec ton propre chemin de vie. Ils ne prédisent pas ton avenir, mais t'invitent à mieux comprendre celui que tu construis.";
 const intros={simple:'Un symbole et une polarité au hasard.',croise:'Trois traditions : d’où tu viens, le présent et où tu vas.'};
 // Efface le tirage précédent et masque le bouton de sauvegarde lors du changement de mode.
-function reset(){$('intro').textContent=intros[$('mode').value];$('results').replaceChildren();current=[];$('save').hidden=true;}
+function reset(){if($('invitation-reflexion'))$('invitation-reflexion').hidden=false;$('intro').textContent=intros[$('mode').value];$('results').replaceChildren();current=[];$('save').hidden=true;}
 // Événements de consultation : changement de mode, lancement du tirage, affichage des résultats et gestion des erreurs.
-$('mode').onchange=reset;reset();$('draw').onclick=()=>{try{current=makeDraw(data,$('mode').value);$('results').replaceChildren(...current.map(card));if($('mode').value==='croise')$('results').prepend(el('p',texteMeditation,'meta'));$('save').hidden=false;$('save').disabled=false;$('status').textContent='';}catch(e){$('status').textContent='Erreur de tirage : '+e.message;console.error(e);}};
+$('mode').onchange=reset;reset();$('draw').onclick=()=>{try{current=makeDraw(data,$('mode').value);$('results').replaceChildren(...current.map(card));if($('mode').value==='croise')$('results').prepend(el('p',texteMeditation,'meta'));// Masque l’invitation uniquement après un tirage réussi.
+if($('invitation-reflexion'))$('invitation-reflexion').hidden=true;$('save').hidden=false;$('save').disabled=false;$('status').textContent='';}catch(e){$('status').textContent='Erreur de tirage : '+e.message;console.error(e);}};
 // Ajoute le tirage courant aux favoris avec sa date et désactive le bouton pour éviter un double enregistrement.
 $('save').onclick=()=>{if(current.length&&persist([{date:Date.now(),draw:current},...favorites])){$('save').disabled=true;$('status').textContent='Tirage enregistré.';}};
 // Navigation entre consultation, favoris et informations ; aria-current indique la page active aux technologies d’assistance.
