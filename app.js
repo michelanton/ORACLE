@@ -16,6 +16,21 @@ function makeDraw(data,mode){const groups=[...new Set(data.map(x=>x.tradition))]
 if(typeof module!=='undefined')module.exports={makeDraw,terms};
 // Le bloc suivant ne s’exécute que si le DOM du navigateur existe.
 if(typeof document!=='undefined'){
+// Ambiance graphique indépendante du moteur de tirage et des favoris.
+const ambiances={epure:'#101217',heritage:'#e8d6b0',songe:'#15152d'};
+const cleAmbiance='oracle-universel-ambiance';
+function appliquerAmbiance(valeur){
+ if(!Object.prototype.hasOwnProperty.call(ambiances,valeur))valeur='epure';
+ document.documentElement.dataset.ambiance=valeur;
+ $('ambiance').value=valeur;
+ document.querySelector('meta[name="theme-color"]').content=ambiances[valeur];
+}
+// Un stockage indisponible ne doit jamais empêcher une consultation.
+try{appliquerAmbiance(localStorage.getItem(cleAmbiance));}catch(e){appliquerAmbiance('epure');}
+$('ambiance').addEventListener('change',()=>{
+ appliquerAmbiance($('ambiance').value);
+ try{localStorage.setItem(cleAmbiance,$('ambiance').value);}catch(e){/* Le thème reste actif pour cette session. */}
+});
 // État de l’application : symboles chargés, tirage courant et favoris. La clé localStorage reste stable entre les versions.
 let data=[],current=[],favorites=[];
 // Références générales, indexées par tradition pour les tirages et les favoris.

@@ -246,3 +246,63 @@ footer {
     line-height: 1.4;
     margin: 0 0 20px;
 }
+
+/* V1.18 — Sélecteur compact, accessible et disponible sur toutes les pages. */
+.choix-ambiance { display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:8px; margin:12px auto 0; font-size:12px; color:#d8c5a0; }
+.choix-ambiance select { width:auto; margin:0; padding:5px 12px; font-size:13px; }
+.devise-oracle { font-size:.9rem; color:#d8c5a0; text-align:center; }
+#invitation-reflexion { font:italic .9rem/1.6 Georgia,serif; color:#c1b6a4; text-align:center; }
+/* Épure : les règles historiques ci-dessus restent inchangées. */
+/* Héritage : papier ancien, sans image ni police externe. */
+html[data-ambiance="heritage"] { color-scheme:light; --fond:#e8d6b0; --texte:#39291c; --accent:#694522; --secondaire:#634d35; --trait:#aa8956; --surface:#f5ebd7; --bouton:#795331; --sur-bouton:#fff5e0; }
+html[data-ambiance="heritage"] body { min-height:100vh; background-color:var(--fond); background-image:radial-gradient(ellipse at 50% 30%,#fff5df 0%,transparent 75%),repeating-linear-gradient(17deg,#79533106 0 1px,transparent 1px 5px); }
+html[data-ambiance="heritage"] h1 { font-family:Georgia,serif; }
+html[data-ambiance="heritage"] .oracle-message { border:3px double var(--trait); border-radius:2px; padding:26px 18px; background:#fff8e655; }
+html[data-ambiance="heritage"] .oracle-message::before { content:'❦'; display:block; color:var(--accent); margin-bottom:12px; }
+html[data-ambiance="heritage"] #draw { border:3px double #ddc69b; border-radius:5px; }
+/* Songe : ciel nocturne et halos statiques, sans animation ni téléchargement. */
+html[data-ambiance="songe"] { color-scheme:dark; --fond:#15152d; --texte:#f0eafa; --accent:#f0d8a6; --secondaire:#d1c7e7; --trait:#8272a5; --surface:#25213e; --bouton:#c5b4e8; --sur-bouton:#25203d; }
+html[data-ambiance="songe"] body { min-height:100vh; background-color:var(--fond); background-image:radial-gradient(circle,#ffffff88 .7px,transparent 1.3px),radial-gradient(circle,#e6d3ff88 .8px,transparent 1.5px),radial-gradient(ellipse at 75% 15%,#65518a88,transparent 50%),radial-gradient(ellipse at 10% 70%,#51418a88,transparent 55%); background-size:61px 79px,113px 97px,100% 100%,100% 100%; }
+html[data-ambiance="songe"] .oracle-message { background:#211b3cde; border:1px solid var(--trait); border-radius:18px; padding:26px 18px; box-shadow:0 0 25px #a18ad326; }
+html[data-ambiance="songe"] .emblem,html[data-ambiance="songe"] .symbol { text-shadow:0 0 18px #d8c6ff99; }
+/* Couleurs communes aux deux nouvelles ambiances, y compris les favoris. */
+html:is([data-ambiance="heritage"],[data-ambiance="songe"]) body { color:var(--texte); }
+html:is([data-ambiance="heritage"],[data-ambiance="songe"]) :is(header,h1,.emblem,.symbol,.family,.conseil-lol,.sources-oracle,.oracle-message > h2,.devise-oracle,.choix-ambiance) { color:var(--accent); }
+html:is([data-ambiance="heritage"],[data-ambiance="songe"]) :is(.meta,footer,#status,#intro,#invitation-reflexion,.mode-consultation label) { color:var(--secondaire); }
+html:is([data-ambiance="heritage"],[data-ambiance="songe"]) :is(.phrase-cle,.enseignement) { color:var(--texte); }
+html:is([data-ambiance="heritage"],[data-ambiance="songe"]) :is(button,select,nav) { background:var(--surface); color:var(--texte); border-color:var(--trait); }
+html:is([data-ambiance="heritage"],[data-ambiance="songe"]) :is(#draw,nav button[aria-current]) { background:var(--bouton); color:var(--sur-bouton); }
+html:is([data-ambiance="heritage"],[data-ambiance="songe"]) .emblem { border-color:var(--accent); }
+html:is([data-ambiance="heritage"],[data-ambiance="songe"]) :is(button,select,summary,a):focus-visible { outline:3px solid var(--accent); outline-offset:3px; }
+
+
+/* V1.19 — Fonds WebP locaux. Calque fixe indépendant du défilement,
+   sans animation ni background-attachment:fixed (compatibilité mobile). */
+html { min-height:100%; --fond-image:url("images/backgrounds/fond-epure.webp"); --voile:rgba(12,13,16,.20); --fond-secours:#101217; }
+html[data-ambiance="heritage"] { --fond-image:url("images/backgrounds/fond-heritage.webp"); --voile:rgba(255,244,218,.12); --fond-secours:#e8d6b0; }
+html[data-ambiance="songe"] { --fond-image:url("images/backgrounds/fond-songe.webp"); --voile:rgba(15,13,38,.44); --fond-secours:#15152d; }
+html, html body, html[data-ambiance="heritage"] body, html[data-ambiance="songe"] body {
+    background:var(--fond-secours);
+    min-height:100vh;
+}
+body { isolation:isolate; }
+body::before {
+    content:"";
+    position:fixed;
+    inset:0;
+    z-index:-1;
+    pointer-events:none;
+    background-color:var(--fond-secours);
+    background-image:linear-gradient(var(--voile),var(--voile)),var(--fond-image);
+    background-position:center;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+/* Les cartes restent lisibles même sur les zones lumineuses des images. */
+.oracle-message { background:rgba(16,18,23,.78); border-radius:16px; padding:24px 18px; }
+html[data-ambiance="heritage"] .oracle-message { background:rgba(255,247,226,.88); }
+html[data-ambiance="songe"] .oracle-message { background:rgba(24,20,48,.90); }
+/* Voile local derrière le texte hors carte pour le paysage onirique. */
+html[data-ambiance="songe"] :is(header,h1,#intro,.devise-oracle,#invitation-reflexion,.mode-consultation label,#status,#info) { text-shadow:0 1px 4px #100d25,0 0 8px #100d25; }
+html[data-ambiance="songe"] #info { background:rgba(24,20,48,.88); border-radius:16px; padding:16px; }
+html[data-ambiance="heritage"] #info { background:rgba(255,247,226,.85); border-radius:12px; padding:16px; }

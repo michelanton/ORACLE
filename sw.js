@@ -1,7 +1,8 @@
 // Nom du cache de cette version. À changer lors d’une publication modifiant les ressources pour renouveler le cache.
-const CACHE='oracle-universel-v1.17-invitation';
+const CACHE='oracle-universel-v1.19-fonds';
 // Ressources indispensables à l’interface, au manifeste PWA et au catalogue JSON.
-const FILES=['./','./index.html','./style.css','./app.js','./manifest.json','./data/index.json','./icons/icon-192.png','./icons/icon-512.png'];
+const FILES=['./','./index.html','./style.css','./app.js','./manifest.json','./data/index.json','./icons/icon-192.png','./icons/icon-512.png',
+ './images/backgrounds/fond-epure.webp','./images/backgrounds/fond-heritage.webp','./images/backgrounds/fond-songe.webp'];
 // Installation : attend la mise en cache des ressources avant de rendre le service worker disponible.
 self.addEventListener('install',event=>event.waitUntil((async()=>{
  // Ouvre le cache dédié à cette version.
