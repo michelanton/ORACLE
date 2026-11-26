@@ -18,7 +18,7 @@
       "signification_fondamentale": "Origine",
       "positive": {
         "famille": "Création",
-        "description": "Explorer création dans la situation, sans perdre de vue origine.",
+        "description": "Créer, c'est donner une forme à ce qui demeure encore indistinct en soi, sans oublier la source qui nourrit cet élan.",
         "mots_cles": [
           "création",
           "origine"
@@ -26,7 +26,7 @@
       },
       "negative": {
         "famille": "Confusion",
-        "description": "Observer comment confusion peut entraver ou déséquilibrer origine.",
+        "description": "Lorsque toutes les possibilités se confondent, revenir à l'origine de ton intention peut éclairer ce qui mérite de prendre forme.",
         "mots_cles": [
           "confusion",
           "origine"
@@ -43,7 +43,7 @@
       "signification_fondamentale": "Vent",
       "positive": {
         "famille": "Communication",
-        "description": "Explorer communication dans la situation, sans perdre de vue vent.",
+        "description": "Comme le vent traverse les espaces ouverts, la parole vivante circule entre ceux qui acceptent de s'écouter.",
         "mots_cles": [
           "communication",
           "vent"
@@ -51,7 +51,7 @@
       },
       "negative": {
         "famille": "Dispersion",
-        "description": "Observer comment dispersion peut entraver ou déséquilibrer vent.",
+        "description": "À disperser tes paroles dans toutes les directions, tu risques de ne plus entendre la pensée qui cherche à s'exprimer.",
         "mots_cles": [
           "dispersion",
           "vent"
@@ -68,7 +68,7 @@
       "signification_fondamentale": "Nuit",
       "positive": {
         "famille": "Introspection",
-        "description": "Explorer introspection dans la situation, sans perdre de vue nuit.",
+        "description": "La nuit intérieure offre un espace où les questions délaissées par l'agitation du jour peuvent enfin être entendues.",
         "mots_cles": [
           "introspection",
           "nuit"
@@ -76,7 +76,7 @@
       },
       "negative": {
         "famille": "Repli",
-        "description": "Observer comment repli peut entraver ou déséquilibrer nuit.",
+        "description": "Le silence qui favorise la connaissance de soi peut devenir obscurité lorsque tu refuses toute rencontre avec le monde.",
         "mots_cles": [
           "repli",
           "nuit"
@@ -93,7 +93,7 @@
       "signification_fondamentale": "Graine",
       "positive": {
         "famille": "Potentiel",
-        "description": "Explorer potentiel dans la situation, sans perdre de vue graine.",
+        "description": "Une graine porte des possibilités invisibles ; leur donner du temps et des conditions favorables est déjà un acte de création.",
         "mots_cles": [
           "potentiel",
           "graine"
@@ -101,7 +101,7 @@
       },
       "negative": {
         "famille": "Impatience",
-        "description": "Observer comment impatience peut entraver ou déséquilibrer graine.",
+        "description": "L'impatience voudrait récolter avant même que les racines aient trouvé leur profondeur.",
         "mots_cles": [
           "impatience",
           "graine"
@@ -118,7 +118,7 @@
       "signification_fondamentale": "Serpent",
       "positive": {
         "famille": "Vitalité",
-        "description": "Explorer vitalité dans la situation, sans perdre de vue serpent.",
+        "description": "La vitalité prend tout son sens lorsque l'énergie de tes instincts rencontre la conscience de tes choix.",
         "mots_cles": [
           "vitalité",
           "serpent"
@@ -126,7 +126,7 @@
       },
       "negative": {
         "famille": "Impulsivité",
-        "description": "Observer comment impulsivité peut entraver ou déséquilibrer serpent.",
+        "description": "Un élan puissant ne devient pas nécessairement un geste juste : l'impulsion mérite parfois le détour de la réflexion.",
         "mots_cles": [
           "impulsivité",
           "serpent"
@@ -143,7 +143,7 @@
       "signification_fondamentale": "Mort symbolique",
       "positive": {
         "famille": "Transformation",
-        "description": "Explorer transformation dans la situation, sans perdre de vue mort symbolique.",
+        "description": "Accepter la fin d'une manière d'être, c'est reconnaître que l'existence ne se réduit pas aux formes qu'elle a déjà prises.",
         "mots_cles": [
           "transformation",
           "mort symbolique"
@@ -151,7 +151,7 @@
       },
       "negative": {
         "famille": "Attachement",
-        "description": "Observer comment attachement peut entraver ou déséquilibrer mort symbolique.",
+        "description": "Retenir ce qui a perdu son sens peut empêcher de faire une place à ce qui cherche à naître.",
         "mots_cles": [
           "attachement",
           "mort symbolique"
@@ -168,7 +168,7 @@
       "signification_fondamentale": "Cerf",
       "positive": {
         "famille": "Habileté",
-        "description": "Explorer habileté dans la situation, sans perdre de vue cerf.",
+        "description": "L'habileté véritable associe la précision du geste à l'attention portée à ce qui l'entoure.",
         "mots_cles": [
           "habileté",
           "cerf"
@@ -176,7 +176,7 @@
       },
       "negative": {
         "famille": "Timidité",
-        "description": "Observer comment timidité peut entraver ou déséquilibrer cerf.",
+        "description": "La crainte de faire un faux pas peut te priver de la découverte de tes propres capacités.",
         "mots_cles": [
           "timidité",
           "cerf"
@@ -193,7 +193,7 @@
       "signification_fondamentale": "Étoile",
       "positive": {
         "famille": "Rayonnement",
-        "description": "Explorer rayonnement dans la situation, sans perdre de vue étoile.",
+        "description": "Une étoile n'a pas besoin d'éteindre les autres pour éclairer la nuit ; ainsi en va-t-il de ton propre rayonnement.",
         "mots_cles": [
           "rayonnement",
           "étoile"
@@ -201,7 +201,7 @@
       },
       "negative": {
         "famille": "Vanité",
-        "description": "Observer comment vanité peut entraver ou déséquilibrer étoile.",
+        "description": "Lorsque briller devient plus important qu'éclairer, la reconnaissance finit par remplacer le sens de tes actes.",
         "mots_cles": [
           "vanité",
           "étoile"
@@ -218,7 +218,7 @@
       "signification_fondamentale": "Eau",
       "positive": {
         "famille": "Fluidité",
-        "description": "Explorer fluidité dans la situation, sans perdre de vue eau.",
+        "description": "À l'image de l'eau qui épouse les contours du monde, tu peux accueillir le changement sans perdre la continuité de ton être.",
         "mots_cles": [
           "fluidité",
           "eau"
@@ -226,7 +226,7 @@
       },
       "negative": {
         "famille": "Submersion",
-        "description": "Observer comment submersion peut entraver ou déséquilibrer eau.",
+        "description": "Accueillir tes émotions ne signifie pas leur abandonner toute la direction de ton existence.",
         "mots_cles": [
           "submersion",
           "eau"
@@ -243,7 +243,7 @@
       "signification_fondamentale": "Chien",
       "positive": {
         "famille": "Loyauté",
-        "description": "Explorer loyauté dans la situation, sans perdre de vue chien.",
+        "description": "La loyauté se reconnaît dans la constance des gestes librement choisis, même lorsque personne ne les réclame.",
         "mots_cles": [
           "loyauté",
           "chien"
@@ -251,7 +251,7 @@
       },
       "negative": {
         "famille": "Dépendance",
-        "description": "Observer comment dépendance peut entraver ou déséquilibrer chien.",
+        "description": "Un lien cesse de nourrir ta liberté lorsque la peur de le perdre gouverne chacune de tes décisions.",
         "mots_cles": [
           "dépendance",
           "chien"
@@ -268,7 +268,7 @@
       "signification_fondamentale": "Singe",
       "positive": {
         "famille": "Créativité",
-        "description": "Explorer créativité dans la situation, sans perdre de vue singe.",
+        "description": "La créativité naît parfois du jeu, lorsque l'esprit ose rapprocher ce que l'habitude maintenait séparé.",
         "mots_cles": [
           "créativité",
           "singe"
@@ -276,7 +276,7 @@
       },
       "negative": {
         "famille": "Dispersion",
-        "description": "Observer comment dispersion peut entraver ou déséquilibrer singe.",
+        "description": "La multiplication des idées peut masquer la difficulté d'en accompagner une jusqu'à son accomplissement.",
         "mots_cles": [
           "dispersion",
           "singe"
@@ -293,7 +293,7 @@
       "signification_fondamentale": "Chemin",
       "positive": {
         "famille": "Progression",
-        "description": "Explorer progression dans la situation, sans perdre de vue chemin.",
+        "description": "Le chemin se découvre autant dans la manière de marcher que dans le lieu vers lequel tu souhaites aller.",
         "mots_cles": [
           "progression",
           "chemin"
@@ -301,7 +301,7 @@
       },
       "negative": {
         "famille": "Errance",
-        "description": "Observer comment errance peut entraver ou déséquilibrer chemin.",
+        "description": "L'errance devient stérile lorsque chaque détour sert à éviter de choisir ce qui compte pour toi.",
         "mots_cles": [
           "errance",
           "chemin"
@@ -318,7 +318,7 @@
       "signification_fondamentale": "Roseau",
       "positive": {
         "famille": "Croissance",
-        "description": "Explorer croissance dans la situation, sans perdre de vue roseau.",
+        "description": "Grandir comme le roseau, c'est chercher la lumière tout en conservant la souplesse nécessaire pour traverser les vents contraires.",
         "mots_cles": [
           "croissance",
           "roseau"
@@ -326,7 +326,7 @@
       },
       "negative": {
         "famille": "Rigidité",
-        "description": "Observer comment rigidité peut entraver ou déséquilibrer roseau.",
+        "description": "Une volonté de croissance qui refuse tout infléchissement risque de briser ce qu'elle cherchait à fortifier.",
         "mots_cles": [
           "rigidité",
           "roseau"
@@ -343,7 +343,7 @@
       "signification_fondamentale": "Jaguar",
       "positive": {
         "famille": "Intuition",
-        "description": "Explorer intuition dans la situation, sans perdre de vue jaguar.",
+        "description": "L'intuition invite à écouter les perceptions discrètes qui précèdent parfois les mots, puis à les confronter au réel.",
         "mots_cles": [
           "intuition",
           "jaguar"
@@ -351,7 +351,7 @@
       },
       "negative": {
         "famille": "Méfiance",
-        "description": "Observer comment méfiance peut entraver ou déséquilibrer jaguar.",
+        "description": "La méfiance transforme facilement une ombre en menace lorsque l'imagination prend la place de l'observation.",
         "mots_cles": [
           "méfiance",
           "jaguar"
@@ -368,7 +368,7 @@
       "signification_fondamentale": "Aigle",
       "positive": {
         "famille": "Vision",
-        "description": "Explorer vision dans la situation, sans perdre de vue aigle.",
+        "description": "Le regard de l'aigle rappelle que comprendre une situation exige parfois de dépasser les frontières de son expérience immédiate.",
         "mots_cles": [
           "vision",
           "aigle"
@@ -376,7 +376,7 @@
       },
       "negative": {
         "famille": "Arrogance",
-        "description": "Observer comment arrogance peut entraver ou déséquilibrer aigle.",
+        "description": "Une vision étendue perd sa valeur lorsque celui qui la possède méprise les perspectives différentes de la sienne.",
         "mots_cles": [
           "arrogance",
           "aigle"
@@ -393,7 +393,7 @@
       "signification_fondamentale": "Réflexion",
       "positive": {
         "famille": "Sagesse",
-        "description": "Explorer sagesse dans la situation, sans perdre de vue réflexion.",
+        "description": "La sagesse se construit en laissant l'expérience interroger nos certitudes plutôt qu'en cherchant à les confirmer.",
         "mots_cles": [
           "sagesse",
           "réflexion"
@@ -401,7 +401,7 @@
       },
       "negative": {
         "famille": "Isolement",
-        "description": "Observer comment isolement peut entraver ou déséquilibrer réflexion.",
+        "description": "Une réflexion qui ne se nourrit plus de la rencontre avec autrui risque de tourner indéfiniment autour des mêmes questions.",
         "mots_cles": [
           "isolement",
           "réflexion"
@@ -418,7 +418,7 @@
       "signification_fondamentale": "Terre",
       "positive": {
         "famille": "Évolution",
-        "description": "Explorer évolution dans la situation, sans perdre de vue terre.",
+        "description": "Comme la terre se transforme au fil des saisons, ton évolution peut s'appuyer sur des fondations solides sans leur rester prisonnière.",
         "mots_cles": [
           "évolution",
           "terre"
@@ -426,7 +426,7 @@
       },
       "negative": {
         "famille": "Inertie",
-        "description": "Observer comment inertie peut entraver ou déséquilibrer terre.",
+        "description": "Ce qui t'enracine peut aussi t'immobiliser lorsque la sécurité devient une raison de refuser toute évolution.",
         "mots_cles": [
           "inertie",
           "terre"
@@ -443,7 +443,7 @@
       "signification_fondamentale": "Silex",
       "positive": {
         "famille": "Discernement",
-        "description": "Explorer discernement dans la situation, sans perdre de vue silex.",
+        "description": "Le discernement, semblable au tranchant du silex, sépare l'essentiel de l'accessoire sans mépriser la complexité du réel.",
         "mots_cles": [
           "discernement",
           "silex"
@@ -451,7 +451,7 @@
       },
       "negative": {
         "famille": "Sévérité",
-        "description": "Observer comment sévérité peut entraver ou déséquilibrer silex.",
+        "description": "La lucidité devient dureté lorsque le désir de distinguer le vrai du faux ne laisse aucune place à la compréhension.",
         "mots_cles": [
           "sévérité",
           "silex"
@@ -468,7 +468,7 @@
       "signification_fondamentale": "Orage",
       "positive": {
         "famille": "Renouveau",
-        "description": "Explorer renouveau dans la situation, sans perdre de vue orage.",
+        "description": "Après le bouleversement, il est parfois possible de regarder autrement ce que l'habitude rendait immuable.",
         "mots_cles": [
           "renouveau",
           "orage"
@@ -476,7 +476,7 @@
       },
       "negative": {
         "famille": "Tumulte",
-        "description": "Observer comment tumulte peut entraver ou déséquilibrer orage.",
+        "description": "Dans le tumulte, l'intensité de ce que tu ressens ne suffit pas à déterminer la justesse de tes décisions.",
         "mots_cles": [
           "tumulte",
           "orage"
@@ -493,7 +493,7 @@
       "signification_fondamentale": "Rayonnement",
       "positive": {
         "famille": "Accomplissement",
-        "description": "Explorer accomplissement dans la situation, sans perdre de vue rayonnement.",
+        "description": "L'accomplissement trouve sa profondeur lorsque la lumière de ce que tu as construit contribue aussi à éclairer le chemin des autres.",
         "mots_cles": [
           "accomplissement",
           "rayonnement"
@@ -501,7 +501,7 @@
       },
       "negative": {
         "famille": "Orgueil",
-        "description": "Observer comment orgueil peut entraver ou déséquilibrer rayonnement.",
+        "description": "L'orgueil enferme la réussite dans le besoin de se croire supérieur, là où la gratitude pourrait lui donner un sens plus vaste.",
         "mots_cles": [
           "orgueil",
           "rayonnement"

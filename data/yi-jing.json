@@ -17,7 +17,7 @@
       "theme": "Le Créateur",
       "positive": {
         "famille": "Création",
-        "description": "Création : initiative, force, inspiration. Cette lecture invite à cultiver initiative, force, inspiration.",
+        "description": "Créer, c'est donner une forme à ce qui n'existait encore qu'en puissance, sans prétendre en maîtriser tous les devenirs.",
         "mots_cles": [
           "initiative",
           "force",
@@ -26,7 +26,7 @@
       },
       "negative": {
         "famille": "Domination",
-        "description": "Domination : orgueil, autoritarisme, excès. Cette lecture invite à reconnaître les risques liés à orgueil, autoritarisme, excès.",
+        "description": "La force qui ne reconnaît aucune limite finit par étouffer la liberté dont naît toute création.",
         "mots_cles": [
           "orgueil",
           "autoritarisme",
@@ -51,7 +51,7 @@
       "theme": "Le Réceptif",
       "positive": {
         "famille": "Accueil",
-        "description": "Accueil : patience, disponibilité, fécondité. Cette lecture invite à cultiver patience, disponibilité, fécondité.",
+        "description": "Accueillir ce qui vient avec patience laisse à l'existence la possibilité de faire mûrir ce que tu ne peux produire seul.",
         "mots_cles": [
           "patience",
           "disponibilité",
@@ -60,7 +60,7 @@
       },
       "negative": {
         "famille": "Passivité",
-        "description": "Passivité : soumission, dépendance, effacement. Cette lecture invite à reconnaître les risques liés à soumission, dépendance, effacement.",
+        "description": "La disponibilité devient soumission lorsque tu renonces à ta propre voix pour accueillir celle des autres.",
         "mots_cles": [
           "soumission",
           "dépendance",
@@ -85,7 +85,7 @@
       "theme": "La difficulté initiale",
       "positive": {
         "famille": "Commencement",
-        "description": "Commencement : persévérance, organisation, apprentissage. Cette lecture invite à cultiver persévérance, organisation, apprentissage.",
+        "description": "Le désordre des commencements est une matière à façonner : chaque effort patient transforme une difficulté en apprentissage.",
         "mots_cles": [
           "persévérance",
           "organisation",
@@ -94,7 +94,7 @@
       },
       "negative": {
         "famille": "Confusion",
-        "description": "Confusion : désordre, découragement, précipitation. Cette lecture invite à reconnaître les risques liés à désordre, découragement, précipitation.",
+        "description": "Vouloir donner trop vite une forme définitive à ce qui naît risque de briser l'élan fragile du commencement.",
         "mots_cles": [
           "désordre",
           "découragement",
@@ -119,7 +119,7 @@
       "theme": "La folie juvénile",
       "positive": {
         "famille": "Apprentissage",
-        "description": "Apprentissage : humilité, curiosité, éducation. Cette lecture invite à cultiver humilité, curiosité, éducation.",
+        "description": "Reconnaître ce que tu ignores ouvre un espace où la curiosité peut devenir connaissance.",
         "mots_cles": [
           "humilité",
           "curiosité",
@@ -128,7 +128,7 @@
       },
       "negative": {
         "famille": "Ignorance",
-        "description": "Ignorance : naïveté, arrogance, obstination. Cette lecture invite à reconnaître les risques liés à naïveté, arrogance, obstination.",
+        "description": "L'ignorance devient un obstacle durable lorsqu'elle se protège derrière la certitude de tout savoir.",
         "mots_cles": [
           "naïveté",
           "arrogance",
@@ -153,7 +153,7 @@
       "theme": "L'attente",
       "positive": {
         "famille": "Patience",
-        "description": "Patience : confiance, préparation, timing. Cette lecture invite à cultiver confiance, préparation, timing.",
+        "description": "Attendre n'est pas suspendre sa vie, mais préparer intérieurement et extérieurement le moment où l'action prendra son sens.",
         "mots_cles": [
           "confiance",
           "préparation",
@@ -162,7 +162,7 @@
       },
       "negative": {
         "famille": "Impatience",
-        "description": "Impatience : anxiété, inertie, frustration. Cette lecture invite à reconnaître les risques liés à anxiété, inertie, frustration.",
+        "description": "L'anxiété de ce qui tarde peut te rendre indisponible à ce qui existe déjà.",
         "mots_cles": [
           "anxiété",
           "inertie",
@@ -187,7 +187,7 @@
       "theme": "Le conflit",
       "positive": {
         "famille": "Conciliation",
-        "description": "Conciliation : justice, dialogue, discernement. Cette lecture invite à cultiver justice, dialogue, discernement.",
+        "description": "La justice commence lorsque le désir de comprendre le différend l'emporte sur celui de vaincre l'autre.",
         "mots_cles": [
           "justice",
           "dialogue",
@@ -196,7 +196,7 @@
       },
       "negative": {
         "famille": "Affrontement",
-        "description": "Affrontement : rivalité, rancune, hostilité. Cette lecture invite à reconnaître les risques liés à rivalité, rancune, hostilité.",
+        "description": "Entretenir une rancune revient à laisser un conflit ancien gouverner les rencontres présentes.",
         "mots_cles": [
           "rivalité",
           "rancune",
@@ -221,7 +221,7 @@
       "theme": "L'armée",
       "positive": {
         "famille": "Discipline",
-        "description": "Discipline : coordination, responsabilité, stratégie. Cette lecture invite à cultiver coordination, responsabilité, stratégie.",
+        "description": "Une discipline partagée trouve sa dignité dans la responsabilité de chacun envers un dessein commun.",
         "mots_cles": [
           "coordination",
           "responsabilité",
@@ -230,7 +230,7 @@
       },
       "negative": {
         "famille": "Coercition",
-        "description": "Coercition : violence, obéissance aveugle, oppression. Cette lecture invite à reconnaître les risques liés à violence, obéissance aveugle, oppression.",
+        "description": "L'obéissance perd sa valeur morale dès qu'elle exige de renoncer à son discernement.",
         "mots_cles": [
           "violence",
           "obéissance aveugle",
@@ -255,7 +255,7 @@
       "theme": "La solidarité",
       "positive": {
         "famille": "Union",
-        "description": "Union : entraide, fidélité, appartenance. Cette lecture invite à cultiver entraide, fidélité, appartenance.",
+        "description": "Appartenir à une communauté, c'est pouvoir compter sur les autres tout en leur offrant la liberté d'être eux-mêmes.",
         "mots_cles": [
           "entraide",
           "fidélité",
@@ -264,7 +264,7 @@
       },
       "negative": {
         "famille": "Conformisme",
-        "description": "Conformisme : dépendance, exclusion, pression collective. Cette lecture invite à reconnaître les risques liés à dépendance, exclusion, pression collective.",
+        "description": "Une union fondée sur la peur d'être exclu transforme la solidarité en dépendance.",
         "mots_cles": [
           "dépendance",
           "exclusion",
@@ -289,7 +289,7 @@
       "theme": "Le pouvoir d'apprivoisement du petit",
       "positive": {
         "famille": "Progression",
-        "description": "Progression : retenue, douceur, petits pas. Cette lecture invite à cultiver retenue, douceur, petits pas.",
+        "description": "Les transformations profondes naissent parfois de gestes si modestes que seule leur continuité révèle leur puissance.",
         "mots_cles": [
           "retenue",
           "douceur",
@@ -298,7 +298,7 @@
       },
       "negative": {
         "famille": "Frustration",
-        "description": "Frustration : impuissance, dispersion, impatience. Cette lecture invite à reconnaître les risques liés à impuissance, dispersion, impatience.",
+        "description": "Mépriser les petits progrès parce qu'ils ne suffisent pas encore revient à se priver des moyens d'avancer.",
         "mots_cles": [
           "impuissance",
           "dispersion",
@@ -323,7 +323,7 @@
       "theme": "La marche",
       "positive": {
         "famille": "Prudence",
-        "description": "Prudence : respect, tact, courage. Cette lecture invite à cultiver respect, tact, courage.",
+        "description": "Marcher avec tact, c'est unir le courage d'avancer au respect de ce que chaque pas peut affecter.",
         "mots_cles": [
           "respect",
           "tact",
@@ -332,7 +332,7 @@
       },
       "negative": {
         "famille": "Imprudence",
-        "description": "Imprudence : provocation, arrogance, danger. Cette lecture invite à reconnaître les risques liés à provocation, arrogance, danger.",
+        "description": "Confondre audace et provocation expose à des difficultés que la lucidité aurait permis d'éviter.",
         "mots_cles": [
           "provocation",
           "arrogance",
@@ -357,7 +357,7 @@
       "theme": "La paix",
       "positive": {
         "famille": "Harmonie",
-        "description": "Harmonie : équilibre, coopération, prospérité. Cette lecture invite à cultiver équilibre, coopération, prospérité.",
+        "description": "La paix se cultive lorsque les forces différentes apprennent à se soutenir plutôt qu'à se neutraliser.",
         "mots_cles": [
           "équilibre",
           "coopération",
@@ -366,7 +366,7 @@
       },
       "negative": {
         "famille": "Complaisance",
-        "description": "Complaisance : relâchement, naïveté, stagnation. Cette lecture invite à reconnaître les risques liés à relâchement, naïveté, stagnation.",
+        "description": "Croire l'harmonie définitivement acquise dispense à tort des gestes qui la maintiennent vivante.",
         "mots_cles": [
           "relâchement",
           "naïveté",
@@ -391,7 +391,7 @@
       "theme": "La stagnation",
       "positive": {
         "famille": "Préservation",
-        "description": "Préservation : recul, intégrité, patience. Cette lecture invite à cultiver recul, intégrité, patience.",
+        "description": "Lorsque rien ne semble avancer, préserver ton intégrité peut être une manière essentielle de préparer le changement.",
         "mots_cles": [
           "recul",
           "intégrité",
@@ -400,7 +400,7 @@
       },
       "negative": {
         "famille": "Blocage",
-        "description": "Blocage : isolement, fermeture, impuissance. Cette lecture invite à reconnaître les risques liés à isolement, fermeture, impuissance.",
+        "description": "Se fermer au monde pour échapper à l'impuissance risque de prolonger le blocage que tu redoutes.",
         "mots_cles": [
           "isolement",
           "fermeture",
@@ -425,7 +425,7 @@
       "theme": "La communauté avec les hommes",
       "positive": {
         "famille": "Fraternité",
-        "description": "Fraternité : ouverture, coopération, solidarité. Cette lecture invite à cultiver ouverture, coopération, solidarité.",
+        "description": "La fraternité commence au-delà du cercle de ceux qui nous ressemblent, dans la reconnaissance d'une humanité commune.",
         "mots_cles": [
           "ouverture",
           "coopération",
@@ -434,7 +434,7 @@
       },
       "negative": {
         "famille": "Clanisme",
-        "description": "Clanisme : exclusion, favoritisme, conformisme. Cette lecture invite à reconnaître les risques liés à exclusion, favoritisme, conformisme.",
+        "description": "La préférence accordée aux siens devient injuste lorsqu'elle prive les autres de leur dignité.",
         "mots_cles": [
           "exclusion",
           "favoritisme",
@@ -459,7 +459,7 @@
       "theme": "Le grand avoir",
       "positive": {
         "famille": "Abondance",
-        "description": "Abondance : générosité, responsabilité, réussite. Cette lecture invite à cultiver générosité, responsabilité, réussite.",
+        "description": "La richesse prend une dimension humaine lorsque ce que tu possèdes devient aussi une possibilité offerte aux autres.",
         "mots_cles": [
           "générosité",
           "responsabilité",
@@ -468,7 +468,7 @@
       },
       "negative": {
         "famille": "Avidité",
-        "description": "Avidité : possession, vanité, gaspillage. Cette lecture invite à reconnaître les risques liés à possession, vanité, gaspillage.",
+        "description": "Accumuler pour affirmer ta valeur risque de te rendre dépendant de ce que tu croyais posséder.",
         "mots_cles": [
           "possession",
           "vanité",
@@ -493,7 +493,7 @@
       "theme": "L'humilité",
       "positive": {
         "famille": "Modestie",
-        "description": "Modestie : simplicité, mesure, respect. Cette lecture invite à cultiver simplicité, mesure, respect.",
+        "description": "L'humilité consiste à reconnaître ta juste place, sans diminuer celle des autres ni renoncer à la tienne.",
         "mots_cles": [
           "simplicité",
           "mesure",
@@ -502,7 +502,7 @@
       },
       "negative": {
         "famille": "Effacement",
-        "description": "Effacement : dévalorisation, soumission, timidité. Cette lecture invite à reconnaître les risques liés à dévalorisation, soumission, timidité.",
+        "description": "Se croire indigne de prendre la parole n'est pas une forme supérieure de modestie.",
         "mots_cles": [
           "dévalorisation",
           "soumission",
@@ -527,7 +527,7 @@
       "theme": "L'enthousiasme",
       "positive": {
         "famille": "Mobilisation",
-        "description": "Mobilisation : joie, inspiration, engagement. Cette lecture invite à cultiver joie, inspiration, engagement.",
+        "description": "La joie devient une force féconde lorsqu'elle inspire un engagement capable de durer au-delà de l'émotion première.",
         "mots_cles": [
           "joie",
           "inspiration",
@@ -536,7 +536,7 @@
       },
       "negative": {
         "famille": "Emballement",
-        "description": "Emballement : illusion, agitation, excès. Cette lecture invite à reconnaître les risques liés à illusion, agitation, excès.",
+        "description": "L'intensité d'un enthousiasme ne garantit ni la justesse de son objet ni la solidité de ses promesses.",
         "mots_cles": [
           "illusion",
           "agitation",
@@ -561,7 +561,7 @@
       "theme": "La suite",
       "positive": {
         "famille": "Adaptation",
-        "description": "Adaptation : écoute, souplesse, confiance. Cette lecture invite à cultiver écoute, souplesse, confiance.",
+        "description": "Suivre le mouvement de la vie demande assez de souplesse pour écouter et assez de confiance pour choisir.",
         "mots_cles": [
           "écoute",
           "souplesse",
@@ -570,7 +570,7 @@
       },
       "negative": {
         "famille": "Suivisme",
-        "description": "Suivisme : dépendance, opportunisme, conformisme. Cette lecture invite à reconnaître les risques liés à dépendance, opportunisme, conformisme.",
+        "description": "Adopter chaque direction proposée par autrui peut te faire oublier les raisons de ton propre cheminement.",
         "mots_cles": [
           "dépendance",
           "opportunisme",
@@ -595,7 +595,7 @@
       "theme": "Le travail sur ce qui est corrompu",
       "positive": {
         "famille": "Réparation",
-        "description": "Réparation : responsabilité, correction, renouvellement. Cette lecture invite à cultiver responsabilité, correction, renouvellement.",
+        "description": "Réparer ce qui a été négligé, c'est reconnaître que le passé nous engage sans nécessairement nous condamner.",
         "mots_cles": [
           "responsabilité",
           "correction",
@@ -604,7 +604,7 @@
       },
       "negative": {
         "famille": "Négligence",
-        "description": "Négligence : dégradation, culpabilité, répétition. Cette lecture invite à reconnaître les risques liés à dégradation, culpabilité, répétition.",
+        "description": "La culpabilité qui ne se transforme pas en responsabilité laisse souvent intactes les causes de la dégradation.",
         "mots_cles": [
           "dégradation",
           "culpabilité",
@@ -629,7 +629,7 @@
       "theme": "L'approche",
       "positive": {
         "famille": "Proximité",
-        "description": "Proximité : bienveillance, disponibilité, accompagnement. Cette lecture invite à cultiver bienveillance, disponibilité, accompagnement.",
+        "description": "Accompagner quelqu'un, c'est rendre ta présence disponible sans décider à sa place du chemin qu'il doit prendre.",
         "mots_cles": [
           "bienveillance",
           "disponibilité",
@@ -638,7 +638,7 @@
       },
       "negative": {
         "famille": "Intrusion",
-        "description": "Intrusion : paternalisme, pression, contrôle. Cette lecture invite à reconnaître les risques liés à paternalisme, pression, contrôle.",
+        "description": "La bienveillance se dénature lorsqu'elle devient une justification du contrôle exercé sur autrui.",
         "mots_cles": [
           "paternalisme",
           "pression",
@@ -663,7 +663,7 @@
       "theme": "La contemplation",
       "positive": {
         "famille": "Observation",
-        "description": "Observation : recul, méditation, lucidité. Cette lecture invite à cultiver recul, méditation, lucidité.",
+        "description": "Contempler, c'est suspendre un instant ses interprétations pour laisser le réel apparaître sous un regard plus libre.",
         "mots_cles": [
           "recul",
           "méditation",
@@ -672,7 +672,7 @@
       },
       "negative": {
         "famille": "Détachement excessif",
-        "description": "Détachement excessif : passivité, jugement, distance. Cette lecture invite à reconnaître les risques liés à passivité, jugement, distance.",
+        "description": "Le recul perd sa fécondité lorsque le jugement à distance remplace toute participation à la vie.",
         "mots_cles": [
           "passivité",
           "jugement",
@@ -697,7 +697,7 @@
       "theme": "Mordre au travers",
       "positive": {
         "famille": "Résolution",
-        "description": "Résolution : justice, décision, fermeté. Cette lecture invite à cultiver justice, décision, fermeté.",
+        "description": "Une décision juste exige parfois de trancher avec fermeté, tout en gardant la mesure de ses conséquences humaines.",
         "mots_cles": [
           "justice",
           "décision",
@@ -706,7 +706,7 @@
       },
       "negative": {
         "famille": "Dureté",
-        "description": "Dureté : punition, brutalité, rigidité. Cette lecture invite à reconnaître les risques liés à punition, brutalité, rigidité.",
+        "description": "La volonté de punir peut faire oublier la justice que l'on prétend défendre.",
         "mots_cles": [
           "punition",
           "brutalité",
@@ -731,7 +731,7 @@
       "theme": "La grâce",
       "positive": {
         "famille": "Beauté",
-        "description": "Beauté : élégance, simplicité, expression. Cette lecture invite à cultiver élégance, simplicité, expression.",
+        "description": "La grâce apparaît lorsque la forme exprime avec simplicité la profondeur de ce qu'elle porte.",
         "mots_cles": [
           "élégance",
           "simplicité",
@@ -740,7 +740,7 @@
       },
       "negative": {
         "famille": "Apparence",
-        "description": "Apparence : vanité, superficialité, artifice. Cette lecture invite à reconnaître les risques liés à vanité, superficialité, artifice.",
+        "description": "À force de soigner l'apparence, tu peux oublier la réalité intérieure qu'elle devait rendre visible.",
         "mots_cles": [
           "vanité",
           "superficialité",
@@ -765,7 +765,7 @@
       "theme": "L'éclatement",
       "positive": {
         "famille": "Dépouillement",
-        "description": "Dépouillement : acceptation, prudence, détachement. Cette lecture invite à cultiver acceptation, prudence, détachement.",
+        "description": "Lorsque certaines choses se défont, le détachement aide à distinguer ce qui disparaît de ce qui demeure essentiel.",
         "mots_cles": [
           "acceptation",
           "prudence",
@@ -774,7 +774,7 @@
       },
       "negative": {
         "famille": "Effondrement",
-        "description": "Effondrement : perte, désespoir, destruction. Cette lecture invite à reconnaître les risques liés à perte, désespoir, destruction.",
+        "description": "La douleur d'une perte peut obscurcir les possibilités qui subsistent sans pour autant les abolir.",
         "mots_cles": [
           "perte",
           "désespoir",
@@ -799,7 +799,7 @@
       "theme": "Le retour",
       "positive": {
         "famille": "Renouveau",
-        "description": "Renouveau : recommencement, réconciliation, cycle. Cette lecture invite à cultiver recommencement, réconciliation, cycle.",
+        "description": "Revenir à l'essentiel n'est pas refaire le passé, mais retrouver en lui de quoi recommencer autrement.",
         "mots_cles": [
           "recommencement",
           "réconciliation",
@@ -808,7 +808,7 @@
       },
       "negative": {
         "famille": "Répétition",
-        "description": "Répétition : rechute, regret, immobilisme. Cette lecture invite à reconnaître les risques liés à rechute, regret, immobilisme.",
+        "description": "Le regret devient une prison lorsqu'il ramène sans cesse aux mêmes gestes sans permettre de les comprendre.",
         "mots_cles": [
           "rechute",
           "regret",
@@ -833,7 +833,7 @@
       "theme": "L'innocence",
       "positive": {
         "famille": "Authenticité",
-        "description": "Authenticité : sincérité, spontanéité, naturel. Cette lecture invite à cultiver sincérité, spontanéité, naturel.",
+        "description": "La sincérité donne à tes actes une simplicité que le calcul ne saurait imiter.",
         "mots_cles": [
           "sincérité",
           "spontanéité",
@@ -842,7 +842,7 @@
       },
       "negative": {
         "famille": "Naïveté",
-        "description": "Naïveté : imprudence, crédulité, aveuglement. Cette lecture invite à reconnaître les risques liés à imprudence, crédulité, aveuglement.",
+        "description": "La spontanéité ne dispense pas d'examiner les intentions et les conséquences de ce que tu accueilles.",
         "mots_cles": [
           "imprudence",
           "crédulité",
@@ -867,7 +867,7 @@
       "theme": "Le pouvoir d'apprivoisement du grand",
       "positive": {
         "famille": "Maîtrise",
-        "description": "Maîtrise : culture, retenue, accumulation. Cette lecture invite à cultiver culture, retenue, accumulation.",
+        "description": "Cultiver ses forces et ses connaissances avec retenue permet de les employer au moment où elles deviennent utiles.",
         "mots_cles": [
           "culture",
           "retenue",
@@ -876,7 +876,7 @@
       },
       "negative": {
         "famille": "Contrôle",
-        "description": "Contrôle : répression, rigidité, accumulation excessive. Cette lecture invite à reconnaître les risques liés à répression, rigidité, accumulation excessive.",
+        "description": "Retenir toute impulsion et accumuler sans jamais transmettre peut transformer la maîtrise en enfermement.",
         "mots_cles": [
           "répression",
           "rigidité",
@@ -901,7 +901,7 @@
       "theme": "Les commissures des lèvres",
       "positive": {
         "famille": "Nourriture",
-        "description": "Nourriture : soin, parole, discernement. Cette lecture invite à cultiver soin, parole, discernement.",
+        "description": "Ce dont tu nourris ton esprit et les paroles que tu offres aux autres façonnent ensemble ta manière d'habiter le monde.",
         "mots_cles": [
           "soin",
           "parole",
@@ -910,7 +910,7 @@
       },
       "negative": {
         "famille": "Excès",
-        "description": "Excès : avidité, dépendance, paroles nuisibles. Cette lecture invite à reconnaître les risques liés à avidité, dépendance, paroles nuisibles.",
+        "description": "L'avidité ne concerne pas seulement ce que tu absorbes, mais aussi les paroles que tu répands sans en mesurer les effets.",
         "mots_cles": [
           "avidité",
           "dépendance",
@@ -935,7 +935,7 @@
       "theme": "La prépondérance du grand",
       "positive": {
         "famille": "Réajustement",
-        "description": "Réajustement : courage, adaptation, décision. Cette lecture invite à cultiver courage, adaptation, décision.",
+        "description": "Lorsque le poids devient excessif, le courage peut consister à modifier la structure qui le supporte plutôt qu'à redoubler d'efforts.",
         "mots_cles": [
           "courage",
           "adaptation",
@@ -944,7 +944,7 @@
       },
       "negative": {
         "famille": "Surcharge",
-        "description": "Surcharge : épuisement, pression, démesure. Cette lecture invite à reconnaître les risques liés à épuisement, pression, démesure.",
+        "description": "Faire de l'épuisement une preuve de valeur risque de détruire ce que ton engagement cherchait à préserver.",
         "mots_cles": [
           "épuisement",
           "pression",
@@ -969,7 +969,7 @@
       "theme": "L'insondable",
       "positive": {
         "famille": "Traversée",
-        "description": "Traversée : courage, constance, confiance. Cette lecture invite à cultiver courage, constance, confiance.",
+        "description": "Traverser l'incertitude demande moins de connaître toutes les profondeurs que de conserver une direction et une confiance lucides.",
         "mots_cles": [
           "courage",
           "constance",
@@ -978,7 +978,7 @@
       },
       "negative": {
         "famille": "Peur",
-        "description": "Peur : angoisse, danger, enfermement. Cette lecture invite à reconnaître les risques liés à angoisse, danger, enfermement.",
+        "description": "La peur peut transformer un danger possible en horizon unique et rendre invisibles les issues encore ouvertes.",
         "mots_cles": [
           "angoisse",
           "danger",
@@ -1003,7 +1003,7 @@
       "theme": "Ce qui s'attache",
       "positive": {
         "famille": "Clarté",
-        "description": "Clarté : lucidité, conscience, inspiration. Cette lecture invite à cultiver lucidité, conscience, inspiration.",
+        "description": "La conscience éclaire ce à quoi tu t'attaches et te permet de distinguer ce qui nourrit ta vie de ce qui la consume.",
         "mots_cles": [
           "lucidité",
           "conscience",
@@ -1012,7 +1012,7 @@
       },
       "negative": {
         "famille": "Aveuglement",
-        "description": "Aveuglement : illusion, dépendance, agitation. Cette lecture invite à reconnaître les risques liés à illusion, dépendance, agitation.",
+        "description": "Une lumière trop fascinante peut aveugler autant que l'obscurité lorsqu'elle interdit de regarder ailleurs.",
         "mots_cles": [
           "illusion",
           "dépendance",
@@ -1037,7 +1037,7 @@
       "theme": "L'influence",
       "positive": {
         "famille": "Réceptivité",
-        "description": "Réceptivité : attirance, écoute, réciprocité. Cette lecture invite à cultiver attirance, écoute, réciprocité.",
+        "description": "Une rencontre véritable transforme chacun sans lui retirer la liberté de répondre à l'influence de l'autre.",
         "mots_cles": [
           "attirance",
           "écoute",
@@ -1046,7 +1046,7 @@
       },
       "negative": {
         "famille": "Manipulation",
-        "description": "Manipulation : séduction, emprise, dépendance. Cette lecture invite à reconnaître les risques liés à séduction, emprise, dépendance.",
+        "description": "La séduction devient emprise lorsque le désir d'être aimé sert à obtenir la soumission d'autrui.",
         "mots_cles": [
           "séduction",
           "emprise",
@@ -1071,7 +1071,7 @@
       "theme": "La durée",
       "positive": {
         "famille": "Constance",
-        "description": "Constance : fidélité, endurance, continuité. Cette lecture invite à cultiver fidélité, endurance, continuité.",
+        "description": "La fidélité à un engagement vivant suppose de le renouveler au fil des changements plutôt que de le répéter mécaniquement.",
         "mots_cles": [
           "fidélité",
           "endurance",
@@ -1080,7 +1080,7 @@
       },
       "negative": {
         "famille": "Routine",
-        "description": "Routine : inertie, obstination, monotonie. Cette lecture invite à reconnaître les risques liés à inertie, obstination, monotonie.",
+        "description": "La continuité devient routine lorsque tu poursuis un geste dont tu n'interroges plus le sens.",
         "mots_cles": [
           "inertie",
           "obstination",
@@ -1105,7 +1105,7 @@
       "theme": "La retraite",
       "positive": {
         "famille": "Recul",
-        "description": "Recul : prudence, discernement, préservation. Cette lecture invite à cultiver prudence, discernement, préservation.",
+        "description": "Se retirer au moment juste peut préserver les forces et la lucidité nécessaires à une action future.",
         "mots_cles": [
           "prudence",
           "discernement",
@@ -1114,7 +1114,7 @@
       },
       "negative": {
         "famille": "Fuite",
-        "description": "Fuite : évitement, peur, abandon. Cette lecture invite à reconnaître les risques liés à évitement, peur, abandon.",
+        "description": "Le retrait devient fuite lorsqu'il sert systématiquement à éviter les responsabilités qui te reviennent.",
         "mots_cles": [
           "évitement",
           "peur",
@@ -1139,7 +1139,7 @@
       "theme": "La puissance du grand",
       "positive": {
         "famille": "Force",
-        "description": "Force : courage, maîtrise, droiture. Cette lecture invite à cultiver courage, maîtrise, droiture.",
+        "description": "La grandeur d'une force se mesure à la droiture avec laquelle elle s'exerce et aux limites qu'elle sait respecter.",
         "mots_cles": [
           "courage",
           "maîtrise",
@@ -1148,7 +1148,7 @@
       },
       "negative": {
         "famille": "Abus",
-        "description": "Abus : domination, brutalité, arrogance. Cette lecture invite à reconnaître les risques liés à domination, brutalité, arrogance.",
+        "description": "La puissance qui exige la faiblesse des autres révèle une incapacité à se maîtriser elle-même.",
         "mots_cles": [
           "domination",
           "brutalité",
@@ -1173,7 +1173,7 @@
       "theme": "Le progrès",
       "positive": {
         "famille": "Avancement",
-        "description": "Avancement : croissance, confiance, reconnaissance. Cette lecture invite à cultiver croissance, confiance, reconnaissance.",
+        "description": "Progresser, c'est élargir ses capacités sans perdre la conscience de ceux qui ont contribué à leur croissance.",
         "mots_cles": [
           "croissance",
           "confiance",
@@ -1182,7 +1182,7 @@
       },
       "negative": {
         "famille": "Ambition excessive",
-        "description": "Ambition excessive : précipitation, vanité, opportunisme. Cette lecture invite à reconnaître les risques liés à précipitation, vanité, opportunisme.",
+        "description": "Chercher à avancer par tous les moyens peut éloigner de la personne que tu souhaitais devenir.",
         "mots_cles": [
           "précipitation",
           "vanité",
@@ -1207,7 +1207,7 @@
       "theme": "L'obscurcissement de la lumière",
       "positive": {
         "famille": "Intégrité",
-        "description": "Intégrité : discrétion, endurance, protection. Cette lecture invite à cultiver discrétion, endurance, protection.",
+        "description": "Lorsque les circonstances obscurcissent ta lumière, la discrétion peut protéger tes convictions sans les éteindre.",
         "mots_cles": [
           "discrétion",
           "endurance",
@@ -1216,7 +1216,7 @@
       },
       "negative": {
         "famille": "Dissimulation",
-        "description": "Dissimulation : peur, désespoir, renoncement. Cette lecture invite à reconnaître les risques liés à peur, désespoir, renoncement.",
+        "description": "À force de dissimuler ce qui compte pour toi par crainte du monde, tu risques de ne plus oser le reconnaître toi-même.",
         "mots_cles": [
           "peur",
           "désespoir",
@@ -1241,7 +1241,7 @@
       "theme": "La famille",
       "positive": {
         "famille": "Responsabilité",
-        "description": "Responsabilité : soin, cohésion, respect. Cette lecture invite à cultiver soin, cohésion, respect.",
+        "description": "Un foyer devient un lieu de croissance lorsque le soin mutuel s'accorde avec le respect de l'autonomie de chacun.",
         "mots_cles": [
           "soin",
           "cohésion",
@@ -1250,7 +1250,7 @@
       },
       "negative": {
         "famille": "Enfermement",
-        "description": "Enfermement : contrôle, dépendance, rigidité. Cette lecture invite à reconnaître les risques liés à contrôle, dépendance, rigidité.",
+        "description": "Les liens familiaux perdent leur chaleur lorsque la fidélité se mesure à l'obéissance plutôt qu'à la confiance.",
         "mots_cles": [
           "contrôle",
           "dépendance",
@@ -1275,7 +1275,7 @@
       "theme": "L'opposition",
       "positive": {
         "famille": "Différence",
-        "description": "Différence : tolérance, autonomie, complémentarité. Cette lecture invite à cultiver tolérance, autonomie, complémentarité.",
+        "description": "La différence n'empêche pas la rencontre : elle peut offrir à chacun un regard que sa propre expérience ne lui donnait pas.",
         "mots_cles": [
           "tolérance",
           "autonomie",
@@ -1284,7 +1284,7 @@
       },
       "negative": {
         "famille": "Division",
-        "description": "Division : hostilité, incompréhension, rejet. Cette lecture invite à reconnaître les risques liés à hostilité, incompréhension, rejet.",
+        "description": "Faire de tout désaccord une menace transforme la diversité des points de vue en séparation des êtres.",
         "mots_cles": [
           "hostilité",
           "incompréhension",
@@ -1309,7 +1309,7 @@
       "theme": "L'obstacle",
       "positive": {
         "famille": "Réorientation",
-        "description": "Réorientation : entraide, recul, adaptation. Cette lecture invite à cultiver entraide, recul, adaptation.",
+        "description": "Un obstacle invite parfois à changer de direction, à demander de l'aide ou à revoir la manière dont tu définis ton but.",
         "mots_cles": [
           "entraide",
           "recul",
@@ -1318,7 +1318,7 @@
       },
       "negative": {
         "famille": "Découragement",
-        "description": "Découragement : blocage, frustration, isolement. Cette lecture invite à reconnaître les risques liés à blocage, frustration, isolement.",
+        "description": "La frustration peut te convaincre qu'aucun chemin n'existe alors que seule une voie particulière est fermée.",
         "mots_cles": [
           "blocage",
           "frustration",
@@ -1343,7 +1343,7 @@
       "theme": "La délivrance",
       "positive": {
         "famille": "Libération",
-        "description": "Libération : pardon, soulagement, résolution. Cette lecture invite à cultiver pardon, soulagement, résolution.",
+        "description": "Se libérer d'un conflit, c'est parfois cesser de porter son poids tout en assumant ce qu'il reste à résoudre.",
         "mots_cles": [
           "pardon",
           "soulagement",
@@ -1352,7 +1352,7 @@
       },
       "negative": {
         "famille": "Relâchement",
-        "description": "Relâchement : négligence, fuite, irresponsabilité. Cette lecture invite à reconnaître les risques liés à négligence, fuite, irresponsabilité.",
+        "description": "Le soulagement immédiat ne suffit pas à réparer ce que la fuite ou la négligence laissent derrière elles.",
         "mots_cles": [
           "négligence",
           "fuite",
@@ -1377,7 +1377,7 @@
       "theme": "La diminution",
       "positive": {
         "famille": "Simplicité",
-        "description": "Simplicité : sobriété, partage, détachement. Cette lecture invite à cultiver sobriété, partage, détachement.",
+        "description": "Choisir la sobriété permet de rendre du temps et de l'attention à ce que l'accumulation avait relégué au second plan.",
         "mots_cles": [
           "sobriété",
           "partage",
@@ -1386,7 +1386,7 @@
       },
       "negative": {
         "famille": "Privation",
-        "description": "Privation : sacrifice, manque, austérité. Cette lecture invite à reconnaître les risques liés à sacrifice, manque, austérité.",
+        "description": "Le renoncement perd sa sagesse lorsqu'il devient une privation imposée sans égard pour les besoins réels.",
         "mots_cles": [
           "sacrifice",
           "manque",
@@ -1411,7 +1411,7 @@
       "theme": "L'augmentation",
       "positive": {
         "famille": "Croissance",
-        "description": "Croissance : générosité, progrès, entraide. Cette lecture invite à cultiver générosité, progrès, entraide.",
+        "description": "La croissance devient féconde lorsque les ressources nouvelles nourrissent aussi les possibilités de ceux qui t'entourent.",
         "mots_cles": [
           "générosité",
           "progrès",
@@ -1420,7 +1420,7 @@
       },
       "negative": {
         "famille": "Démesure",
-        "description": "Démesure : avidité, gaspillage, expansion excessive. Cette lecture invite à reconnaître les risques liés à avidité, gaspillage, expansion excessive.",
+        "description": "Grandir sans interroger ses besoins peut transformer l'abondance en gaspillage et le progrès en démesure.",
         "mots_cles": [
           "avidité",
           "gaspillage",
@@ -1445,7 +1445,7 @@
       "theme": "La percée",
       "positive": {
         "famille": "Décision",
-        "description": "Décision : franchise, courage, résolution. Cette lecture invite à cultiver franchise, courage, résolution.",
+        "description": "Dire clairement ce qui doit changer demande du courage, mais aussi le souci de ne pas humilier ceux auxquels tu t'adresses.",
         "mots_cles": [
           "franchise",
           "courage",
@@ -1454,7 +1454,7 @@
       },
       "negative": {
         "famille": "Intransigeance",
-        "description": "Intransigeance : agressivité, précipitation, exclusion. Cette lecture invite à reconnaître les risques liés à agressivité, précipitation, exclusion.",
+        "description": "La franchise devient violence lorsqu'elle se croit dispensée de toute écoute et de toute mesure.",
         "mots_cles": [
           "agressivité",
           "précipitation",
@@ -1479,7 +1479,7 @@
       "theme": "La rencontre",
       "positive": {
         "famille": "Vigilance",
-        "description": "Vigilance : ouverture, discernement, rencontre. Cette lecture invite à cultiver ouverture, discernement, rencontre.",
+        "description": "Accueillir l'inattendu avec ouverture et discernement permet de découvrir sans abandonner sa liberté de jugement.",
         "mots_cles": [
           "ouverture",
           "discernement",
@@ -1488,7 +1488,7 @@
       },
       "negative": {
         "famille": "Emprise",
-        "description": "Emprise : tentation, manipulation, imprudence. Cette lecture invite à reconnaître les risques liés à tentation, manipulation, imprudence.",
+        "description": "Une rencontre séduisante peut te détourner de tes valeurs si tu confonds l'intensité de l'attirance avec la confiance.",
         "mots_cles": [
           "tentation",
           "manipulation",
@@ -1513,7 +1513,7 @@
       "theme": "Le rassemblement",
       "positive": {
         "famille": "Cohésion",
-        "description": "Cohésion : solidarité, mobilisation, communauté. Cette lecture invite à cultiver solidarité, mobilisation, communauté.",
+        "description": "Un rassemblement prend sa force dans la diversité des personnes qui choisissent de contribuer à une intention commune.",
         "mots_cles": [
           "solidarité",
           "mobilisation",
@@ -1522,7 +1522,7 @@
       },
       "negative": {
         "famille": "Massification",
-        "description": "Massification : conformisme, pression, exclusion. Cette lecture invite à reconnaître les risques liés à conformisme, pression, exclusion.",
+        "description": "La foule devient oppressive lorsque l'unité exige que chacun taise ses différences.",
         "mots_cles": [
           "conformisme",
           "pression",
@@ -1547,7 +1547,7 @@
       "theme": "La poussée vers le haut",
       "positive": {
         "famille": "Ascension",
-        "description": "Ascension : effort, patience, progression. Cette lecture invite à cultiver effort, patience, progression.",
+        "description": "L'ascension la plus solide repose sur des efforts patients dont chaque étape prépare la suivante.",
         "mots_cles": [
           "effort",
           "patience",
@@ -1556,7 +1556,7 @@
       },
       "negative": {
         "famille": "Arrivisme",
-        "description": "Arrivisme : ambition, impatience, rivalité. Cette lecture invite à reconnaître les risques liés à ambition, impatience, rivalité.",
+        "description": "Vouloir s'élever au-dessus des autres peut faire oublier la valeur du chemin et des personnes rencontrées.",
         "mots_cles": [
           "ambition",
           "impatience",
@@ -1581,7 +1581,7 @@
       "theme": "L'accablement",
       "positive": {
         "famille": "Endurance",
-        "description": "Endurance : résilience, intégrité, courage. Cette lecture invite à cultiver résilience, intégrité, courage.",
+        "description": "Dans l'épreuve, préserver ce qui donne sens à tes actes peut constituer une forme discrète de résistance.",
         "mots_cles": [
           "résilience",
           "intégrité",
@@ -1590,7 +1590,7 @@
       },
       "negative": {
         "famille": "Épuisement",
-        "description": "Épuisement : désespoir, oppression, isolement. Cette lecture invite à reconnaître les risques liés à désespoir, oppression, isolement.",
+        "description": "L'accablement peut rétrécir ton horizon ; reconnaître tes limites et accepter un soutien reste une possibilité de mouvement.",
         "mots_cles": [
           "désespoir",
           "oppression",
@@ -1615,7 +1615,7 @@
       "theme": "Le puits",
       "positive": {
         "famille": "Ressource",
-        "description": "Ressource : partage, profondeur, entretien. Cette lecture invite à cultiver partage, profondeur, entretien.",
+        "description": "Comme un puits entretenu, une ressource commune demeure vivante lorsque chacun peut y puiser et contribue à la préserver.",
         "mots_cles": [
           "partage",
           "profondeur",
@@ -1624,7 +1624,7 @@
       },
       "negative": {
         "famille": "Tarissement",
-        "description": "Tarissement : négligence, gaspillage, stagnation. Cette lecture invite à reconnaître les risques liés à négligence, gaspillage, stagnation.",
+        "description": "Ce qui semble inépuisable peut se tarir lorsque l'habitude de recevoir fait oublier le devoir de prendre soin.",
         "mots_cles": [
           "négligence",
           "gaspillage",
@@ -1649,7 +1649,7 @@
       "theme": "La révolution",
       "positive": {
         "famille": "Mutation",
-        "description": "Mutation : renouvellement, réforme, courage. Cette lecture invite à cultiver renouvellement, réforme, courage.",
+        "description": "Changer en profondeur demande de discerner ce qui doit disparaître et ce qui mérite de traverser la transformation.",
         "mots_cles": [
           "renouvellement",
           "réforme",
@@ -1658,7 +1658,7 @@
       },
       "negative": {
         "famille": "Rupture excessive",
-        "description": "Rupture excessive : violence, instabilité, précipitation. Cette lecture invite à reconnaître les risques liés à violence, instabilité, précipitation.",
+        "description": "Détruire dans la précipitation ne garantit pas que ce qui naîtra ensuite sera plus juste.",
         "mots_cles": [
           "violence",
           "instabilité",
@@ -1683,7 +1683,7 @@
       "theme": "Le chaudron",
       "positive": {
         "famille": "Transformation",
-        "description": "Transformation : culture, transmission, maturation. Cette lecture invite à cultiver culture, transmission, maturation.",
+        "description": "La transmission transforme les expériences accumulées en une nourriture dont d'autres peuvent faire leur propre sagesse.",
         "mots_cles": [
           "culture",
           "transmission",
@@ -1692,7 +1692,7 @@
       },
       "negative": {
         "famille": "Corruption",
-        "description": "Corruption : gaspillage, arrogance, dégradation. Cette lecture invite à reconnaître les risques liés à gaspillage, arrogance, dégradation.",
+        "description": "Un héritage se dégrade lorsque ceux qui le reçoivent le traitent comme un privilège plutôt que comme une responsabilité.",
         "mots_cles": [
           "gaspillage",
           "arrogance",
@@ -1717,7 +1717,7 @@
       "theme": "L'ébranlement",
       "positive": {
         "famille": "Éveil",
-        "description": "Éveil : vigilance, renouvellement, courage. Cette lecture invite à cultiver vigilance, renouvellement, courage.",
+        "description": "Un bouleversement peut réveiller l'attention et révéler ce que la tranquillité des habitudes rendait invisible.",
         "mots_cles": [
           "vigilance",
           "renouvellement",
@@ -1726,7 +1726,7 @@
       },
       "negative": {
         "famille": "Panique",
-        "description": "Panique : peur, agitation, sidération. Cette lecture invite à reconnaître les risques liés à peur, agitation, sidération.",
+        "description": "L'agitation née du choc peut multiplier les désordres si elle ne laisse aucune place au discernement.",
         "mots_cles": [
           "peur",
           "agitation",
@@ -1751,7 +1751,7 @@
       "theme": "L'immobilisation",
       "positive": {
         "famille": "Sérénité",
-        "description": "Sérénité : repos, méditation, maîtrise. Cette lecture invite à cultiver repos, méditation, maîtrise.",
+        "description": "L'immobilité choisie offre un espace où les impulsions s'apaisent et où une intention plus claire peut émerger.",
         "mots_cles": [
           "repos",
           "méditation",
@@ -1760,7 +1760,7 @@
       },
       "negative": {
         "famille": "Paralysie",
-        "description": "Paralysie : inertie, rigidité, isolement. Cette lecture invite à reconnaître les risques liés à inertie, rigidité, isolement.",
+        "description": "Le repos devient paralysie lorsque la crainte du changement interdit tout retour au mouvement.",
         "mots_cles": [
           "inertie",
           "rigidité",
@@ -1785,7 +1785,7 @@
       "theme": "Le développement",
       "positive": {
         "famille": "Maturation",
-        "description": "Maturation : patience, progression, stabilité. Cette lecture invite à cultiver patience, progression, stabilité.",
+        "description": "Ce qui mûrit lentement acquiert parfois une stabilité que la précipitation ne saurait produire.",
         "mots_cles": [
           "patience",
           "progression",
@@ -1794,7 +1794,7 @@
       },
       "negative": {
         "famille": "Lenteur subie",
-        "description": "Lenteur subie : frustration, stagnation, hésitation. Cette lecture invite à reconnaître les risques liés à frustration, stagnation, hésitation.",
+        "description": "Respecter le temps de la maturation ne signifie pas laisser l'hésitation décider indéfiniment à ta place.",
         "mots_cles": [
           "frustration",
           "stagnation",
@@ -1819,7 +1819,7 @@
       "theme": "L'épousée",
       "positive": {
         "famille": "Lucidité relationnelle",
-        "description": "Lucidité relationnelle : adaptation, mesure, réalisme. Cette lecture invite à cultiver adaptation, mesure, réalisme.",
+        "description": "Dans une relation, la lucidité consiste à reconnaître les conditions réelles du lien sans renoncer à sa propre dignité.",
         "mots_cles": [
           "adaptation",
           "mesure",
@@ -1828,7 +1828,7 @@
       },
       "negative": {
         "famille": "Subordination",
-        "description": "Subordination : dépendance, illusion, précipitation. Cette lecture invite à reconnaître les risques liés à dépendance, illusion, précipitation.",
+        "description": "L'espoir d'être accepté peut conduire à consentir trop vite à une place qui ne respecte pas tes aspirations.",
         "mots_cles": [
           "dépendance",
           "illusion",
@@ -1853,7 +1853,7 @@
       "theme": "L'abondance",
       "positive": {
         "famille": "Plénitude",
-        "description": "Plénitude : joie, clarté, générosité. Cette lecture invite à cultiver joie, clarté, générosité.",
+        "description": "La plénitude se goûte dans la présence à ce qui est offert, et se prolonge dans la générosité avec laquelle tu le partages.",
         "mots_cles": [
           "joie",
           "clarté",
@@ -1862,7 +1862,7 @@
       },
       "negative": {
         "famille": "Saturation",
-        "description": "Saturation : excès, vanité, gaspillage. Cette lecture invite à reconnaître les risques liés à excès, vanité, gaspillage.",
+        "description": "L'excès de sollicitations peut rendre incapable d'apprécier ce dont on dispose pourtant en abondance.",
         "mots_cles": [
           "excès",
           "vanité",
@@ -1887,7 +1887,7 @@
       "theme": "Le voyageur",
       "positive": {
         "famille": "Exploration",
-        "description": "Exploration : autonomie, prudence, découverte. Cette lecture invite à cultiver autonomie, prudence, découverte.",
+        "description": "Voyager, c'est apprendre à rencontrer l'inconnu avec prudence sans exiger qu'il ressemble à ce que tu as quitté.",
         "mots_cles": [
           "autonomie",
           "prudence",
@@ -1896,7 +1896,7 @@
       },
       "negative": {
         "famille": "Déracinement",
-        "description": "Déracinement : solitude, instabilité, imprudence. Cette lecture invite à reconnaître les risques liés à solitude, instabilité, imprudence.",
+        "description": "La liberté de partir peut devenir déracinement lorsque aucun lien ne reçoit le temps nécessaire pour grandir.",
         "mots_cles": [
           "solitude",
           "instabilité",
@@ -1921,7 +1921,7 @@
       "theme": "Le doux",
       "positive": {
         "famille": "Influence progressive",
-        "description": "Influence progressive : souplesse, persévérance, écoute. Cette lecture invite à cultiver souplesse, persévérance, écoute.",
+        "description": "La douceur agit en profondeur lorsqu'elle associe la persévérance à l'écoute du rythme des autres.",
         "mots_cles": [
           "souplesse",
           "persévérance",
@@ -1930,7 +1930,7 @@
       },
       "negative": {
         "famille": "Indécision",
-        "description": "Indécision : manipulation, hésitation, soumission. Cette lecture invite à reconnaître les risques liés à manipulation, hésitation, soumission.",
+        "description": "La souplesse devient effacement lorsque l'hésitation te conduit à accepter toutes les influences sans les examiner.",
         "mots_cles": [
           "manipulation",
           "hésitation",
@@ -1955,7 +1955,7 @@
       "theme": "Le joyeux",
       "positive": {
         "famille": "Joie",
-        "description": "Joie : partage, dialogue, convivialité. Cette lecture invite à cultiver partage, dialogue, convivialité.",
+        "description": "La joie partagée ouvre un espace où la parole circule librement et où chacun peut se sentir accueilli.",
         "mots_cles": [
           "partage",
           "dialogue",
@@ -1964,7 +1964,7 @@
       },
       "negative": {
         "famille": "Complaisance",
-        "description": "Complaisance : séduction, superficialité, excès. Cette lecture invite à reconnaître les risques liés à séduction, superficialité, excès.",
+        "description": "Chercher à plaire sans jamais exprimer de désaccord risque de réduire la convivialité à une apparence.",
         "mots_cles": [
           "séduction",
           "superficialité",
@@ -1989,7 +1989,7 @@
       "theme": "La dispersion",
       "positive": {
         "famille": "Dissolution",
-        "description": "Dissolution : libération, ouverture, réconciliation. Cette lecture invite à cultiver libération, ouverture, réconciliation.",
+        "description": "Dissoudre les barrières qui séparent permet de retrouver des liens que la peur ou les malentendus avaient distendus.",
         "mots_cles": [
           "libération",
           "ouverture",
@@ -1998,7 +1998,7 @@
       },
       "negative": {
         "famille": "Désagrégation",
-        "description": "Désagrégation : dispersion, confusion, perte de cohésion. Cette lecture invite à reconnaître les risques liés à dispersion, confusion, perte de cohésion.",
+        "description": "Disperser toutes ses forces sans intention commune peut défaire les liens nécessaires à une liberté partagée.",
         "mots_cles": [
           "dispersion",
           "confusion",
@@ -2023,7 +2023,7 @@
       "theme": "La limitation",
       "positive": {
         "famille": "Mesure",
-        "description": "Mesure : limites, discipline, équilibre. Cette lecture invite à cultiver limites, discipline, équilibre.",
+        "description": "Une limite choisie avec discernement donne une forme à la liberté et protège ce qui mérite de durer.",
         "mots_cles": [
           "limites",
           "discipline",
@@ -2032,7 +2032,7 @@
       },
       "negative": {
         "famille": "Restriction",
-        "description": "Restriction : rigidité, frustration, oppression. Cette lecture invite à reconnaître les risques liés à rigidité, frustration, oppression.",
+        "description": "La règle devient oppressive lorsqu'elle demeure inflexible devant les besoins de la vie qu'elle devait organiser.",
         "mots_cles": [
           "rigidité",
           "frustration",
@@ -2057,7 +2057,7 @@
       "theme": "La vérité intérieure",
       "positive": {
         "famille": "Sincérité",
-        "description": "Sincérité : confiance, authenticité, écoute. Cette lecture invite à cultiver confiance, authenticité, écoute.",
+        "description": "La vérité intérieure se découvre dans l'accord patient entre ce que tu ressens, ce que tu dis et ce que tu fais.",
         "mots_cles": [
           "confiance",
           "authenticité",
@@ -2066,7 +2066,7 @@
       },
       "negative": {
         "famille": "Crédulité",
-        "description": "Crédulité : illusion, naïveté, autosuggestion. Cette lecture invite à reconnaître les risques liés à illusion, naïveté, autosuggestion.",
+        "description": "La conviction intime ne constitue pas à elle seule une preuve : la sincérité gagne à rester ouverte à l'examen.",
         "mots_cles": [
           "illusion",
           "naïveté",
@@ -2091,7 +2091,7 @@
       "theme": "La prépondérance du petit",
       "positive": {
         "famille": "Attention",
-        "description": "Attention : modestie, précision, prudence. Cette lecture invite à cultiver modestie, précision, prudence.",
+        "description": "L'attention aux détails donne de la justesse aux gestes modestes dont dépend parfois l'équilibre de l'ensemble.",
         "mots_cles": [
           "modestie",
           "précision",
@@ -2100,7 +2100,7 @@
       },
       "negative": {
         "famille": "Mesquinerie",
-        "description": "Mesquinerie : peur, minutie excessive, inhibition. Cette lecture invite à reconnaître les risques liés à peur, minutie excessive, inhibition.",
+        "description": "La peur de commettre une erreur minuscule peut faire perdre de vue l'essentiel et empêcher toute initiative.",
         "mots_cles": [
           "peur",
           "minutie excessive",
@@ -2125,7 +2125,7 @@
       "theme": "Après l'accomplissement",
       "positive": {
         "famille": "Consolidation",
-        "description": "Consolidation : vigilance, entretien, équilibre. Cette lecture invite à cultiver vigilance, entretien, équilibre.",
+        "description": "Un accomplissement ne clôt pas le travail du soin : il invite à entretenir l'équilibre que les efforts ont rendu possible.",
         "mots_cles": [
           "vigilance",
           "entretien",
@@ -2134,7 +2134,7 @@
       },
       "negative": {
         "famille": "Relâchement",
-        "description": "Relâchement : négligence, complaisance, déclin. Cette lecture invite à reconnaître les risques liés à négligence, complaisance, déclin.",
+        "description": "Prendre la réussite pour une garantie définitive peut laisser se défaire silencieusement ce qui a été construit.",
         "mots_cles": [
           "négligence",
           "complaisance",
@@ -2159,7 +2159,7 @@
       "theme": "Avant l'accomplissement",
       "positive": {
         "famille": "Transition",
-        "description": "Transition : préparation, espoir, discernement. Cette lecture invite à cultiver préparation, espoir, discernement.",
+        "description": "À l'approche d'un passage, l'espoir trouve son appui dans la préparation et la conscience de ce qui reste à accomplir.",
         "mots_cles": [
           "préparation",
           "espoir",
@@ -2168,7 +2168,7 @@
       },
       "negative": {
         "famille": "Précipitation",
-        "description": "Précipitation : inachèvement, confusion, impatience. Cette lecture invite à reconnaître les risques liés à inachèvement, confusion, impatience.",
+        "description": "Confondre la proximité du but avec son accomplissement peut compromettre les derniers gestes dont il dépend.",
         "mots_cles": [
           "inachèvement",
           "confusion",

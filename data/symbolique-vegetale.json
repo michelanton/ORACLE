@@ -18,7 +18,7 @@
       "signification_fondamentale": "Solidité",
       "positive": {
         "famille": "Endurance",
-        "description": "Explorer endurance dans la situation, sans perdre de vue solidité.",
+        "description": "La véritable solidité se construit lorsque les épreuves approfondissent tes racines plutôt que d'affaiblir ta confiance.",
         "mots_cles": [
           "endurance",
           "solidité"
@@ -26,7 +26,7 @@
       },
       "negative": {
         "famille": "Rigidité",
-        "description": "Observer comment rigidité peut entraver ou déséquilibrer solidité.",
+        "description": "À vouloir rester inébranlable, tu risques de confondre la force de tes convictions avec le refus de changer.",
         "mots_cles": [
           "rigidité",
           "solidité"
@@ -43,7 +43,7 @@
       "signification_fondamentale": "Souplesse",
       "positive": {
         "famille": "Adaptation",
-        "description": "Explorer adaptation dans la situation, sans perdre de vue souplesse.",
+        "description": "Comme le saule accompagne le vent, accueille le changement sans renoncer à ton identité.",
         "mots_cles": [
           "adaptation",
           "souplesse"
@@ -51,7 +51,7 @@
       },
       "negative": {
         "famille": "Mélancolie",
-        "description": "Observer comment mélancolie peut entraver ou déséquilibrer souplesse.",
+        "description": "La mélancolie te retient parfois dans le souvenir de ce qui fut, alors que la vie invite à accueillir ce qui devient.",
         "mots_cles": [
           "mélancolie",
           "souplesse"
@@ -68,7 +68,7 @@
       "signification_fondamentale": "Paix",
       "positive": {
         "famille": "Réconciliation",
-        "description": "Explorer réconciliation dans la situation, sans perdre de vue paix.",
+        "description": "La paix commence lorsque le désir de comprendre l'autre devient plus important que celui d'avoir raison.",
         "mots_cles": [
           "réconciliation",
           "paix"
@@ -76,7 +76,7 @@
       },
       "negative": {
         "famille": "Passivité",
-        "description": "Observer comment passivité peut entraver ou déséquilibrer paix.",
+        "description": "Éviter tout conflit ne suffit pas à construire la paix : le silence peut aussi entretenir une injustice.",
         "mots_cles": [
           "passivité",
           "paix"
@@ -93,7 +93,7 @@
       "signification_fondamentale": "Renouveau",
       "positive": {
         "famille": "Régénération",
-        "description": "Explorer régénération dans la situation, sans perdre de vue renouveau.",
+        "description": "Se renouveler, c'est laisser le passé nourrir une existence différente sans en devenir prisonnier.",
         "mots_cles": [
           "régénération",
           "renouveau"
@@ -101,7 +101,7 @@
       },
       "negative": {
         "famille": "Instabilité",
-        "description": "Observer comment instabilité peut entraver ou déséquilibrer renouveau.",
+        "description": "À vouloir sans cesse recommencer, tu risques de ne jamais laisser à tes choix le temps de prendre racine.",
         "mots_cles": [
           "instabilité",
           "renouveau"
@@ -118,7 +118,7 @@
       "signification_fondamentale": "Amour",
       "positive": {
         "famille": "Affection",
-        "description": "Explorer affection dans la situation, sans perdre de vue amour.",
+        "description": "Aimer, c'est prendre soin de la beauté fragile d'un lien sans prétendre posséder celui qui lui donne vie.",
         "mots_cles": [
           "affection",
           "amour"
@@ -126,7 +126,7 @@
       },
       "negative": {
         "famille": "Jalousie",
-        "description": "Observer comment jalousie peut entraver ou déséquilibrer amour.",
+        "description": "La jalousie cherche à retenir ce qui ne peut grandir que librement.",
         "mots_cles": [
           "jalousie",
           "amour"
@@ -143,7 +143,7 @@
       "signification_fondamentale": "Émergence",
       "positive": {
         "famille": "Éveil",
-        "description": "Explorer éveil dans la situation, sans perdre de vue émergence.",
+        "description": "Comme le lotus émerge de la vase, la conscience peut s'élever à partir des expériences les plus troubles.",
         "mots_cles": [
           "éveil",
           "émergence"
@@ -151,7 +151,7 @@
       },
       "negative": {
         "famille": "Idéalisation",
-        "description": "Observer comment idéalisation peut entraver ou déséquilibrer émergence.",
+        "description": "Chercher une pureté idéale peut te détourner de la réalité imparfaite dans laquelle commence tout éveil.",
         "mots_cles": [
           "idéalisation",
           "émergence"
@@ -168,7 +168,7 @@
       "signification_fondamentale": "Attachement",
       "positive": {
         "famille": "Fidélité",
-        "description": "Explorer fidélité dans la situation, sans perdre de vue attachement.",
+        "description": "La fidélité donne sa profondeur à un lien lorsqu'elle demeure un choix plutôt qu'une obligation.",
         "mots_cles": [
           "fidélité",
           "attachement"
@@ -176,7 +176,7 @@
       },
       "negative": {
         "famille": "Dépendance",
-        "description": "Observer comment dépendance peut entraver ou déséquilibrer attachement.",
+        "description": "Un attachement devient une dépendance lorsque la peur de perdre l'autre te conduit à renoncer à toi-même.",
         "mots_cles": [
           "dépendance",
           "attachement"
@@ -193,7 +193,7 @@
       "signification_fondamentale": "Apaisement",
       "positive": {
         "famille": "Sérénité",
-        "description": "Explorer sérénité dans la situation, sans perdre de vue apaisement.",
+        "description": "La sérénité ne naît pas de l'absence de difficultés, mais d'une manière plus paisible de les habiter.",
         "mots_cles": [
           "sérénité",
           "apaisement"
@@ -201,7 +201,7 @@
       },
       "negative": {
         "famille": "Évitement",
-        "description": "Observer comment évitement peut entraver ou déséquilibrer apaisement.",
+        "description": "Rechercher l'apaisement à tout prix peut devenir une façon de fuir les questions qui demandent ton attention.",
         "mots_cles": [
           "évitement",
           "apaisement"
@@ -218,7 +218,7 @@
       "signification_fondamentale": "Défense",
       "positive": {
         "famille": "Protection",
-        "description": "Explorer protection dans la situation, sans perdre de vue défense.",
+        "description": "Poser des limites, c'est reconnaître que le respect de soi est une condition du respect mutuel.",
         "mots_cles": [
           "protection",
           "défense"
@@ -226,7 +226,7 @@
       },
       "negative": {
         "famille": "Irritabilité",
-        "description": "Observer comment irritabilité peut entraver ou déséquilibrer défense.",
+        "description": "Lorsque chaque approche devient une menace, tes défenses risquent de blesser ceux qui souhaitent te rencontrer.",
         "mots_cles": [
           "irritabilité",
           "défense"
@@ -243,7 +243,7 @@
       "signification_fondamentale": "Flexibilité",
       "positive": {
         "famille": "Résilience",
-        "description": "Explorer résilience dans la situation, sans perdre de vue flexibilité.",
+        "description": "La résilience consiste à traverser les épreuves avec assez de souplesse pour retrouver son équilibre sans perdre son intégrité.",
         "mots_cles": [
           "résilience",
           "flexibilité"
@@ -251,7 +251,7 @@
       },
       "negative": {
         "famille": "Effacement",
-        "description": "Observer comment effacement peut entraver ou déséquilibrer flexibilité.",
+        "description": "À force de plier devant les attentes des autres, tu peux oublier la direction dans laquelle tu souhaitais grandir.",
         "mots_cles": [
           "effacement",
           "flexibilité"
@@ -268,7 +268,7 @@
       "signification_fondamentale": "Orientation",
       "positive": {
         "famille": "Optimisme",
-        "description": "Explorer optimisme dans la situation, sans perdre de vue orientation.",
+        "description": "Orienter ton regard vers ce qui nourrit l'espérance ne signifie pas ignorer l'ombre, mais choisir ce qui mérite ton énergie.",
         "mots_cles": [
           "optimisme",
           "orientation"
@@ -276,7 +276,7 @@
       },
       "negative": {
         "famille": "Quête de reconnaissance",
-        "description": "Observer comment quête de reconnaissance peut entraver ou déséquilibrer orientation.",
+        "description": "Lorsque le regard des autres devient ta seule lumière, tu risques de perdre ta propre orientation.",
         "mots_cles": [
           "quête de reconnaissance",
           "orientation"
@@ -293,7 +293,7 @@
       "signification_fondamentale": "Dispersion",
       "positive": {
         "famille": "Liberté",
-        "description": "Explorer liberté dans la situation, sans perdre de vue dispersion.",
+        "description": "La liberté commence parfois lorsque tu acceptes de laisser partir ce que tu ne peux accompagner plus loin.",
         "mots_cles": [
           "liberté",
           "dispersion"
@@ -301,7 +301,7 @@
       },
       "negative": {
         "famille": "Éparpillement",
-        "description": "Observer comment éparpillement peut entraver ou déséquilibrer dispersion.",
+        "description": "Multiplier les directions sans choisir celle qui te correspond disperse tes forces sans enrichir ton chemin.",
         "mots_cles": [
           "éparpillement",
           "dispersion"
@@ -318,7 +318,7 @@
       "signification_fondamentale": "Persistance",
       "positive": {
         "famille": "Endurance",
-        "description": "Explorer endurance dans la situation, sans perdre de vue persistance.",
+        "description": "La persévérance trouve sa noblesse dans la fidélité à un engagement malgré les saisons difficiles.",
         "mots_cles": [
           "endurance",
           "persistance"
@@ -326,7 +326,7 @@
       },
       "negative": {
         "famille": "Obstination",
-        "description": "Observer comment obstination peut entraver ou déséquilibrer persistance.",
+        "description": "L'obstination commence lorsque poursuivre un effort devient plus important que comprendre pourquoi tu le poursuis.",
         "mots_cles": [
           "obstination",
           "persistance"
@@ -343,7 +343,7 @@
       "signification_fondamentale": "Mémoire",
       "positive": {
         "famille": "Recueillement",
-        "description": "Explorer recueillement dans la situation, sans perdre de vue mémoire.",
+        "description": "Le recueillement donne au passé une place dans le présent sans lui abandonner tout l'espace de l'existence.",
         "mots_cles": [
           "recueillement",
           "mémoire"
@@ -351,7 +351,7 @@
       },
       "negative": {
         "famille": "Mélancolie",
-        "description": "Observer comment mélancolie peut entraver ou déséquilibrer mémoire.",
+        "description": "La mémoire devient un refuge douloureux lorsqu'elle ne laisse plus au présent la possibilité de t'émouvoir.",
         "mots_cles": [
           "mélancolie",
           "mémoire"
@@ -368,7 +368,7 @@
       "signification_fondamentale": "Fruit",
       "positive": {
         "famille": "Générosité",
-        "description": "Explorer générosité dans la situation, sans perdre de vue fruit.",
+        "description": "Le fruit de tes efforts acquiert une valeur nouvelle lorsque tu acceptes d'en faire bénéficier les autres.",
         "mots_cles": [
           "générosité",
           "fruit"
@@ -376,7 +376,7 @@
       },
       "negative": {
         "famille": "Tentation",
-        "description": "Observer comment tentation peut entraver ou déséquilibrer fruit.",
+        "description": "Tout ce qui éveille le désir ne nourrit pas nécessairement l'existence : distingue l'attrait de la valeur.",
         "mots_cles": [
           "tentation",
           "fruit"
@@ -393,7 +393,7 @@
       "signification_fondamentale": "Abondance",
       "positive": {
         "famille": "Fécondité",
-        "description": "Explorer fécondité dans la situation, sans perdre de vue abondance.",
+        "description": "L'abondance la plus féconde est celle qui fait naître de nouvelles possibilités autour de toi.",
         "mots_cles": [
           "fécondité",
           "abondance"
@@ -401,7 +401,7 @@
       },
       "negative": {
         "famille": "Excès",
-        "description": "Observer comment excès peut entraver ou déséquilibrer abondance.",
+        "description": "L'excès commence lorsque la recherche du toujours plus t'empêche de reconnaître la richesse de ce qui suffit.",
         "mots_cles": [
           "excès",
           "abondance"
@@ -418,7 +418,7 @@
       "signification_fondamentale": "Lien",
       "positive": {
         "famille": "Partage",
-        "description": "Explorer partage dans la situation, sans perdre de vue lien.",
+        "description": "Les liens humains se fortifient lorsque chacun apporte au partage quelque chose de sa singularité.",
         "mots_cles": [
           "partage",
           "lien"
@@ -426,7 +426,7 @@
       },
       "negative": {
         "famille": "Dépendance",
-        "description": "Observer comment dépendance peut entraver ou déséquilibrer lien.",
+        "description": "Un lien perd sa fécondité lorsque le besoin de l'autre remplace la liberté de cheminer à ses côtés.",
         "mots_cles": [
           "dépendance",
           "lien"
@@ -443,7 +443,7 @@
       "signification_fondamentale": "Victoire",
       "positive": {
         "famille": "Reconnaissance",
-        "description": "Explorer reconnaissance dans la situation, sans perdre de vue victoire.",
+        "description": "La plus belle reconnaissance honore le chemin parcouru autant que la victoire obtenue.",
         "mots_cles": [
           "reconnaissance",
           "victoire"
@@ -451,7 +451,7 @@
       },
       "negative": {
         "famille": "Vanité",
-        "description": "Observer comment vanité peut entraver ou déséquilibrer victoire.",
+        "description": "Lorsque la victoire devient un moyen de te croire supérieur, elle perd une part de son enseignement.",
         "mots_cles": [
           "vanité",
           "victoire"
@@ -468,7 +468,7 @@
       "signification_fondamentale": "Fraîcheur",
       "positive": {
         "famille": "Vitalité",
-        "description": "Explorer vitalité dans la situation, sans perdre de vue fraîcheur.",
+        "description": "Retrouver un regard neuf sur les choses familières permet de renouveler la vitalité du quotidien.",
         "mots_cles": [
           "vitalité",
           "fraîcheur"
@@ -476,7 +476,7 @@
       },
       "negative": {
         "famille": "Agitation",
-        "description": "Observer comment agitation peut entraver ou déséquilibrer fraîcheur.",
+        "description": "L'agitation épuise parfois l'énergie que tu cherchais à retrouver en multipliant les stimulations.",
         "mots_cles": [
           "agitation",
           "fraîcheur"
@@ -493,7 +493,7 @@
       "signification_fondamentale": "Robustesse",
       "positive": {
         "famille": "Courage",
-        "description": "Explorer courage dans la situation, sans perdre de vue robustesse.",
+        "description": "Le courage consiste à faire vivre ses valeurs au milieu des difficultés.",
         "mots_cles": [
           "courage",
           "robustesse"
@@ -501,7 +501,7 @@
       },
       "negative": {
         "famille": "Sévérité",
-        "description": "Observer comment sévérité peut entraver ou déséquilibrer robustesse.",
+        "description": "La robustesse intérieure ne demande pas de traiter avec sévérité les fragilités humaines, y compris les tiennes.",
         "mots_cles": [
           "sévérité",
           "robustesse"
@@ -518,7 +518,7 @@
       "signification_fondamentale": "Souvenir",
       "positive": {
         "famille": "Fidélité",
-        "description": "Explorer fidélité dans la situation, sans perdre de vue souvenir.",
+        "description": "Être fidèle à un souvenir, c'est prolonger ce qu'il t'a transmis dans ta manière de vivre aujourd'hui.",
         "mots_cles": [
           "fidélité",
           "souvenir"
@@ -526,7 +526,7 @@
       },
       "negative": {
         "famille": "Nostalgie",
-        "description": "Observer comment nostalgie peut entraver ou déséquilibrer souvenir.",
+        "description": "La nostalgie idéalise parfois le passé au point de rendre invisibles les richesses du présent.",
         "mots_cles": [
           "nostalgie",
           "souvenir"
@@ -543,7 +543,7 @@
       "signification_fondamentale": "Discernement",
       "positive": {
         "famille": "Sagesse",
-        "description": "Explorer sagesse dans la situation, sans perdre de vue discernement.",
+        "description": "La sagesse consiste moins à posséder des réponses qu'à discerner les questions qui méritent d'être approfondies.",
         "mots_cles": [
           "sagesse",
           "discernement"
@@ -551,7 +551,7 @@
       },
       "negative": {
         "famille": "Dogmatisme",
-        "description": "Observer comment dogmatisme peut entraver ou déséquilibrer discernement.",
+        "description": "Une conviction cesse d'éclairer l'esprit lorsqu'elle interdit d'écouter ce qui pourrait la remettre en question.",
         "mots_cles": [
           "dogmatisme",
           "discernement"
@@ -568,7 +568,7 @@
       "signification_fondamentale": "Printemps",
       "positive": {
         "famille": "Espoir",
-        "description": "Explorer espoir dans la situation, sans perdre de vue printemps.",
+        "description": "L'espoir ressemble aux premières fleurs du printemps : sa fragilité n'enlève rien à sa capacité d'évoquer un renouveau.",
         "mots_cles": [
           "espoir",
           "printemps"
@@ -576,7 +576,7 @@
       },
       "negative": {
         "famille": "Fragilité",
-        "description": "Observer comment fragilité peut entraver ou déséquilibrer printemps.",
+        "description": "Si ton espérance repose uniquement sur des circonstances favorables, le moindre revers peut ébranler ton élan.",
         "mots_cles": [
           "fragilité",
           "printemps"
@@ -593,7 +593,7 @@
       "signification_fondamentale": "Message",
       "positive": {
         "famille": "Communication",
-        "description": "Explorer communication dans la situation, sans perdre de vue message.",
+        "description": "Communiquer véritablement, c'est rendre son monde intérieur accessible sans oublier d'accueillir celui de l'autre.",
         "mots_cles": [
           "communication",
           "message"
@@ -601,7 +601,7 @@
       },
       "negative": {
         "famille": "Ambiguïté",
-        "description": "Observer comment ambiguïté peut entraver ou déséquilibrer message.",
+        "description": "Les paroles ambiguës laissent parfois à l'autre le poids d'interpréter ce que tu n'oses pas exprimer clairement.",
         "mots_cles": [
           "ambiguïté",
           "message"
@@ -618,7 +618,7 @@
       "signification_fondamentale": "Éphémère",
       "positive": {
         "famille": "Présence",
-        "description": "Explorer présence dans la situation, sans perdre de vue éphémère.",
+        "description": "La brièveté d'un instant ne diminue pas sa beauté ; elle invite à lui accorder toute ta présence.",
         "mots_cles": [
           "présence",
           "éphémère"
@@ -626,7 +626,7 @@
       },
       "negative": {
         "famille": "Oubli",
-        "description": "Observer comment oubli peut entraver ou déséquilibrer éphémère.",
+        "description": "Reconnaître que tout passe ne signifie pas oublier les engagements qui donnent une continuité à ton existence.",
         "mots_cles": [
           "oubli",
           "éphémère"
@@ -643,7 +643,7 @@
       "signification_fondamentale": "Déploiement",
       "positive": {
         "famille": "Croissance",
-        "description": "Explorer croissance dans la situation, sans perdre de vue déploiement.",
+        "description": "Comme une fronde qui se déroule progressivement, ton potentiel se révèle lorsque tu respectes le rythme de ta croissance.",
         "mots_cles": [
           "croissance",
           "déploiement"
@@ -651,7 +651,7 @@
       },
       "negative": {
         "famille": "Repli",
-        "description": "Observer comment repli peut entraver ou déséquilibrer déploiement.",
+        "description": "Le repli offre parfois un refuge, mais y demeurer trop longtemps limite les possibilités de déployer ce qui vit en toi.",
         "mots_cles": [
           "repli",
           "déploiement"
@@ -668,7 +668,7 @@
       "signification_fondamentale": "Discrétion",
       "positive": {
         "famille": "Adaptation",
-        "description": "Explorer adaptation dans la situation, sans perdre de vue discrétion.",
+        "description": "La discrétion possède sa propre force : il est possible de grandir sans chercher à occuper tout l'espace.",
         "mots_cles": [
           "adaptation",
           "discrétion"
@@ -676,7 +676,7 @@
       },
       "negative": {
         "famille": "Effacement",
-        "description": "Observer comment effacement peut entraver ou déséquilibrer discrétion.",
+        "description": "Ne confonds pas l'humilité avec l'effacement de tes besoins et de ta singularité.",
         "mots_cles": [
           "effacement",
           "discrétion"
@@ -693,7 +693,7 @@
       "signification_fondamentale": "Survie",
       "positive": {
         "famille": "Autonomie",
-        "description": "Explorer autonomie dans la situation, sans perdre de vue survie.",
+        "description": "L'autonomie consiste à découvrir en toi les ressources nécessaires pour traverser les périodes où le soutien extérieur se fait rare.",
         "mots_cles": [
           "autonomie",
           "survie"
@@ -701,7 +701,7 @@
       },
       "negative": {
         "famille": "Distance",
-        "description": "Observer comment distance peut entraver ou déséquilibrer survie.",
+        "description": "Les protections qui t'ont permis de survivre peuvent devenir des barrières lorsque tu n'oses plus accueillir la proximité.",
         "mots_cles": [
           "distance",
           "survie"
@@ -718,7 +718,7 @@
       "signification_fondamentale": "Récolte",
       "positive": {
         "famille": "Prévoyance",
-        "description": "Explorer prévoyance dans la situation, sans perdre de vue récolte.",
+        "description": "La récolte rappelle que les gestes accomplis aujourd'hui préparent des possibilités dont tu ne percevras peut-être la valeur que demain.",
         "mots_cles": [
           "prévoyance",
           "récolte"
@@ -726,7 +726,7 @@
       },
       "negative": {
         "famille": "Accumulation",
-        "description": "Observer comment accumulation peut entraver ou déséquilibrer récolte.",
+        "description": "Accumuler par peur de manquer peut te faire oublier que les ressources trouvent aussi leur sens dans l'usage et le partage.",
         "mots_cles": [
           "accumulation",
           "récolte"
@@ -743,7 +743,7 @@
       "signification_fondamentale": "Protection",
       "positive": {
         "famille": "Générosité",
-        "description": "Explorer générosité dans la situation, sans perdre de vue protection.",
+        "description": "La générosité consiste à offrir un abri sans enfermer celui qui en bénéficie dans une dette.",
         "mots_cles": [
           "générosité",
           "protection"
@@ -751,7 +751,7 @@
       },
       "negative": {
         "famille": "Fermeture",
-        "description": "Observer comment fermeture peut entraver ou déséquilibrer protection.",
+        "description": "À vouloir protéger tout ce qui t'est précieux, tu risques de fermer la porte aux rencontres qui pourraient enrichir ton existence.",
         "mots_cles": [
           "fermeture",
           "protection"
