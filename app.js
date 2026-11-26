@@ -84,15 +84,13 @@ function persist(next){try{localStorage.setItem(key,JSON.stringify(next));favori
 // Reconstruit la liste des favoris avec leur date, leurs messages et un bouton de suppression.
 function renderSaved(){$('saved').replaceChildren();if(!favorites.length)$('saved').append(el('p','Aucun tirage enregistré.'));favorites.forEach((f,i)=>{const wrap=document.createElement('section');wrap.append(el('h2',new Date(f.date).toLocaleString('fr-FR')),...f.draw.map(card));const b=el('button','Supprimer ce tirage');b.onclick=()=>{if(persist(favorites.filter((_,j)=>j!==i)))renderSaved();};wrap.append(b);$('saved').append(wrap);});}
 // Textes explicatifs associés aux trois modes de consultation.
-// Invitation fixe à la méditation, affichée avant les résultats du tirage croisé.
-const texteMeditation="Prends le temps de la réflexion et de la méditation. Ne cherche pas une réponse immédiate, mais laisse ces trois messages résonner en toi. Leur sens se révèle dans les liens que tu établis avec ton propre chemin de vie. Ils ne prédisent pas ton avenir, mais t'invitent à mieux comprendre celui que tu construis.";
 const intros={simple:'Un symbole et une polarité au hasard.',croise:'Trois traditions : d’où tu viens, le présent et où tu vas.'};
 // Affiche ou masque explicitement le texte, même si une règle CSS impose son affichage.
 function afficherInvitation(visible){const invitation=$('invitation-reflexion');if(!invitation)return;invitation.hidden=!visible;if(visible)invitation.style.removeProperty('display');else invitation.style.setProperty('display','none','important');}
 // Efface le tirage précédent et masque le bouton de sauvegarde lors du changement de mode.
 function reset(){afficherInvitation(true);$('intro').textContent=intros[$('mode').value];$('results').replaceChildren();current=[];$('save').hidden=true;}
 // Événements de consultation : changement de mode, lancement du tirage, affichage des résultats et gestion des erreurs.
-$('mode').onchange=reset;reset();$('draw').onclick=()=>{try{current=makeDraw(data,$('mode').value);$('results').replaceChildren(...current.map(card));if($('mode').value==='croise')$('results').prepend(el('p',texteMeditation,'meta'));// Masque l’invitation uniquement après un tirage réussi.
+$('mode').onchange=reset;reset();$('draw').onclick=()=>{try{current=makeDraw(data,$('mode').value);$('results').replaceChildren(...current.map(card));// Masque l’invitation uniquement après un tirage réussi.
 afficherInvitation(false);$('save').hidden=false;$('save').disabled=false;$('status').textContent='';}catch(e){$('status').textContent='Erreur de tirage : '+e.message;console.error(e);}};
 // Ajoute le tirage courant aux favoris avec sa date et désactive le bouton pour éviter un double enregistrement.
 $('save').onclick=()=>{if(current.length&&persist([{date:Date.now(),draw:current},...favorites])){$('save').disabled=true;$('status').textContent='Tirage enregistré.';}};

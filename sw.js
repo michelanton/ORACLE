@@ -1,5 +1,5 @@
 // Nom du cache de cette version. À changer lors d’une publication modifiant les ressources pour renouveler le cache.
-const CACHE='oracle-universel-v1.16-invitation';
+const CACHE='oracle-universel-v1.17-invitation';
 // Ressources indispensables à l’interface, au manifeste PWA et au catalogue JSON.
 const FILES=['./','./index.html','./style.css','./app.js','./manifest.json','./data/index.json','./icons/icon-192.png','./icons/icon-512.png'];
 // Installation : attend la mise en cache des ressources avant de rendre le service worker disponible.
