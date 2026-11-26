@@ -1,0 +1,403 @@
+{
+  "version": "1.5",
+  "tradition": "Mythologie grecque",
+  "references": [
+    {
+      "tradition": "Mythologie grecque",
+      "nombre_symboles": 15,
+      "source": "Synthèse éditoriale originale ; sources historiques à compléter"
+    }
+  ],
+  "symboles": [
+    {
+      "tradition": "Mythologie grecque",
+      "id": "Mythologie grecque:zeus",
+      "titre": "Zeus",
+      "symbole": "Zeus",
+      "theme": "Souveraineté",
+      "signification_fondamentale": "Souveraineté",
+      "positive": {
+        "famille": "Justice",
+        "description": "La véritable autorité ne se mesure pas au pouvoir que tu exerces, mais à la justice avec laquelle tu l’emploies.",
+        "mots_cles": [
+          "justice",
+          "souveraineté"
+        ]
+      },
+      "negative": {
+        "famille": "Autoritarisme",
+        "description": "Le pouvoir perd sa légitimité lorsque le désir d’imposer sa volonté l’emporte sur le respect de la liberté des autres.",
+        "mots_cles": [
+          "autoritarisme",
+          "souveraineté"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Roi des dieux, il gouverne le ciel et la foudre."
+    },
+    {
+      "tradition": "Mythologie grecque",
+      "id": "Mythologie grecque:hera",
+      "titre": "Héra",
+      "symbole": "Héra",
+      "theme": "Mariage",
+      "signification_fondamentale": "Mariage",
+      "positive": {
+        "famille": "Engagement",
+        "description": "Un engagement durable se construit chaque jour dans la confiance, le respect et la volonté de grandir ensemble.",
+        "mots_cles": [
+          "engagement",
+          "mariage"
+        ]
+      },
+      "negative": {
+        "famille": "Jalousie",
+        "description": "La jalousie fragilise les liens qu’elle prétend protéger lorsqu’elle substitue le besoin de contrôler à la confiance.",
+        "mots_cles": [
+          "jalousie",
+          "mariage"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Épouse de Zeus, elle protège le mariage."
+    },
+    {
+      "tradition": "Mythologie grecque",
+      "id": "Mythologie grecque:poseidon",
+      "titre": "Poséidon",
+      "symbole": "Poséidon",
+      "theme": "Mer",
+      "signification_fondamentale": "Mer",
+      "positive": {
+        "famille": "Adaptabilité",
+        "description": "Comme le navigateur qui compose avec les mouvements de la mer, apprends à adapter tes décisions aux circonstances sans perdre ton cap.",
+        "mots_cles": [
+          "adaptabilité",
+          "mer"
+        ]
+      },
+      "negative": {
+        "famille": "Colère",
+        "description": "La colère ressemble à une mer agitée : lorsqu’elle gouverne tes décisions, elle trouble ta capacité à distinguer les obstacles des chemins possibles.",
+        "mots_cles": [
+          "colère",
+          "mer"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Dieu des mers et des séismes, il porte le trident."
+    },
+    {
+      "tradition": "Mythologie grecque",
+      "id": "Mythologie grecque:athena",
+      "titre": "Athéna",
+      "symbole": "Athéna",
+      "theme": "Stratégie",
+      "signification_fondamentale": "Stratégie",
+      "positive": {
+        "famille": "Sagesse",
+        "description": "La sagesse consiste à choisir une stratégie qui tient compte autant des conséquences humaines que du résultat recherché.",
+        "mots_cles": [
+          "sagesse",
+          "stratégie"
+        ]
+      },
+      "negative": {
+        "famille": "Froideur",
+        "description": "Une stratégie guidée uniquement par le calcul risque de sacrifier la richesse des relations humaines à la seule efficacité.",
+        "mots_cles": [
+          "froideur",
+          "stratégie"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Déesse de la sagesse et de la guerre stratégique, elle protège Athènes."
+    },
+    {
+      "tradition": "Mythologie grecque",
+      "id": "Mythologie grecque:apollon",
+      "titre": "Apollon",
+      "symbole": "Apollon",
+      "theme": "Harmonie",
+      "signification_fondamentale": "Harmonie",
+      "positive": {
+        "famille": "Clarté",
+        "description": "L’harmonie intérieure grandit lorsque tes pensées, tes paroles et tes actes s’accordent avec ce que tu reconnais comme essentiel.",
+        "mots_cles": [
+          "clarté",
+          "harmonie"
+        ]
+      },
+      "negative": {
+        "famille": "Orgueil",
+        "description": "L’orgueil trouble l’harmonie lorsque le désir de briller t’empêche de reconnaître la valeur des autres.",
+        "mots_cles": [
+          "orgueil",
+          "harmonie"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Dieu des arts, de la prophétie et de la guérison."
+    },
+    {
+      "tradition": "Mythologie grecque",
+      "id": "Mythologie grecque:artemis",
+      "titre": "Artémis",
+      "symbole": "Artémis",
+      "theme": "Indépendance",
+      "signification_fondamentale": "Indépendance",
+      "positive": {
+        "famille": "Liberté",
+        "description": "La liberté véritable consiste à choisir ton propre chemin sans laisser le regard des autres définir ton existence.",
+        "mots_cles": [
+          "liberté",
+          "indépendance"
+        ]
+      },
+      "negative": {
+        "famille": "Isolement",
+        "description": "L’indépendance devient isolement lorsque le besoin de ne dépendre de personne t’empêche d’accueillir la présence des autres.",
+        "mots_cles": [
+          "isolement",
+          "indépendance"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Déesse de la chasse et des espaces sauvages."
+    },
+    {
+      "tradition": "Mythologie grecque",
+      "id": "Mythologie grecque:aphrodite",
+      "titre": "Aphrodite",
+      "symbole": "Aphrodite",
+      "theme": "Amour",
+      "signification_fondamentale": "Amour",
+      "positive": {
+        "famille": "Séduction",
+        "description": "La séduction prend une dimension profonde lorsqu’elle ouvre la voie à une rencontre sincère plutôt qu’à la seule fascination des apparences.",
+        "mots_cles": [
+          "séduction",
+          "amour"
+        ]
+      },
+      "negative": {
+        "famille": "Vanité",
+        "description": "La vanité appauvrit l’amour lorsque le désir d’être admiré devient plus important que celui de connaître et d’aimer l’autre.",
+        "mots_cles": [
+          "vanité",
+          "amour"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Déesse de l'amour et de la beauté."
+    },
+    {
+      "tradition": "Mythologie grecque",
+      "id": "Mythologie grecque:ares",
+      "titre": "Arès",
+      "symbole": "Arès",
+      "theme": "Combat",
+      "signification_fondamentale": "Combat",
+      "positive": {
+        "famille": "Courage",
+        "description": "Le courage ne consiste pas à rechercher le combat, mais à savoir défendre ce qui mérite de l’être malgré la difficulté.",
+        "mots_cles": [
+          "courage",
+          "combat"
+        ]
+      },
+      "negative": {
+        "famille": "Violence",
+        "description": "La violence peut donner l’illusion de la victoire tout en détruisant ce que le combat devait préserver.",
+        "mots_cles": [
+          "violence",
+          "combat"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Dieu de la guerre dans sa dimension conflictuelle."
+    },
+    {
+      "tradition": "Mythologie grecque",
+      "id": "Mythologie grecque:hermes",
+      "titre": "Hermès",
+      "symbole": "Hermès",
+      "theme": "Échange",
+      "signification_fondamentale": "Échange",
+      "positive": {
+        "famille": "Ingéniosité",
+        "description": "L’ingéniosité enrichit les échanges lorsqu’elle permet de rapprocher des points de vue que tout semblait opposer.",
+        "mots_cles": [
+          "ingéniosité",
+          "échange"
+        ]
+      },
+      "negative": {
+        "famille": "Tromperie",
+        "description": "La tromperie peut procurer un avantage immédiat, mais elle détruit la confiance qui donne aux échanges leur véritable valeur.",
+        "mots_cles": [
+          "tromperie",
+          "échange"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Messager des dieux, il protège voyageurs et échanges."
+    },
+    {
+      "tradition": "Mythologie grecque",
+      "id": "Mythologie grecque:hephaistos",
+      "titre": "Héphaïstos",
+      "symbole": "Héphaïstos",
+      "theme": "Artisanat",
+      "signification_fondamentale": "Artisanat",
+      "positive": {
+        "famille": "Inventivité",
+        "description": "L’inventivité de l’artisan révèle que la matière la plus ordinaire peut prendre une valeur nouvelle grâce à la patience et au savoir-faire.",
+        "mots_cles": [
+          "inventivité",
+          "artisanat"
+        ]
+      },
+      "negative": {
+        "famille": "Amertume",
+        "description": "L’amertume risque de détourner ton énergie créatrice vers le ressentiment plutôt que vers la construction de ce qui te tient à cœur.",
+        "mots_cles": [
+          "amertume",
+          "artisanat"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Dieu de la forge et du travail des métaux."
+    },
+    {
+      "tradition": "Mythologie grecque",
+      "id": "Mythologie grecque:demeter",
+      "titre": "Déméter",
+      "symbole": "Déméter",
+      "theme": "Moisson",
+      "signification_fondamentale": "Moisson",
+      "positive": {
+        "famille": "Soin",
+        "description": "Comme une moisson dépend du soin apporté à la terre, ce que tu souhaites voir grandir demande de l’attention, de la patience et du temps.",
+        "mots_cles": [
+          "soin",
+          "moisson"
+        ]
+      },
+      "negative": {
+        "famille": "Surprotection",
+        "description": "À vouloir protéger chaque pousse des incertitudes de la vie, tu risques de l’empêcher de développer ses propres racines.",
+        "mots_cles": [
+          "surprotection",
+          "moisson"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Déesse des récoltes, elle recherche sa fille Perséphone."
+    },
+    {
+      "tradition": "Mythologie grecque",
+      "id": "Mythologie grecque:dionysos",
+      "titre": "Dionysos",
+      "symbole": "Dionysos",
+      "theme": "Extase",
+      "signification_fondamentale": "Extase",
+      "positive": {
+        "famille": "Libération",
+        "description": "La joie de vivre se révèle parfois lorsque tu relâches le besoin de tout maîtriser et accueilles pleinement l’intensité du présent.",
+        "mots_cles": [
+          "libération",
+          "extase"
+        ]
+      },
+      "negative": {
+        "famille": "Excès",
+        "description": "La recherche de l’extase devient une entrave à la liberté lorsque l’excès te fait perdre la maîtrise de tes choix.",
+        "mots_cles": [
+          "excès",
+          "extase"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Dieu du vin, du théâtre et de l'extase."
+    },
+    {
+      "tradition": "Mythologie grecque",
+      "id": "Mythologie grecque:hades",
+      "titre": "Hadès",
+      "symbole": "Hadès",
+      "theme": "Monde souterrain",
+      "signification_fondamentale": "Monde souterrain",
+      "positive": {
+        "famille": "Acceptation",
+        "description": "Accepter les fins et explorer les parts obscures de ton existence peut t’aider à comprendre la valeur de ce qui demeure.",
+        "mots_cles": [
+          "acceptation",
+          "monde souterrain"
+        ]
+      },
+      "negative": {
+        "famille": "Enfermement",
+        "description": "À demeurer enfermé dans les ombres du passé, tu risques de ne plus percevoir les possibilités que le présent t’offre.",
+        "mots_cles": [
+          "enfermement",
+          "monde souterrain"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Il règne sur le royaume des morts."
+    },
+    {
+      "tradition": "Mythologie grecque",
+      "id": "Mythologie grecque:persephone",
+      "titre": "Perséphone",
+      "symbole": "Perséphone",
+      "theme": "Cycle",
+      "signification_fondamentale": "Cycle",
+      "positive": {
+        "famille": "Renouveau",
+        "description": "Chaque cycle de l’existence rappelle que les périodes de retrait peuvent préparer un renouveau, sans que rien ne demeure éternellement identique.",
+        "mots_cles": [
+          "renouveau",
+          "cycle"
+        ]
+      },
+      "negative": {
+        "famille": "Dépendance",
+        "description": "La dépendance peut te retenir dans des cycles répétitifs lorsque tes choix reposent uniquement sur la volonté ou la présence des autres.",
+        "mots_cles": [
+          "dépendance",
+          "cycle"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Elle partage son temps entre les enfers et le monde des vivants."
+    },
+    {
+      "tradition": "Mythologie grecque",
+      "id": "Mythologie grecque:hestia",
+      "titre": "Hestia",
+      "symbole": "Hestia",
+      "theme": "Foyer",
+      "signification_fondamentale": "Foyer",
+      "positive": {
+        "famille": "Sérénité",
+        "description": "La sérénité se cultive dans la chaleur des liens sincères et dans l’attention portée aux gestes simples qui font d’un lieu un foyer.",
+        "mots_cles": [
+          "sérénité",
+          "foyer"
+        ]
+      },
+      "negative": {
+        "famille": "Repli",
+        "description": "Le foyer cesse d’être un refuge lorsqu’il devient un moyen de se soustraire au monde et aux rencontres qui pourraient enrichir ton existence.",
+        "mots_cles": [
+          "repli",
+          "foyer"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Déesse du feu domestique et du foyer."
+    }
+  ]
+}

@@ -1,0 +1,1813 @@
+{
+  "version": "1.5",
+  "tradition": "Ba Zi — cycle sexagésimal",
+  "references": [
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "nombre_symboles": 60,
+      "source": "Nomenclature traditionnelle ; interprétations éditoriales, vérification documentaire à compléter"
+    }
+  ],
+  "symboles": [
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:rat-bois",
+      "titre": "Rat — Bois",
+      "symbole": "Rat — Bois",
+      "theme": "Ingéniosité",
+      "signification_fondamentale": "Ingéniosité",
+      "positive": {
+        "famille": "Croissance",
+        "description": "Associer ingéniosité et croissance pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "croissance",
+          "ingéniosité"
+        ]
+      },
+      "negative": {
+        "famille": "Expansion excessive",
+        "description": "Veiller à ce que ingéniosité ne se transforme pas en expansion excessive.",
+        "mots_cles": [
+          "expansion excessive",
+          "ingéniosité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 1,
+      "tronc": "Jia",
+      "branche": "Zi",
+      "polarite": "Yang",
+      "phase": "Bois"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:buffle-bois",
+      "titre": "Buffle — Bois",
+      "symbole": "Buffle — Bois",
+      "theme": "Persévérance",
+      "signification_fondamentale": "Persévérance",
+      "positive": {
+        "famille": "Croissance",
+        "description": "Associer persévérance et croissance pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "croissance",
+          "persévérance"
+        ]
+      },
+      "negative": {
+        "famille": "Expansion excessive",
+        "description": "Veiller à ce que persévérance ne se transforme pas en expansion excessive.",
+        "mots_cles": [
+          "expansion excessive",
+          "persévérance"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 2,
+      "tronc": "Yi",
+      "branche": "Chou",
+      "polarite": "Yin",
+      "phase": "Bois"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:tigre-feu",
+      "titre": "Tigre — Feu",
+      "symbole": "Tigre — Feu",
+      "theme": "Audace",
+      "signification_fondamentale": "Audace",
+      "positive": {
+        "famille": "Enthousiasme",
+        "description": "Associer audace et enthousiasme pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "enthousiasme",
+          "audace"
+        ]
+      },
+      "negative": {
+        "famille": "Impulsivité",
+        "description": "Veiller à ce que audace ne se transforme pas en impulsivité.",
+        "mots_cles": [
+          "impulsivité",
+          "audace"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 3,
+      "tronc": "Bing",
+      "branche": "Yin",
+      "polarite": "Yang",
+      "phase": "Feu"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:lapin-feu",
+      "titre": "Lapin — Feu",
+      "symbole": "Lapin — Feu",
+      "theme": "Diplomatie",
+      "signification_fondamentale": "Diplomatie",
+      "positive": {
+        "famille": "Enthousiasme",
+        "description": "Associer diplomatie et enthousiasme pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "enthousiasme",
+          "diplomatie"
+        ]
+      },
+      "negative": {
+        "famille": "Impulsivité",
+        "description": "Veiller à ce que diplomatie ne se transforme pas en impulsivité.",
+        "mots_cles": [
+          "impulsivité",
+          "diplomatie"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 4,
+      "tronc": "Ding",
+      "branche": "Mao",
+      "polarite": "Yin",
+      "phase": "Feu"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:dragon-terre",
+      "titre": "Dragon — Terre",
+      "symbole": "Dragon — Terre",
+      "theme": "Rayonnement",
+      "signification_fondamentale": "Rayonnement",
+      "positive": {
+        "famille": "Stabilité",
+        "description": "Associer rayonnement et stabilité pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "stabilité",
+          "rayonnement"
+        ]
+      },
+      "negative": {
+        "famille": "Inertie",
+        "description": "Veiller à ce que rayonnement ne se transforme pas en inertie.",
+        "mots_cles": [
+          "inertie",
+          "rayonnement"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 5,
+      "tronc": "Wu",
+      "branche": "Chen",
+      "polarite": "Yang",
+      "phase": "Terre"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:serpent-terre",
+      "titre": "Serpent — Terre",
+      "symbole": "Serpent — Terre",
+      "theme": "Discernement",
+      "signification_fondamentale": "Discernement",
+      "positive": {
+        "famille": "Stabilité",
+        "description": "Associer discernement et stabilité pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "stabilité",
+          "discernement"
+        ]
+      },
+      "negative": {
+        "famille": "Inertie",
+        "description": "Veiller à ce que discernement ne se transforme pas en inertie.",
+        "mots_cles": [
+          "inertie",
+          "discernement"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 6,
+      "tronc": "Ji",
+      "branche": "Si",
+      "polarite": "Yin",
+      "phase": "Terre"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:cheval-metal",
+      "titre": "Cheval — Métal",
+      "symbole": "Cheval — Métal",
+      "theme": "Liberté",
+      "signification_fondamentale": "Liberté",
+      "positive": {
+        "famille": "Rigueur",
+        "description": "Associer liberté et rigueur pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "rigueur",
+          "liberté"
+        ]
+      },
+      "negative": {
+        "famille": "Rigidité",
+        "description": "Veiller à ce que liberté ne se transforme pas en rigidité.",
+        "mots_cles": [
+          "rigidité",
+          "liberté"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 7,
+      "tronc": "Geng",
+      "branche": "Wu",
+      "polarite": "Yang",
+      "phase": "Métal"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:chevre-metal",
+      "titre": "Chèvre — Métal",
+      "symbole": "Chèvre — Métal",
+      "theme": "Sensibilité",
+      "signification_fondamentale": "Sensibilité",
+      "positive": {
+        "famille": "Rigueur",
+        "description": "Associer sensibilité et rigueur pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "rigueur",
+          "sensibilité"
+        ]
+      },
+      "negative": {
+        "famille": "Rigidité",
+        "description": "Veiller à ce que sensibilité ne se transforme pas en rigidité.",
+        "mots_cles": [
+          "rigidité",
+          "sensibilité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 8,
+      "tronc": "Xin",
+      "branche": "Wei",
+      "polarite": "Yin",
+      "phase": "Métal"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:singe-eau",
+      "titre": "Singe — Eau",
+      "symbole": "Singe — Eau",
+      "theme": "Inventivité",
+      "signification_fondamentale": "Inventivité",
+      "positive": {
+        "famille": "Adaptabilité",
+        "description": "Associer inventivité et adaptabilité pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "adaptabilité",
+          "inventivité"
+        ]
+      },
+      "negative": {
+        "famille": "Indécision",
+        "description": "Veiller à ce que inventivité ne se transforme pas en indécision.",
+        "mots_cles": [
+          "indécision",
+          "inventivité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 9,
+      "tronc": "Ren",
+      "branche": "Shen",
+      "polarite": "Yang",
+      "phase": "Eau"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:coq-eau",
+      "titre": "Coq — Eau",
+      "symbole": "Coq — Eau",
+      "theme": "Précision",
+      "signification_fondamentale": "Précision",
+      "positive": {
+        "famille": "Adaptabilité",
+        "description": "Associer précision et adaptabilité pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "adaptabilité",
+          "précision"
+        ]
+      },
+      "negative": {
+        "famille": "Indécision",
+        "description": "Veiller à ce que précision ne se transforme pas en indécision.",
+        "mots_cles": [
+          "indécision",
+          "précision"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 10,
+      "tronc": "Gui",
+      "branche": "You",
+      "polarite": "Yin",
+      "phase": "Eau"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:chien-bois",
+      "titre": "Chien — Bois",
+      "symbole": "Chien — Bois",
+      "theme": "Loyauté",
+      "signification_fondamentale": "Loyauté",
+      "positive": {
+        "famille": "Croissance",
+        "description": "Associer loyauté et croissance pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "croissance",
+          "loyauté"
+        ]
+      },
+      "negative": {
+        "famille": "Expansion excessive",
+        "description": "Veiller à ce que loyauté ne se transforme pas en expansion excessive.",
+        "mots_cles": [
+          "expansion excessive",
+          "loyauté"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 11,
+      "tronc": "Jia",
+      "branche": "Xu",
+      "polarite": "Yang",
+      "phase": "Bois"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:cochon-bois",
+      "titre": "Cochon — Bois",
+      "symbole": "Cochon — Bois",
+      "theme": "Générosité",
+      "signification_fondamentale": "Générosité",
+      "positive": {
+        "famille": "Croissance",
+        "description": "Associer générosité et croissance pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "croissance",
+          "générosité"
+        ]
+      },
+      "negative": {
+        "famille": "Expansion excessive",
+        "description": "Veiller à ce que générosité ne se transforme pas en expansion excessive.",
+        "mots_cles": [
+          "expansion excessive",
+          "générosité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 12,
+      "tronc": "Yi",
+      "branche": "Hai",
+      "polarite": "Yin",
+      "phase": "Bois"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:rat-feu",
+      "titre": "Rat — Feu",
+      "symbole": "Rat — Feu",
+      "theme": "Ingéniosité",
+      "signification_fondamentale": "Ingéniosité",
+      "positive": {
+        "famille": "Enthousiasme",
+        "description": "Associer ingéniosité et enthousiasme pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "enthousiasme",
+          "ingéniosité"
+        ]
+      },
+      "negative": {
+        "famille": "Impulsivité",
+        "description": "Veiller à ce que ingéniosité ne se transforme pas en impulsivité.",
+        "mots_cles": [
+          "impulsivité",
+          "ingéniosité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 13,
+      "tronc": "Bing",
+      "branche": "Zi",
+      "polarite": "Yang",
+      "phase": "Feu"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:buffle-feu",
+      "titre": "Buffle — Feu",
+      "symbole": "Buffle — Feu",
+      "theme": "Persévérance",
+      "signification_fondamentale": "Persévérance",
+      "positive": {
+        "famille": "Enthousiasme",
+        "description": "Associer persévérance et enthousiasme pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "enthousiasme",
+          "persévérance"
+        ]
+      },
+      "negative": {
+        "famille": "Impulsivité",
+        "description": "Veiller à ce que persévérance ne se transforme pas en impulsivité.",
+        "mots_cles": [
+          "impulsivité",
+          "persévérance"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 14,
+      "tronc": "Ding",
+      "branche": "Chou",
+      "polarite": "Yin",
+      "phase": "Feu"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:tigre-terre",
+      "titre": "Tigre — Terre",
+      "symbole": "Tigre — Terre",
+      "theme": "Audace",
+      "signification_fondamentale": "Audace",
+      "positive": {
+        "famille": "Stabilité",
+        "description": "Associer audace et stabilité pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "stabilité",
+          "audace"
+        ]
+      },
+      "negative": {
+        "famille": "Inertie",
+        "description": "Veiller à ce que audace ne se transforme pas en inertie.",
+        "mots_cles": [
+          "inertie",
+          "audace"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 15,
+      "tronc": "Wu",
+      "branche": "Yin",
+      "polarite": "Yang",
+      "phase": "Terre"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:lapin-terre",
+      "titre": "Lapin — Terre",
+      "symbole": "Lapin — Terre",
+      "theme": "Diplomatie",
+      "signification_fondamentale": "Diplomatie",
+      "positive": {
+        "famille": "Stabilité",
+        "description": "Associer diplomatie et stabilité pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "stabilité",
+          "diplomatie"
+        ]
+      },
+      "negative": {
+        "famille": "Inertie",
+        "description": "Veiller à ce que diplomatie ne se transforme pas en inertie.",
+        "mots_cles": [
+          "inertie",
+          "diplomatie"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 16,
+      "tronc": "Ji",
+      "branche": "Mao",
+      "polarite": "Yin",
+      "phase": "Terre"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:dragon-metal",
+      "titre": "Dragon — Métal",
+      "symbole": "Dragon — Métal",
+      "theme": "Rayonnement",
+      "signification_fondamentale": "Rayonnement",
+      "positive": {
+        "famille": "Rigueur",
+        "description": "Associer rayonnement et rigueur pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "rigueur",
+          "rayonnement"
+        ]
+      },
+      "negative": {
+        "famille": "Rigidité",
+        "description": "Veiller à ce que rayonnement ne se transforme pas en rigidité.",
+        "mots_cles": [
+          "rigidité",
+          "rayonnement"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 17,
+      "tronc": "Geng",
+      "branche": "Chen",
+      "polarite": "Yang",
+      "phase": "Métal"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:serpent-metal",
+      "titre": "Serpent — Métal",
+      "symbole": "Serpent — Métal",
+      "theme": "Discernement",
+      "signification_fondamentale": "Discernement",
+      "positive": {
+        "famille": "Rigueur",
+        "description": "Associer discernement et rigueur pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "rigueur",
+          "discernement"
+        ]
+      },
+      "negative": {
+        "famille": "Rigidité",
+        "description": "Veiller à ce que discernement ne se transforme pas en rigidité.",
+        "mots_cles": [
+          "rigidité",
+          "discernement"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 18,
+      "tronc": "Xin",
+      "branche": "Si",
+      "polarite": "Yin",
+      "phase": "Métal"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:cheval-eau",
+      "titre": "Cheval — Eau",
+      "symbole": "Cheval — Eau",
+      "theme": "Liberté",
+      "signification_fondamentale": "Liberté",
+      "positive": {
+        "famille": "Adaptabilité",
+        "description": "Associer liberté et adaptabilité pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "adaptabilité",
+          "liberté"
+        ]
+      },
+      "negative": {
+        "famille": "Indécision",
+        "description": "Veiller à ce que liberté ne se transforme pas en indécision.",
+        "mots_cles": [
+          "indécision",
+          "liberté"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 19,
+      "tronc": "Ren",
+      "branche": "Wu",
+      "polarite": "Yang",
+      "phase": "Eau"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:chevre-eau",
+      "titre": "Chèvre — Eau",
+      "symbole": "Chèvre — Eau",
+      "theme": "Sensibilité",
+      "signification_fondamentale": "Sensibilité",
+      "positive": {
+        "famille": "Adaptabilité",
+        "description": "Associer sensibilité et adaptabilité pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "adaptabilité",
+          "sensibilité"
+        ]
+      },
+      "negative": {
+        "famille": "Indécision",
+        "description": "Veiller à ce que sensibilité ne se transforme pas en indécision.",
+        "mots_cles": [
+          "indécision",
+          "sensibilité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 20,
+      "tronc": "Gui",
+      "branche": "Wei",
+      "polarite": "Yin",
+      "phase": "Eau"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:singe-bois",
+      "titre": "Singe — Bois",
+      "symbole": "Singe — Bois",
+      "theme": "Inventivité",
+      "signification_fondamentale": "Inventivité",
+      "positive": {
+        "famille": "Croissance",
+        "description": "Associer inventivité et croissance pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "croissance",
+          "inventivité"
+        ]
+      },
+      "negative": {
+        "famille": "Expansion excessive",
+        "description": "Veiller à ce que inventivité ne se transforme pas en expansion excessive.",
+        "mots_cles": [
+          "expansion excessive",
+          "inventivité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 21,
+      "tronc": "Jia",
+      "branche": "Shen",
+      "polarite": "Yang",
+      "phase": "Bois"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:coq-bois",
+      "titre": "Coq — Bois",
+      "symbole": "Coq — Bois",
+      "theme": "Précision",
+      "signification_fondamentale": "Précision",
+      "positive": {
+        "famille": "Croissance",
+        "description": "Associer précision et croissance pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "croissance",
+          "précision"
+        ]
+      },
+      "negative": {
+        "famille": "Expansion excessive",
+        "description": "Veiller à ce que précision ne se transforme pas en expansion excessive.",
+        "mots_cles": [
+          "expansion excessive",
+          "précision"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 22,
+      "tronc": "Yi",
+      "branche": "You",
+      "polarite": "Yin",
+      "phase": "Bois"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:chien-feu",
+      "titre": "Chien — Feu",
+      "symbole": "Chien — Feu",
+      "theme": "Loyauté",
+      "signification_fondamentale": "Loyauté",
+      "positive": {
+        "famille": "Enthousiasme",
+        "description": "Associer loyauté et enthousiasme pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "enthousiasme",
+          "loyauté"
+        ]
+      },
+      "negative": {
+        "famille": "Impulsivité",
+        "description": "Veiller à ce que loyauté ne se transforme pas en impulsivité.",
+        "mots_cles": [
+          "impulsivité",
+          "loyauté"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 23,
+      "tronc": "Bing",
+      "branche": "Xu",
+      "polarite": "Yang",
+      "phase": "Feu"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:cochon-feu",
+      "titre": "Cochon — Feu",
+      "symbole": "Cochon — Feu",
+      "theme": "Générosité",
+      "signification_fondamentale": "Générosité",
+      "positive": {
+        "famille": "Enthousiasme",
+        "description": "Associer générosité et enthousiasme pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "enthousiasme",
+          "générosité"
+        ]
+      },
+      "negative": {
+        "famille": "Impulsivité",
+        "description": "Veiller à ce que générosité ne se transforme pas en impulsivité.",
+        "mots_cles": [
+          "impulsivité",
+          "générosité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 24,
+      "tronc": "Ding",
+      "branche": "Hai",
+      "polarite": "Yin",
+      "phase": "Feu"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:rat-terre",
+      "titre": "Rat — Terre",
+      "symbole": "Rat — Terre",
+      "theme": "Ingéniosité",
+      "signification_fondamentale": "Ingéniosité",
+      "positive": {
+        "famille": "Stabilité",
+        "description": "Associer ingéniosité et stabilité pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "stabilité",
+          "ingéniosité"
+        ]
+      },
+      "negative": {
+        "famille": "Inertie",
+        "description": "Veiller à ce que ingéniosité ne se transforme pas en inertie.",
+        "mots_cles": [
+          "inertie",
+          "ingéniosité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 25,
+      "tronc": "Wu",
+      "branche": "Zi",
+      "polarite": "Yang",
+      "phase": "Terre"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:buffle-terre",
+      "titre": "Buffle — Terre",
+      "symbole": "Buffle — Terre",
+      "theme": "Persévérance",
+      "signification_fondamentale": "Persévérance",
+      "positive": {
+        "famille": "Stabilité",
+        "description": "Associer persévérance et stabilité pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "stabilité",
+          "persévérance"
+        ]
+      },
+      "negative": {
+        "famille": "Inertie",
+        "description": "Veiller à ce que persévérance ne se transforme pas en inertie.",
+        "mots_cles": [
+          "inertie",
+          "persévérance"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 26,
+      "tronc": "Ji",
+      "branche": "Chou",
+      "polarite": "Yin",
+      "phase": "Terre"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:tigre-metal",
+      "titre": "Tigre — Métal",
+      "symbole": "Tigre — Métal",
+      "theme": "Audace",
+      "signification_fondamentale": "Audace",
+      "positive": {
+        "famille": "Rigueur",
+        "description": "Associer audace et rigueur pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "rigueur",
+          "audace"
+        ]
+      },
+      "negative": {
+        "famille": "Rigidité",
+        "description": "Veiller à ce que audace ne se transforme pas en rigidité.",
+        "mots_cles": [
+          "rigidité",
+          "audace"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 27,
+      "tronc": "Geng",
+      "branche": "Yin",
+      "polarite": "Yang",
+      "phase": "Métal"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:lapin-metal",
+      "titre": "Lapin — Métal",
+      "symbole": "Lapin — Métal",
+      "theme": "Diplomatie",
+      "signification_fondamentale": "Diplomatie",
+      "positive": {
+        "famille": "Rigueur",
+        "description": "Associer diplomatie et rigueur pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "rigueur",
+          "diplomatie"
+        ]
+      },
+      "negative": {
+        "famille": "Rigidité",
+        "description": "Veiller à ce que diplomatie ne se transforme pas en rigidité.",
+        "mots_cles": [
+          "rigidité",
+          "diplomatie"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 28,
+      "tronc": "Xin",
+      "branche": "Mao",
+      "polarite": "Yin",
+      "phase": "Métal"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:dragon-eau",
+      "titre": "Dragon — Eau",
+      "symbole": "Dragon — Eau",
+      "theme": "Rayonnement",
+      "signification_fondamentale": "Rayonnement",
+      "positive": {
+        "famille": "Adaptabilité",
+        "description": "Associer rayonnement et adaptabilité pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "adaptabilité",
+          "rayonnement"
+        ]
+      },
+      "negative": {
+        "famille": "Indécision",
+        "description": "Veiller à ce que rayonnement ne se transforme pas en indécision.",
+        "mots_cles": [
+          "indécision",
+          "rayonnement"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 29,
+      "tronc": "Ren",
+      "branche": "Chen",
+      "polarite": "Yang",
+      "phase": "Eau"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:serpent-eau",
+      "titre": "Serpent — Eau",
+      "symbole": "Serpent — Eau",
+      "theme": "Discernement",
+      "signification_fondamentale": "Discernement",
+      "positive": {
+        "famille": "Adaptabilité",
+        "description": "Associer discernement et adaptabilité pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "adaptabilité",
+          "discernement"
+        ]
+      },
+      "negative": {
+        "famille": "Indécision",
+        "description": "Veiller à ce que discernement ne se transforme pas en indécision.",
+        "mots_cles": [
+          "indécision",
+          "discernement"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 30,
+      "tronc": "Gui",
+      "branche": "Si",
+      "polarite": "Yin",
+      "phase": "Eau"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:cheval-bois",
+      "titre": "Cheval — Bois",
+      "symbole": "Cheval — Bois",
+      "theme": "Liberté",
+      "signification_fondamentale": "Liberté",
+      "positive": {
+        "famille": "Croissance",
+        "description": "Associer liberté et croissance pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "croissance",
+          "liberté"
+        ]
+      },
+      "negative": {
+        "famille": "Expansion excessive",
+        "description": "Veiller à ce que liberté ne se transforme pas en expansion excessive.",
+        "mots_cles": [
+          "expansion excessive",
+          "liberté"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 31,
+      "tronc": "Jia",
+      "branche": "Wu",
+      "polarite": "Yang",
+      "phase": "Bois"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:chevre-bois",
+      "titre": "Chèvre — Bois",
+      "symbole": "Chèvre — Bois",
+      "theme": "Sensibilité",
+      "signification_fondamentale": "Sensibilité",
+      "positive": {
+        "famille": "Croissance",
+        "description": "Associer sensibilité et croissance pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "croissance",
+          "sensibilité"
+        ]
+      },
+      "negative": {
+        "famille": "Expansion excessive",
+        "description": "Veiller à ce que sensibilité ne se transforme pas en expansion excessive.",
+        "mots_cles": [
+          "expansion excessive",
+          "sensibilité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 32,
+      "tronc": "Yi",
+      "branche": "Wei",
+      "polarite": "Yin",
+      "phase": "Bois"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:singe-feu",
+      "titre": "Singe — Feu",
+      "symbole": "Singe — Feu",
+      "theme": "Inventivité",
+      "signification_fondamentale": "Inventivité",
+      "positive": {
+        "famille": "Enthousiasme",
+        "description": "Associer inventivité et enthousiasme pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "enthousiasme",
+          "inventivité"
+        ]
+      },
+      "negative": {
+        "famille": "Impulsivité",
+        "description": "Veiller à ce que inventivité ne se transforme pas en impulsivité.",
+        "mots_cles": [
+          "impulsivité",
+          "inventivité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 33,
+      "tronc": "Bing",
+      "branche": "Shen",
+      "polarite": "Yang",
+      "phase": "Feu"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:coq-feu",
+      "titre": "Coq — Feu",
+      "symbole": "Coq — Feu",
+      "theme": "Précision",
+      "signification_fondamentale": "Précision",
+      "positive": {
+        "famille": "Enthousiasme",
+        "description": "Associer précision et enthousiasme pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "enthousiasme",
+          "précision"
+        ]
+      },
+      "negative": {
+        "famille": "Impulsivité",
+        "description": "Veiller à ce que précision ne se transforme pas en impulsivité.",
+        "mots_cles": [
+          "impulsivité",
+          "précision"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 34,
+      "tronc": "Ding",
+      "branche": "You",
+      "polarite": "Yin",
+      "phase": "Feu"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:chien-terre",
+      "titre": "Chien — Terre",
+      "symbole": "Chien — Terre",
+      "theme": "Loyauté",
+      "signification_fondamentale": "Loyauté",
+      "positive": {
+        "famille": "Stabilité",
+        "description": "Associer loyauté et stabilité pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "stabilité",
+          "loyauté"
+        ]
+      },
+      "negative": {
+        "famille": "Inertie",
+        "description": "Veiller à ce que loyauté ne se transforme pas en inertie.",
+        "mots_cles": [
+          "inertie",
+          "loyauté"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 35,
+      "tronc": "Wu",
+      "branche": "Xu",
+      "polarite": "Yang",
+      "phase": "Terre"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:cochon-terre",
+      "titre": "Cochon — Terre",
+      "symbole": "Cochon — Terre",
+      "theme": "Générosité",
+      "signification_fondamentale": "Générosité",
+      "positive": {
+        "famille": "Stabilité",
+        "description": "Associer générosité et stabilité pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "stabilité",
+          "générosité"
+        ]
+      },
+      "negative": {
+        "famille": "Inertie",
+        "description": "Veiller à ce que générosité ne se transforme pas en inertie.",
+        "mots_cles": [
+          "inertie",
+          "générosité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 36,
+      "tronc": "Ji",
+      "branche": "Hai",
+      "polarite": "Yin",
+      "phase": "Terre"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:rat-metal",
+      "titre": "Rat — Métal",
+      "symbole": "Rat — Métal",
+      "theme": "Ingéniosité",
+      "signification_fondamentale": "Ingéniosité",
+      "positive": {
+        "famille": "Rigueur",
+        "description": "Associer ingéniosité et rigueur pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "rigueur",
+          "ingéniosité"
+        ]
+      },
+      "negative": {
+        "famille": "Rigidité",
+        "description": "Veiller à ce que ingéniosité ne se transforme pas en rigidité.",
+        "mots_cles": [
+          "rigidité",
+          "ingéniosité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 37,
+      "tronc": "Geng",
+      "branche": "Zi",
+      "polarite": "Yang",
+      "phase": "Métal"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:buffle-metal",
+      "titre": "Buffle — Métal",
+      "symbole": "Buffle — Métal",
+      "theme": "Persévérance",
+      "signification_fondamentale": "Persévérance",
+      "positive": {
+        "famille": "Rigueur",
+        "description": "Associer persévérance et rigueur pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "rigueur",
+          "persévérance"
+        ]
+      },
+      "negative": {
+        "famille": "Rigidité",
+        "description": "Veiller à ce que persévérance ne se transforme pas en rigidité.",
+        "mots_cles": [
+          "rigidité",
+          "persévérance"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 38,
+      "tronc": "Xin",
+      "branche": "Chou",
+      "polarite": "Yin",
+      "phase": "Métal"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:tigre-eau",
+      "titre": "Tigre — Eau",
+      "symbole": "Tigre — Eau",
+      "theme": "Audace",
+      "signification_fondamentale": "Audace",
+      "positive": {
+        "famille": "Adaptabilité",
+        "description": "Associer audace et adaptabilité pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "adaptabilité",
+          "audace"
+        ]
+      },
+      "negative": {
+        "famille": "Indécision",
+        "description": "Veiller à ce que audace ne se transforme pas en indécision.",
+        "mots_cles": [
+          "indécision",
+          "audace"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 39,
+      "tronc": "Ren",
+      "branche": "Yin",
+      "polarite": "Yang",
+      "phase": "Eau"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:lapin-eau",
+      "titre": "Lapin — Eau",
+      "symbole": "Lapin — Eau",
+      "theme": "Diplomatie",
+      "signification_fondamentale": "Diplomatie",
+      "positive": {
+        "famille": "Adaptabilité",
+        "description": "Associer diplomatie et adaptabilité pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "adaptabilité",
+          "diplomatie"
+        ]
+      },
+      "negative": {
+        "famille": "Indécision",
+        "description": "Veiller à ce que diplomatie ne se transforme pas en indécision.",
+        "mots_cles": [
+          "indécision",
+          "diplomatie"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 40,
+      "tronc": "Gui",
+      "branche": "Mao",
+      "polarite": "Yin",
+      "phase": "Eau"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:dragon-bois",
+      "titre": "Dragon — Bois",
+      "symbole": "Dragon — Bois",
+      "theme": "Rayonnement",
+      "signification_fondamentale": "Rayonnement",
+      "positive": {
+        "famille": "Croissance",
+        "description": "Associer rayonnement et croissance pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "croissance",
+          "rayonnement"
+        ]
+      },
+      "negative": {
+        "famille": "Expansion excessive",
+        "description": "Veiller à ce que rayonnement ne se transforme pas en expansion excessive.",
+        "mots_cles": [
+          "expansion excessive",
+          "rayonnement"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 41,
+      "tronc": "Jia",
+      "branche": "Chen",
+      "polarite": "Yang",
+      "phase": "Bois"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:serpent-bois",
+      "titre": "Serpent — Bois",
+      "symbole": "Serpent — Bois",
+      "theme": "Discernement",
+      "signification_fondamentale": "Discernement",
+      "positive": {
+        "famille": "Croissance",
+        "description": "Associer discernement et croissance pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "croissance",
+          "discernement"
+        ]
+      },
+      "negative": {
+        "famille": "Expansion excessive",
+        "description": "Veiller à ce que discernement ne se transforme pas en expansion excessive.",
+        "mots_cles": [
+          "expansion excessive",
+          "discernement"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 42,
+      "tronc": "Yi",
+      "branche": "Si",
+      "polarite": "Yin",
+      "phase": "Bois"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:cheval-feu",
+      "titre": "Cheval — Feu",
+      "symbole": "Cheval — Feu",
+      "theme": "Liberté",
+      "signification_fondamentale": "Liberté",
+      "positive": {
+        "famille": "Enthousiasme",
+        "description": "Associer liberté et enthousiasme pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "enthousiasme",
+          "liberté"
+        ]
+      },
+      "negative": {
+        "famille": "Impulsivité",
+        "description": "Veiller à ce que liberté ne se transforme pas en impulsivité.",
+        "mots_cles": [
+          "impulsivité",
+          "liberté"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 43,
+      "tronc": "Bing",
+      "branche": "Wu",
+      "polarite": "Yang",
+      "phase": "Feu"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:chevre-feu",
+      "titre": "Chèvre — Feu",
+      "symbole": "Chèvre — Feu",
+      "theme": "Sensibilité",
+      "signification_fondamentale": "Sensibilité",
+      "positive": {
+        "famille": "Enthousiasme",
+        "description": "Associer sensibilité et enthousiasme pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "enthousiasme",
+          "sensibilité"
+        ]
+      },
+      "negative": {
+        "famille": "Impulsivité",
+        "description": "Veiller à ce que sensibilité ne se transforme pas en impulsivité.",
+        "mots_cles": [
+          "impulsivité",
+          "sensibilité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 44,
+      "tronc": "Ding",
+      "branche": "Wei",
+      "polarite": "Yin",
+      "phase": "Feu"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:singe-terre",
+      "titre": "Singe — Terre",
+      "symbole": "Singe — Terre",
+      "theme": "Inventivité",
+      "signification_fondamentale": "Inventivité",
+      "positive": {
+        "famille": "Stabilité",
+        "description": "Associer inventivité et stabilité pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "stabilité",
+          "inventivité"
+        ]
+      },
+      "negative": {
+        "famille": "Inertie",
+        "description": "Veiller à ce que inventivité ne se transforme pas en inertie.",
+        "mots_cles": [
+          "inertie",
+          "inventivité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 45,
+      "tronc": "Wu",
+      "branche": "Shen",
+      "polarite": "Yang",
+      "phase": "Terre"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:coq-terre",
+      "titre": "Coq — Terre",
+      "symbole": "Coq — Terre",
+      "theme": "Précision",
+      "signification_fondamentale": "Précision",
+      "positive": {
+        "famille": "Stabilité",
+        "description": "Associer précision et stabilité pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "stabilité",
+          "précision"
+        ]
+      },
+      "negative": {
+        "famille": "Inertie",
+        "description": "Veiller à ce que précision ne se transforme pas en inertie.",
+        "mots_cles": [
+          "inertie",
+          "précision"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 46,
+      "tronc": "Ji",
+      "branche": "You",
+      "polarite": "Yin",
+      "phase": "Terre"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:chien-metal",
+      "titre": "Chien — Métal",
+      "symbole": "Chien — Métal",
+      "theme": "Loyauté",
+      "signification_fondamentale": "Loyauté",
+      "positive": {
+        "famille": "Rigueur",
+        "description": "Associer loyauté et rigueur pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "rigueur",
+          "loyauté"
+        ]
+      },
+      "negative": {
+        "famille": "Rigidité",
+        "description": "Veiller à ce que loyauté ne se transforme pas en rigidité.",
+        "mots_cles": [
+          "rigidité",
+          "loyauté"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 47,
+      "tronc": "Geng",
+      "branche": "Xu",
+      "polarite": "Yang",
+      "phase": "Métal"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:cochon-metal",
+      "titre": "Cochon — Métal",
+      "symbole": "Cochon — Métal",
+      "theme": "Générosité",
+      "signification_fondamentale": "Générosité",
+      "positive": {
+        "famille": "Rigueur",
+        "description": "Associer générosité et rigueur pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "rigueur",
+          "générosité"
+        ]
+      },
+      "negative": {
+        "famille": "Rigidité",
+        "description": "Veiller à ce que générosité ne se transforme pas en rigidité.",
+        "mots_cles": [
+          "rigidité",
+          "générosité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 48,
+      "tronc": "Xin",
+      "branche": "Hai",
+      "polarite": "Yin",
+      "phase": "Métal"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:rat-eau",
+      "titre": "Rat — Eau",
+      "symbole": "Rat — Eau",
+      "theme": "Ingéniosité",
+      "signification_fondamentale": "Ingéniosité",
+      "positive": {
+        "famille": "Adaptabilité",
+        "description": "Associer ingéniosité et adaptabilité pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "adaptabilité",
+          "ingéniosité"
+        ]
+      },
+      "negative": {
+        "famille": "Indécision",
+        "description": "Veiller à ce que ingéniosité ne se transforme pas en indécision.",
+        "mots_cles": [
+          "indécision",
+          "ingéniosité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 49,
+      "tronc": "Ren",
+      "branche": "Zi",
+      "polarite": "Yang",
+      "phase": "Eau"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:buffle-eau",
+      "titre": "Buffle — Eau",
+      "symbole": "Buffle — Eau",
+      "theme": "Persévérance",
+      "signification_fondamentale": "Persévérance",
+      "positive": {
+        "famille": "Adaptabilité",
+        "description": "Associer persévérance et adaptabilité pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "adaptabilité",
+          "persévérance"
+        ]
+      },
+      "negative": {
+        "famille": "Indécision",
+        "description": "Veiller à ce que persévérance ne se transforme pas en indécision.",
+        "mots_cles": [
+          "indécision",
+          "persévérance"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 50,
+      "tronc": "Gui",
+      "branche": "Chou",
+      "polarite": "Yin",
+      "phase": "Eau"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:tigre-bois",
+      "titre": "Tigre — Bois",
+      "symbole": "Tigre — Bois",
+      "theme": "Audace",
+      "signification_fondamentale": "Audace",
+      "positive": {
+        "famille": "Croissance",
+        "description": "Associer audace et croissance pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "croissance",
+          "audace"
+        ]
+      },
+      "negative": {
+        "famille": "Expansion excessive",
+        "description": "Veiller à ce que audace ne se transforme pas en expansion excessive.",
+        "mots_cles": [
+          "expansion excessive",
+          "audace"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 51,
+      "tronc": "Jia",
+      "branche": "Yin",
+      "polarite": "Yang",
+      "phase": "Bois"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:lapin-bois",
+      "titre": "Lapin — Bois",
+      "symbole": "Lapin — Bois",
+      "theme": "Diplomatie",
+      "signification_fondamentale": "Diplomatie",
+      "positive": {
+        "famille": "Croissance",
+        "description": "Associer diplomatie et croissance pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "croissance",
+          "diplomatie"
+        ]
+      },
+      "negative": {
+        "famille": "Expansion excessive",
+        "description": "Veiller à ce que diplomatie ne se transforme pas en expansion excessive.",
+        "mots_cles": [
+          "expansion excessive",
+          "diplomatie"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 52,
+      "tronc": "Yi",
+      "branche": "Mao",
+      "polarite": "Yin",
+      "phase": "Bois"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:dragon-feu",
+      "titre": "Dragon — Feu",
+      "symbole": "Dragon — Feu",
+      "theme": "Rayonnement",
+      "signification_fondamentale": "Rayonnement",
+      "positive": {
+        "famille": "Enthousiasme",
+        "description": "Associer rayonnement et enthousiasme pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "enthousiasme",
+          "rayonnement"
+        ]
+      },
+      "negative": {
+        "famille": "Impulsivité",
+        "description": "Veiller à ce que rayonnement ne se transforme pas en impulsivité.",
+        "mots_cles": [
+          "impulsivité",
+          "rayonnement"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 53,
+      "tronc": "Bing",
+      "branche": "Chen",
+      "polarite": "Yang",
+      "phase": "Feu"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:serpent-feu",
+      "titre": "Serpent — Feu",
+      "symbole": "Serpent — Feu",
+      "theme": "Discernement",
+      "signification_fondamentale": "Discernement",
+      "positive": {
+        "famille": "Enthousiasme",
+        "description": "Associer discernement et enthousiasme pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "enthousiasme",
+          "discernement"
+        ]
+      },
+      "negative": {
+        "famille": "Impulsivité",
+        "description": "Veiller à ce que discernement ne se transforme pas en impulsivité.",
+        "mots_cles": [
+          "impulsivité",
+          "discernement"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 54,
+      "tronc": "Ding",
+      "branche": "Si",
+      "polarite": "Yin",
+      "phase": "Feu"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:cheval-terre",
+      "titre": "Cheval — Terre",
+      "symbole": "Cheval — Terre",
+      "theme": "Liberté",
+      "signification_fondamentale": "Liberté",
+      "positive": {
+        "famille": "Stabilité",
+        "description": "Associer liberté et stabilité pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "stabilité",
+          "liberté"
+        ]
+      },
+      "negative": {
+        "famille": "Inertie",
+        "description": "Veiller à ce que liberté ne se transforme pas en inertie.",
+        "mots_cles": [
+          "inertie",
+          "liberté"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 55,
+      "tronc": "Wu",
+      "branche": "Wu",
+      "polarite": "Yang",
+      "phase": "Terre"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:chevre-terre",
+      "titre": "Chèvre — Terre",
+      "symbole": "Chèvre — Terre",
+      "theme": "Sensibilité",
+      "signification_fondamentale": "Sensibilité",
+      "positive": {
+        "famille": "Stabilité",
+        "description": "Associer sensibilité et stabilité pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "stabilité",
+          "sensibilité"
+        ]
+      },
+      "negative": {
+        "famille": "Inertie",
+        "description": "Veiller à ce que sensibilité ne se transforme pas en inertie.",
+        "mots_cles": [
+          "inertie",
+          "sensibilité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 56,
+      "tronc": "Ji",
+      "branche": "Wei",
+      "polarite": "Yin",
+      "phase": "Terre"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:singe-metal",
+      "titre": "Singe — Métal",
+      "symbole": "Singe — Métal",
+      "theme": "Inventivité",
+      "signification_fondamentale": "Inventivité",
+      "positive": {
+        "famille": "Rigueur",
+        "description": "Associer inventivité et rigueur pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "rigueur",
+          "inventivité"
+        ]
+      },
+      "negative": {
+        "famille": "Rigidité",
+        "description": "Veiller à ce que inventivité ne se transforme pas en rigidité.",
+        "mots_cles": [
+          "rigidité",
+          "inventivité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 57,
+      "tronc": "Geng",
+      "branche": "Shen",
+      "polarite": "Yang",
+      "phase": "Métal"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:coq-metal",
+      "titre": "Coq — Métal",
+      "symbole": "Coq — Métal",
+      "theme": "Précision",
+      "signification_fondamentale": "Précision",
+      "positive": {
+        "famille": "Rigueur",
+        "description": "Associer précision et rigueur pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "rigueur",
+          "précision"
+        ]
+      },
+      "negative": {
+        "famille": "Rigidité",
+        "description": "Veiller à ce que précision ne se transforme pas en rigidité.",
+        "mots_cles": [
+          "rigidité",
+          "précision"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 58,
+      "tronc": "Xin",
+      "branche": "You",
+      "polarite": "Yin",
+      "phase": "Métal"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:chien-eau",
+      "titre": "Chien — Eau",
+      "symbole": "Chien — Eau",
+      "theme": "Loyauté",
+      "signification_fondamentale": "Loyauté",
+      "positive": {
+        "famille": "Adaptabilité",
+        "description": "Associer loyauté et adaptabilité pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "adaptabilité",
+          "loyauté"
+        ]
+      },
+      "negative": {
+        "famille": "Indécision",
+        "description": "Veiller à ce que loyauté ne se transforme pas en indécision.",
+        "mots_cles": [
+          "indécision",
+          "loyauté"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 59,
+      "tronc": "Ren",
+      "branche": "Xu",
+      "polarite": "Yang",
+      "phase": "Eau"
+    },
+    {
+      "tradition": "Ba Zi — cycle sexagésimal",
+      "id": "Ba Zi — cycle sexagésimal:cochon-eau",
+      "titre": "Cochon — Eau",
+      "symbole": "Cochon — Eau",
+      "theme": "Générosité",
+      "signification_fondamentale": "Générosité",
+      "positive": {
+        "famille": "Adaptabilité",
+        "description": "Associer générosité et adaptabilité pour avancer dans une direction choisie.",
+        "mots_cles": [
+          "adaptabilité",
+          "générosité"
+        ]
+      },
+      "negative": {
+        "famille": "Indécision",
+        "description": "Veiller à ce que générosité ne se transforme pas en indécision.",
+        "mots_cles": [
+          "indécision",
+          "générosité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 60,
+      "tronc": "Gui",
+      "branche": "Hai",
+      "polarite": "Yin",
+      "phase": "Eau"
+    }
+  ]
+}

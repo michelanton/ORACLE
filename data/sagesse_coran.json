@@ -1,0 +1,845 @@
+{
+  "version": "1.9",
+  "tradition": "Sagesse — Coran",
+  "references": [
+    {
+      "tradition": "Sagesse — Coran",
+      "nombre_symboles": 32,
+      "source": "Sélection éditoriale de passages et reformulations ; références à vérifier"
+    }
+  ],
+  "symboles": [
+    {
+      "id": "coran_001",
+      "tradition": "Sagesse — Coran",
+      "titre": "94:5-6",
+      "symbole": "✧",
+      "theme": "Espérance",
+      "enseignement": "Avec la difficulté vient la facilité.",
+      "reference": "94:5-6",
+      "source": "Coran",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Espérance",
+        "description": "Avec la difficulté vient la facilité.",
+        "mots_cles": [
+          "espérance"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Avec la difficulté vient la facilité.",
+        "mots_cles": [
+          "espérance"
+        ]
+      }
+    },
+    {
+      "id": "coran_002",
+      "tradition": "Sagesse — Coran",
+      "titre": "2:286",
+      "symbole": "✧",
+      "theme": "Résilience",
+      "enseignement": "Dieu n'impose à personne un fardeau supérieur à ses forces.",
+      "reference": "2:286",
+      "source": "Coran",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Résilience",
+        "description": "Dieu n'impose à personne un fardeau supérieur à ses forces.",
+        "mots_cles": [
+          "résilience"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Dieu n'impose à personne un fardeau supérieur à ses forces.",
+        "mots_cles": [
+          "résilience"
+        ]
+      }
+    },
+    {
+      "id": "coran_003",
+      "tradition": "Sagesse — Coran",
+      "titre": "39:53",
+      "symbole": "✧",
+      "theme": "Espoir",
+      "enseignement": "Ne désespère pas de la miséricorde divine.",
+      "reference": "39:53",
+      "source": "Coran",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Espoir",
+        "description": "Ne désespère pas de la miséricorde divine.",
+        "mots_cles": [
+          "espoir"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Ne désespère pas de la miséricorde divine.",
+        "mots_cles": [
+          "espoir"
+        ]
+      }
+    },
+    {
+      "id": "coran_004",
+      "tradition": "Sagesse — Coran",
+      "titre": "2:153",
+      "symbole": "✧",
+      "theme": "Patience",
+      "enseignement": "Dieu est avec ceux qui patientent.",
+      "reference": "2:153",
+      "source": "Coran",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Patience",
+        "description": "Dieu est avec ceux qui patientent.",
+        "mots_cles": [
+          "patience"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Dieu est avec ceux qui patientent.",
+        "mots_cles": [
+          "patience"
+        ]
+      }
+    },
+    {
+      "id": "coran_005",
+      "tradition": "Sagesse — Coran",
+      "titre": "2:216",
+      "symbole": "✧",
+      "theme": "Discernement",
+      "enseignement": "Peut-être détestez-vous une chose qui est pourtant un bien pour vous.",
+      "reference": "2:216",
+      "source": "Coran",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Discernement",
+        "description": "Peut-être détestez-vous une chose qui est pourtant un bien pour vous.",
+        "mots_cles": [
+          "discernement"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Peut-être détestez-vous une chose qui est pourtant un bien pour vous.",
+        "mots_cles": [
+          "discernement"
+        ]
+      }
+    },
+    {
+      "id": "coran_006",
+      "tradition": "Sagesse — Coran",
+      "titre": "2:216",
+      "symbole": "✧",
+      "theme": "Prudence",
+      "enseignement": "Peut-être aimez-vous une chose qui est pourtant un mal pour vous.",
+      "reference": "2:216",
+      "source": "Coran",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Prudence",
+        "description": "Peut-être aimez-vous une chose qui est pourtant un mal pour vous.",
+        "mots_cles": [
+          "prudence"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Peut-être aimez-vous une chose qui est pourtant un mal pour vous.",
+        "mots_cles": [
+          "prudence"
+        ]
+      }
+    },
+    {
+      "id": "coran_007",
+      "tradition": "Sagesse — Coran",
+      "titre": "13:11",
+      "symbole": "✧",
+      "theme": "Transformation",
+      "enseignement": "La condition d'un peuple change lorsque celui-ci change ce qui est en lui-même.",
+      "reference": "13:11",
+      "source": "Coran",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Transformation",
+        "description": "La condition d'un peuple change lorsque celui-ci change ce qui est en lui-même.",
+        "mots_cles": [
+          "transformation"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "La condition d'un peuple change lorsque celui-ci change ce qui est en lui-même.",
+        "mots_cles": [
+          "transformation"
+        ]
+      }
+    },
+    {
+      "id": "coran_008",
+      "tradition": "Sagesse — Coran",
+      "titre": "99:7",
+      "symbole": "✧",
+      "theme": "Conséquences",
+      "enseignement": "Quiconque accomplit le poids d'un atome de bien le verra.",
+      "reference": "99:7",
+      "source": "Coran",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Conséquences",
+        "description": "Quiconque accomplit le poids d'un atome de bien le verra.",
+        "mots_cles": [
+          "conséquences"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Quiconque accomplit le poids d'un atome de bien le verra.",
+        "mots_cles": [
+          "conséquences"
+        ]
+      }
+    },
+    {
+      "id": "coran_009",
+      "tradition": "Sagesse — Coran",
+      "titre": "99:8",
+      "symbole": "✧",
+      "theme": "Responsabilité",
+      "enseignement": "Quiconque accomplit le poids d'un atome de mal le verra.",
+      "reference": "99:8",
+      "source": "Coran",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Responsabilité",
+        "description": "Quiconque accomplit le poids d'un atome de mal le verra.",
+        "mots_cles": [
+          "responsabilité"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Quiconque accomplit le poids d'un atome de mal le verra.",
+        "mots_cles": [
+          "responsabilité"
+        ]
+      }
+    },
+    {
+      "id": "coran_010",
+      "tradition": "Sagesse — Coran",
+      "titre": "41:34",
+      "symbole": "✧",
+      "theme": "Bienveillance",
+      "enseignement": "Repousse le mal par ce qui est meilleur.",
+      "reference": "41:34",
+      "source": "Coran",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Bienveillance",
+        "description": "Repousse le mal par ce qui est meilleur.",
+        "mots_cles": [
+          "bienveillance"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Repousse le mal par ce qui est meilleur.",
+        "mots_cles": [
+          "bienveillance"
+        ]
+      }
+    },
+    {
+      "id": "coran_011",
+      "tradition": "Sagesse — Coran",
+      "titre": "17:37",
+      "symbole": "✧",
+      "theme": "Humilité",
+      "enseignement": "Ne marche pas sur terre avec arrogance.",
+      "reference": "17:37",
+      "source": "Coran",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Humilité",
+        "description": "Ne marche pas sur terre avec arrogance.",
+        "mots_cles": [
+          "humilité"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Ne marche pas sur terre avec arrogance.",
+        "mots_cles": [
+          "humilité"
+        ]
+      }
+    },
+    {
+      "id": "coran_012",
+      "tradition": "Sagesse — Coran",
+      "titre": "17:36",
+      "symbole": "✧",
+      "theme": "Discernement",
+      "enseignement": "Ne poursuis pas ce dont tu n'as aucune connaissance.",
+      "reference": "17:36",
+      "source": "Coran",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Discernement",
+        "description": "Ne poursuis pas ce dont tu n'as aucune connaissance.",
+        "mots_cles": [
+          "discernement"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Ne poursuis pas ce dont tu n'as aucune connaissance.",
+        "mots_cles": [
+          "discernement"
+        ]
+      }
+    },
+    {
+      "id": "coran_013",
+      "tradition": "Sagesse — Coran",
+      "titre": "3:185",
+      "symbole": "✧",
+      "theme": "Impermanence",
+      "enseignement": "Toute âme goûtera la mort.",
+      "reference": "3:185",
+      "source": "Coran",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Impermanence",
+        "description": "Toute âme goûtera la mort.",
+        "mots_cles": [
+          "impermanence"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Toute âme goûtera la mort.",
+        "mots_cles": [
+          "impermanence"
+        ]
+      }
+    },
+    {
+      "id": "coran_014",
+      "tradition": "Sagesse — Coran",
+      "titre": "49:11",
+      "symbole": "✧",
+      "theme": "Respect",
+      "enseignement": "Ne te moque pas des autres : ils peuvent être meilleurs que toi.",
+      "reference": "49:11",
+      "source": "Coran",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Respect",
+        "description": "Ne te moque pas des autres : ils peuvent être meilleurs que toi.",
+        "mots_cles": [
+          "respect"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Ne te moque pas des autres : ils peuvent être meilleurs que toi.",
+        "mots_cles": [
+          "respect"
+        ]
+      }
+    },
+    {
+      "id": "coran_015",
+      "tradition": "Sagesse — Coran",
+      "titre": "49:12",
+      "symbole": "✧",
+      "theme": "Confiance",
+      "enseignement": "Évite les soupçons excessifs.",
+      "reference": "49:12",
+      "source": "Coran",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Confiance",
+        "description": "Évite les soupçons excessifs.",
+        "mots_cles": [
+          "confiance"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Évite les soupçons excessifs.",
+        "mots_cles": [
+          "confiance"
+        ]
+      }
+    },
+    {
+      "id": "coran_016",
+      "tradition": "Sagesse — Coran",
+      "titre": "49:13",
+      "symbole": "✧",
+      "theme": "Diversité",
+      "enseignement": "Nous vous avons faits différents pour que vous vous connaissiez.",
+      "reference": "49:13",
+      "source": "Coran",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Diversité",
+        "description": "Nous vous avons faits différents pour que vous vous connaissiez.",
+        "mots_cles": [
+          "diversité"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Nous vous avons faits différents pour que vous vous connaissiez.",
+        "mots_cles": [
+          "diversité"
+        ]
+      }
+    },
+    {
+      "id": "coran_017",
+      "tradition": "Sagesse — Coran",
+      "titre": "2:42",
+      "symbole": "✧",
+      "theme": "Honnêteté",
+      "enseignement": "Ne cache pas la vérité lorsque tu la connais.",
+      "reference": "2:42",
+      "source": "Coran",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Honnêteté",
+        "description": "Ne cache pas la vérité lorsque tu la connais.",
+        "mots_cles": [
+          "honnêteté"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Ne cache pas la vérité lorsque tu la connais.",
+        "mots_cles": [
+          "honnêteté"
+        ]
+      }
+    },
+    {
+      "id": "coran_018",
+      "tradition": "Sagesse — Coran",
+      "titre": "2:263",
+      "symbole": "✧",
+      "theme": "Générosité",
+      "enseignement": "Une parole bienveillante et un pardon valent mieux qu'un don suivi d'une offense.",
+      "reference": "2:263",
+      "source": "Coran",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Générosité",
+        "description": "Une parole bienveillante et un pardon valent mieux qu'un don suivi d'une offense.",
+        "mots_cles": [
+          "générosité"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Une parole bienveillante et un pardon valent mieux qu'un don suivi d'une offense.",
+        "mots_cles": [
+          "générosité"
+        ]
+      }
+    },
+    {
+      "id": "coran_019",
+      "tradition": "Sagesse — Coran",
+      "titre": "12:87",
+      "symbole": "✧",
+      "theme": "Persévérance",
+      "enseignement": "Ne désespérez pas du secours de Dieu.",
+      "reference": "12:87",
+      "source": "Coran",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Persévérance",
+        "description": "Ne désespérez pas du secours de Dieu.",
+        "mots_cles": [
+          "persévérance"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Ne désespérez pas du secours de Dieu.",
+        "mots_cles": [
+          "persévérance"
+        ]
+      }
+    },
+    {
+      "id": "coran_020",
+      "tradition": "Sagesse — Coran",
+      "titre": "5:48",
+      "symbole": "✧",
+      "theme": "Action",
+      "enseignement": "Rivalisez dans les bonnes actions.",
+      "reference": "5:48",
+      "source": "Coran",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Action",
+        "description": "Rivalisez dans les bonnes actions.",
+        "mots_cles": [
+          "action"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Rivalisez dans les bonnes actions.",
+        "mots_cles": [
+          "action"
+        ]
+      }
+    },
+    {
+      "id": "coran_021",
+      "tradition": "Sagesse — Coran",
+      "titre": "2:269",
+      "symbole": "✧",
+      "theme": "Connaissance",
+      "enseignement": "Celui qui reçoit la sagesse reçoit un bien immense.",
+      "reference": "2:269",
+      "source": "Coran",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Connaissance",
+        "description": "Celui qui reçoit la sagesse reçoit un bien immense.",
+        "mots_cles": [
+          "connaissance"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Celui qui reçoit la sagesse reçoit un bien immense.",
+        "mots_cles": [
+          "connaissance"
+        ]
+      }
+    },
+    {
+      "id": "coran_022",
+      "tradition": "Sagesse — Coran",
+      "titre": "31:19",
+      "symbole": "✧",
+      "theme": "Modération",
+      "enseignement": "Sois modéré dans ta démarche et baisse la voix.",
+      "reference": "31:19",
+      "source": "Coran",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Modération",
+        "description": "Sois modéré dans ta démarche et baisse la voix.",
+        "mots_cles": [
+          "modération"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Sois modéré dans ta démarche et baisse la voix.",
+        "mots_cles": [
+          "modération"
+        ]
+      }
+    },
+    {
+      "id": "coran_023",
+      "tradition": "Sagesse — Coran",
+      "titre": "31:18",
+      "symbole": "✧",
+      "theme": "Respect",
+      "enseignement": "Ne détourne pas ton visage des autres par mépris.",
+      "reference": "31:18",
+      "source": "Coran",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Respect",
+        "description": "Ne détourne pas ton visage des autres par mépris.",
+        "mots_cles": [
+          "respect"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Ne détourne pas ton visage des autres par mépris.",
+        "mots_cles": [
+          "respect"
+        ]
+      }
+    },
+    {
+      "id": "coran_024",
+      "tradition": "Sagesse — Coran",
+      "titre": "53:39",
+      "symbole": "✧",
+      "theme": "Travail",
+      "enseignement": "L'être humain n'obtient que le fruit de ses efforts.",
+      "reference": "53:39",
+      "source": "Coran",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Travail",
+        "description": "L'être humain n'obtient que le fruit de ses efforts.",
+        "mots_cles": [
+          "travail"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "L'être humain n'obtient que le fruit de ses efforts.",
+        "mots_cles": [
+          "travail"
+        ]
+      }
+    },
+    {
+      "id": "coran_025",
+      "tradition": "Sagesse — Coran",
+      "titre": "3:159",
+      "symbole": "✧",
+      "theme": "Engagement",
+      "enseignement": "Après avoir pris une décision, place ta confiance en Dieu.",
+      "reference": "3:159",
+      "source": "Coran",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Engagement",
+        "description": "Après avoir pris une décision, place ta confiance en Dieu.",
+        "mots_cles": [
+          "engagement"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Après avoir pris une décision, place ta confiance en Dieu.",
+        "mots_cles": [
+          "engagement"
+        ]
+      }
+    },
+    {
+      "id": "coran_026",
+      "tradition": "Sagesse — Coran",
+      "titre": "28:77",
+      "symbole": "✧",
+      "theme": "Équilibre",
+      "enseignement": "N'oublie pas ta part de la vie présente.",
+      "reference": "28:77",
+      "source": "Coran",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Équilibre",
+        "description": "N'oublie pas ta part de la vie présente.",
+        "mots_cles": [
+          "équilibre"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "N'oublie pas ta part de la vie présente.",
+        "mots_cles": [
+          "équilibre"
+        ]
+      }
+    },
+    {
+      "id": "coran_027",
+      "tradition": "Sagesse — Coran",
+      "titre": "17:34",
+      "symbole": "✧",
+      "theme": "Fidélité",
+      "enseignement": "Respectez vos engagements.",
+      "reference": "17:34",
+      "source": "Coran",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Fidélité",
+        "description": "Respectez vos engagements.",
+        "mots_cles": [
+          "fidélité"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Respectez vos engagements.",
+        "mots_cles": [
+          "fidélité"
+        ]
+      }
+    },
+    {
+      "id": "coran_028",
+      "tradition": "Sagesse — Coran",
+      "titre": "5:8",
+      "symbole": "✧",
+      "theme": "Équité",
+      "enseignement": "Ne laissez pas votre haine vous détourner de la justice.",
+      "reference": "5:8",
+      "source": "Coran",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Équité",
+        "description": "Ne laissez pas votre haine vous détourner de la justice.",
+        "mots_cles": [
+          "équité"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Ne laissez pas votre haine vous détourner de la justice.",
+        "mots_cles": [
+          "équité"
+        ]
+      }
+    },
+    {
+      "id": "coran_029",
+      "tradition": "Sagesse — Coran",
+      "titre": "42:40",
+      "symbole": "✧",
+      "theme": "Réconciliation",
+      "enseignement": "Pardonner et se réconcilier est digne de récompense.",
+      "reference": "42:40",
+      "source": "Coran",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Réconciliation",
+        "description": "Pardonner et se réconcilier est digne de récompense.",
+        "mots_cles": [
+          "réconciliation"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Pardonner et se réconcilier est digne de récompense.",
+        "mots_cles": [
+          "réconciliation"
+        ]
+      }
+    },
+    {
+      "id": "coran_030",
+      "tradition": "Sagesse — Coran",
+      "titre": "41:34",
+      "symbole": "✧",
+      "theme": "Éthique",
+      "enseignement": "La bonne action et la mauvaise action ne sont pas égales.",
+      "reference": "41:34",
+      "source": "Coran",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Éthique",
+        "description": "La bonne action et la mauvaise action ne sont pas égales.",
+        "mots_cles": [
+          "éthique"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "La bonne action et la mauvaise action ne sont pas égales.",
+        "mots_cles": [
+          "éthique"
+        ]
+      }
+    },
+    {
+      "id": "coran_031",
+      "tradition": "Sagesse — Coran",
+      "titre": "7:31",
+      "symbole": "✧",
+      "theme": "Mesure",
+      "enseignement": "Ne te laisse pas emporter par le gaspillage.",
+      "reference": "7:31",
+      "source": "Coran",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Mesure",
+        "description": "Ne te laisse pas emporter par le gaspillage.",
+        "mots_cles": [
+          "mesure"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Ne te laisse pas emporter par le gaspillage.",
+        "mots_cles": [
+          "mesure"
+        ]
+      }
+    },
+    {
+      "id": "coran_032",
+      "tradition": "Sagesse — Coran",
+      "titre": "3:134",
+      "symbole": "✧",
+      "theme": "Maîtrise de soi",
+      "enseignement": "Les croyants qui maîtrisent leur colère savent aussi pardonner.",
+      "reference": "3:134",
+      "source": "Coran",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Maîtrise de soi",
+        "description": "Les croyants qui maîtrisent leur colère savent aussi pardonner.",
+        "mots_cles": [
+          "maîtrise de soi"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Les croyants qui maîtrisent leur colère savent aussi pardonner.",
+        "mots_cles": [
+          "maîtrise de soi"
+        ]
+      }
+    }
+  ]
+}

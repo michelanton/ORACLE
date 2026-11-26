@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="fr">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+    <meta name="theme-color" content="#101217">
+    <title>Oracle universel</title>
+    <link rel="manifest" href="manifest.json">
+    <link rel="apple-touch-icon" href="icons/icon-192.png">
+    <link rel="stylesheet" href="style.css">
+    <script src="app.js" defer></script>
+</head>
+
+<body>
+    <main>
+        <header>ORACLE UNIVERSEL</header>
+        <section id="consultation">
+            <div class="emblem" aria-hidden="true">✧</div>
+            <h1>Toutes les sagesses.<br>Un seul oracle.</h1>
+            <p id="intro"></p><button id="draw" disabled>Consulter l’oracle</button>
+            <div id="results" aria-live="polite"></div><button id="save" hidden>♡ Conserver le tirage</button>
+            <div class="mode-consultation"><label for="mode">Mode de consultation</label><select id="mode">
+                    <option value="simple">Tirage simple</option>
+                    <option value="croise">Tirage croisé</option>
+                </select></div>
+        </section>
+        <section id="favorites" hidden>
+            <h1>Mes favoris</h1>
+            <div id="saved"></div>
+        </section>
+        <section id="info" hidden>
+            <h1>À propos</h1>
+            <p id="base-info">25 traditions symboliques et 769 symboles. Les interprétations sont des pistes de
+                réflexion, non des prédictions.</p>
+            <p>Android : Chrome, menu, installer ou ajouter à l’écran d’accueil. iPhone : Safari, Partager, Sur l’écran
+                d’accueil. Hébergement HTTPS requis.</p>
+            <h2>Crédits et licences</h2>
+            <p>147 compositions SVG originales créées pour cet oracle, sans reproduction externe. Les pictogrammes
+                utilisent les polices disponibles sur votre appareil. Les cartes du Tarot sont des évocations
+                symboliques, non des reproductions historiques.</p>
+            <p id="offline"></p>
+            <p>Version 1.15 (base 1.11) — Les favoris sont stockés sur cet appareil.</p>
+        </section>
+        <p id="status" role="status">Chargement des symboles…</p>
+        <footer>Le hasard propose. À vous d’interpréter.</footer>
+    </main>
+    <nav aria-label="Navigation"><button data-page="consultation" aria-current="page">Oracle</button><button
+            data-page="favorites">Favoris</button><button data-page="info">Infos</button></nav>
+</body>
+
+</html>

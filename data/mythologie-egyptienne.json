@@ -1,0 +1,351 @@
+{
+  "version": "1.5",
+  "tradition": "Mythologie égyptienne",
+  "references": [
+    {
+      "tradition": "Mythologie égyptienne",
+      "nombre_symboles": 13,
+      "source": "Synthèse éditoriale originale ; sources historiques à compléter"
+    }
+  ],
+  "symboles": [
+    {
+      "tradition": "Mythologie égyptienne",
+      "id": "Mythologie égyptienne:re",
+      "titre": "Rê",
+      "symbole": "Rê",
+      "theme": "Soleil",
+      "signification_fondamentale": "Soleil",
+      "positive": {
+        "famille": "Vitalité",
+        "description": "Comme le soleil renouvelle chaque jour sa lumière, cultive en toi l’énergie qui donne vie à tes projets et réchauffe tes relations.",
+        "mots_cles": [
+          "vitalité",
+          "soleil"
+        ]
+      },
+      "negative": {
+        "famille": "Orgueil",
+        "description": "À vouloir briller plus que les autres, tu risques de laisser ton orgueil obscurcir la lumière que tu pourrais partager.",
+        "mots_cles": [
+          "orgueil",
+          "soleil"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Dieu solaire dont la course structure le cycle du jour."
+    },
+    {
+      "tradition": "Mythologie égyptienne",
+      "id": "Mythologie égyptienne:osiris",
+      "titre": "Osiris",
+      "symbole": "Osiris",
+      "theme": "Renaissance",
+      "signification_fondamentale": "Renaissance",
+      "positive": {
+        "famille": "Renouveau",
+        "description": "La renaissance commence lorsque tu acceptes de laisser derrière toi ce qui s’achève pour donner une forme nouvelle à ton existence.",
+        "mots_cles": [
+          "renouveau",
+          "renaissance"
+        ]
+      },
+      "negative": {
+        "famille": "Attachement",
+        "description": "L’attachement à ce qui n’est plus peut t’empêcher de reconnaître les possibilités de renouveau qui s’offrent à toi.",
+        "mots_cles": [
+          "attachement",
+          "renaissance"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Dieu des morts et de la régénération, il est reconstitué par Isis."
+    },
+    {
+      "tradition": "Mythologie égyptienne",
+      "id": "Mythologie égyptienne:isis",
+      "titre": "Isis",
+      "symbole": "Isis",
+      "theme": "Protection",
+      "signification_fondamentale": "Protection",
+      "positive": {
+        "famille": "Compassion",
+        "description": "La compassion donne tout son sens à la protection lorsqu’elle aide l’autre à retrouver ses propres forces.",
+        "mots_cles": [
+          "compassion",
+          "protection"
+        ]
+      },
+      "negative": {
+        "famille": "Surprotection",
+        "description": "À vouloir épargner toute difficulté à ceux que tu aimes, tu risques de les priver de la liberté de grandir.",
+        "mots_cles": [
+          "surprotection",
+          "protection"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Déesse de la magie, elle restaure Osiris et protège Horus."
+    },
+    {
+      "tradition": "Mythologie égyptienne",
+      "id": "Mythologie égyptienne:horus",
+      "titre": "Horus",
+      "symbole": "Horus",
+      "theme": "Souveraineté",
+      "signification_fondamentale": "Souveraineté",
+      "positive": {
+        "famille": "Courage",
+        "description": "Le courage véritable consiste à devenir maître de ses choix sans chercher à régner sur ceux des autres.",
+        "mots_cles": [
+          "courage",
+          "souveraineté"
+        ]
+      },
+      "negative": {
+        "famille": "Rivalité",
+        "description": "Lorsque la rivalité gouverne tes ambitions, tu risques de mesurer ta liberté à tes victoires plutôt qu’à ta capacité de choisir.",
+        "mots_cles": [
+          "rivalité",
+          "souveraineté"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Dieu faucon associé à la royauté, il affronte Seth."
+    },
+    {
+      "tradition": "Mythologie égyptienne",
+      "id": "Mythologie égyptienne:seth",
+      "titre": "Seth",
+      "symbole": "Seth",
+      "theme": "Désordre",
+      "signification_fondamentale": "Désordre",
+      "positive": {
+        "famille": "Adaptation",
+        "description": "Le désordre peut devenir une occasion de renouvellement lorsque tu apprends à adapter tes habitudes à ce que tu ne maîtrises pas.",
+        "mots_cles": [
+          "adaptation",
+          "désordre"
+        ]
+      },
+      "negative": {
+        "famille": "Violence",
+        "description": "Répondre au désordre par la violence ne fait souvent qu’amplifier le chaos que tu cherches à surmonter.",
+        "mots_cles": [
+          "violence",
+          "désordre"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Dieu du désert et des tempêtes, il s'oppose à Osiris."
+    },
+    {
+      "tradition": "Mythologie égyptienne",
+      "id": "Mythologie égyptienne:anubis",
+      "titre": "Anubis",
+      "symbole": "Anubis",
+      "theme": "Passage",
+      "signification_fondamentale": "Passage",
+      "positive": {
+        "famille": "Accompagnement",
+        "description": "Dans les passages difficiles de l’existence, une présence bienveillante peut aider à franchir le seuil de l’inconnu sans imposer de direction.",
+        "mots_cles": [
+          "accompagnement",
+          "passage"
+        ]
+      },
+      "negative": {
+        "famille": "Inquiétude",
+        "description": "L’inquiétude devant l’inconnu peut te retenir au seuil d’un changement dont tu ne peux découvrir le sens qu’en avançant.",
+        "mots_cles": [
+          "inquiétude",
+          "passage"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Dieu des rites funéraires, il accompagne les morts."
+    },
+    {
+      "tradition": "Mythologie égyptienne",
+      "id": "Mythologie égyptienne:thot",
+      "titre": "Thot",
+      "symbole": "Thot",
+      "theme": "Écriture",
+      "signification_fondamentale": "Écriture",
+      "positive": {
+        "famille": "Connaissance",
+        "description": "L’écriture donne une forme à la pensée et transforme la connaissance en un bien que tu peux transmettre.",
+        "mots_cles": [
+          "connaissance",
+          "écriture"
+        ]
+      },
+      "negative": {
+        "famille": "Calcul excessif",
+        "description": "À vouloir tout calculer avant de donner forme à tes pensées, tu risques d’étouffer la spontanéité qui nourrit la connaissance.",
+        "mots_cles": [
+          "calcul excessif",
+          "écriture"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Dieu de l'écriture et du savoir."
+    },
+    {
+      "tradition": "Mythologie égyptienne",
+      "id": "Mythologie égyptienne:maat",
+      "titre": "Maât",
+      "symbole": "Maât",
+      "theme": "Équilibre",
+      "signification_fondamentale": "Équilibre",
+      "positive": {
+        "famille": "Justice",
+        "description": "La justice véritable recherche un équilibre entre la fidélité aux principes et la compréhension des situations humaines.",
+        "mots_cles": [
+          "justice",
+          "équilibre"
+        ]
+      },
+      "negative": {
+        "famille": "Intransigeance",
+        "description": "L’intransigeance peut transformer la recherche de justice en une rigidité qui détruit l’équilibre qu’elle prétend défendre.",
+        "mots_cles": [
+          "intransigeance",
+          "équilibre"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Elle personnifie la vérité et l'ordre cosmique."
+    },
+    {
+      "tradition": "Mythologie égyptienne",
+      "id": "Mythologie égyptienne:hathor",
+      "titre": "Hathor",
+      "symbole": "Hathor",
+      "theme": "Joie",
+      "signification_fondamentale": "Joie",
+      "positive": {
+        "famille": "Affection",
+        "description": "La joie s’approfondit lorsque l’affection et le plaisir de partager donnent du sens aux instants ordinaires.",
+        "mots_cles": [
+          "affection",
+          "joie"
+        ]
+      },
+      "negative": {
+        "famille": "Excès",
+        "description": "À poursuivre le plaisir sans mesure, tu risques de perdre la capacité de goûter les joies simples de l’existence.",
+        "mots_cles": [
+          "excès",
+          "joie"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Déesse de la musique, de l'amour et de la joie."
+    },
+    {
+      "tradition": "Mythologie égyptienne",
+      "id": "Mythologie égyptienne:sekhmet",
+      "titre": "Sekhmet",
+      "symbole": "Sekhmet",
+      "theme": "Puissance",
+      "signification_fondamentale": "Puissance",
+      "positive": {
+        "famille": "Protection",
+        "description": "La puissance trouve sa noblesse lorsqu’elle protège ce qui est fragile plutôt que d’affirmer sa supériorité.",
+        "mots_cles": [
+          "protection",
+          "puissance"
+        ]
+      },
+      "negative": {
+        "famille": "Fureur",
+        "description": "Lorsque la fureur prend le pouvoir sur tes actes, la force qui devait protéger peut devenir une force de destruction.",
+        "mots_cles": [
+          "fureur",
+          "puissance"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Déesse lionne associée à la guerre et à la guérison."
+    },
+    {
+      "tradition": "Mythologie égyptienne",
+      "id": "Mythologie égyptienne:bastet",
+      "titre": "Bastet",
+      "symbole": "Bastet",
+      "theme": "Foyer",
+      "signification_fondamentale": "Foyer",
+      "positive": {
+        "famille": "Douceur",
+        "description": "Un foyer devient un véritable refuge lorsque la douceur et la confiance permettent à chacun d’y être lui-même.",
+        "mots_cles": [
+          "douceur",
+          "foyer"
+        ]
+      },
+      "negative": {
+        "famille": "Méfiance",
+        "description": "Lorsque la méfiance ferme toutes les portes, le refuge que tu cherches à préserver risque de devenir un lieu d’isolement.",
+        "mots_cles": [
+          "méfiance",
+          "foyer"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Déesse féline protectrice du foyer."
+    },
+    {
+      "tradition": "Mythologie égyptienne",
+      "id": "Mythologie égyptienne:ptah",
+      "titre": "Ptah",
+      "symbole": "Ptah",
+      "theme": "Création",
+      "signification_fondamentale": "Création",
+      "positive": {
+        "famille": "Inventivité",
+        "description": "Créer, c’est donner une forme à ce qui n’existe encore que dans l’imagination, en laissant l’inventivité guider le savoir-faire.",
+        "mots_cles": [
+          "inventivité",
+          "création"
+        ]
+      },
+      "negative": {
+        "famille": "Rigidité",
+        "description": "La rigidité des habitudes peut enfermer la création dans la répétition et empêcher l’apparition de formes nouvelles.",
+        "mots_cles": [
+          "rigidité",
+          "création"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Dieu créateur et patron des artisans."
+    },
+    {
+      "tradition": "Mythologie égyptienne",
+      "id": "Mythologie égyptienne:amon",
+      "titre": "Amon",
+      "symbole": "Amon",
+      "theme": "Mystère",
+      "signification_fondamentale": "Mystère",
+      "positive": {
+        "famille": "Introspection",
+        "description": "L’introspection invite à explorer les dimensions cachées de ton être sans exiger que chaque mystère trouve immédiatement une réponse.",
+        "mots_cles": [
+          "introspection",
+          "mystère"
+        ]
+      },
+      "negative": {
+        "famille": "Dissimulation",
+        "description": "Le mystère nourrit la réflexion, mais la dissimulation peut t’éloigner de la vérité que tu refuses de reconnaître en toi.",
+        "mots_cles": [
+          "dissimulation",
+          "mystère"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Divinité thébaine associée au pouvoir créateur caché."
+    }
+  ]
+}

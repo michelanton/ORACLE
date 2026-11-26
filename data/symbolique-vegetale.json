@@ -1,0 +1,763 @@
+{
+  "version": "1.5",
+  "tradition": "Symbolique végétale",
+  "references": [
+    {
+      "tradition": "Symbolique végétale",
+      "nombre_symboles": 30,
+      "source": "Synthèse éditoriale originale ; sources historiques à compléter"
+    }
+  ],
+  "symboles": [
+    {
+      "tradition": "Symbolique végétale",
+      "id": "Symbolique végétale:chene",
+      "titre": "Chêne",
+      "symbole": "Chêne",
+      "theme": "Solidité",
+      "signification_fondamentale": "Solidité",
+      "positive": {
+        "famille": "Endurance",
+        "description": "Explorer endurance dans la situation, sans perdre de vue solidité.",
+        "mots_cles": [
+          "endurance",
+          "solidité"
+        ]
+      },
+      "negative": {
+        "famille": "Rigidité",
+        "description": "Observer comment rigidité peut entraver ou déséquilibrer solidité.",
+        "mots_cles": [
+          "rigidité",
+          "solidité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique végétale",
+      "id": "Symbolique végétale:saule",
+      "titre": "Saule",
+      "symbole": "Saule",
+      "theme": "Souplesse",
+      "signification_fondamentale": "Souplesse",
+      "positive": {
+        "famille": "Adaptation",
+        "description": "Explorer adaptation dans la situation, sans perdre de vue souplesse.",
+        "mots_cles": [
+          "adaptation",
+          "souplesse"
+        ]
+      },
+      "negative": {
+        "famille": "Mélancolie",
+        "description": "Observer comment mélancolie peut entraver ou déséquilibrer souplesse.",
+        "mots_cles": [
+          "mélancolie",
+          "souplesse"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique végétale",
+      "id": "Symbolique végétale:olivier",
+      "titre": "Olivier",
+      "symbole": "Olivier",
+      "theme": "Paix",
+      "signification_fondamentale": "Paix",
+      "positive": {
+        "famille": "Réconciliation",
+        "description": "Explorer réconciliation dans la situation, sans perdre de vue paix.",
+        "mots_cles": [
+          "réconciliation",
+          "paix"
+        ]
+      },
+      "negative": {
+        "famille": "Passivité",
+        "description": "Observer comment passivité peut entraver ou déséquilibrer paix.",
+        "mots_cles": [
+          "passivité",
+          "paix"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique végétale",
+      "id": "Symbolique végétale:bouleau",
+      "titre": "Bouleau",
+      "symbole": "Bouleau",
+      "theme": "Renouveau",
+      "signification_fondamentale": "Renouveau",
+      "positive": {
+        "famille": "Régénération",
+        "description": "Explorer régénération dans la situation, sans perdre de vue renouveau.",
+        "mots_cles": [
+          "régénération",
+          "renouveau"
+        ]
+      },
+      "negative": {
+        "famille": "Instabilité",
+        "description": "Observer comment instabilité peut entraver ou déséquilibrer renouveau.",
+        "mots_cles": [
+          "instabilité",
+          "renouveau"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique végétale",
+      "id": "Symbolique végétale:rose",
+      "titre": "Rose",
+      "symbole": "Rose",
+      "theme": "Amour",
+      "signification_fondamentale": "Amour",
+      "positive": {
+        "famille": "Affection",
+        "description": "Explorer affection dans la situation, sans perdre de vue amour.",
+        "mots_cles": [
+          "affection",
+          "amour"
+        ]
+      },
+      "negative": {
+        "famille": "Jalousie",
+        "description": "Observer comment jalousie peut entraver ou déséquilibrer amour.",
+        "mots_cles": [
+          "jalousie",
+          "amour"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique végétale",
+      "id": "Symbolique végétale:lotus",
+      "titre": "Lotus",
+      "symbole": "Lotus",
+      "theme": "Émergence",
+      "signification_fondamentale": "Émergence",
+      "positive": {
+        "famille": "Éveil",
+        "description": "Explorer éveil dans la situation, sans perdre de vue émergence.",
+        "mots_cles": [
+          "éveil",
+          "émergence"
+        ]
+      },
+      "negative": {
+        "famille": "Idéalisation",
+        "description": "Observer comment idéalisation peut entraver ou déséquilibrer émergence.",
+        "mots_cles": [
+          "idéalisation",
+          "émergence"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique végétale",
+      "id": "Symbolique végétale:lierre",
+      "titre": "Lierre",
+      "symbole": "Lierre",
+      "theme": "Attachement",
+      "signification_fondamentale": "Attachement",
+      "positive": {
+        "famille": "Fidélité",
+        "description": "Explorer fidélité dans la situation, sans perdre de vue attachement.",
+        "mots_cles": [
+          "fidélité",
+          "attachement"
+        ]
+      },
+      "negative": {
+        "famille": "Dépendance",
+        "description": "Observer comment dépendance peut entraver ou déséquilibrer attachement.",
+        "mots_cles": [
+          "dépendance",
+          "attachement"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique végétale",
+      "id": "Symbolique végétale:lavande",
+      "titre": "Lavande",
+      "symbole": "Lavande",
+      "theme": "Apaisement",
+      "signification_fondamentale": "Apaisement",
+      "positive": {
+        "famille": "Sérénité",
+        "description": "Explorer sérénité dans la situation, sans perdre de vue apaisement.",
+        "mots_cles": [
+          "sérénité",
+          "apaisement"
+        ]
+      },
+      "negative": {
+        "famille": "Évitement",
+        "description": "Observer comment évitement peut entraver ou déséquilibrer apaisement.",
+        "mots_cles": [
+          "évitement",
+          "apaisement"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique végétale",
+      "id": "Symbolique végétale:ortie",
+      "titre": "Ortie",
+      "symbole": "Ortie",
+      "theme": "Défense",
+      "signification_fondamentale": "Défense",
+      "positive": {
+        "famille": "Protection",
+        "description": "Explorer protection dans la situation, sans perdre de vue défense.",
+        "mots_cles": [
+          "protection",
+          "défense"
+        ]
+      },
+      "negative": {
+        "famille": "Irritabilité",
+        "description": "Observer comment irritabilité peut entraver ou déséquilibrer défense.",
+        "mots_cles": [
+          "irritabilité",
+          "défense"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique végétale",
+      "id": "Symbolique végétale:bambou",
+      "titre": "Bambou",
+      "symbole": "Bambou",
+      "theme": "Flexibilité",
+      "signification_fondamentale": "Flexibilité",
+      "positive": {
+        "famille": "Résilience",
+        "description": "Explorer résilience dans la situation, sans perdre de vue flexibilité.",
+        "mots_cles": [
+          "résilience",
+          "flexibilité"
+        ]
+      },
+      "negative": {
+        "famille": "Effacement",
+        "description": "Observer comment effacement peut entraver ou déséquilibrer flexibilité.",
+        "mots_cles": [
+          "effacement",
+          "flexibilité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique végétale",
+      "id": "Symbolique végétale:tournesol",
+      "titre": "Tournesol",
+      "symbole": "Tournesol",
+      "theme": "Orientation",
+      "signification_fondamentale": "Orientation",
+      "positive": {
+        "famille": "Optimisme",
+        "description": "Explorer optimisme dans la situation, sans perdre de vue orientation.",
+        "mots_cles": [
+          "optimisme",
+          "orientation"
+        ]
+      },
+      "negative": {
+        "famille": "Quête de reconnaissance",
+        "description": "Observer comment quête de reconnaissance peut entraver ou déséquilibrer orientation.",
+        "mots_cles": [
+          "quête de reconnaissance",
+          "orientation"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique végétale",
+      "id": "Symbolique végétale:pissenlit",
+      "titre": "Pissenlit",
+      "symbole": "Pissenlit",
+      "theme": "Dispersion",
+      "signification_fondamentale": "Dispersion",
+      "positive": {
+        "famille": "Liberté",
+        "description": "Explorer liberté dans la situation, sans perdre de vue dispersion.",
+        "mots_cles": [
+          "liberté",
+          "dispersion"
+        ]
+      },
+      "negative": {
+        "famille": "Éparpillement",
+        "description": "Observer comment éparpillement peut entraver ou déséquilibrer dispersion.",
+        "mots_cles": [
+          "éparpillement",
+          "dispersion"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique végétale",
+      "id": "Symbolique végétale:pin",
+      "titre": "Pin",
+      "symbole": "Pin",
+      "theme": "Persistance",
+      "signification_fondamentale": "Persistance",
+      "positive": {
+        "famille": "Endurance",
+        "description": "Explorer endurance dans la situation, sans perdre de vue persistance.",
+        "mots_cles": [
+          "endurance",
+          "persistance"
+        ]
+      },
+      "negative": {
+        "famille": "Obstination",
+        "description": "Observer comment obstination peut entraver ou déséquilibrer persistance.",
+        "mots_cles": [
+          "obstination",
+          "persistance"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique végétale",
+      "id": "Symbolique végétale:cypres",
+      "titre": "Cyprès",
+      "symbole": "Cyprès",
+      "theme": "Mémoire",
+      "signification_fondamentale": "Mémoire",
+      "positive": {
+        "famille": "Recueillement",
+        "description": "Explorer recueillement dans la situation, sans perdre de vue mémoire.",
+        "mots_cles": [
+          "recueillement",
+          "mémoire"
+        ]
+      },
+      "negative": {
+        "famille": "Mélancolie",
+        "description": "Observer comment mélancolie peut entraver ou déséquilibrer mémoire.",
+        "mots_cles": [
+          "mélancolie",
+          "mémoire"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique végétale",
+      "id": "Symbolique végétale:pommier",
+      "titre": "Pommier",
+      "symbole": "Pommier",
+      "theme": "Fruit",
+      "signification_fondamentale": "Fruit",
+      "positive": {
+        "famille": "Générosité",
+        "description": "Explorer générosité dans la situation, sans perdre de vue fruit.",
+        "mots_cles": [
+          "générosité",
+          "fruit"
+        ]
+      },
+      "negative": {
+        "famille": "Tentation",
+        "description": "Observer comment tentation peut entraver ou déséquilibrer fruit.",
+        "mots_cles": [
+          "tentation",
+          "fruit"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique végétale",
+      "id": "Symbolique végétale:figuier",
+      "titre": "Figuier",
+      "symbole": "Figuier",
+      "theme": "Abondance",
+      "signification_fondamentale": "Abondance",
+      "positive": {
+        "famille": "Fécondité",
+        "description": "Explorer fécondité dans la situation, sans perdre de vue abondance.",
+        "mots_cles": [
+          "fécondité",
+          "abondance"
+        ]
+      },
+      "negative": {
+        "famille": "Excès",
+        "description": "Observer comment excès peut entraver ou déséquilibrer abondance.",
+        "mots_cles": [
+          "excès",
+          "abondance"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique végétale",
+      "id": "Symbolique végétale:vigne",
+      "titre": "Vigne",
+      "symbole": "Vigne",
+      "theme": "Lien",
+      "signification_fondamentale": "Lien",
+      "positive": {
+        "famille": "Partage",
+        "description": "Explorer partage dans la situation, sans perdre de vue lien.",
+        "mots_cles": [
+          "partage",
+          "lien"
+        ]
+      },
+      "negative": {
+        "famille": "Dépendance",
+        "description": "Observer comment dépendance peut entraver ou déséquilibrer lien.",
+        "mots_cles": [
+          "dépendance",
+          "lien"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique végétale",
+      "id": "Symbolique végétale:laurier",
+      "titre": "Laurier",
+      "symbole": "Laurier",
+      "theme": "Victoire",
+      "signification_fondamentale": "Victoire",
+      "positive": {
+        "famille": "Reconnaissance",
+        "description": "Explorer reconnaissance dans la situation, sans perdre de vue victoire.",
+        "mots_cles": [
+          "reconnaissance",
+          "victoire"
+        ]
+      },
+      "negative": {
+        "famille": "Vanité",
+        "description": "Observer comment vanité peut entraver ou déséquilibrer victoire.",
+        "mots_cles": [
+          "vanité",
+          "victoire"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique végétale",
+      "id": "Symbolique végétale:menthe",
+      "titre": "Menthe",
+      "symbole": "Menthe",
+      "theme": "Fraîcheur",
+      "signification_fondamentale": "Fraîcheur",
+      "positive": {
+        "famille": "Vitalité",
+        "description": "Explorer vitalité dans la situation, sans perdre de vue fraîcheur.",
+        "mots_cles": [
+          "vitalité",
+          "fraîcheur"
+        ]
+      },
+      "negative": {
+        "famille": "Agitation",
+        "description": "Observer comment agitation peut entraver ou déséquilibrer fraîcheur.",
+        "mots_cles": [
+          "agitation",
+          "fraîcheur"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique végétale",
+      "id": "Symbolique végétale:thym",
+      "titre": "Thym",
+      "symbole": "Thym",
+      "theme": "Robustesse",
+      "signification_fondamentale": "Robustesse",
+      "positive": {
+        "famille": "Courage",
+        "description": "Explorer courage dans la situation, sans perdre de vue robustesse.",
+        "mots_cles": [
+          "courage",
+          "robustesse"
+        ]
+      },
+      "negative": {
+        "famille": "Sévérité",
+        "description": "Observer comment sévérité peut entraver ou déséquilibrer robustesse.",
+        "mots_cles": [
+          "sévérité",
+          "robustesse"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique végétale",
+      "id": "Symbolique végétale:romarin",
+      "titre": "Romarin",
+      "symbole": "Romarin",
+      "theme": "Souvenir",
+      "signification_fondamentale": "Souvenir",
+      "positive": {
+        "famille": "Fidélité",
+        "description": "Explorer fidélité dans la situation, sans perdre de vue souvenir.",
+        "mots_cles": [
+          "fidélité",
+          "souvenir"
+        ]
+      },
+      "negative": {
+        "famille": "Nostalgie",
+        "description": "Observer comment nostalgie peut entraver ou déséquilibrer souvenir.",
+        "mots_cles": [
+          "nostalgie",
+          "souvenir"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique végétale",
+      "id": "Symbolique végétale:sauge",
+      "titre": "Sauge",
+      "symbole": "Sauge",
+      "theme": "Discernement",
+      "signification_fondamentale": "Discernement",
+      "positive": {
+        "famille": "Sagesse",
+        "description": "Explorer sagesse dans la situation, sans perdre de vue discernement.",
+        "mots_cles": [
+          "sagesse",
+          "discernement"
+        ]
+      },
+      "negative": {
+        "famille": "Dogmatisme",
+        "description": "Observer comment dogmatisme peut entraver ou déséquilibrer discernement.",
+        "mots_cles": [
+          "dogmatisme",
+          "discernement"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique végétale",
+      "id": "Symbolique végétale:muguet",
+      "titre": "Muguet",
+      "symbole": "Muguet",
+      "theme": "Printemps",
+      "signification_fondamentale": "Printemps",
+      "positive": {
+        "famille": "Espoir",
+        "description": "Explorer espoir dans la situation, sans perdre de vue printemps.",
+        "mots_cles": [
+          "espoir",
+          "printemps"
+        ]
+      },
+      "negative": {
+        "famille": "Fragilité",
+        "description": "Observer comment fragilité peut entraver ou déséquilibrer printemps.",
+        "mots_cles": [
+          "fragilité",
+          "printemps"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique végétale",
+      "id": "Symbolique végétale:iris",
+      "titre": "Iris",
+      "symbole": "Iris",
+      "theme": "Message",
+      "signification_fondamentale": "Message",
+      "positive": {
+        "famille": "Communication",
+        "description": "Explorer communication dans la situation, sans perdre de vue message.",
+        "mots_cles": [
+          "communication",
+          "message"
+        ]
+      },
+      "negative": {
+        "famille": "Ambiguïté",
+        "description": "Observer comment ambiguïté peut entraver ou déséquilibrer message.",
+        "mots_cles": [
+          "ambiguïté",
+          "message"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique végétale",
+      "id": "Symbolique végétale:coquelicot",
+      "titre": "Coquelicot",
+      "symbole": "Coquelicot",
+      "theme": "Éphémère",
+      "signification_fondamentale": "Éphémère",
+      "positive": {
+        "famille": "Présence",
+        "description": "Explorer présence dans la situation, sans perdre de vue éphémère.",
+        "mots_cles": [
+          "présence",
+          "éphémère"
+        ]
+      },
+      "negative": {
+        "famille": "Oubli",
+        "description": "Observer comment oubli peut entraver ou déséquilibrer éphémère.",
+        "mots_cles": [
+          "oubli",
+          "éphémère"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique végétale",
+      "id": "Symbolique végétale:fougere",
+      "titre": "Fougère",
+      "symbole": "Fougère",
+      "theme": "Déploiement",
+      "signification_fondamentale": "Déploiement",
+      "positive": {
+        "famille": "Croissance",
+        "description": "Explorer croissance dans la situation, sans perdre de vue déploiement.",
+        "mots_cles": [
+          "croissance",
+          "déploiement"
+        ]
+      },
+      "negative": {
+        "famille": "Repli",
+        "description": "Observer comment repli peut entraver ou déséquilibrer déploiement.",
+        "mots_cles": [
+          "repli",
+          "déploiement"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique végétale",
+      "id": "Symbolique végétale:mousse",
+      "titre": "Mousse",
+      "symbole": "Mousse",
+      "theme": "Discrétion",
+      "signification_fondamentale": "Discrétion",
+      "positive": {
+        "famille": "Adaptation",
+        "description": "Explorer adaptation dans la situation, sans perdre de vue discrétion.",
+        "mots_cles": [
+          "adaptation",
+          "discrétion"
+        ]
+      },
+      "negative": {
+        "famille": "Effacement",
+        "description": "Observer comment effacement peut entraver ou déséquilibrer discrétion.",
+        "mots_cles": [
+          "effacement",
+          "discrétion"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique végétale",
+      "id": "Symbolique végétale:cactus",
+      "titre": "Cactus",
+      "symbole": "Cactus",
+      "theme": "Survie",
+      "signification_fondamentale": "Survie",
+      "positive": {
+        "famille": "Autonomie",
+        "description": "Explorer autonomie dans la situation, sans perdre de vue survie.",
+        "mots_cles": [
+          "autonomie",
+          "survie"
+        ]
+      },
+      "negative": {
+        "famille": "Distance",
+        "description": "Observer comment distance peut entraver ou déséquilibrer survie.",
+        "mots_cles": [
+          "distance",
+          "survie"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique végétale",
+      "id": "Symbolique végétale:ble",
+      "titre": "Blé",
+      "symbole": "Blé",
+      "theme": "Récolte",
+      "signification_fondamentale": "Récolte",
+      "positive": {
+        "famille": "Prévoyance",
+        "description": "Explorer prévoyance dans la situation, sans perdre de vue récolte.",
+        "mots_cles": [
+          "prévoyance",
+          "récolte"
+        ]
+      },
+      "negative": {
+        "famille": "Accumulation",
+        "description": "Observer comment accumulation peut entraver ou déséquilibrer récolte.",
+        "mots_cles": [
+          "accumulation",
+          "récolte"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique végétale",
+      "id": "Symbolique végétale:chataignier",
+      "titre": "Châtaignier",
+      "symbole": "Châtaignier",
+      "theme": "Protection",
+      "signification_fondamentale": "Protection",
+      "positive": {
+        "famille": "Générosité",
+        "description": "Explorer générosité dans la situation, sans perdre de vue protection.",
+        "mots_cles": [
+          "générosité",
+          "protection"
+        ]
+      },
+      "negative": {
+        "famille": "Fermeture",
+        "description": "Observer comment fermeture peut entraver ou déséquilibrer protection.",
+        "mots_cles": [
+          "fermeture",
+          "protection"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    }
+  ]
+}

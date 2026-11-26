@@ -1,0 +1,421 @@
+{
+  "version": "1.5",
+  "tradition": "Astrologie chinoise",
+  "references": [
+    {
+      "tradition": "Astrologie chinoise",
+      "nombre_symboles": 12,
+      "source": "astrologie-chinoise-v11.json"
+    }
+  ],
+  "symboles": [
+    {
+      "tradition": "Astrologie chinoise",
+      "id": "Astrologie chinoise:1",
+      "titre": "Rat",
+      "symbole": "鼠",
+      "theme": "L’ingéniosité",
+      "positive": {
+        "famille": "Adaptabilité",
+        "description": "Observer les possibilités et mobiliser ses ressources avec souplesse aide à surmonter les difficultés.",
+        "mots_cles": [
+          "adaptation",
+          "curiosité",
+          "intelligence",
+          "ressource"
+        ]
+      },
+      "negative": {
+        "famille": "Opportunisme",
+        "description": "Chercher uniquement son avantage risque de fragiliser la confiance mutuelle.",
+        "mots_cles": [
+          "avidité",
+          "manipulation",
+          "égoïsme",
+          "calcul"
+        ]
+      },
+      "image": {
+        "fichier": "images/astrologie-chinoise/01.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Rat"
+      }
+    },
+    {
+      "tradition": "Astrologie chinoise",
+      "id": "Astrologie chinoise:2",
+      "titre": "Buffle",
+      "symbole": "牛",
+      "theme": "La persévérance",
+      "positive": {
+        "famille": "Stabilité",
+        "description": "Un effort régulier et patient construit des bases fiables et durables.",
+        "mots_cles": [
+          "stabilité",
+          "patience",
+          "persévérance",
+          "discipline"
+        ]
+      },
+      "negative": {
+        "famille": "Entêtement",
+        "description": "Maintenir une direction malgré les signes contraires peut empêcher un changement utile.",
+        "mots_cles": [
+          "rigidité",
+          "entêtement",
+          "immobilisme",
+          "contrôle"
+        ]
+      },
+      "image": {
+        "fichier": "images/astrologie-chinoise/02.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Buffle"
+      }
+    },
+    {
+      "tradition": "Astrologie chinoise",
+      "id": "Astrologie chinoise:3",
+      "titre": "Tigre",
+      "symbole": "虎",
+      "theme": "L’audace",
+      "positive": {
+        "famille": "Courage",
+        "description": "Oser prendre une initiative permet de dépasser la peur et de défendre ses valeurs.",
+        "mots_cles": [
+          "courage",
+          "audace",
+          "initiative",
+          "liberté"
+        ]
+      },
+      "negative": {
+        "famille": "Impulsivité",
+        "description": "Agir sous le coup de l'émotion peut provoquer des conflits évitables.",
+        "mots_cles": [
+          "impulsivité",
+          "colère",
+          "imprudence",
+          "conflit"
+        ]
+      },
+      "image": {
+        "fichier": "images/astrologie-chinoise/03.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Tigre"
+      }
+    },
+    {
+      "tradition": "Astrologie chinoise",
+      "id": "Astrologie chinoise:4",
+      "titre": "Lapin",
+      "symbole": "兔",
+      "theme": "La douceur",
+      "positive": {
+        "famille": "Diplomatie",
+        "description": "L'écoute et la délicatesse permettent de préserver les relations sans renoncer à ses besoins.",
+        "mots_cles": [
+          "diplomatie",
+          "écoute",
+          "harmonie",
+          "tendresse"
+        ]
+      },
+      "negative": {
+        "famille": "Évitement",
+        "description": "Éviter systématiquement les désaccords peut laisser les problèmes s'installer.",
+        "mots_cles": [
+          "fuite",
+          "peur",
+          "indécision",
+          "passivité"
+        ]
+      },
+      "image": {
+        "fichier": "images/astrologie-chinoise/04.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Lapin"
+      }
+    },
+    {
+      "tradition": "Astrologie chinoise",
+      "id": "Astrologie chinoise:5",
+      "titre": "Dragon",
+      "symbole": "龍",
+      "theme": "La puissance",
+      "positive": {
+        "famille": "Rayonnement",
+        "description": "Une ambition généreuse peut inspirer les autres et donner vie à de grands projets.",
+        "mots_cles": [
+          "rayonnement",
+          "ambition",
+          "inspiration",
+          "confiance"
+        ]
+      },
+      "negative": {
+        "famille": "Domination",
+        "description": "La recherche excessive de prestige peut transformer l'autorité en emprise.",
+        "mots_cles": [
+          "domination",
+          "orgueil",
+          "contrôle",
+          "vanité"
+        ]
+      },
+      "image": {
+        "fichier": "images/astrologie-chinoise/05.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Dragon"
+      }
+    },
+    {
+      "tradition": "Astrologie chinoise",
+      "id": "Astrologie chinoise:6",
+      "titre": "Serpent",
+      "symbole": "蛇",
+      "theme": "La sagesse",
+      "positive": {
+        "famille": "Discernement",
+        "description": "L'observation patiente aide à distinguer les apparences des enjeux profonds.",
+        "mots_cles": [
+          "sagesse",
+          "discernement",
+          "intuition",
+          "prudence"
+        ]
+      },
+      "negative": {
+        "famille": "Méfiance",
+        "description": "Le secret et le soupçon excessifs peuvent empêcher les échanges sincères.",
+        "mots_cles": [
+          "méfiance",
+          "secret",
+          "isolement",
+          "manipulation"
+        ]
+      },
+      "image": {
+        "fichier": "images/astrologie-chinoise/06.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Serpent"
+      }
+    },
+    {
+      "tradition": "Astrologie chinoise",
+      "id": "Astrologie chinoise:7",
+      "titre": "Cheval",
+      "symbole": "馬",
+      "theme": "La liberté",
+      "positive": {
+        "famille": "Indépendance",
+        "description": "Explorer de nouveaux horizons nourrit l'autonomie et l'enthousiasme.",
+        "mots_cles": [
+          "liberté",
+          "autonomie",
+          "voyage",
+          "énergie"
+        ]
+      },
+      "negative": {
+        "famille": "Instabilité",
+        "description": "Refuser toute contrainte peut rendre les engagements difficiles à tenir.",
+        "mots_cles": [
+          "instabilité",
+          "fuite",
+          "impatience",
+          "inconstance"
+        ]
+      },
+      "image": {
+        "fichier": "images/astrologie-chinoise/07.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Cheval"
+      }
+    },
+    {
+      "tradition": "Astrologie chinoise",
+      "id": "Astrologie chinoise:8",
+      "titre": "Chèvre",
+      "symbole": "羊",
+      "theme": "La sensibilité",
+      "positive": {
+        "famille": "Créativité",
+        "description": "L'imagination et l'empathie permettent de créer des espaces de beauté et de soutien.",
+        "mots_cles": [
+          "créativité",
+          "empathie",
+          "imagination",
+          "beauté"
+        ]
+      },
+      "negative": {
+        "famille": "Dépendance",
+        "description": "Chercher constamment l'approbation peut éloigner de ses propres aspirations.",
+        "mots_cles": [
+          "dépendance",
+          "hypersensibilité",
+          "doute",
+          "insécurité"
+        ]
+      },
+      "image": {
+        "fichier": "images/astrologie-chinoise/08.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Chèvre"
+      }
+    },
+    {
+      "tradition": "Astrologie chinoise",
+      "id": "Astrologie chinoise:9",
+      "titre": "Singe",
+      "symbole": "猴",
+      "theme": "L’inventivité",
+      "positive": {
+        "famille": "Ingéniosité",
+        "description": "L'esprit curieux et le jeu permettent d'inventer des solutions inattendues.",
+        "mots_cles": [
+          "invention",
+          "curiosité",
+          "créativité",
+          "intelligence"
+        ]
+      },
+      "negative": {
+        "famille": "Manipulation",
+        "description": "L'habileté devient tromperie lorsqu'elle sert à exploiter la confiance d'autrui.",
+        "mots_cles": [
+          "manipulation",
+          "tromperie",
+          "superficialité",
+          "dispersion"
+        ]
+      },
+      "image": {
+        "fichier": "images/astrologie-chinoise/09.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Singe"
+      }
+    },
+    {
+      "tradition": "Astrologie chinoise",
+      "id": "Astrologie chinoise:10",
+      "titre": "Coq",
+      "symbole": "雞",
+      "theme": "La précision",
+      "positive": {
+        "famille": "Rigueur",
+        "description": "Le soin des détails et la franchise favorisent un travail clair et responsable.",
+        "mots_cles": [
+          "rigueur",
+          "précision",
+          "organisation",
+          "franchise"
+        ]
+      },
+      "negative": {
+        "famille": "Vanité",
+        "description": "Le souci de perfection et d'apparence peut devenir critique excessive.",
+        "mots_cles": [
+          "vanité",
+          "perfectionnisme",
+          "critique",
+          "orgueil"
+        ]
+      },
+      "image": {
+        "fichier": "images/astrologie-chinoise/10.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Coq"
+      }
+    },
+    {
+      "tradition": "Astrologie chinoise",
+      "id": "Astrologie chinoise:11",
+      "titre": "Chien",
+      "symbole": "狗",
+      "theme": "La fidélité",
+      "positive": {
+        "famille": "Loyauté",
+        "description": "La fidélité à ses valeurs et à ses proches renforce la confiance et la solidarité.",
+        "mots_cles": [
+          "loyauté",
+          "fidélité",
+          "justice",
+          "solidarité"
+        ]
+      },
+      "negative": {
+        "famille": "Inquiétude",
+        "description": "Anticiper constamment les menaces peut épuiser et nourrir la méfiance.",
+        "mots_cles": [
+          "inquiétude",
+          "angoisse",
+          "méfiance",
+          "peur"
+        ]
+      },
+      "image": {
+        "fichier": "images/astrologie-chinoise/11.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Chien"
+      }
+    },
+    {
+      "tradition": "Astrologie chinoise",
+      "id": "Astrologie chinoise:12",
+      "titre": "Cochon",
+      "symbole": "豬",
+      "theme": "La générosité",
+      "positive": {
+        "famille": "Bienveillance",
+        "description": "Partager les plaisirs simples et accueillir les autres favorise la convivialité.",
+        "mots_cles": [
+          "générosité",
+          "bienveillance",
+          "joie",
+          "partage"
+        ]
+      },
+      "negative": {
+        "famille": "Excès",
+        "description": "La recherche du confort peut devenir démesure ou faire oublier ses limites.",
+        "mots_cles": [
+          "excès",
+          "naïveté",
+          "complaisance",
+          "matérialisme"
+        ]
+      },
+      "image": {
+        "fichier": "images/astrologie-chinoise/12.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Cochon"
+      }
+    }
+  ]
+}

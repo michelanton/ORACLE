@@ -1,0 +1,248 @@
+/* Inclut les bordures et marges internes dans les dimensions déclarées. */
+* {
+    box-sizing:border-box;
+}
+
+/* Masque les éléments portant l’attribut HTML hidden. */
+[hidden] {
+    display:none!important;
+}
+
+/* Style général : fond sombre, texte clair, police système et interligne. */
+body {
+    margin:0;
+    background:#101217;
+    color:#f3ede2;
+    font:16px/1.6 system-ui,sans-serif;
+}
+
+/* Conteneur central : largeur maximale et espace inférieur pour la navigation fixe. */
+main {
+    max-width:650px;
+    margin:auto;
+    padding:32px 20px 110px;
+    text-align:center;
+}
+
+/* En-tête : petites lettres espacées et teinte dorée. */
+header {
+    letter-spacing:.24em;
+    font-size:13px;
+    color:#d8c5a0;
+}
+
+/* Titres : police Georgia et graisse normale. */
+h1,h2 {
+    font-family:Georgia,serif;
+    font-weight:normal;
+    line-height:1.3;
+}
+
+/* H1 : typographie sobre, distincte des pensées de l’oracle (sans téléchargement de police). */
+h1 {
+    font-family:"Segoe UI",system-ui,sans-serif;
+    font-size:clamp(22px,5vw,30px);
+    font-weight:400;
+    letter-spacing:.025em;
+    line-height:1.4;
+    color:#d8c5a0;
+    margin:24px 0 8px;
+}
+
+/* Texte explicatif entre le titre et le bouton de consultation. */
+#intro {
+    margin:0 auto 16px;
+    max-width:360px;
+}
+
+/* Choix du mode sous le bouton principal, toujours avant les résultats. */
+.mode-consultation {
+    margin:20px auto 0;
+    max-width:360px;
+}
+.mode-consultation label {
+    font-size:13px;
+    color:#c1b6a4;
+}
+
+/* Titres secondaires : taille et marges. */
+h2 {
+    font-size:26px;
+    margin:8px 0;
+}
+
+/* Emblème circulaire : centrage par grille et couleur dorée. */
+.emblem {
+    border:1px solid #d8c5a0;
+    border-radius:50%;
+    width:88px;
+    height:88px;
+    margin:28px auto 0;
+    display:grid;
+    place-items:center;
+    font-size:48px;
+    color:#d8c5a0;
+}
+
+/* Style commun des boutons et listes déroulantes. */
+button,select {
+    font:inherit;
+    border-radius:24px;
+    padding:12px 18px;
+    border:1px solid #81745f;
+    background:#20232a;
+    color:#f3ede2;
+    cursor:pointer;
+}
+
+/* Liste déroulante centrée, limitée à 360 pixels. */
+select {
+    display:block;
+    margin:8px auto;
+    width:100%;
+    max-width:360px;
+}
+
+/* Bouton de tirage principal : fond doré et largeur adaptable. */
+#draw {
+    background:#d8c5a0;
+    color:#101217;
+    width:100%;
+    max-width:360px;
+}
+
+/* Boutons désactivés : opacité réduite. */
+button:disabled {
+    opacity:.5;
+}
+
+/* Indicateur de focus visible pour la navigation au clavier. */
+button:focus-visible,select:focus-visible {
+    outline:3px solid #fff;
+    outline-offset:3px;
+}
+
+/* Style générique des cartes article. */
+article {
+    border:1px solid #514b40;
+    border-radius:16px;
+    padding:22px;
+    margin:18px 0;
+    background:#191c23;
+}
+
+/* Présentation des symboles (classe conservée). */
+.symbol {
+    font-size:52px;
+    line-height:1.2;
+    color:#d8c5a0;
+}
+
+/* Textes secondaires et messages d’état. */
+.meta,footer,#status,#intro {
+    color:#c1b6a4;
+    font-size:14px;
+}
+
+/* Couleur des familles symboliques. */
+.family {
+    color:#d8c5a0;
+}
+
+/* Navigation fixe en bas ; safe-area-inset-bottom tient compte des écrans mobiles. */
+nav {
+    position:fixed;
+    bottom:0;
+    left:0;
+    right:0;
+    display:flex;
+    justify-content:center;
+    gap:8px;
+    background:#191c23;
+    border-top:1px solid #514b40;
+    padding:10px 8px calc(10px + env(safe-area-inset-bottom));
+}
+
+/* Répartition de la largeur des boutons de navigation. */
+nav button {
+    flex:1;
+    max-width:200px;
+    border:0;
+}
+
+/* Met en évidence la page active. */
+nav button[aria-current] {
+    background:#d8c5a0;
+    color:#101217;
+}
+
+/* Espacement du pied de page. */
+footer {
+    margin-top:24px;
+}
+
+/* Illustrations : taille maximale, proportions et ajustement sans déformation. */
+.oracle-image {
+    display:block;
+    width:min(100%,240px);
+    height:auto;
+    aspect-ratio:3/4;
+    object-fit:contain;
+    margin:12px auto 20px;
+    border-radius:12px;
+}
+
+/* Style des enseignements (classe conservée). */
+.enseignement {
+    font-family:Georgia,serif;
+    font-size:22px;
+    color:#f3ede2;
+}
+
+/* Message oracle : carte transparente sans bordure. */
+.oracle-message {
+    background:transparent;
+    border:0;
+    padding:24px 8px;
+    margin:20px 0;
+}
+
+/* Séparateur entre deux messages successifs. */
+.oracle-message+.oracle-message {
+    border-top:1px solid #514b40;
+}
+
+/* Phrase principale : taille responsive, police Georgia et interligne. */
+.phrase-cle {
+    font-family:Georgia,serif;
+    font-size:clamp(23px,5.5vw,34px);
+    line-height:1.45;
+    margin:0;
+    color:#f3ede2;
+}
+
+/* Conseil League of Legends : texte secondaire doré. */
+.conseil-lol {
+    font-size:16px;
+    color:#d8c5a0;
+    margin:18px 0 0;
+}
+
+/* Sources et références : panneau discret, dépliable et lisible sur mobile. */
+.sources-oracle { margin-top: 20px; font-size: 14px; color: #d8c5a0; text-align: left; overflow-wrap: anywhere; }
+.sources-oracle summary { cursor: pointer; padding: 8px 0; font-weight: 600; }
+.sources-oracle p { margin: 6px 0; line-height: 1.5; }
+.sources-oracle a { color: inherit; text-decoration: underline; }
+.sources-oracle summary:focus-visible, .sources-oracle a:focus-visible { outline: 2px solid #d8c5a0; outline-offset: 3px; }
+
+/* Titres des trois étapes du tirage croisé : distincts des pensées en Georgia. */
+.oracle-message > h2 {
+    font-family: "Segoe UI", Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: #d8c5a0;
+    line-height: 1.4;
+    margin: 0 0 20px;
+}

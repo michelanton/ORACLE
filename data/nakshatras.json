@@ -1,0 +1,688 @@
+{
+  "version": "1.5",
+  "tradition": "Nakshatras",
+  "references": [
+    {
+      "tradition": "Nakshatras",
+      "nombre_symboles": 27,
+      "source": "Nomenclature traditionnelle ; interprétations éditoriales, vérification documentaire à compléter"
+    }
+  ],
+  "symboles": [
+    {
+      "tradition": "Nakshatras",
+      "id": "Nakshatras:ashvini",
+      "titre": "Ashvini",
+      "symbole": "Ashvini",
+      "theme": "Commencement",
+      "signification_fondamentale": "Commencement",
+      "positive": {
+        "famille": "Initiative",
+        "description": "Tout commencement exige de quitter le confort du possible pour donner une réalité à ses intentions.",
+        "mots_cles": [
+          "initiative",
+          "commencement"
+        ]
+      },
+      "negative": {
+        "famille": "Précipitation",
+        "description": "La précipitation peut compromettre un nouveau départ lorsque le désir d’avancer devance la compréhension du chemin.",
+        "mots_cles": [
+          "précipitation",
+          "commencement"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Nakshatras",
+      "id": "Nakshatras:bharani",
+      "titre": "Bharani",
+      "symbole": "Bharani",
+      "theme": "Responsabilité",
+      "signification_fondamentale": "Responsabilité",
+      "positive": {
+        "famille": "Endurance",
+        "description": "L’endurance consiste à assumer ses responsabilités dans la durée tout en respectant ses propres limites.",
+        "mots_cles": [
+          "endurance",
+          "responsabilité"
+        ]
+      },
+      "negative": {
+        "famille": "Oppression",
+        "description": "La responsabilité devient oppression lorsqu’elle ne laisse plus aucune place à la liberté de celui qui la porte.",
+        "mots_cles": [
+          "oppression",
+          "responsabilité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Nakshatras",
+      "id": "Nakshatras:krittika",
+      "titre": "Krittika",
+      "symbole": "Krittika",
+      "theme": "Séparation",
+      "signification_fondamentale": "Séparation",
+      "positive": {
+        "famille": "Discernement",
+        "description": "Le discernement permet de se séparer de ce qui ne nous aide plus à grandir sans renier la valeur du passé.",
+        "mots_cles": [
+          "discernement",
+          "séparation"
+        ]
+      },
+      "negative": {
+        "famille": "Sévérité",
+        "description": "La sévérité peut transformer une séparation nécessaire en une blessure que la compréhension aurait permis d’éviter.",
+        "mots_cles": [
+          "sévérité",
+          "séparation"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Nakshatras",
+      "id": "Nakshatras:rohini",
+      "titre": "Rohini",
+      "symbole": "Rohini",
+      "theme": "Croissance",
+      "signification_fondamentale": "Croissance",
+      "positive": {
+        "famille": "Créativité",
+        "description": "La créativité nourrit la croissance lorsque tu accordes à tes idées le temps et l’espace nécessaires pour mûrir.",
+        "mots_cles": [
+          "créativité",
+          "croissance"
+        ]
+      },
+      "negative": {
+        "famille": "Possessivité",
+        "description": "À vouloir posséder ce que tu fais grandir, tu risques de lui retirer la liberté dont dépend son épanouissement.",
+        "mots_cles": [
+          "possessivité",
+          "croissance"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Nakshatras",
+      "id": "Nakshatras:mrigashira",
+      "titre": "Mrigashira",
+      "symbole": "Mrigashira",
+      "theme": "Recherche",
+      "signification_fondamentale": "Recherche",
+      "positive": {
+        "famille": "Curiosité",
+        "description": "La curiosité ouvre des chemins que les certitudes empêchent de voir et donne à la recherche sa véritable richesse.",
+        "mots_cles": [
+          "curiosité",
+          "recherche"
+        ]
+      },
+      "negative": {
+        "famille": "Agitation",
+        "description": "Une recherche menée dans l’agitation multiplie les découvertes sans toujours permettre d’en comprendre le sens.",
+        "mots_cles": [
+          "agitation",
+          "recherche"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Nakshatras",
+      "id": "Nakshatras:ardra",
+      "titre": "Ardra",
+      "symbole": "Ardra",
+      "theme": "Orage",
+      "signification_fondamentale": "Orage",
+      "positive": {
+        "famille": "Transformation",
+        "description": "Comme l’orage transforme le paysage, une période de bouleversement peut t’inviter à repenser tes habitudes et tes certitudes.",
+        "mots_cles": [
+          "transformation",
+          "orage"
+        ]
+      },
+      "negative": {
+        "famille": "Tumulte",
+        "description": "Lorsque le tumulte intérieur gouverne tes décisions, il devient difficile de distinguer ce qui doit changer de ce qui mérite d’être préservé.",
+        "mots_cles": [
+          "tumulte",
+          "orage"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Nakshatras",
+      "id": "Nakshatras:punarvasu",
+      "titre": "Punarvasu",
+      "symbole": "Punarvasu",
+      "theme": "Retour",
+      "signification_fondamentale": "Retour",
+      "positive": {
+        "famille": "Renouveau",
+        "description": "Revenir à un point de départ peut être un renouveau lorsque tu y apportes la compréhension acquise en chemin.",
+        "mots_cles": [
+          "renouveau",
+          "retour"
+        ]
+      },
+      "negative": {
+        "famille": "Répétition",
+        "description": "Le retour devient répétition lorsque tu reproduis les mêmes choix sans interroger leurs conséquences.",
+        "mots_cles": [
+          "répétition",
+          "retour"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Nakshatras",
+      "id": "Nakshatras:pushya",
+      "titre": "Pushya",
+      "symbole": "Pushya",
+      "theme": "Nourriture",
+      "signification_fondamentale": "Nourriture",
+      "positive": {
+        "famille": "Protection",
+        "description": "Protéger, c’est offrir à l’autre la nourriture matérielle ou affective dont il a besoin pour développer ses propres forces.",
+        "mots_cles": [
+          "protection",
+          "nourriture"
+        ]
+      },
+      "negative": {
+        "famille": "Surprotection",
+        "description": "La surprotection étouffe parfois ce qu’elle souhaite nourrir en empêchant l’autre de découvrir ses capacités.",
+        "mots_cles": [
+          "surprotection",
+          "nourriture"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Nakshatras",
+      "id": "Nakshatras:ashlesha",
+      "titre": "Ashlesha",
+      "symbole": "Ashlesha",
+      "theme": "Enlacement",
+      "signification_fondamentale": "Enlacement",
+      "positive": {
+        "famille": "Intuition",
+        "description": "L’intuition peut éclairer les liens invisibles qui unissent les êtres, à condition de rester ouverte au dialogue.",
+        "mots_cles": [
+          "intuition",
+          "enlacement"
+        ]
+      },
+      "negative": {
+        "famille": "Manipulation",
+        "description": "Un lien perd sa sincérité lorsque la compréhension des émotions d’autrui devient un moyen de le manipuler.",
+        "mots_cles": [
+          "manipulation",
+          "enlacement"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Nakshatras",
+      "id": "Nakshatras:magha",
+      "titre": "Magha",
+      "symbole": "Magha",
+      "theme": "Héritage",
+      "signification_fondamentale": "Héritage",
+      "positive": {
+        "famille": "Dignité",
+        "description": "Honorer son héritage, c’est en recevoir les enseignements avec dignité tout en choisissant librement ce que l’on transmettra.",
+        "mots_cles": [
+          "dignité",
+          "héritage"
+        ]
+      },
+      "negative": {
+        "famille": "Orgueil",
+        "description": "L’orgueil lié à ton héritage peut te faire confondre la valeur de tes origines avec une supériorité sur les autres.",
+        "mots_cles": [
+          "orgueil",
+          "héritage"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Nakshatras",
+      "id": "Nakshatras:purva-phalguni",
+      "titre": "Purva Phalguni",
+      "symbole": "Purva Phalguni",
+      "theme": "Plaisir",
+      "signification_fondamentale": "Plaisir",
+      "positive": {
+        "famille": "Joie",
+        "description": "La joie se cultive dans la capacité à savourer les plaisirs de l’existence sans chercher constamment à les prolonger.",
+        "mots_cles": [
+          "joie",
+          "plaisir"
+        ]
+      },
+      "negative": {
+        "famille": "Excès",
+        "description": "Le plaisir perd sa saveur lorsque l’excès transforme une expérience heureuse en un besoin insatiable.",
+        "mots_cles": [
+          "excès",
+          "plaisir"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Nakshatras",
+      "id": "Nakshatras:uttara-phalguni",
+      "titre": "Uttara Phalguni",
+      "symbole": "Uttara Phalguni",
+      "theme": "Alliance",
+      "signification_fondamentale": "Alliance",
+      "positive": {
+        "famille": "Engagement",
+        "description": "Une alliance solide se construit par des engagements librement consentis et renouvelés dans les actes du quotidien.",
+        "mots_cles": [
+          "engagement",
+          "alliance"
+        ]
+      },
+      "negative": {
+        "famille": "Dépendance",
+        "description": "L’engagement devient dépendance lorsque la peur de perdre un lien t’empêche de rester fidèle à toi-même.",
+        "mots_cles": [
+          "dépendance",
+          "alliance"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Nakshatras",
+      "id": "Nakshatras:hasta",
+      "titre": "Hasta",
+      "symbole": "Hasta",
+      "theme": "Main",
+      "signification_fondamentale": "Main",
+      "positive": {
+        "famille": "Habileté",
+        "description": "L’habileté de la main prend tout son sens lorsqu’elle donne une forme concrète à une intention réfléchie.",
+        "mots_cles": [
+          "habileté",
+          "main"
+        ]
+      },
+      "negative": {
+        "famille": "Contrôle",
+        "description": "À vouloir tout tenir entre tes mains, tu risques de confondre la maîtrise de tes gestes avec le contrôle de la vie.",
+        "mots_cles": [
+          "contrôle",
+          "main"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Nakshatras",
+      "id": "Nakshatras:chitra",
+      "titre": "Chitra",
+      "symbole": "Chitra",
+      "theme": "Création",
+      "signification_fondamentale": "Création",
+      "positive": {
+        "famille": "Inventivité",
+        "description": "L’inventivité donne naissance à des formes nouvelles lorsque tu oses dépasser les modèles qui t’ont inspiré.",
+        "mots_cles": [
+          "inventivité",
+          "création"
+        ]
+      },
+      "negative": {
+        "famille": "Vanité",
+        "description": "La vanité détourne la création de son sens lorsque le désir d’être admiré devient plus important que l’œuvre elle-même.",
+        "mots_cles": [
+          "vanité",
+          "création"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Nakshatras",
+      "id": "Nakshatras:swati",
+      "titre": "Swati",
+      "symbole": "Swati",
+      "theme": "Indépendance",
+      "signification_fondamentale": "Indépendance",
+      "positive": {
+        "famille": "Souplesse",
+        "description": "L’indépendance se nourrit de souplesse : tu peux adapter ta manière d’avancer sans renoncer à tes convictions profondes.",
+        "mots_cles": [
+          "souplesse",
+          "indépendance"
+        ]
+      },
+      "negative": {
+        "famille": "Instabilité",
+        "description": "La liberté devient instabilité lorsque chaque difficulté te conduit à abandonner la direction que tu avais choisie.",
+        "mots_cles": [
+          "instabilité",
+          "indépendance"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Nakshatras",
+      "id": "Nakshatras:vishakha",
+      "titre": "Vishakha",
+      "symbole": "Vishakha",
+      "theme": "Objectif",
+      "signification_fondamentale": "Objectif",
+      "positive": {
+        "famille": "Détermination",
+        "description": "La détermination donne une direction à tes efforts lorsque ton objectif reste en accord avec ce qui compte pour toi.",
+        "mots_cles": [
+          "détermination",
+          "objectif"
+        ]
+      },
+      "negative": {
+        "famille": "Obsession",
+        "description": "Un objectif devient une obsession lorsqu’il occupe tant de place que tu ne vois plus la richesse du chemin parcouru.",
+        "mots_cles": [
+          "obsession",
+          "objectif"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Nakshatras",
+      "id": "Nakshatras:anuradha",
+      "titre": "Anuradha",
+      "symbole": "Anuradha",
+      "theme": "Amitié",
+      "signification_fondamentale": "Amitié",
+      "positive": {
+        "famille": "Coopération",
+        "description": "L’amitié grandit lorsque chacun apporte ses forces à une entreprise commune sans exiger que l’autre lui ressemble.",
+        "mots_cles": [
+          "coopération",
+          "amitié"
+        ]
+      },
+      "negative": {
+        "famille": "Dépendance",
+        "description": "La dépendance fragilise l’amitié lorsque la présence de l’autre devient la seule source de ton équilibre.",
+        "mots_cles": [
+          "dépendance",
+          "amitié"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Nakshatras",
+      "id": "Nakshatras:jyeshtha",
+      "titre": "Jyeshtha",
+      "symbole": "Jyeshtha",
+      "theme": "Responsabilité",
+      "signification_fondamentale": "Responsabilité",
+      "positive": {
+        "famille": "Protection",
+        "description": "Assumer une responsabilité, c’est mettre son expérience et son autorité au service de ceux qui ont besoin de soutien.",
+        "mots_cles": [
+          "protection",
+          "responsabilité"
+        ]
+      },
+      "negative": {
+        "famille": "Domination",
+        "description": "La protection se transforme en domination lorsque tu décides à la place de ceux dont tu prétends défendre les intérêts.",
+        "mots_cles": [
+          "domination",
+          "responsabilité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Nakshatras",
+      "id": "Nakshatras:mula",
+      "titre": "Mula",
+      "symbole": "Mula",
+      "theme": "Racine",
+      "signification_fondamentale": "Racine",
+      "positive": {
+        "famille": "Recherche",
+        "description": "Chercher la racine d’une difficulté permet de comprendre ce qui l’entretient plutôt que de combattre uniquement ses manifestations.",
+        "mots_cles": [
+          "recherche",
+          "racine"
+        ]
+      },
+      "negative": {
+        "famille": "Destruction",
+        "description": "À vouloir arracher tout ce qui te dérange, tu risques de détruire aussi les racines qui te donnent ta stabilité.",
+        "mots_cles": [
+          "destruction",
+          "racine"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Nakshatras",
+      "id": "Nakshatras:purva-ashadha",
+      "titre": "Purva Ashadha",
+      "symbole": "Purva Ashadha",
+      "theme": "Élan",
+      "signification_fondamentale": "Élan",
+      "positive": {
+        "famille": "Confiance",
+        "description": "La confiance donne à ton élan la force d’affronter l’incertitude sans exiger de connaître à l’avance chaque étape.",
+        "mots_cles": [
+          "confiance",
+          "élan"
+        ]
+      },
+      "negative": {
+        "famille": "Entêtement",
+        "description": "L’entêtement prolonge parfois un élan qui a perdu son sens, simplement parce qu’il est difficile de reconnaître une erreur.",
+        "mots_cles": [
+          "entêtement",
+          "élan"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Nakshatras",
+      "id": "Nakshatras:uttara-ashadha",
+      "titre": "Uttara Ashadha",
+      "symbole": "Uttara Ashadha",
+      "theme": "Victoire",
+      "signification_fondamentale": "Victoire",
+      "positive": {
+        "famille": "Persévérance",
+        "description": "La victoire la plus durable se construit par une persévérance qui sait apprendre de chaque difficulté rencontrée.",
+        "mots_cles": [
+          "persévérance",
+          "victoire"
+        ]
+      },
+      "negative": {
+        "famille": "Rigidité",
+        "description": "La rigidité peut rendre une victoire stérile lorsque tu refuses de revoir tes méthodes ou le prix de ta réussite.",
+        "mots_cles": [
+          "rigidité",
+          "victoire"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Nakshatras",
+      "id": "Nakshatras:shravana",
+      "titre": "Shravana",
+      "symbole": "Shravana",
+      "theme": "Écoute",
+      "signification_fondamentale": "Écoute",
+      "positive": {
+        "famille": "Apprentissage",
+        "description": "Écouter véritablement, c’est accepter que la parole d’autrui puisse enrichir ou transformer ta compréhension du monde.",
+        "mots_cles": [
+          "apprentissage",
+          "écoute"
+        ]
+      },
+      "negative": {
+        "famille": "Crédulité",
+        "description": "L’écoute devient crédulité lorsque tu accueilles chaque parole comme une vérité sans exercer ton propre jugement.",
+        "mots_cles": [
+          "crédulité",
+          "écoute"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Nakshatras",
+      "id": "Nakshatras:dhanishtha",
+      "titre": "Dhanishtha",
+      "symbole": "Dhanishtha",
+      "theme": "Rythme",
+      "signification_fondamentale": "Rythme",
+      "positive": {
+        "famille": "Coordination",
+        "description": "L’harmonie naît lorsque tu accordes le rythme de tes actions à celui des personnes avec lesquelles tu avances.",
+        "mots_cles": [
+          "coordination",
+          "rythme"
+        ]
+      },
+      "negative": {
+        "famille": "Ambition",
+        "description": "L’ambition peut rompre l’équilibre collectif lorsque le désir d’aller plus vite te rend indifférent au rythme des autres.",
+        "mots_cles": [
+          "ambition",
+          "rythme"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Nakshatras",
+      "id": "Nakshatras:shatabhisha",
+      "titre": "Shatabhisha",
+      "symbole": "Shatabhisha",
+      "theme": "Retrait",
+      "signification_fondamentale": "Retrait",
+      "positive": {
+        "famille": "Introspection",
+        "description": "Le retrait volontaire offre un espace de silence où tu peux mieux comprendre tes émotions et retrouver tes repères.",
+        "mots_cles": [
+          "introspection",
+          "retrait"
+        ]
+      },
+      "negative": {
+        "famille": "Isolement",
+        "description": "La solitude devient isolement lorsque le besoin de te préserver t’empêche de renouer avec les autres.",
+        "mots_cles": [
+          "isolement",
+          "retrait"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Nakshatras",
+      "id": "Nakshatras:purva-bhadrapada",
+      "titre": "Purva Bhadrapada",
+      "symbole": "Purva Bhadrapada",
+      "theme": "Intensité",
+      "signification_fondamentale": "Intensité",
+      "positive": {
+        "famille": "Engagement",
+        "description": "L’intensité de ton engagement prend sa valeur dans la cohérence entre tes convictions et les actes qui les incarnent.",
+        "mots_cles": [
+          "engagement",
+          "intensité"
+        ]
+      },
+      "negative": {
+        "famille": "Fanatisme",
+        "description": "Le fanatisme apparaît lorsque la force d’une conviction ne laisse plus aucune place au doute ni à la liberté de penser autrement.",
+        "mots_cles": [
+          "fanatisme",
+          "intensité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Nakshatras",
+      "id": "Nakshatras:uttara-bhadrapada",
+      "titre": "Uttara Bhadrapada",
+      "symbole": "Uttara Bhadrapada",
+      "theme": "Profondeur",
+      "signification_fondamentale": "Profondeur",
+      "positive": {
+        "famille": "Stabilité",
+        "description": "La stabilité intérieure se construit en approfondissant ce qui donne du sens à ton existence plutôt qu’en recherchant des certitudes immuables.",
+        "mots_cles": [
+          "stabilité",
+          "profondeur"
+        ]
+      },
+      "negative": {
+        "famille": "Inertie",
+        "description": "La profondeur de la réflexion peut devenir inertie lorsque tu repousses sans cesse le moment de traduire tes pensées en actes.",
+        "mots_cles": [
+          "inertie",
+          "profondeur"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Nakshatras",
+      "id": "Nakshatras:revati",
+      "titre": "Revati",
+      "symbole": "Revati",
+      "theme": "Accompagnement",
+      "signification_fondamentale": "Accompagnement",
+      "positive": {
+        "famille": "Bienveillance",
+        "description": "Accompagner avec bienveillance, c’est marcher aux côtés de l’autre en respectant la direction qu’il choisit.",
+        "mots_cles": [
+          "bienveillance",
+          "accompagnement"
+        ]
+      },
+      "negative": {
+        "famille": "Effacement",
+        "description": "À consacrer toute ton attention au chemin des autres, tu risques de perdre de vue celui que tu souhaites toi-même emprunter.",
+        "mots_cles": [
+          "effacement",
+          "accompagnement"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    }
+  ]
+}

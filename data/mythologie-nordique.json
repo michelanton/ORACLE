@@ -1,0 +1,325 @@
+{
+  "version": "1.5",
+  "tradition": "Mythologie nordique",
+  "references": [
+    {
+      "tradition": "Mythologie nordique",
+      "nombre_symboles": 12,
+      "source": "Synthèse éditoriale originale ; sources historiques à compléter"
+    }
+  ],
+  "symboles": [
+    {
+      "tradition": "Mythologie nordique",
+      "id": "Mythologie nordique:odin",
+      "titre": "Odin",
+      "symbole": "Odin",
+      "theme": "Connaissance",
+      "signification_fondamentale": "Connaissance",
+      "positive": {
+        "famille": "Sagesse",
+        "description": "La sagesse ne réside pas dans la quantité de connaissances acquises, mais dans la capacité à remettre en question ce que tu crois savoir.",
+        "mots_cles": [
+          "sagesse",
+          "connaissance"
+        ]
+      },
+      "negative": {
+        "famille": "Obsession",
+        "description": "La quête de connaissance devient une obsession lorsqu’elle t’empêche de vivre pleinement ce que tu cherches à comprendre.",
+        "mots_cles": [
+          "obsession",
+          "connaissance"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Il sacrifie un œil pour accéder à la sagesse."
+    },
+    {
+      "tradition": "Mythologie nordique",
+      "id": "Mythologie nordique:thor",
+      "titre": "Thor",
+      "symbole": "Thor",
+      "theme": "Force",
+      "signification_fondamentale": "Force",
+      "positive": {
+        "famille": "Protection",
+        "description": "La véritable force se révèle dans ta capacité à protéger ce qui est fragile sans chercher à imposer ta puissance.",
+        "mots_cles": [
+          "protection",
+          "force"
+        ]
+      },
+      "negative": {
+        "famille": "Brutalité",
+        "description": "La force devient brutalité lorsqu’elle cherche à résoudre par la contrainte ce qui pourrait être compris par le dialogue.",
+        "mots_cles": [
+          "brutalité",
+          "force"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Dieu du tonnerre, il défend le monde avec son marteau."
+    },
+    {
+      "tradition": "Mythologie nordique",
+      "id": "Mythologie nordique:freyja",
+      "titre": "Freyja",
+      "symbole": "Freyja",
+      "theme": "Amour",
+      "signification_fondamentale": "Amour",
+      "positive": {
+        "famille": "Autonomie",
+        "description": "L’amour s’épanouit lorsque chacun peut partager son existence avec l’autre sans renoncer à sa propre liberté.",
+        "mots_cles": [
+          "autonomie",
+          "amour"
+        ]
+      },
+      "negative": {
+        "famille": "Possessivité",
+        "description": "La possessivité transforme l’amour en une volonté de retenir ce qui ne peut véritablement s’épanouir que dans la liberté.",
+        "mots_cles": [
+          "possessivité",
+          "amour"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Déesse de l'amour, de la magie et des combattants morts."
+    },
+    {
+      "tradition": "Mythologie nordique",
+      "id": "Mythologie nordique:freyr",
+      "titre": "Freyr",
+      "symbole": "Freyr",
+      "theme": "Fertilité",
+      "signification_fondamentale": "Fertilité",
+      "positive": {
+        "famille": "Prospérité",
+        "description": "La prospérité ressemble à une terre fertile : elle grandit lorsque tu prends soin de ce que tu possèdes et prépares ce qui pourra naître.",
+        "mots_cles": [
+          "prospérité",
+          "fertilité"
+        ]
+      },
+      "negative": {
+        "famille": "Complaisance",
+        "description": "À te satisfaire de tes acquis sans continuer à les cultiver, tu risques de laisser dépérir les possibilités que l’abondance t’offre.",
+        "mots_cles": [
+          "complaisance",
+          "fertilité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Dieu associé aux récoltes et à la paix."
+    },
+    {
+      "tradition": "Mythologie nordique",
+      "id": "Mythologie nordique:frigg",
+      "titre": "Frigg",
+      "symbole": "Frigg",
+      "theme": "Foyer",
+      "signification_fondamentale": "Foyer",
+      "positive": {
+        "famille": "Prévoyance",
+        "description": "La prévoyance donne au foyer sa solidité lorsque tu prépares l’avenir avec attention sans prétendre maîtriser tous ses imprévus.",
+        "mots_cles": [
+          "prévoyance",
+          "foyer"
+        ]
+      },
+      "negative": {
+        "famille": "Surprotection",
+        "description": "À vouloir préserver tes proches de toute épreuve, tu risques de faire du foyer un refuge qui les empêche de découvrir leur propre force.",
+        "mots_cles": [
+          "surprotection",
+          "foyer"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Épouse d'Odin, elle tente de protéger Baldr."
+    },
+    {
+      "tradition": "Mythologie nordique",
+      "id": "Mythologie nordique:loki",
+      "titre": "Loki",
+      "symbole": "Loki",
+      "theme": "Ruse",
+      "signification_fondamentale": "Ruse",
+      "positive": {
+        "famille": "Ingéniosité",
+        "description": "L’ingéniosité consiste à découvrir des chemins inattendus là où les habitudes ne laissent entrevoir que des obstacles.",
+        "mots_cles": [
+          "ingéniosité",
+          "ruse"
+        ]
+      },
+      "negative": {
+        "famille": "Manipulation",
+        "description": "La ruse perd sa valeur lorsque l’intelligence sert à manipuler les autres plutôt qu’à résoudre les difficultés avec justesse.",
+        "mots_cles": [
+          "manipulation",
+          "ruse"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Figure ambivalente qui aide et trompe les dieux."
+    },
+    {
+      "tradition": "Mythologie nordique",
+      "id": "Mythologie nordique:tyr",
+      "titre": "Tyr",
+      "symbole": "Tyr",
+      "theme": "Justice",
+      "signification_fondamentale": "Justice",
+      "positive": {
+        "famille": "Courage",
+        "description": "Le courage de défendre ce qui est juste se mesure à ta capacité à rester fidèle à tes principes lorsque cela devient difficile.",
+        "mots_cles": [
+          "courage",
+          "justice"
+        ]
+      },
+      "negative": {
+        "famille": "Sacrifice excessif",
+        "description": "Le sacrifice devient excessif lorsque, au nom de la justice, tu oublies que ta propre dignité mérite aussi d’être défendue.",
+        "mots_cles": [
+          "sacrifice excessif",
+          "justice"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Il perd sa main en permettant de lier Fenrir."
+    },
+    {
+      "tradition": "Mythologie nordique",
+      "id": "Mythologie nordique:baldr",
+      "titre": "Baldr",
+      "symbole": "Baldr",
+      "theme": "Lumière",
+      "signification_fondamentale": "Lumière",
+      "positive": {
+        "famille": "Bienveillance",
+        "description": "La bienveillance est une lumière que tu peux offrir aux autres par la simplicité de tes paroles et la générosité de tes actes.",
+        "mots_cles": [
+          "bienveillance",
+          "lumière"
+        ]
+      },
+      "negative": {
+        "famille": "Naïveté",
+        "description": "Voir le meilleur en chacun ne doit pas te conduire à ignorer les ombres que la lucidité permet de reconnaître.",
+        "mots_cles": [
+          "naïveté",
+          "lumière"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Dieu dont la mort annonce des bouleversements."
+    },
+    {
+      "tradition": "Mythologie nordique",
+      "id": "Mythologie nordique:heimdall",
+      "titre": "Heimdall",
+      "symbole": "Heimdall",
+      "theme": "Vigilance",
+      "signification_fondamentale": "Vigilance",
+      "positive": {
+        "famille": "Attention",
+        "description": "La vigilance naît d’une attention paisible qui te permet de percevoir les changements avant qu’ils ne troublent ton équilibre.",
+        "mots_cles": [
+          "attention",
+          "vigilance"
+        ]
+      },
+      "negative": {
+        "famille": "Méfiance",
+        "description": "Lorsque la vigilance se transforme en méfiance permanente, tu risques de voir une menace là où pourrait naître une rencontre.",
+        "mots_cles": [
+          "méfiance",
+          "vigilance"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Gardien du pont Bifröst."
+    },
+    {
+      "tradition": "Mythologie nordique",
+      "id": "Mythologie nordique:njord",
+      "titre": "Njörd",
+      "symbole": "Njörd",
+      "theme": "Navigation",
+      "signification_fondamentale": "Navigation",
+      "positive": {
+        "famille": "Abondance",
+        "description": "Naviguer vers de nouveaux horizons demande de savoir reconnaître les ressources que chaque étape du voyage met à ta portée.",
+        "mots_cles": [
+          "abondance",
+          "navigation"
+        ]
+      },
+      "negative": {
+        "famille": "Instabilité",
+        "description": "À te laisser emporter par chaque courant, tu risques de perdre le cap et de confondre la liberté de naviguer avec l’absence de direction.",
+        "mots_cles": [
+          "instabilité",
+          "navigation"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Dieu associé à la mer et aux richesses."
+    },
+    {
+      "tradition": "Mythologie nordique",
+      "id": "Mythologie nordique:hel",
+      "titre": "Hel",
+      "symbole": "Hel",
+      "theme": "Mort",
+      "signification_fondamentale": "Mort",
+      "positive": {
+        "famille": "Acceptation",
+        "description": "Accepter que toute existence ait une fin peut t’aider à reconnaître la valeur du temps présent et des liens qui lui donnent un sens.",
+        "mots_cles": [
+          "acceptation",
+          "mort"
+        ]
+      },
+      "negative": {
+        "famille": "Isolement",
+        "description": "Face à la perte, le besoin de solitude peut devenir un enfermement lorsqu’il ne laisse plus de place au soutien des autres.",
+        "mots_cles": [
+          "isolement",
+          "mort"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Elle gouverne un royaume des morts."
+    },
+    {
+      "tradition": "Mythologie nordique",
+      "id": "Mythologie nordique:idunn",
+      "titre": "Idunn",
+      "symbole": "Idunn",
+      "theme": "Jeunesse",
+      "signification_fondamentale": "Jeunesse",
+      "positive": {
+        "famille": "Renouveau",
+        "description": "La jeunesse de l’esprit se cultive en renouvelant ta curiosité et en restant disponible à ce que la vie peut encore t’apprendre.",
+        "mots_cles": [
+          "renouveau",
+          "jeunesse"
+        ]
+      },
+      "negative": {
+        "famille": "Peur du vieillissement",
+        "description": "La peur de vieillir peut te rendre prisonnier de ce que tu as été et t’empêcher de découvrir la richesse de ce que tu deviens.",
+        "mots_cles": [
+          "peur du vieillissement",
+          "jeunesse"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Elle garde les pommes qui maintiennent la jeunesse des dieux."
+    }
+  ]
+}

@@ -1,0 +1,513 @@
+{
+  "version": "1.5",
+  "tradition": "Tzolk’in",
+  "references": [
+    {
+      "tradition": "Tzolk’in",
+      "nombre_symboles": 20,
+      "source": "Nomenclature traditionnelle ; interprétations éditoriales, vérification documentaire à compléter"
+    }
+  ],
+  "symboles": [
+    {
+      "tradition": "Tzolk’in",
+      "id": "Tzolk’in:imix",
+      "titre": "Imix",
+      "symbole": "Imix",
+      "theme": "Origine",
+      "signification_fondamentale": "Origine",
+      "positive": {
+        "famille": "Création",
+        "description": "Explorer création dans la situation, sans perdre de vue origine.",
+        "mots_cles": [
+          "création",
+          "origine"
+        ]
+      },
+      "negative": {
+        "famille": "Confusion",
+        "description": "Observer comment confusion peut entraver ou déséquilibrer origine.",
+        "mots_cles": [
+          "confusion",
+          "origine"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tzolk’in",
+      "id": "Tzolk’in:ik",
+      "titre": "Ik’",
+      "symbole": "Ik’",
+      "theme": "Vent",
+      "signification_fondamentale": "Vent",
+      "positive": {
+        "famille": "Communication",
+        "description": "Explorer communication dans la situation, sans perdre de vue vent.",
+        "mots_cles": [
+          "communication",
+          "vent"
+        ]
+      },
+      "negative": {
+        "famille": "Dispersion",
+        "description": "Observer comment dispersion peut entraver ou déséquilibrer vent.",
+        "mots_cles": [
+          "dispersion",
+          "vent"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tzolk’in",
+      "id": "Tzolk’in:akbal",
+      "titre": "Ak’bal",
+      "symbole": "Ak’bal",
+      "theme": "Nuit",
+      "signification_fondamentale": "Nuit",
+      "positive": {
+        "famille": "Introspection",
+        "description": "Explorer introspection dans la situation, sans perdre de vue nuit.",
+        "mots_cles": [
+          "introspection",
+          "nuit"
+        ]
+      },
+      "negative": {
+        "famille": "Repli",
+        "description": "Observer comment repli peut entraver ou déséquilibrer nuit.",
+        "mots_cles": [
+          "repli",
+          "nuit"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tzolk’in",
+      "id": "Tzolk’in:kan",
+      "titre": "K’an",
+      "symbole": "K’an",
+      "theme": "Graine",
+      "signification_fondamentale": "Graine",
+      "positive": {
+        "famille": "Potentiel",
+        "description": "Explorer potentiel dans la situation, sans perdre de vue graine.",
+        "mots_cles": [
+          "potentiel",
+          "graine"
+        ]
+      },
+      "negative": {
+        "famille": "Impatience",
+        "description": "Observer comment impatience peut entraver ou déséquilibrer graine.",
+        "mots_cles": [
+          "impatience",
+          "graine"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tzolk’in",
+      "id": "Tzolk’in:chikchan",
+      "titre": "Chikchan",
+      "symbole": "Chikchan",
+      "theme": "Serpent",
+      "signification_fondamentale": "Serpent",
+      "positive": {
+        "famille": "Vitalité",
+        "description": "Explorer vitalité dans la situation, sans perdre de vue serpent.",
+        "mots_cles": [
+          "vitalité",
+          "serpent"
+        ]
+      },
+      "negative": {
+        "famille": "Impulsivité",
+        "description": "Observer comment impulsivité peut entraver ou déséquilibrer serpent.",
+        "mots_cles": [
+          "impulsivité",
+          "serpent"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tzolk’in",
+      "id": "Tzolk’in:kimi",
+      "titre": "Kimi",
+      "symbole": "Kimi",
+      "theme": "Mort symbolique",
+      "signification_fondamentale": "Mort symbolique",
+      "positive": {
+        "famille": "Transformation",
+        "description": "Explorer transformation dans la situation, sans perdre de vue mort symbolique.",
+        "mots_cles": [
+          "transformation",
+          "mort symbolique"
+        ]
+      },
+      "negative": {
+        "famille": "Attachement",
+        "description": "Observer comment attachement peut entraver ou déséquilibrer mort symbolique.",
+        "mots_cles": [
+          "attachement",
+          "mort symbolique"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tzolk’in",
+      "id": "Tzolk’in:manik",
+      "titre": "Manik’",
+      "symbole": "Manik’",
+      "theme": "Cerf",
+      "signification_fondamentale": "Cerf",
+      "positive": {
+        "famille": "Habileté",
+        "description": "Explorer habileté dans la situation, sans perdre de vue cerf.",
+        "mots_cles": [
+          "habileté",
+          "cerf"
+        ]
+      },
+      "negative": {
+        "famille": "Timidité",
+        "description": "Observer comment timidité peut entraver ou déséquilibrer cerf.",
+        "mots_cles": [
+          "timidité",
+          "cerf"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tzolk’in",
+      "id": "Tzolk’in:lamat",
+      "titre": "Lamat",
+      "symbole": "Lamat",
+      "theme": "Étoile",
+      "signification_fondamentale": "Étoile",
+      "positive": {
+        "famille": "Rayonnement",
+        "description": "Explorer rayonnement dans la situation, sans perdre de vue étoile.",
+        "mots_cles": [
+          "rayonnement",
+          "étoile"
+        ]
+      },
+      "negative": {
+        "famille": "Vanité",
+        "description": "Observer comment vanité peut entraver ou déséquilibrer étoile.",
+        "mots_cles": [
+          "vanité",
+          "étoile"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tzolk’in",
+      "id": "Tzolk’in:muluk",
+      "titre": "Muluk",
+      "symbole": "Muluk",
+      "theme": "Eau",
+      "signification_fondamentale": "Eau",
+      "positive": {
+        "famille": "Fluidité",
+        "description": "Explorer fluidité dans la situation, sans perdre de vue eau.",
+        "mots_cles": [
+          "fluidité",
+          "eau"
+        ]
+      },
+      "negative": {
+        "famille": "Submersion",
+        "description": "Observer comment submersion peut entraver ou déséquilibrer eau.",
+        "mots_cles": [
+          "submersion",
+          "eau"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tzolk’in",
+      "id": "Tzolk’in:ok",
+      "titre": "Ok",
+      "symbole": "Ok",
+      "theme": "Chien",
+      "signification_fondamentale": "Chien",
+      "positive": {
+        "famille": "Loyauté",
+        "description": "Explorer loyauté dans la situation, sans perdre de vue chien.",
+        "mots_cles": [
+          "loyauté",
+          "chien"
+        ]
+      },
+      "negative": {
+        "famille": "Dépendance",
+        "description": "Observer comment dépendance peut entraver ou déséquilibrer chien.",
+        "mots_cles": [
+          "dépendance",
+          "chien"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tzolk’in",
+      "id": "Tzolk’in:chuwen",
+      "titre": "Chuwen",
+      "symbole": "Chuwen",
+      "theme": "Singe",
+      "signification_fondamentale": "Singe",
+      "positive": {
+        "famille": "Créativité",
+        "description": "Explorer créativité dans la situation, sans perdre de vue singe.",
+        "mots_cles": [
+          "créativité",
+          "singe"
+        ]
+      },
+      "negative": {
+        "famille": "Dispersion",
+        "description": "Observer comment dispersion peut entraver ou déséquilibrer singe.",
+        "mots_cles": [
+          "dispersion",
+          "singe"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tzolk’in",
+      "id": "Tzolk’in:eb",
+      "titre": "Eb",
+      "symbole": "Eb",
+      "theme": "Chemin",
+      "signification_fondamentale": "Chemin",
+      "positive": {
+        "famille": "Progression",
+        "description": "Explorer progression dans la situation, sans perdre de vue chemin.",
+        "mots_cles": [
+          "progression",
+          "chemin"
+        ]
+      },
+      "negative": {
+        "famille": "Errance",
+        "description": "Observer comment errance peut entraver ou déséquilibrer chemin.",
+        "mots_cles": [
+          "errance",
+          "chemin"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tzolk’in",
+      "id": "Tzolk’in:ben",
+      "titre": "Ben",
+      "symbole": "Ben",
+      "theme": "Roseau",
+      "signification_fondamentale": "Roseau",
+      "positive": {
+        "famille": "Croissance",
+        "description": "Explorer croissance dans la situation, sans perdre de vue roseau.",
+        "mots_cles": [
+          "croissance",
+          "roseau"
+        ]
+      },
+      "negative": {
+        "famille": "Rigidité",
+        "description": "Observer comment rigidité peut entraver ou déséquilibrer roseau.",
+        "mots_cles": [
+          "rigidité",
+          "roseau"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tzolk’in",
+      "id": "Tzolk’in:ix",
+      "titre": "Ix",
+      "symbole": "Ix",
+      "theme": "Jaguar",
+      "signification_fondamentale": "Jaguar",
+      "positive": {
+        "famille": "Intuition",
+        "description": "Explorer intuition dans la situation, sans perdre de vue jaguar.",
+        "mots_cles": [
+          "intuition",
+          "jaguar"
+        ]
+      },
+      "negative": {
+        "famille": "Méfiance",
+        "description": "Observer comment méfiance peut entraver ou déséquilibrer jaguar.",
+        "mots_cles": [
+          "méfiance",
+          "jaguar"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tzolk’in",
+      "id": "Tzolk’in:men",
+      "titre": "Men",
+      "symbole": "Men",
+      "theme": "Aigle",
+      "signification_fondamentale": "Aigle",
+      "positive": {
+        "famille": "Vision",
+        "description": "Explorer vision dans la situation, sans perdre de vue aigle.",
+        "mots_cles": [
+          "vision",
+          "aigle"
+        ]
+      },
+      "negative": {
+        "famille": "Arrogance",
+        "description": "Observer comment arrogance peut entraver ou déséquilibrer aigle.",
+        "mots_cles": [
+          "arrogance",
+          "aigle"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tzolk’in",
+      "id": "Tzolk’in:kib",
+      "titre": "K’ib",
+      "symbole": "K’ib",
+      "theme": "Réflexion",
+      "signification_fondamentale": "Réflexion",
+      "positive": {
+        "famille": "Sagesse",
+        "description": "Explorer sagesse dans la situation, sans perdre de vue réflexion.",
+        "mots_cles": [
+          "sagesse",
+          "réflexion"
+        ]
+      },
+      "negative": {
+        "famille": "Isolement",
+        "description": "Observer comment isolement peut entraver ou déséquilibrer réflexion.",
+        "mots_cles": [
+          "isolement",
+          "réflexion"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tzolk’in",
+      "id": "Tzolk’in:kaban",
+      "titre": "Kaban",
+      "symbole": "Kaban",
+      "theme": "Terre",
+      "signification_fondamentale": "Terre",
+      "positive": {
+        "famille": "Évolution",
+        "description": "Explorer évolution dans la situation, sans perdre de vue terre.",
+        "mots_cles": [
+          "évolution",
+          "terre"
+        ]
+      },
+      "negative": {
+        "famille": "Inertie",
+        "description": "Observer comment inertie peut entraver ou déséquilibrer terre.",
+        "mots_cles": [
+          "inertie",
+          "terre"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tzolk’in",
+      "id": "Tzolk’in:etznab",
+      "titre": "Etz’nab",
+      "symbole": "Etz’nab",
+      "theme": "Silex",
+      "signification_fondamentale": "Silex",
+      "positive": {
+        "famille": "Discernement",
+        "description": "Explorer discernement dans la situation, sans perdre de vue silex.",
+        "mots_cles": [
+          "discernement",
+          "silex"
+        ]
+      },
+      "negative": {
+        "famille": "Sévérité",
+        "description": "Observer comment sévérité peut entraver ou déséquilibrer silex.",
+        "mots_cles": [
+          "sévérité",
+          "silex"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tzolk’in",
+      "id": "Tzolk’in:kawak",
+      "titre": "Kawak",
+      "symbole": "Kawak",
+      "theme": "Orage",
+      "signification_fondamentale": "Orage",
+      "positive": {
+        "famille": "Renouveau",
+        "description": "Explorer renouveau dans la situation, sans perdre de vue orage.",
+        "mots_cles": [
+          "renouveau",
+          "orage"
+        ]
+      },
+      "negative": {
+        "famille": "Tumulte",
+        "description": "Observer comment tumulte peut entraver ou déséquilibrer orage.",
+        "mots_cles": [
+          "tumulte",
+          "orage"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tzolk’in",
+      "id": "Tzolk’in:ajaw",
+      "titre": "Ajaw",
+      "symbole": "Ajaw",
+      "theme": "Rayonnement",
+      "signification_fondamentale": "Rayonnement",
+      "positive": {
+        "famille": "Accomplissement",
+        "description": "Explorer accomplissement dans la situation, sans perdre de vue rayonnement.",
+        "mots_cles": [
+          "accomplissement",
+          "rayonnement"
+        ]
+      },
+      "negative": {
+        "famille": "Orgueil",
+        "description": "Observer comment orgueil peut entraver ou déséquilibrer rayonnement.",
+        "mots_cles": [
+          "orgueil",
+          "rayonnement"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    }
+  ]
+}

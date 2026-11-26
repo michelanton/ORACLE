@@ -1,0 +1,1657 @@
+{
+  "version": "1.5",
+  "tradition": "Oracle de Belline",
+  "references": [
+    {
+      "tradition": "Oracle de Belline",
+      "nombre_symboles": 53,
+      "source": "https://www.oracledebelline.com/",
+      "droits": "Non vérifiés"
+    }
+  ],
+  "symboles": [
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:carte-bleue",
+      "titre": "Carte bleue",
+      "symbole": "Carte bleue",
+      "theme": "Protection",
+      "signification_fondamentale": "Protection",
+      "positive": {
+        "famille": "Confiance",
+        "description": "La confiance offre un sentiment de protection lorsque tu sais reconnaître les appuis qui t’entourent sans renoncer à ton discernement.",
+        "mots_cles": [
+          "confiance",
+          "protection"
+        ]
+      },
+      "negative": {
+        "famille": "Insouciance",
+        "description": "Se sentir protégé ne dispense pas de rester attentif aux conséquences de ses choix.",
+        "mots_cles": [
+          "insouciance",
+          "protection"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": null,
+      "astre": null,
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:la-destinee",
+      "titre": "La Destinée",
+      "symbole": "La Destinée",
+      "theme": "Orientation",
+      "signification_fondamentale": "Orientation",
+      "positive": {
+        "famille": "Acceptation",
+        "description": "Accepter ce que tu ne peux changer te permet de consacrer tes forces à la direction que tu peux encore choisir.",
+        "mots_cles": [
+          "acceptation",
+          "orientation"
+        ]
+      },
+      "negative": {
+        "famille": "Fatalisme",
+        "description": "Croire que tout est écrit risque de te faire abandonner la liberté d’agir qui demeure en toi.",
+        "mots_cles": [
+          "fatalisme",
+          "orientation"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 1,
+      "astre": null,
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:etoile-de-lhomme",
+      "titre": "Étoile de l’homme",
+      "symbole": "Étoile de l’homme",
+      "theme": "Significateur",
+      "signification_fondamentale": "Significateur",
+      "positive": {
+        "famille": "Affirmation",
+        "description": "Affirmer ton identité consiste à reconnaître tes convictions et à leur donner une place parmi celles des autres.",
+        "mots_cles": [
+          "affirmation",
+          "significateur"
+        ]
+      },
+      "negative": {
+        "famille": "Égocentrisme",
+        "description": "À faire de toi-même le centre de chaque situation, tu risques de ne plus comprendre le monde qui t’entoure.",
+        "mots_cles": [
+          "égocentrisme",
+          "significateur"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 2,
+      "astre": null,
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:etoile-de-la-femme",
+      "titre": "Étoile de la femme",
+      "symbole": "Étoile de la femme",
+      "theme": "Significateur",
+      "signification_fondamentale": "Significateur",
+      "positive": {
+        "famille": "Autonomie",
+        "description": "L’autonomie naît de la capacité à choisir pour toi-même sans attendre que les autres légitiment ton existence.",
+        "mots_cles": [
+          "autonomie",
+          "significateur"
+        ]
+      },
+      "negative": {
+        "famille": "Effacement",
+        "description": "À effacer constamment tes aspirations pour satisfaire celles des autres, tu risques de perdre de vue ta propre identité.",
+        "mots_cles": [
+          "effacement",
+          "significateur"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 3,
+      "astre": null,
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:nativite",
+      "titre": "Nativité",
+      "symbole": "Nativité",
+      "theme": "Commencement",
+      "signification_fondamentale": "Commencement",
+      "positive": {
+        "famille": "Renouveau",
+        "description": "Chaque commencement offre la possibilité de renouveler ton regard et de faire grandir une intention encore fragile.",
+        "mots_cles": [
+          "renouveau",
+          "commencement"
+        ]
+      },
+      "negative": {
+        "famille": "Immaturité",
+        "description": "L’enthousiasme des débuts ne remplace pas la maturité nécessaire pour prendre soin de ce que tu entreprends.",
+        "mots_cles": [
+          "immaturité",
+          "commencement"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 4,
+      "astre": "Soleil",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:reussite",
+      "titre": "Réussite",
+      "symbole": "Réussite",
+      "theme": "Accomplissement",
+      "signification_fondamentale": "Accomplissement",
+      "positive": {
+        "famille": "Satisfaction",
+        "description": "La satisfaction véritable naît autant du chemin parcouru que du résultat auquel tes efforts t’ont conduit.",
+        "mots_cles": [
+          "satisfaction",
+          "accomplissement"
+        ]
+      },
+      "negative": {
+        "famille": "Vanité",
+        "description": "La vanité transforme un accomplissement en simple recherche d’admiration et en appauvrit le sens.",
+        "mots_cles": [
+          "vanité",
+          "accomplissement"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 5,
+      "astre": "Soleil",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:elevation",
+      "titre": "Élévation",
+      "symbole": "Élévation",
+      "theme": "Progression",
+      "signification_fondamentale": "Progression",
+      "positive": {
+        "famille": "Ambition",
+        "description": "L’ambition devient une force de progression lorsqu’elle t’invite à dépasser tes limites plutôt qu’à dépasser les autres.",
+        "mots_cles": [
+          "ambition",
+          "progression"
+        ]
+      },
+      "negative": {
+        "famille": "Suffisance",
+        "description": "La suffisance interrompt le progrès dès que tu crois ne plus rien avoir à apprendre.",
+        "mots_cles": [
+          "suffisance",
+          "progression"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 6,
+      "astre": "Soleil",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:honneurs",
+      "titre": "Honneurs",
+      "symbole": "Honneurs",
+      "theme": "Reconnaissance",
+      "signification_fondamentale": "Reconnaissance",
+      "positive": {
+        "famille": "Gratitude",
+        "description": "Accueille la reconnaissance avec gratitude, en te souvenant des personnes et des circonstances qui ont contribué à ton parcours.",
+        "mots_cles": [
+          "gratitude",
+          "reconnaissance"
+        ]
+      },
+      "negative": {
+        "famille": "Orgueil",
+        "description": "Les honneurs deviennent un piège lorsque tu leur confies le soin de définir ta valeur.",
+        "mots_cles": [
+          "orgueil",
+          "reconnaissance"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 7,
+      "astre": "Soleil",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:pensee-amitie",
+      "titre": "Pensée Amitié",
+      "symbole": "Pensée Amitié",
+      "theme": "Lien",
+      "signification_fondamentale": "Lien",
+      "positive": {
+        "famille": "Solidarité",
+        "description": "L’amitié se nourrit de la solidarité librement offerte, dans laquelle chacun trouve une présence sans perdre son indépendance.",
+        "mots_cles": [
+          "solidarité",
+          "lien"
+        ]
+      },
+      "negative": {
+        "famille": "Dépendance",
+        "description": "Un lien amical s’appauvrit lorsque la peur de perdre l’autre remplace le plaisir de sa présence.",
+        "mots_cles": [
+          "dépendance",
+          "lien"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 8,
+      "astre": "Soleil",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:campagne-sante",
+      "titre": "Campagne Santé",
+      "symbole": "Campagne Santé",
+      "theme": "Repos",
+      "signification_fondamentale": "Repos",
+      "positive": {
+        "famille": "Équilibre",
+        "description": "Le repos fait partie de l’équilibre de la vie, car toute énergie a besoin de moments pour se renouveler.",
+        "mots_cles": [
+          "équilibre",
+          "repos"
+        ]
+      },
+      "negative": {
+        "famille": "Négligence",
+        "description": "Négliger tes besoins de repos au nom de tes obligations peut te faire oublier que prendre soin de toi est aussi une responsabilité.",
+        "mots_cles": [
+          "négligence",
+          "repos"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 9,
+      "astre": "Soleil",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:presents",
+      "titre": "Présents",
+      "symbole": "Présents",
+      "theme": "Don",
+      "signification_fondamentale": "Don",
+      "positive": {
+        "famille": "Générosité",
+        "description": "La générosité trouve sa beauté dans un don qui n’attend rien d’autre que la possibilité de contribuer au bien d’autrui.",
+        "mots_cles": [
+          "générosité",
+          "don"
+        ]
+      },
+      "negative": {
+        "famille": "Dette morale",
+        "description": "Un présent perd sa liberté lorsqu’il devient le moyen d’imposer une dette à celui qui le reçoit.",
+        "mots_cles": [
+          "dette morale",
+          "don"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 10,
+      "astre": "Soleil",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:trahison",
+      "titre": "Trahison",
+      "symbole": "Trahison",
+      "theme": "Confiance éprouvée",
+      "signification_fondamentale": "Confiance éprouvée",
+      "positive": {
+        "famille": "Lucidité",
+        "description": "Lorsque la confiance est éprouvée, la lucidité aide à distinguer les faits de la blessure qu’ils provoquent.",
+        "mots_cles": [
+          "lucidité",
+          "confiance éprouvée"
+        ]
+      },
+      "negative": {
+        "famille": "Déloyauté",
+        "description": "La déloyauté fragilise les liens en opposant les actes aux engagements qui leur donnaient leur valeur.",
+        "mots_cles": [
+          "déloyauté",
+          "confiance éprouvée"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 11,
+      "astre": "Lune",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:depart",
+      "titre": "Départ",
+      "symbole": "Départ",
+      "theme": "Transition",
+      "signification_fondamentale": "Transition",
+      "positive": {
+        "famille": "Exploration",
+        "description": "Partir, c’est parfois accepter de quitter des repères familiers pour découvrir d’autres manières d’habiter le monde.",
+        "mots_cles": [
+          "exploration",
+          "transition"
+        ]
+      },
+      "negative": {
+        "famille": "Fuite",
+        "description": "Changer de lieu ou de situation ne suffit pas à résoudre les difficultés que tu refuses d’examiner.",
+        "mots_cles": [
+          "fuite",
+          "transition"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 12,
+      "astre": "Lune",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:inconstance",
+      "titre": "Inconstance",
+      "symbole": "Inconstance",
+      "theme": "Variation",
+      "signification_fondamentale": "Variation",
+      "positive": {
+        "famille": "Souplesse",
+        "description": "La souplesse permet de modifier tes choix lorsque les circonstances évoluent, sans renoncer à ce qui leur donne du sens.",
+        "mots_cles": [
+          "souplesse",
+          "variation"
+        ]
+      },
+      "negative": {
+        "famille": "Instabilité",
+        "description": "À changer d’intention au gré de chaque circonstance, tu risques de ne jamais donner de continuité à tes engagements.",
+        "mots_cles": [
+          "instabilité",
+          "variation"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 13,
+      "astre": "Lune",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:decouverte",
+      "titre": "Découverte",
+      "symbole": "Découverte",
+      "theme": "Recherche",
+      "signification_fondamentale": "Recherche",
+      "positive": {
+        "famille": "Curiosité",
+        "description": "La curiosité ouvre des horizons lorsque le désir de comprendre s’accompagne du respect de ce qui demeure inconnu.",
+        "mots_cles": [
+          "curiosité",
+          "recherche"
+        ]
+      },
+      "negative": {
+        "famille": "Intrusion",
+        "description": "Le désir de savoir devient intrusion lorsqu’il franchit les limites de l’intimité d’autrui.",
+        "mots_cles": [
+          "intrusion",
+          "recherche"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 14,
+      "astre": "Lune",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:eau",
+      "titre": "Eau",
+      "symbole": "Eau",
+      "theme": "Fluidité",
+      "signification_fondamentale": "Fluidité",
+      "positive": {
+        "famille": "Adaptation",
+        "description": "Comme l’eau épouse les formes qu’elle rencontre, tu peux adapter ta manière d’avancer sans renoncer à ta nature profonde.",
+        "mots_cles": [
+          "adaptation",
+          "fluidité"
+        ]
+      },
+      "negative": {
+        "famille": "Confusion",
+        "description": "La souplesse devient confusion lorsque tu ne distingues plus les circonstances auxquelles tu t’adaptes des valeurs qui t’orientent.",
+        "mots_cles": [
+          "confusion",
+          "fluidité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 15,
+      "astre": "Lune",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:penates",
+      "titre": "Pénates",
+      "symbole": "Pénates",
+      "theme": "Foyer",
+      "signification_fondamentale": "Foyer",
+      "positive": {
+        "famille": "Sécurité",
+        "description": "Un foyer offre une sécurité précieuse lorsqu’il permet de retrouver ses forces avant de s’ouvrir de nouveau au monde.",
+        "mots_cles": [
+          "sécurité",
+          "foyer"
+        ]
+      },
+      "negative": {
+        "famille": "Repli",
+        "description": "Le refuge devient enfermement lorsque la peur de l’extérieur t’empêche de quitter ce qui t’est familier.",
+        "mots_cles": [
+          "repli",
+          "foyer"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 16,
+      "astre": "Lune",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:maladie",
+      "titre": "Maladie",
+      "symbole": "Maladie",
+      "theme": "Vulnérabilité",
+      "signification_fondamentale": "Vulnérabilité",
+      "positive": {
+        "famille": "Attention à soi",
+        "description": "Reconnaître ta vulnérabilité est une manière de respecter tes limites et d’accorder à tes besoins une attention bienveillante.",
+        "mots_cles": [
+          "attention à soi",
+          "vulnérabilité"
+        ]
+      },
+      "negative": {
+        "famille": "Négligence",
+        "description": "Ignorer tes fragilités ne les fait pas disparaître ; elles méritent une attention que la seule volonté ne remplace pas.",
+        "mots_cles": [
+          "négligence",
+          "vulnérabilité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 17,
+      "astre": "Lune",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:changement",
+      "titre": "Changement",
+      "symbole": "Changement",
+      "theme": "Transition",
+      "signification_fondamentale": "Transition",
+      "positive": {
+        "famille": "Renouveau",
+        "description": "Le changement prend son sens lorsque tu transformes ce qui ne te convient plus en une possibilité de renouvellement.",
+        "mots_cles": [
+          "renouveau",
+          "transition"
+        ]
+      },
+      "negative": {
+        "famille": "Précipitation",
+        "description": "La précipitation risque de rompre avec le passé avant que tu aies compris ce que tu souhaites construire.",
+        "mots_cles": [
+          "précipitation",
+          "transition"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 18,
+      "astre": "Mercure",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:argent",
+      "titre": "Argent",
+      "symbole": "Argent",
+      "theme": "Ressources",
+      "signification_fondamentale": "Ressources",
+      "positive": {
+        "famille": "Gestion",
+        "description": "La sagesse dans la gestion des ressources consiste à leur donner une utilité en accord avec ce qui compte réellement pour toi.",
+        "mots_cles": [
+          "gestion",
+          "ressources"
+        ]
+      },
+      "negative": {
+        "famille": "Avidité",
+        "description": "L’avidité rend la richesse insuffisante lorsque chaque acquisition nourrit le désir de posséder davantage.",
+        "mots_cles": [
+          "avidité",
+          "ressources"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 19,
+      "astre": "Mercure",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:intelligence",
+      "titre": "Intelligence",
+      "symbole": "Intelligence",
+      "theme": "Compréhension",
+      "signification_fondamentale": "Compréhension",
+      "positive": {
+        "famille": "Discernement",
+        "description": "Comprendre exige de distinguer ce que tu observes de ce que tes convictions te poussent à interpréter.",
+        "mots_cles": [
+          "discernement",
+          "compréhension"
+        ]
+      },
+      "negative": {
+        "famille": "Suffisance",
+        "description": "La certitude de tout comprendre ferme l’esprit aux nuances qui pourraient enrichir son jugement.",
+        "mots_cles": [
+          "suffisance",
+          "compréhension"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 20,
+      "astre": "Mercure",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:vol-perte",
+      "titre": "Vol Perte",
+      "symbole": "Vol Perte",
+      "theme": "Dépossession",
+      "signification_fondamentale": "Dépossession",
+      "positive": {
+        "famille": "Détachement",
+        "description": "La perte peut inviter à distinguer ce que tu possèdes de ce qui constitue véritablement ton identité.",
+        "mots_cles": [
+          "détachement",
+          "dépossession"
+        ]
+      },
+      "negative": {
+        "famille": "Abus",
+        "description": "Le détachement ne signifie pas accepter les abus : préserver ta dignité implique aussi de défendre tes droits.",
+        "mots_cles": [
+          "abus",
+          "dépossession"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 21,
+      "astre": "Mercure",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:entreprise",
+      "titre": "Entreprise",
+      "symbole": "Entreprise",
+      "theme": "Projet",
+      "signification_fondamentale": "Projet",
+      "positive": {
+        "famille": "Initiative",
+        "description": "Un projet commence à prendre vie lorsque tu transformes une intention réfléchie en un premier acte concret.",
+        "mots_cles": [
+          "initiative",
+          "projet"
+        ]
+      },
+      "negative": {
+        "famille": "Imprudence",
+        "description": "L’audace devient imprudence lorsque le désir d’entreprendre fait oublier les conséquences de ses décisions.",
+        "mots_cles": [
+          "imprudence",
+          "projet"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 22,
+      "astre": "Mercure",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:trafic",
+      "titre": "Trafic",
+      "symbole": "Trafic",
+      "theme": "Circulation",
+      "signification_fondamentale": "Circulation",
+      "positive": {
+        "famille": "Échange",
+        "description": "Les échanges enrichissent chacun lorsque les ressources, les idées et les expériences circulent dans un esprit de réciprocité.",
+        "mots_cles": [
+          "échange",
+          "circulation"
+        ]
+      },
+      "negative": {
+        "famille": "Opportunisme",
+        "description": "L’opportunisme appauvrit les échanges lorsqu’il ne considère les autres qu’à travers les avantages qu’ils procurent.",
+        "mots_cles": [
+          "opportunisme",
+          "circulation"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 23,
+      "astre": "Mercure",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:nouvelles",
+      "titre": "Nouvelles",
+      "symbole": "Nouvelles",
+      "theme": "Information",
+      "signification_fondamentale": "Information",
+      "positive": {
+        "famille": "Communication",
+        "description": "Une information prend sa valeur lorsque tu la transmets avec clarté et que tu restes disponible aux questions qu’elle suscite.",
+        "mots_cles": [
+          "communication",
+          "information"
+        ]
+      },
+      "negative": {
+        "famille": "Malentendu",
+        "description": "Le malentendu grandit lorsque tu prends tes interprétations pour le sens véritable des paroles reçues.",
+        "mots_cles": [
+          "malentendu",
+          "information"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 24,
+      "astre": "Mercure",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:plaisirs",
+      "titre": "Plaisirs",
+      "symbole": "Plaisirs",
+      "theme": "Satisfaction",
+      "signification_fondamentale": "Satisfaction",
+      "positive": {
+        "famille": "Joie",
+        "description": "La joie s’approfondit lorsque tu sais savourer les plaisirs simples sans exiger qu’ils durent éternellement.",
+        "mots_cles": [
+          "joie",
+          "satisfaction"
+        ]
+      },
+      "negative": {
+        "famille": "Excès",
+        "description": "La recherche incessante du plaisir peut émousser la capacité à apprécier ce qui suffisait autrefois à te réjouir.",
+        "mots_cles": [
+          "excès",
+          "satisfaction"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 25,
+      "astre": "Vénus",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:paix",
+      "titre": "Paix",
+      "symbole": "Paix",
+      "theme": "Apaisement",
+      "signification_fondamentale": "Apaisement",
+      "positive": {
+        "famille": "Réconciliation",
+        "description": "La réconciliation devient possible lorsque chacun accepte de reconnaître les blessures sans réduire l’autre à ses erreurs.",
+        "mots_cles": [
+          "réconciliation",
+          "apaisement"
+        ]
+      },
+      "negative": {
+        "famille": "Évitement",
+        "description": "Éviter un désaccord ne suffit pas à établir la paix lorsque les tensions restent silencieusement présentes.",
+        "mots_cles": [
+          "évitement",
+          "apaisement"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 26,
+      "astre": "Vénus",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:union",
+      "titre": "Union",
+      "symbole": "Union",
+      "theme": "Alliance",
+      "signification_fondamentale": "Alliance",
+      "positive": {
+        "famille": "Coopération",
+        "description": "Une alliance solide permet de poursuivre un objectif commun tout en respectant la singularité de chacun.",
+        "mots_cles": [
+          "coopération",
+          "alliance"
+        ]
+      },
+      "negative": {
+        "famille": "Fusion",
+        "description": "L’union devient fusion lorsque la volonté de ne faire qu’un efface les différences qui enrichissaient la relation.",
+        "mots_cles": [
+          "fusion",
+          "alliance"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 27,
+      "astre": "Vénus",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:famille",
+      "titre": "Famille",
+      "symbole": "Famille",
+      "theme": "Appartenance",
+      "signification_fondamentale": "Appartenance",
+      "positive": {
+        "famille": "Solidarité",
+        "description": "La famille trouve sa force dans une solidarité qui accueille les différences autant qu’elle entretient les liens.",
+        "mots_cles": [
+          "solidarité",
+          "appartenance"
+        ]
+      },
+      "negative": {
+        "famille": "Pression",
+        "description": "Le sentiment d’appartenance perd sa chaleur lorsque les attentes du groupe deviennent une obligation de renoncer à soi.",
+        "mots_cles": [
+          "pression",
+          "appartenance"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 28,
+      "astre": "Vénus",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:amour",
+      "titre": "Amour",
+      "symbole": "Amour",
+      "theme": "Affection",
+      "signification_fondamentale": "Affection",
+      "positive": {
+        "famille": "Tendresse",
+        "description": "La tendresse donne à l’amour sa profondeur lorsqu’elle accueille l’autre tel qu’il est plutôt que tel qu’on voudrait qu’il soit.",
+        "mots_cles": [
+          "tendresse",
+          "affection"
+        ]
+      },
+      "negative": {
+        "famille": "Jalousie",
+        "description": "La jalousie risque de transformer l’affection en surveillance lorsque la peur de perdre prend le pas sur la confiance.",
+        "mots_cles": [
+          "jalousie",
+          "affection"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 29,
+      "astre": "Vénus",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:table",
+      "titre": "Table",
+      "symbole": "Table",
+      "theme": "Partage",
+      "signification_fondamentale": "Partage",
+      "positive": {
+        "famille": "Convivialité",
+        "description": "La convivialité rappelle que la richesse d’un repas réside aussi dans la qualité des présences et des paroles partagées.",
+        "mots_cles": [
+          "convivialité",
+          "partage"
+        ]
+      },
+      "negative": {
+        "famille": "Excès",
+        "description": "Les excès peuvent détourner le partage de son véritable sens lorsque la consommation devient plus importante que la rencontre.",
+        "mots_cles": [
+          "excès",
+          "partage"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 30,
+      "astre": "Vénus",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:passions",
+      "titre": "Passions",
+      "symbole": "Passions",
+      "theme": "Intensité",
+      "signification_fondamentale": "Intensité",
+      "positive": {
+        "famille": "Enthousiasme",
+        "description": "L’enthousiasme donne une intensité féconde à l’existence lorsqu’il nourrit des engagements qui ont du sens.",
+        "mots_cles": [
+          "enthousiasme",
+          "intensité"
+        ]
+      },
+      "negative": {
+        "famille": "Obsession",
+        "description": "La passion devient obsession lorsqu’elle occupe tout l’espace et ne laisse plus de place aux autres dimensions de la vie.",
+        "mots_cles": [
+          "obsession",
+          "intensité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 31,
+      "astre": "Vénus",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:mechancete",
+      "titre": "Méchanceté",
+      "symbole": "Méchanceté",
+      "theme": "Hostilité",
+      "signification_fondamentale": "Hostilité",
+      "positive": {
+        "famille": "Protection de soi",
+        "description": "Face à l’hostilité, préserver ta dignité consiste à poser des limites sans reproduire la méchanceté que tu rencontres.",
+        "mots_cles": [
+          "protection de soi",
+          "hostilité"
+        ]
+      },
+      "negative": {
+        "famille": "Cruauté",
+        "description": "La cruauté ne répare aucune blessure lorsqu’elle transforme la souffrance reçue en souffrance infligée.",
+        "mots_cles": [
+          "cruauté",
+          "hostilité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 32,
+      "astre": "Mars",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:proces",
+      "titre": "Procès",
+      "symbole": "Procès",
+      "theme": "Litige",
+      "signification_fondamentale": "Litige",
+      "positive": {
+        "famille": "Justice",
+        "description": "Rechercher la justice dans un conflit exige de défendre ce qui est légitime sans perdre de vue la dignité de chacun.",
+        "mots_cles": [
+          "justice",
+          "litige"
+        ]
+      },
+      "negative": {
+        "famille": "Acharnement",
+        "description": "L’acharnement peut faire oublier le sens d’un combat lorsque le désir de vaincre devient plus important que la justice.",
+        "mots_cles": [
+          "acharnement",
+          "litige"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 33,
+      "astre": "Mars",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:despotisme",
+      "titre": "Despotisme",
+      "symbole": "Despotisme",
+      "theme": "Pouvoir",
+      "signification_fondamentale": "Pouvoir",
+      "positive": {
+        "famille": "Affirmation des limites",
+        "description": "Affirmer tes limites, c’est reconnaître que nul pouvoir ne devrait exiger le renoncement à ta dignité.",
+        "mots_cles": [
+          "affirmation des limites",
+          "pouvoir"
+        ]
+      },
+      "negative": {
+        "famille": "Domination",
+        "description": "La domination confond l’autorité avec la soumission et détruit la confiance dont tout pouvoir légitime a besoin.",
+        "mots_cles": [
+          "domination",
+          "pouvoir"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 34,
+      "astre": "Mars",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:ennemis",
+      "titre": "Ennemis",
+      "symbole": "Ennemis",
+      "theme": "Opposition",
+      "signification_fondamentale": "Opposition",
+      "positive": {
+        "famille": "Vigilance",
+        "description": "La vigilance face à une opposition consiste à examiner les intentions et les actes sans renoncer à l’ouverture du dialogue.",
+        "mots_cles": [
+          "vigilance",
+          "opposition"
+        ]
+      },
+      "negative": {
+        "famille": "Paranoïa",
+        "description": "La méfiance excessive peut te conduire à interpréter chaque désaccord comme une menace, même en l’absence de preuve.",
+        "mots_cles": [
+          "paranoïa",
+          "opposition"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 35,
+      "astre": "Mars",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:pourparlers",
+      "titre": "Pourparlers",
+      "symbole": "Pourparlers",
+      "theme": "Dialogue",
+      "signification_fondamentale": "Dialogue",
+      "positive": {
+        "famille": "Négociation",
+        "description": "Négocier, c’est chercher un terrain commun sans exiger que l’autre abandonne tout ce qui lui importe.",
+        "mots_cles": [
+          "négociation",
+          "dialogue"
+        ]
+      },
+      "negative": {
+        "famille": "Manipulation",
+        "description": "Le dialogue perd sa sincérité lorsque les paroles servent à orienter secrètement les décisions d’autrui.",
+        "mots_cles": [
+          "manipulation",
+          "dialogue"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 36,
+      "astre": "Mars",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:feu",
+      "titre": "Feu",
+      "symbole": "Feu",
+      "theme": "Énergie",
+      "signification_fondamentale": "Énergie",
+      "positive": {
+        "famille": "Création",
+        "description": "L’énergie créatrice ressemble au feu : elle transforme ce qu’elle rencontre lorsqu’une intention réfléchie lui donne une direction.",
+        "mots_cles": [
+          "création",
+          "énergie"
+        ]
+      },
+      "negative": {
+        "famille": "Emportement",
+        "description": "L’emportement peut consumer en un instant ce que la patience avait permis de construire.",
+        "mots_cles": [
+          "emportement",
+          "énergie"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 37,
+      "astre": "Mars",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:accident",
+      "titre": "Accident",
+      "symbole": "Accident",
+      "theme": "Imprévu",
+      "signification_fondamentale": "Imprévu",
+      "positive": {
+        "famille": "Adaptation",
+        "description": "Face à l’imprévu, l’adaptation consiste à reconnaître ce qui a changé avant de chercher une nouvelle manière d’avancer.",
+        "mots_cles": [
+          "adaptation",
+          "imprévu"
+        ]
+      },
+      "negative": {
+        "famille": "Précipitation",
+        "description": "Dans une situation inattendue, la précipitation peut ajouter une difficulté à celle qui demande déjà ton attention.",
+        "mots_cles": [
+          "précipitation",
+          "imprévu"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 38,
+      "astre": "Mars",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:appui",
+      "titre": "Appui",
+      "symbole": "Appui",
+      "theme": "Soutien",
+      "signification_fondamentale": "Soutien",
+      "positive": {
+        "famille": "Entraide",
+        "description": "L’entraide donne sa force au soutien lorsqu’elle permet à chacun de retrouver ses propres moyens d’agir.",
+        "mots_cles": [
+          "entraide",
+          "soutien"
+        ]
+      },
+      "negative": {
+        "famille": "Dépendance",
+        "description": "Un appui devient dépendance lorsque tu ne crois plus pouvoir avancer sans l’approbation ou la présence de celui qui t’aide.",
+        "mots_cles": [
+          "dépendance",
+          "soutien"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 39,
+      "astre": "Jupiter",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:beaute",
+      "titre": "Beauté",
+      "symbole": "Beauté",
+      "theme": "Esthétique",
+      "signification_fondamentale": "Esthétique",
+      "positive": {
+        "famille": "Émerveillement",
+        "description": "L’émerveillement révèle la beauté de ce que l’habitude avait rendu invisible à ton regard.",
+        "mots_cles": [
+          "émerveillement",
+          "esthétique"
+        ]
+      },
+      "negative": {
+        "famille": "Vanité",
+        "description": "La vanité réduit la beauté à l’image que tu souhaites offrir, au détriment de la richesse de ce que tu es.",
+        "mots_cles": [
+          "vanité",
+          "esthétique"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 40,
+      "astre": "Jupiter",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:heritage",
+      "titre": "Héritage",
+      "symbole": "Héritage",
+      "theme": "Transmission",
+      "signification_fondamentale": "Transmission",
+      "positive": {
+        "famille": "Continuité",
+        "description": "Transmettre un héritage, c’est prolonger ce qu’il contient de précieux tout en laissant aux générations suivantes la liberté de le transformer.",
+        "mots_cles": [
+          "continuité",
+          "transmission"
+        ]
+      },
+      "negative": {
+        "famille": "Attachement",
+        "description": "L’attachement au passé peut empêcher la transmission de rester vivante lorsque toute évolution est perçue comme une trahison.",
+        "mots_cles": [
+          "attachement",
+          "transmission"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 41,
+      "astre": "Jupiter",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:sagesse",
+      "titre": "Sagesse",
+      "symbole": "Sagesse",
+      "theme": "Expérience",
+      "signification_fondamentale": "Expérience",
+      "positive": {
+        "famille": "Discernement",
+        "description": "L’expérience devient sagesse lorsque tu en tires des enseignements sans les ériger en vérités universelles.",
+        "mots_cles": [
+          "discernement",
+          "expérience"
+        ]
+      },
+      "negative": {
+        "famille": "Dogmatisme",
+        "description": "Le dogmatisme transforme les leçons du passé en obstacles à la compréhension de situations nouvelles.",
+        "mots_cles": [
+          "dogmatisme",
+          "expérience"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 42,
+      "astre": "Jupiter",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:renommee",
+      "titre": "Renommée",
+      "symbole": "Renommée",
+      "theme": "Visibilité",
+      "signification_fondamentale": "Visibilité",
+      "positive": {
+        "famille": "Reconnaissance",
+        "description": "La reconnaissance prend son sens lorsqu’elle rend visible la valeur d’une contribution plutôt que la seule importance de son auteur.",
+        "mots_cles": [
+          "reconnaissance",
+          "visibilité"
+        ]
+      },
+      "negative": {
+        "famille": "Vanité",
+        "description": "La renommée devient un piège lorsque le regard du public détermine ce que tu crois devoir être.",
+        "mots_cles": [
+          "vanité",
+          "visibilité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 43,
+      "astre": "Jupiter",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:hasard",
+      "titre": "Hasard",
+      "symbole": "Hasard",
+      "theme": "Imprévu",
+      "signification_fondamentale": "Imprévu",
+      "positive": {
+        "famille": "Opportunité",
+        "description": "L’imprévu peut ouvrir des possibilités que tes projets n’avaient pas envisagées, si tu sais les examiner avec ouverture.",
+        "mots_cles": [
+          "opportunité",
+          "imprévu"
+        ]
+      },
+      "negative": {
+        "famille": "Imprudence",
+        "description": "Compter sur le hasard pour remplacer le discernement revient à confier ses décisions à ce que l’on ne maîtrise pas.",
+        "mots_cles": [
+          "imprudence",
+          "imprévu"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 44,
+      "astre": "Jupiter",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:bonheur",
+      "titre": "Bonheur",
+      "symbole": "Bonheur",
+      "theme": "Satisfaction",
+      "signification_fondamentale": "Satisfaction",
+      "positive": {
+        "famille": "Gratitude",
+        "description": "Le bonheur se nourrit de la gratitude envers ce qui existe, sans attendre que toutes les circonstances deviennent idéales.",
+        "mots_cles": [
+          "gratitude",
+          "satisfaction"
+        ]
+      },
+      "negative": {
+        "famille": "Complaisance",
+        "description": "La satisfaction devient complaisance lorsqu’elle te détourne de ce qui mérite encore ton attention ou tes efforts.",
+        "mots_cles": [
+          "complaisance",
+          "satisfaction"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 45,
+      "astre": "Jupiter",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:infortune",
+      "titre": "Infortune",
+      "symbole": "Infortune",
+      "theme": "Épreuve",
+      "signification_fondamentale": "Épreuve",
+      "positive": {
+        "famille": "Résilience",
+        "description": "La résilience ne consiste pas à nier la douleur de l’épreuve, mais à retrouver progressivement une manière de vivre avec ce qu’elle a changé.",
+        "mots_cles": [
+          "résilience",
+          "épreuve"
+        ]
+      },
+      "negative": {
+        "famille": "Découragement",
+        "description": "Le découragement peut faire paraître définitive une difficulté dont tu ne connais pas encore toutes les issues.",
+        "mots_cles": [
+          "découragement",
+          "épreuve"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 46,
+      "astre": "Saturne",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:sterilite",
+      "titre": "Stérilité",
+      "symbole": "Stérilité",
+      "theme": "Absence de résultat",
+      "signification_fondamentale": "Absence de résultat",
+      "positive": {
+        "famille": "Réorientation",
+        "description": "L’absence de résultat peut t’inviter à réexaminer ta méthode et à consacrer tes efforts à une direction plus féconde.",
+        "mots_cles": [
+          "réorientation",
+          "absence de résultat"
+        ]
+      },
+      "negative": {
+        "famille": "Blocage",
+        "description": "Répéter indéfiniment les mêmes gestes malgré leur inefficacité risque de transformer un obstacle en blocage durable.",
+        "mots_cles": [
+          "blocage",
+          "absence de résultat"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 47,
+      "astre": "Saturne",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:fatalite",
+      "titre": "Fatalité",
+      "symbole": "Fatalité",
+      "theme": "Contrainte",
+      "signification_fondamentale": "Contrainte",
+      "positive": {
+        "famille": "Acceptation",
+        "description": "Accepter une contrainte, c’est reconnaître les limites du possible pour mieux discerner la liberté qui subsiste.",
+        "mots_cles": [
+          "acceptation",
+          "contrainte"
+        ]
+      },
+      "negative": {
+        "famille": "Résignation",
+        "description": "La résignation commence lorsque tu renonces à agir même là où une possibilité de changement demeure.",
+        "mots_cles": [
+          "résignation",
+          "contrainte"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 48,
+      "astre": "Saturne",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:grace",
+      "titre": "Grâce",
+      "symbole": "Grâce",
+      "theme": "Clémence",
+      "signification_fondamentale": "Clémence",
+      "positive": {
+        "famille": "Pardon",
+        "description": "Le pardon peut libérer l’esprit du poids du ressentiment sans effacer la responsabilité de celui qui a blessé.",
+        "mots_cles": [
+          "pardon",
+          "clémence"
+        ]
+      },
+      "negative": {
+        "famille": "Passivité",
+        "description": "La clémence devient passivité lorsqu’elle sert de prétexte pour ne jamais poser de limites aux comportements injustes.",
+        "mots_cles": [
+          "passivité",
+          "clémence"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 49,
+      "astre": "Saturne",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:ruine",
+      "titre": "Ruine",
+      "symbole": "Ruine",
+      "theme": "Effondrement",
+      "signification_fondamentale": "Effondrement",
+      "positive": {
+        "famille": "Reconstruction",
+        "description": "Lorsque des repères s’effondrent, reconstruire commence par reconnaître ce qui demeure et ce qui mérite d’être rebâti autrement.",
+        "mots_cles": [
+          "reconstruction",
+          "effondrement"
+        ]
+      },
+      "negative": {
+        "famille": "Désespoir",
+        "description": "Le désespoir peut te faire confondre la disparition d’un projet avec la disparition de toute possibilité d’avenir.",
+        "mots_cles": [
+          "désespoir",
+          "effondrement"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 50,
+      "astre": "Saturne",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:retard",
+      "titre": "Retard",
+      "symbole": "Retard",
+      "theme": "Attente",
+      "signification_fondamentale": "Attente",
+      "positive": {
+        "famille": "Patience",
+        "description": "La patience consiste à respecter le temps nécessaire à une évolution tout en restant attentif à ce que tu peux accomplir aujourd’hui.",
+        "mots_cles": [
+          "patience",
+          "attente"
+        ]
+      },
+      "negative": {
+        "famille": "Procrastination",
+        "description": "L’attente devient procrastination lorsque tu repousses une action possible en espérant des circonstances toujours plus favorables.",
+        "mots_cles": [
+          "procrastination",
+          "attente"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 51,
+      "astre": "Saturne",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    },
+    {
+      "tradition": "Oracle de Belline",
+      "id": "Oracle de Belline:cloitre",
+      "titre": "Cloître",
+      "symbole": "Cloître",
+      "theme": "Retrait",
+      "signification_fondamentale": "Retrait",
+      "positive": {
+        "famille": "Introspection",
+        "description": "Le retrait volontaire offre un espace de silence où tu peux mieux entendre tes pensées et examiner tes aspirations.",
+        "mots_cles": [
+          "introspection",
+          "retrait"
+        ]
+      },
+      "negative": {
+        "famille": "Isolement",
+        "description": "La solitude devient isolement lorsque le retrait ne nourrit plus la réflexion mais t’éloigne durablement des liens qui te font grandir.",
+        "mots_cles": [
+          "isolement",
+          "retrait"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "numero": 52,
+      "astre": "Saturne",
+      "sources": [
+        "https://www.oracledebelline.com/"
+      ],
+      "droits": "Non vérifiés"
+    }
+  ]
+}

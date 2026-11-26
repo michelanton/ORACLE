@@ -1,0 +1,738 @@
+{
+  "version": "1.5",
+  "tradition": "Symbolique animale",
+  "references": [
+    {
+      "tradition": "Symbolique animale",
+      "nombre_symboles": 29,
+      "source": "Synthèse éditoriale originale ; sources historiques à compléter"
+    }
+  ],
+  "symboles": [
+    {
+      "tradition": "Symbolique animale",
+      "id": "Symbolique animale:loup",
+      "titre": "Loup",
+      "symbole": "Loup",
+      "theme": "Groupe",
+      "signification_fondamentale": "Groupe",
+      "positive": {
+        "famille": "Solidarité",
+        "description": "Explorer solidarité dans la situation, sans perdre de vue groupe.",
+        "mots_cles": [
+          "solidarité",
+          "groupe"
+        ]
+      },
+      "negative": {
+        "famille": "Exclusion",
+        "description": "Observer comment exclusion peut entraver ou déséquilibrer groupe.",
+        "mots_cles": [
+          "exclusion",
+          "groupe"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique animale",
+      "id": "Symbolique animale:aigle",
+      "titre": "Aigle",
+      "symbole": "Aigle",
+      "theme": "Hauteur",
+      "signification_fondamentale": "Hauteur",
+      "positive": {
+        "famille": "Vision",
+        "description": "Explorer vision dans la situation, sans perdre de vue hauteur.",
+        "mots_cles": [
+          "vision",
+          "hauteur"
+        ]
+      },
+      "negative": {
+        "famille": "Arrogance",
+        "description": "Observer comment arrogance peut entraver ou déséquilibrer hauteur.",
+        "mots_cles": [
+          "arrogance",
+          "hauteur"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique animale",
+      "id": "Symbolique animale:renard",
+      "titre": "Renard",
+      "symbole": "Renard",
+      "theme": "Adaptation",
+      "signification_fondamentale": "Adaptation",
+      "positive": {
+        "famille": "Ingéniosité",
+        "description": "Explorer ingéniosité dans la situation, sans perdre de vue adaptation.",
+        "mots_cles": [
+          "ingéniosité",
+          "adaptation"
+        ]
+      },
+      "negative": {
+        "famille": "Ruse",
+        "description": "Observer comment ruse peut entraver ou déséquilibrer adaptation.",
+        "mots_cles": [
+          "ruse",
+          "adaptation"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique animale",
+      "id": "Symbolique animale:hibou",
+      "titre": "Hibou",
+      "symbole": "Hibou",
+      "theme": "Observation",
+      "signification_fondamentale": "Observation",
+      "positive": {
+        "famille": "Sagesse",
+        "description": "Explorer sagesse dans la situation, sans perdre de vue observation.",
+        "mots_cles": [
+          "sagesse",
+          "observation"
+        ]
+      },
+      "negative": {
+        "famille": "Isolement",
+        "description": "Observer comment isolement peut entraver ou déséquilibrer observation.",
+        "mots_cles": [
+          "isolement",
+          "observation"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique animale",
+      "id": "Symbolique animale:lion",
+      "titre": "Lion",
+      "symbole": "Lion",
+      "theme": "Puissance",
+      "signification_fondamentale": "Puissance",
+      "positive": {
+        "famille": "Courage",
+        "description": "Explorer courage dans la situation, sans perdre de vue puissance.",
+        "mots_cles": [
+          "courage",
+          "puissance"
+        ]
+      },
+      "negative": {
+        "famille": "Domination",
+        "description": "Observer comment domination peut entraver ou déséquilibrer puissance.",
+        "mots_cles": [
+          "domination",
+          "puissance"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique animale",
+      "id": "Symbolique animale:tortue",
+      "titre": "Tortue",
+      "symbole": "Tortue",
+      "theme": "Durée",
+      "signification_fondamentale": "Durée",
+      "positive": {
+        "famille": "Patience",
+        "description": "Explorer patience dans la situation, sans perdre de vue durée.",
+        "mots_cles": [
+          "patience",
+          "durée"
+        ]
+      },
+      "negative": {
+        "famille": "Lenteur",
+        "description": "Observer comment lenteur peut entraver ou déséquilibrer durée.",
+        "mots_cles": [
+          "lenteur",
+          "durée"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique animale",
+      "id": "Symbolique animale:papillon",
+      "titre": "Papillon",
+      "symbole": "Papillon",
+      "theme": "Métamorphose",
+      "signification_fondamentale": "Métamorphose",
+      "positive": {
+        "famille": "Transformation",
+        "description": "Explorer transformation dans la situation, sans perdre de vue métamorphose.",
+        "mots_cles": [
+          "transformation",
+          "métamorphose"
+        ]
+      },
+      "negative": {
+        "famille": "Fragilité",
+        "description": "Observer comment fragilité peut entraver ou déséquilibrer métamorphose.",
+        "mots_cles": [
+          "fragilité",
+          "métamorphose"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique animale",
+      "id": "Symbolique animale:abeille",
+      "titre": "Abeille",
+      "symbole": "Abeille",
+      "theme": "Collectif",
+      "signification_fondamentale": "Collectif",
+      "positive": {
+        "famille": "Coopération",
+        "description": "Explorer coopération dans la situation, sans perdre de vue collectif.",
+        "mots_cles": [
+          "coopération",
+          "collectif"
+        ]
+      },
+      "negative": {
+        "famille": "Surmenage",
+        "description": "Observer comment surmenage peut entraver ou déséquilibrer collectif.",
+        "mots_cles": [
+          "surmenage",
+          "collectif"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique animale",
+      "id": "Symbolique animale:araignee",
+      "titre": "Araignée",
+      "symbole": "Araignée",
+      "theme": "Réseau",
+      "signification_fondamentale": "Réseau",
+      "positive": {
+        "famille": "Création",
+        "description": "Explorer création dans la situation, sans perdre de vue réseau.",
+        "mots_cles": [
+          "création",
+          "réseau"
+        ]
+      },
+      "negative": {
+        "famille": "Manipulation",
+        "description": "Observer comment manipulation peut entraver ou déséquilibrer réseau.",
+        "mots_cles": [
+          "manipulation",
+          "réseau"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique animale",
+      "id": "Symbolique animale:elephant",
+      "titre": "Éléphant",
+      "symbole": "Éléphant",
+      "theme": "Mémoire",
+      "signification_fondamentale": "Mémoire",
+      "positive": {
+        "famille": "Loyauté",
+        "description": "Explorer loyauté dans la situation, sans perdre de vue mémoire.",
+        "mots_cles": [
+          "loyauté",
+          "mémoire"
+        ]
+      },
+      "negative": {
+        "famille": "Attachement",
+        "description": "Observer comment attachement peut entraver ou déséquilibrer mémoire.",
+        "mots_cles": [
+          "attachement",
+          "mémoire"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique animale",
+      "id": "Symbolique animale:dauphin",
+      "titre": "Dauphin",
+      "symbole": "Dauphin",
+      "theme": "Communication",
+      "signification_fondamentale": "Communication",
+      "positive": {
+        "famille": "Sociabilité",
+        "description": "Explorer sociabilité dans la situation, sans perdre de vue communication.",
+        "mots_cles": [
+          "sociabilité",
+          "communication"
+        ]
+      },
+      "negative": {
+        "famille": "Dispersion",
+        "description": "Observer comment dispersion peut entraver ou déséquilibrer communication.",
+        "mots_cles": [
+          "dispersion",
+          "communication"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique animale",
+      "id": "Symbolique animale:serpent",
+      "titre": "Serpent",
+      "symbole": "Serpent",
+      "theme": "Renouvellement",
+      "signification_fondamentale": "Renouvellement",
+      "positive": {
+        "famille": "Régénération",
+        "description": "Explorer régénération dans la situation, sans perdre de vue renouvellement.",
+        "mots_cles": [
+          "régénération",
+          "renouvellement"
+        ]
+      },
+      "negative": {
+        "famille": "Tromperie",
+        "description": "Observer comment tromperie peut entraver ou déséquilibrer renouvellement.",
+        "mots_cles": [
+          "tromperie",
+          "renouvellement"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique animale",
+      "id": "Symbolique animale:ours",
+      "titre": "Ours",
+      "symbole": "Ours",
+      "theme": "Force",
+      "signification_fondamentale": "Force",
+      "positive": {
+        "famille": "Protection",
+        "description": "Explorer protection dans la situation, sans perdre de vue force.",
+        "mots_cles": [
+          "protection",
+          "force"
+        ]
+      },
+      "negative": {
+        "famille": "Repli",
+        "description": "Observer comment repli peut entraver ou déséquilibrer force.",
+        "mots_cles": [
+          "repli",
+          "force"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique animale",
+      "id": "Symbolique animale:cerf",
+      "titre": "Cerf",
+      "symbole": "Cerf",
+      "theme": "Vigilance",
+      "signification_fondamentale": "Vigilance",
+      "positive": {
+        "famille": "Grâce",
+        "description": "Explorer grâce dans la situation, sans perdre de vue vigilance.",
+        "mots_cles": [
+          "grâce",
+          "vigilance"
+        ]
+      },
+      "negative": {
+        "famille": "Timidité",
+        "description": "Observer comment timidité peut entraver ou déséquilibrer vigilance.",
+        "mots_cles": [
+          "timidité",
+          "vigilance"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique animale",
+      "id": "Symbolique animale:cheval",
+      "titre": "Cheval",
+      "symbole": "Cheval",
+      "theme": "Mouvement",
+      "signification_fondamentale": "Mouvement",
+      "positive": {
+        "famille": "Liberté",
+        "description": "Explorer liberté dans la situation, sans perdre de vue mouvement.",
+        "mots_cles": [
+          "liberté",
+          "mouvement"
+        ]
+      },
+      "negative": {
+        "famille": "Impulsivité",
+        "description": "Observer comment impulsivité peut entraver ou déséquilibrer mouvement.",
+        "mots_cles": [
+          "impulsivité",
+          "mouvement"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique animale",
+      "id": "Symbolique animale:chat",
+      "titre": "Chat",
+      "symbole": "Chat",
+      "theme": "Autonomie",
+      "signification_fondamentale": "Autonomie",
+      "positive": {
+        "famille": "Curiosité",
+        "description": "Explorer curiosité dans la situation, sans perdre de vue autonomie.",
+        "mots_cles": [
+          "curiosité",
+          "autonomie"
+        ]
+      },
+      "negative": {
+        "famille": "Distance",
+        "description": "Observer comment distance peut entraver ou déséquilibrer autonomie.",
+        "mots_cles": [
+          "distance",
+          "autonomie"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique animale",
+      "id": "Symbolique animale:chien",
+      "titre": "Chien",
+      "symbole": "Chien",
+      "theme": "Lien",
+      "signification_fondamentale": "Lien",
+      "positive": {
+        "famille": "Fidélité",
+        "description": "Explorer fidélité dans la situation, sans perdre de vue lien.",
+        "mots_cles": [
+          "fidélité",
+          "lien"
+        ]
+      },
+      "negative": {
+        "famille": "Dépendance",
+        "description": "Observer comment dépendance peut entraver ou déséquilibrer lien.",
+        "mots_cles": [
+          "dépendance",
+          "lien"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique animale",
+      "id": "Symbolique animale:corbeau",
+      "titre": "Corbeau",
+      "symbole": "Corbeau",
+      "theme": "Intelligence",
+      "signification_fondamentale": "Intelligence",
+      "positive": {
+        "famille": "Inventivité",
+        "description": "Explorer inventivité dans la situation, sans perdre de vue intelligence.",
+        "mots_cles": [
+          "inventivité",
+          "intelligence"
+        ]
+      },
+      "negative": {
+        "famille": "Soupçon",
+        "description": "Observer comment soupçon peut entraver ou déséquilibrer intelligence.",
+        "mots_cles": [
+          "soupçon",
+          "intelligence"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique animale",
+      "id": "Symbolique animale:pieuvre",
+      "titre": "Pieuvre",
+      "symbole": "Pieuvre",
+      "theme": "Souplesse",
+      "signification_fondamentale": "Souplesse",
+      "positive": {
+        "famille": "Adaptation",
+        "description": "Explorer adaptation dans la situation, sans perdre de vue souplesse.",
+        "mots_cles": [
+          "adaptation",
+          "souplesse"
+        ]
+      },
+      "negative": {
+        "famille": "Contrôle",
+        "description": "Observer comment contrôle peut entraver ou déséquilibrer souplesse.",
+        "mots_cles": [
+          "contrôle",
+          "souplesse"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique animale",
+      "id": "Symbolique animale:fourmi",
+      "titre": "Fourmi",
+      "symbole": "Fourmi",
+      "theme": "Organisation",
+      "signification_fondamentale": "Organisation",
+      "positive": {
+        "famille": "Persévérance",
+        "description": "Explorer persévérance dans la situation, sans perdre de vue organisation.",
+        "mots_cles": [
+          "persévérance",
+          "organisation"
+        ]
+      },
+      "negative": {
+        "famille": "Rigidité",
+        "description": "Observer comment rigidité peut entraver ou déséquilibrer organisation.",
+        "mots_cles": [
+          "rigidité",
+          "organisation"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique animale",
+      "id": "Symbolique animale:castor",
+      "titre": "Castor",
+      "symbole": "Castor",
+      "theme": "Construction",
+      "signification_fondamentale": "Construction",
+      "positive": {
+        "famille": "Coopération",
+        "description": "Explorer coopération dans la situation, sans perdre de vue construction.",
+        "mots_cles": [
+          "coopération",
+          "construction"
+        ]
+      },
+      "negative": {
+        "famille": "Suractivité",
+        "description": "Observer comment suractivité peut entraver ou déséquilibrer construction.",
+        "mots_cles": [
+          "suractivité",
+          "construction"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique animale",
+      "id": "Symbolique animale:herisson",
+      "titre": "Hérisson",
+      "symbole": "Hérisson",
+      "theme": "Limite",
+      "signification_fondamentale": "Limite",
+      "positive": {
+        "famille": "Protection",
+        "description": "Explorer protection dans la situation, sans perdre de vue limite.",
+        "mots_cles": [
+          "protection",
+          "limite"
+        ]
+      },
+      "negative": {
+        "famille": "Fermeture",
+        "description": "Observer comment fermeture peut entraver ou déséquilibrer limite.",
+        "mots_cles": [
+          "fermeture",
+          "limite"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique animale",
+      "id": "Symbolique animale:libellule",
+      "titre": "Libellule",
+      "symbole": "Libellule",
+      "theme": "Mobilité",
+      "signification_fondamentale": "Mobilité",
+      "positive": {
+        "famille": "Légèreté",
+        "description": "Explorer légèreté dans la situation, sans perdre de vue mobilité.",
+        "mots_cles": [
+          "légèreté",
+          "mobilité"
+        ]
+      },
+      "negative": {
+        "famille": "Instabilité",
+        "description": "Observer comment instabilité peut entraver ou déséquilibrer mobilité.",
+        "mots_cles": [
+          "instabilité",
+          "mobilité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique animale",
+      "id": "Symbolique animale:baleine",
+      "titre": "Baleine",
+      "symbole": "Baleine",
+      "theme": "Profondeur",
+      "signification_fondamentale": "Profondeur",
+      "positive": {
+        "famille": "Écoute",
+        "description": "Explorer écoute dans la situation, sans perdre de vue profondeur.",
+        "mots_cles": [
+          "écoute",
+          "profondeur"
+        ]
+      },
+      "negative": {
+        "famille": "Retrait",
+        "description": "Observer comment retrait peut entraver ou déséquilibrer profondeur.",
+        "mots_cles": [
+          "retrait",
+          "profondeur"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique animale",
+      "id": "Symbolique animale:saumon",
+      "titre": "Saumon",
+      "symbole": "Saumon",
+      "theme": "Remontée",
+      "signification_fondamentale": "Remontée",
+      "positive": {
+        "famille": "Détermination",
+        "description": "Explorer détermination dans la situation, sans perdre de vue remontée.",
+        "mots_cles": [
+          "détermination",
+          "remontée"
+        ]
+      },
+      "negative": {
+        "famille": "Obstination",
+        "description": "Observer comment obstination peut entraver ou déséquilibrer remontée.",
+        "mots_cles": [
+          "obstination",
+          "remontée"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique animale",
+      "id": "Symbolique animale:hirondelle",
+      "titre": "Hirondelle",
+      "symbole": "Hirondelle",
+      "theme": "Migration",
+      "signification_fondamentale": "Migration",
+      "positive": {
+        "famille": "Renouveau",
+        "description": "Explorer renouveau dans la situation, sans perdre de vue migration.",
+        "mots_cles": [
+          "renouveau",
+          "migration"
+        ]
+      },
+      "negative": {
+        "famille": "Fuite",
+        "description": "Observer comment fuite peut entraver ou déséquilibrer migration.",
+        "mots_cles": [
+          "fuite",
+          "migration"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique animale",
+      "id": "Symbolique animale:paon",
+      "titre": "Paon",
+      "symbole": "Paon",
+      "theme": "Apparence",
+      "signification_fondamentale": "Apparence",
+      "positive": {
+        "famille": "Rayonnement",
+        "description": "Explorer rayonnement dans la situation, sans perdre de vue apparence.",
+        "mots_cles": [
+          "rayonnement",
+          "apparence"
+        ]
+      },
+      "negative": {
+        "famille": "Vanité",
+        "description": "Observer comment vanité peut entraver ou déséquilibrer apparence.",
+        "mots_cles": [
+          "vanité",
+          "apparence"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique animale",
+      "id": "Symbolique animale:cameleon",
+      "titre": "Caméléon",
+      "symbole": "Caméléon",
+      "theme": "Adaptation",
+      "signification_fondamentale": "Adaptation",
+      "positive": {
+        "famille": "Souplesse",
+        "description": "Explorer souplesse dans la situation, sans perdre de vue adaptation.",
+        "mots_cles": [
+          "souplesse",
+          "adaptation"
+        ]
+      },
+      "negative": {
+        "famille": "Effacement",
+        "description": "Observer comment effacement peut entraver ou déséquilibrer adaptation.",
+        "mots_cles": [
+          "effacement",
+          "adaptation"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Symbolique animale",
+      "id": "Symbolique animale:grue",
+      "titre": "Grue",
+      "symbole": "Grue",
+      "theme": "Équilibre",
+      "signification_fondamentale": "Équilibre",
+      "positive": {
+        "famille": "Patience",
+        "description": "Explorer patience dans la situation, sans perdre de vue équilibre.",
+        "mots_cles": [
+          "patience",
+          "équilibre"
+        ]
+      },
+      "negative": {
+        "famille": "Distance",
+        "description": "Observer comment distance peut entraver ou déséquilibrer équilibre.",
+        "mots_cles": [
+          "distance",
+          "équilibre"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    }
+  ]
+}

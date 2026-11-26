@@ -1,0 +1,188 @@
+{
+  "version": "1.5",
+  "tradition": "Chakras",
+  "references": [
+    {
+      "tradition": "Chakras",
+      "nombre_symboles": 7,
+      "source": "Synthèse éditoriale originale ; sources historiques à compléter"
+    }
+  ],
+  "symboles": [
+    {
+      "tradition": "Chakras",
+      "id": "Chakras:muladhara",
+      "titre": "Muladhara",
+      "symbole": "Muladhara",
+      "theme": "Ancrage",
+      "signification_fondamentale": "Ancrage",
+      "positive": {
+        "famille": "Sécurité",
+        "description": "La véritable sécurité se construit en cultivant des racines solides, sans chercher à tout contrôler. Un ancrage profond permet d’accueillir les changements sans perdre son équilibre.",
+        "mots_cles": [
+          "sécurité",
+          "ancrage"
+        ]
+      },
+      "negative": {
+        "famille": "Insécurité",
+        "description": "Lorsque la peur de manquer gouverne tes décisions, elle fragilise la stabilité que tu cherches à préserver. Apprends à distinguer les dangers réels de ceux que ton inquiétude imagine.",
+        "mots_cles": [
+          "insécurité",
+          "ancrage"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Chakras",
+      "id": "Chakras:svadhisthana",
+      "titre": "Svadhisthana",
+      "symbole": "Svadhisthana",
+      "theme": "Créativité",
+      "signification_fondamentale": "Créativité",
+      "positive": {
+        "famille": "Sensibilité",
+        "description": "La sensibilité nourrit la créativité lorsqu’elle permet d’accueillir ses émotions et de leur donner une forme nouvelle. Ce que tu ressens peut devenir une source d’inspiration.",
+        "mots_cles": [
+          "sensibilité",
+          "créativité"
+        ]
+      },
+      "negative": {
+        "famille": "Excès",
+        "description": "Lorsque la recherche du plaisir devient excessive, elle peut étouffer la liberté de créer. La mesure permet de savourer ses émotions sans en devenir prisonnier.",
+        "mots_cles": [
+          "excès",
+          "créativité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Chakras",
+      "id": "Chakras:manipura",
+      "titre": "Manipura",
+      "symbole": "Manipura",
+      "theme": "Volonté",
+      "signification_fondamentale": "Volonté",
+      "positive": {
+        "famille": "Confiance",
+        "description": "La confiance en soi grandit lorsque la volonté se traduit en actes cohérents avec ses convictions. La véritable force consiste à avancer sans avoir besoin de dominer.",
+        "mots_cles": [
+          "confiance",
+          "volonté"
+        ]
+      },
+      "negative": {
+        "famille": "Domination",
+        "description": "La volonté perd sa noblesse lorsqu’elle cherche à soumettre les autres. Apprends à exercer ta force sans priver autrui de sa liberté.",
+        "mots_cles": [
+          "domination",
+          "volonté"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Chakras",
+      "id": "Chakras:anahata",
+      "titre": "Anahata",
+      "symbole": "Anahata",
+      "theme": "Amour",
+      "signification_fondamentale": "Amour",
+      "positive": {
+        "famille": "Compassion",
+        "description": "Aimer, c’est reconnaître la fragilité de l’autre sans oublier la sienne. La compassion ouvre un espace où chacun peut être accueilli sans jugement.",
+        "mots_cles": [
+          "compassion",
+          "amour"
+        ]
+      },
+      "negative": {
+        "famille": "Dépendance",
+        "description": "L’amour perd sa liberté lorsque la peur de perdre l’autre devient plus forte que le désir de le voir s’épanouir. Cultive des liens qui te permettent de rester toi-même.",
+        "mots_cles": [
+          "dépendance",
+          "amour"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Chakras",
+      "id": "Chakras:vishuddha",
+      "titre": "Vishuddha",
+      "symbole": "Vishuddha",
+      "theme": "Expression",
+      "signification_fondamentale": "Expression",
+      "positive": {
+        "famille": "Authenticité",
+        "description": "Une parole authentique naît de l’accord entre ce que tu ressens, ce que tu penses et ce que tu exprimes. Dire sa vérité avec respect permet de construire des relations sincères.",
+        "mots_cles": [
+          "authenticité",
+          "expression"
+        ]
+      },
+      "negative": {
+        "famille": "Inhibition",
+        "description": "Lorsque la peur du jugement retient tes paroles, le silence peut devenir une entrave à ta liberté. Apprends à exprimer ce qui compte pour toi sans craindre chaque désaccord.",
+        "mots_cles": [
+          "inhibition",
+          "expression"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Chakras",
+      "id": "Chakras:ajna",
+      "titre": "Ajna",
+      "symbole": "Ajna",
+      "theme": "Vision",
+      "signification_fondamentale": "Vision",
+      "positive": {
+        "famille": "Discernement",
+        "description": "Le discernement consiste à regarder au-delà des apparences sans confondre ses intuitions avec des certitudes. Une vision claire naît de la capacité à remettre en question ses propres convictions.",
+        "mots_cles": [
+          "discernement",
+          "vision"
+        ]
+      },
+      "negative": {
+        "famille": "Illusion",
+        "description": "Lorsque tu ne vois que ce que tu désires croire, l’illusion prend la place de la compréhension. Accepte d’interroger tes certitudes pour regarder la réalité avec davantage de lucidité.",
+        "mots_cles": [
+          "illusion",
+          "vision"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Chakras",
+      "id": "Chakras:sahasrara",
+      "titre": "Sahasrara",
+      "symbole": "Sahasrara",
+      "theme": "Spiritualité",
+      "signification_fondamentale": "Spiritualité",
+      "positive": {
+        "famille": "Ouverture",
+        "description": "La quête de sens commence par l’ouverture à ce qui dépasse nos certitudes et nos intérêts personnels. La spiritualité peut enrichir notre manière d’habiter le monde et de rencontrer les autres.",
+        "mots_cles": [
+          "ouverture",
+          "spiritualité"
+        ]
+      },
+      "negative": {
+        "famille": "Déconnexion",
+        "description": "La quête spirituelle perd son sens lorsqu’elle devient un moyen de fuir la réalité. La sagesse consiste à relier ses aspirations profondes aux gestes simples de la vie quotidienne.",
+        "mots_cles": [
+          "déconnexion",
+          "spiritualité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    }
+  ]
+}

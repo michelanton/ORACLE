@@ -1,0 +1,913 @@
+{
+  "version": "1.5",
+  "tradition": "Petit Lenormand",
+  "references": [
+    {
+      "tradition": "Petit Lenormand",
+      "nombre_symboles": 36,
+      "source": "Synthèse éditoriale originale ; sources historiques à compléter"
+    }
+  ],
+  "symboles": [
+    {
+      "tradition": "Petit Lenormand",
+      "id": "Petit Lenormand:cavalier",
+      "titre": "Cavalier",
+      "symbole": "Cavalier",
+      "theme": "Nouvelle",
+      "signification_fondamentale": "Nouvelle",
+      "positive": {
+        "famille": "Dynamisme",
+        "description": "Une nouvelle prend toute sa valeur lorsque tu sais transformer l’élan qu’elle suscite en une action réfléchie.",
+        "mots_cles": [
+          "dynamisme",
+          "nouvelle"
+        ]
+      },
+      "negative": {
+        "famille": "Précipitation",
+        "description": "La précipitation te pousse à réagir aux nouvelles avant même d’en avoir compris la portée.",
+        "mots_cles": [
+          "précipitation",
+          "nouvelle"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Petit Lenormand",
+      "id": "Petit Lenormand:trefle",
+      "titre": "Trèfle",
+      "symbole": "Trèfle",
+      "theme": "Chance",
+      "signification_fondamentale": "Chance",
+      "positive": {
+        "famille": "Opportunité",
+        "description": "La chance devient une véritable opportunité lorsque tu sais reconnaître et cultiver ce que le hasard met sur ton chemin.",
+        "mots_cles": [
+          "opportunité",
+          "chance"
+        ]
+      },
+      "negative": {
+        "famille": "Imprudence",
+        "description": "Compter uniquement sur la chance, c’est confier au hasard des décisions qui méritent ton discernement.",
+        "mots_cles": [
+          "imprudence",
+          "chance"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Petit Lenormand",
+      "id": "Petit Lenormand:navire",
+      "titre": "Navire",
+      "symbole": "Navire",
+      "theme": "Voyage",
+      "signification_fondamentale": "Voyage",
+      "positive": {
+        "famille": "Exploration",
+        "description": "Explorer des horizons inconnus permet de découvrir autant le monde que les limites de tes propres certitudes.",
+        "mots_cles": [
+          "exploration",
+          "voyage"
+        ]
+      },
+      "negative": {
+        "famille": "Fuite",
+        "description": "Changer d’horizon ne suffit pas à résoudre les difficultés que tu emportes avec toi.",
+        "mots_cles": [
+          "fuite",
+          "voyage"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Petit Lenormand",
+      "id": "Petit Lenormand:maison",
+      "titre": "Maison",
+      "symbole": "Maison",
+      "theme": "Foyer",
+      "signification_fondamentale": "Foyer",
+      "positive": {
+        "famille": "Sécurité",
+        "description": "Un foyer véritable offre la sécurité nécessaire pour s’ouvrir au monde sans craindre de perdre ses repères.",
+        "mots_cles": [
+          "sécurité",
+          "foyer"
+        ]
+      },
+      "negative": {
+        "famille": "Repli",
+        "description": "Le refuge qui te protège peut devenir une prison lorsque tu refuses d’en franchir le seuil.",
+        "mots_cles": [
+          "repli",
+          "foyer"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Petit Lenormand",
+      "id": "Petit Lenormand:arbre",
+      "titre": "Arbre",
+      "symbole": "Arbre",
+      "theme": "Croissance",
+      "signification_fondamentale": "Croissance",
+      "positive": {
+        "famille": "Endurance",
+        "description": "Comme l’arbre qui grandit au fil des saisons, tu peux développer ta force par la patience et la constance.",
+        "mots_cles": [
+          "endurance",
+          "croissance"
+        ]
+      },
+      "negative": {
+        "famille": "Inertie",
+        "description": "Les racines donnent de la stabilité, mais elles ne doivent pas devenir un prétexte pour renoncer à grandir.",
+        "mots_cles": [
+          "inertie",
+          "croissance"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Petit Lenormand",
+      "id": "Petit Lenormand:nuages",
+      "titre": "Nuages",
+      "symbole": "Nuages",
+      "theme": "Incertitude",
+      "signification_fondamentale": "Incertitude",
+      "positive": {
+        "famille": "Questionnement",
+        "description": "L’incertitude invite à questionner tes certitudes et à reconnaître ce que tu ne comprends pas encore.",
+        "mots_cles": [
+          "questionnement",
+          "incertitude"
+        ]
+      },
+      "negative": {
+        "famille": "Confusion",
+        "description": "Lorsque la confusion obscurcit ton jugement, prends garde à ne pas confondre tes craintes avec la réalité.",
+        "mots_cles": [
+          "confusion",
+          "incertitude"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Petit Lenormand",
+      "id": "Petit Lenormand:serpent",
+      "titre": "Serpent",
+      "symbole": "Serpent",
+      "theme": "Complexité",
+      "signification_fondamentale": "Complexité",
+      "positive": {
+        "famille": "Adaptation",
+        "description": "Face à la complexité, la souplesse de l’esprit permet de trouver un passage là où la rigidité ne voit qu’un obstacle.",
+        "mots_cles": [
+          "adaptation",
+          "complexité"
+        ]
+      },
+      "negative": {
+        "famille": "Tromperie",
+        "description": "La tromperie exploite la complexité des situations pour dissimuler ce que la sincérité devrait rendre clair.",
+        "mots_cles": [
+          "tromperie",
+          "complexité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Petit Lenormand",
+      "id": "Petit Lenormand:cercueil",
+      "titre": "Cercueil",
+      "symbole": "Cercueil",
+      "theme": "Fin",
+      "signification_fondamentale": "Fin",
+      "positive": {
+        "famille": "Transformation",
+        "description": "Accepter qu’une étape s’achève permet de donner une place à ce qui peut encore se transformer.",
+        "mots_cles": [
+          "transformation",
+          "fin"
+        ]
+      },
+      "negative": {
+        "famille": "Abattement",
+        "description": "L’abattement peut te faire croire que la fin d’une expérience signifie la disparition de toute possibilité nouvelle.",
+        "mots_cles": [
+          "abattement",
+          "fin"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Petit Lenormand",
+      "id": "Petit Lenormand:bouquet",
+      "titre": "Bouquet",
+      "symbole": "Bouquet",
+      "theme": "Présent",
+      "signification_fondamentale": "Présent",
+      "positive": {
+        "famille": "Gratitude",
+        "description": "La gratitude donne aux gestes les plus modestes une profondeur que leur seule apparence ne saurait révéler.",
+        "mots_cles": [
+          "gratitude",
+          "présent"
+        ]
+      },
+      "negative": {
+        "famille": "Superficialité",
+        "description": "À ne regarder que la beauté d’un présent, tu risques d’oublier l’intention de celui qui te l’offre.",
+        "mots_cles": [
+          "superficialité",
+          "présent"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Petit Lenormand",
+      "id": "Petit Lenormand:faux",
+      "titre": "Faux",
+      "symbole": "Faux",
+      "theme": "Coupure",
+      "signification_fondamentale": "Coupure",
+      "positive": {
+        "famille": "Décision",
+        "description": "Une décision courageuse consiste parfois à retrancher ce qui ne nourrit plus le sens de ton existence.",
+        "mots_cles": [
+          "décision",
+          "coupure"
+        ]
+      },
+      "negative": {
+        "famille": "Rupture brutale",
+        "description": "Une rupture brutale peut détruire en un instant ce que la réflexion aurait permis de préserver.",
+        "mots_cles": [
+          "rupture brutale",
+          "coupure"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Petit Lenormand",
+      "id": "Petit Lenormand:fouet",
+      "titre": "Fouet",
+      "symbole": "Fouet",
+      "theme": "Répétition",
+      "signification_fondamentale": "Répétition",
+      "positive": {
+        "famille": "Discipline",
+        "description": "La répétition consciente transforme peu à peu l’effort en maîtrise et la discipline en liberté d’agir.",
+        "mots_cles": [
+          "discipline",
+          "répétition"
+        ]
+      },
+      "negative": {
+        "famille": "Conflit",
+        "description": "Un conflit sans cesse répété révèle parfois une difficulté que personne ne prend le temps de comprendre.",
+        "mots_cles": [
+          "conflit",
+          "répétition"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Petit Lenormand",
+      "id": "Petit Lenormand:oiseaux",
+      "titre": "Oiseaux",
+      "symbole": "Oiseaux",
+      "theme": "Échange",
+      "signification_fondamentale": "Échange",
+      "positive": {
+        "famille": "Communication",
+        "description": "La parole enrichit les relations lorsqu’elle laisse autant de place à l’écoute qu’au désir de s’exprimer.",
+        "mots_cles": [
+          "communication",
+          "échange"
+        ]
+      },
+      "negative": {
+        "famille": "Agitation",
+        "description": "L’agitation des paroles peut étouffer le sens d’un échange lorsque chacun cherche seulement à se faire entendre.",
+        "mots_cles": [
+          "agitation",
+          "échange"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Petit Lenormand",
+      "id": "Petit Lenormand:enfant",
+      "titre": "Enfant",
+      "symbole": "Enfant",
+      "theme": "Début",
+      "signification_fondamentale": "Début",
+      "positive": {
+        "famille": "Innocence",
+        "description": "Aborder un commencement avec un regard neuf permet de découvrir des possibilités que l’habitude rend invisibles.",
+        "mots_cles": [
+          "innocence",
+          "début"
+        ]
+      },
+      "negative": {
+        "famille": "Immaturité",
+        "description": "Préserver son innocence ne signifie pas refuser les responsabilités que chaque nouvelle expérience fait naître.",
+        "mots_cles": [
+          "immaturité",
+          "début"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Petit Lenormand",
+      "id": "Petit Lenormand:renard",
+      "titre": "Renard",
+      "symbole": "Renard",
+      "theme": "Vigilance",
+      "signification_fondamentale": "Vigilance",
+      "positive": {
+        "famille": "Ingéniosité",
+        "description": "L’ingéniosité consiste à trouver des réponses nouvelles tout en restant attentif aux conséquences de ses actes.",
+        "mots_cles": [
+          "ingéniosité",
+          "vigilance"
+        ]
+      },
+      "negative": {
+        "famille": "Ruse",
+        "description": "La ruse perd sa valeur lorsqu’elle transforme l’intelligence en instrument de tromperie.",
+        "mots_cles": [
+          "ruse",
+          "vigilance"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Petit Lenormand",
+      "id": "Petit Lenormand:ours",
+      "titre": "Ours",
+      "symbole": "Ours",
+      "theme": "Force",
+      "signification_fondamentale": "Force",
+      "positive": {
+        "famille": "Protection",
+        "description": "La véritable force se reconnaît à la capacité de protéger sans imposer sa volonté.",
+        "mots_cles": [
+          "protection",
+          "force"
+        ]
+      },
+      "negative": {
+        "famille": "Domination",
+        "description": "Lorsque la protection devient domination, elle prive l’autre de la liberté qu’elle prétend défendre.",
+        "mots_cles": [
+          "domination",
+          "force"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Petit Lenormand",
+      "id": "Petit Lenormand:etoiles",
+      "titre": "Étoiles",
+      "symbole": "Étoiles",
+      "theme": "Orientation",
+      "signification_fondamentale": "Orientation",
+      "positive": {
+        "famille": "Inspiration",
+        "description": "L’inspiration éclaire ton chemin lorsqu’elle donne une direction à tes efforts sans prétendre décider de chaque étape.",
+        "mots_cles": [
+          "inspiration",
+          "orientation"
+        ]
+      },
+      "negative": {
+        "famille": "Illusion",
+        "description": "À contempler un idéal inaccessible, tu risques de ne plus voir les possibilités qui existent à tes pieds.",
+        "mots_cles": [
+          "illusion",
+          "orientation"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Petit Lenormand",
+      "id": "Petit Lenormand:cigogne",
+      "titre": "Cigogne",
+      "symbole": "Cigogne",
+      "theme": "Changement",
+      "signification_fondamentale": "Changement",
+      "positive": {
+        "famille": "Renouveau",
+        "description": "Le renouveau commence lorsque tu acceptes de modifier tes habitudes pour accueillir une manière différente de vivre.",
+        "mots_cles": [
+          "renouveau",
+          "changement"
+        ]
+      },
+      "negative": {
+        "famille": "Instabilité",
+        "description": "Changer continuellement de direction peut empêcher les transformations profondes de prendre racine.",
+        "mots_cles": [
+          "instabilité",
+          "changement"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Petit Lenormand",
+      "id": "Petit Lenormand:chien",
+      "titre": "Chien",
+      "symbole": "Chien",
+      "theme": "Amitié",
+      "signification_fondamentale": "Amitié",
+      "positive": {
+        "famille": "Fidélité",
+        "description": "La fidélité donne sa profondeur à l’amitié lorsqu’elle repose sur une présence sincère et librement choisie.",
+        "mots_cles": [
+          "fidélité",
+          "amitié"
+        ]
+      },
+      "negative": {
+        "famille": "Dépendance",
+        "description": "L’amitié devient dépendance lorsque la peur de perdre un lien t’empêche d’exister par toi-même.",
+        "mots_cles": [
+          "dépendance",
+          "amitié"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Petit Lenormand",
+      "id": "Petit Lenormand:tour",
+      "titre": "Tour",
+      "symbole": "Tour",
+      "theme": "Distance",
+      "signification_fondamentale": "Distance",
+      "positive": {
+        "famille": "Autonomie",
+        "description": "Prendre de la distance permet de retrouver son autonomie et de regarder les événements avec davantage de recul.",
+        "mots_cles": [
+          "autonomie",
+          "distance"
+        ]
+      },
+      "negative": {
+        "famille": "Isolement",
+        "description": "Les murs que tu élèves pour préserver ton indépendance peuvent aussi t’éloigner des relations qui t’enrichissent.",
+        "mots_cles": [
+          "isolement",
+          "distance"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Petit Lenormand",
+      "id": "Petit Lenormand:jardin",
+      "titre": "Jardin",
+      "symbole": "Jardin",
+      "theme": "Société",
+      "signification_fondamentale": "Société",
+      "positive": {
+        "famille": "Sociabilité",
+        "description": "La rencontre avec des personnes différentes élargit ton regard lorsque tu accueilles leur singularité sans renoncer à la tienne.",
+        "mots_cles": [
+          "sociabilité",
+          "société"
+        ]
+      },
+      "negative": {
+        "famille": "Conformisme",
+        "description": "Le désir d’être accepté par tous peut te conduire à cultiver des opinions qui ne sont pas les tiennes.",
+        "mots_cles": [
+          "conformisme",
+          "société"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Petit Lenormand",
+      "id": "Petit Lenormand:montagne",
+      "titre": "Montagne",
+      "symbole": "Montagne",
+      "theme": "Obstacle",
+      "signification_fondamentale": "Obstacle",
+      "positive": {
+        "famille": "Persévérance",
+        "description": "La persévérance ne consiste pas seulement à gravir la montagne, mais aussi à chercher le chemin qui respecte tes forces.",
+        "mots_cles": [
+          "persévérance",
+          "obstacle"
+        ]
+      },
+      "negative": {
+        "famille": "Blocage",
+        "description": "Un obstacle devient un blocage lorsque tu refuses d’envisager une autre manière de poursuivre ton chemin.",
+        "mots_cles": [
+          "blocage",
+          "obstacle"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Petit Lenormand",
+      "id": "Petit Lenormand:chemins",
+      "titre": "Chemins",
+      "symbole": "Chemins",
+      "theme": "Choix",
+      "signification_fondamentale": "Choix",
+      "positive": {
+        "famille": "Liberté",
+        "description": "La liberté de choisir prend tout son sens lorsque tu acceptes la responsabilité de la direction empruntée.",
+        "mots_cles": [
+          "liberté",
+          "choix"
+        ]
+      },
+      "negative": {
+        "famille": "Indécision",
+        "description": "À vouloir garder tous les chemins ouverts, tu risques de ne jamais découvrir où l’un d’eux pourrait te conduire.",
+        "mots_cles": [
+          "indécision",
+          "choix"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Petit Lenormand",
+      "id": "Petit Lenormand:souris",
+      "titre": "Souris",
+      "symbole": "Souris",
+      "theme": "Érosion",
+      "signification_fondamentale": "Érosion",
+      "positive": {
+        "famille": "Vigilance",
+        "description": "La vigilance envers les petites négligences permet de préserver ce que le temps pourrait progressivement fragiliser.",
+        "mots_cles": [
+          "vigilance",
+          "érosion"
+        ]
+      },
+      "negative": {
+        "famille": "Anxiété",
+        "description": "L’anxiété peut consumer ton énergie en donnant à chaque difficulté mineure la dimension d’une menace.",
+        "mots_cles": [
+          "anxiété",
+          "érosion"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Petit Lenormand",
+      "id": "Petit Lenormand:cur",
+      "titre": "Cœur",
+      "symbole": "Cœur",
+      "theme": "Amour",
+      "signification_fondamentale": "Amour",
+      "positive": {
+        "famille": "Affection",
+        "description": "L’affection grandit lorsque tu offres à l’autre une présence attentive sans chercher à posséder ce qu’il est.",
+        "mots_cles": [
+          "affection",
+          "amour"
+        ]
+      },
+      "negative": {
+        "famille": "Jalousie",
+        "description": "La jalousie fait de l’amour une source de souffrance lorsque la peur de perdre remplace le plaisir d’aimer.",
+        "mots_cles": [
+          "jalousie",
+          "amour"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Petit Lenormand",
+      "id": "Petit Lenormand:anneau",
+      "titre": "Anneau",
+      "symbole": "Anneau",
+      "theme": "Lien",
+      "signification_fondamentale": "Lien",
+      "positive": {
+        "famille": "Engagement",
+        "description": "Un engagement durable trouve sa force dans la volonté renouvelée de construire un lien qui respecte chacun.",
+        "mots_cles": [
+          "engagement",
+          "lien"
+        ]
+      },
+      "negative": {
+        "famille": "Enfermement",
+        "description": "Une promesse devient un enfermement lorsqu’elle interdit toute évolution à ceux qu’elle unit.",
+        "mots_cles": [
+          "enfermement",
+          "lien"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Petit Lenormand",
+      "id": "Petit Lenormand:livre",
+      "titre": "Livre",
+      "symbole": "Livre",
+      "theme": "Secret",
+      "signification_fondamentale": "Secret",
+      "positive": {
+        "famille": "Connaissance",
+        "description": "La connaissance commence par la reconnaissance de ce qui demeure inconnu et se développe par le désir de comprendre.",
+        "mots_cles": [
+          "connaissance",
+          "secret"
+        ]
+      },
+      "negative": {
+        "famille": "Dissimulation",
+        "description": "Le secret devient dissimulation lorsqu’il sert à soustraire à autrui une vérité nécessaire à son libre jugement.",
+        "mots_cles": [
+          "dissimulation",
+          "secret"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Petit Lenormand",
+      "id": "Petit Lenormand:lettre",
+      "titre": "Lettre",
+      "symbole": "Lettre",
+      "theme": "Message",
+      "signification_fondamentale": "Message",
+      "positive": {
+        "famille": "Information",
+        "description": "Un message prend sa véritable valeur lorsque les mots transmettent une intention claire et sincère.",
+        "mots_cles": [
+          "information",
+          "message"
+        ]
+      },
+      "negative": {
+        "famille": "Malentendu",
+        "description": "Un malentendu peut naître lorsque tu attribues aux mots une intention que leur auteur n’a jamais exprimée.",
+        "mots_cles": [
+          "malentendu",
+          "message"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Petit Lenormand",
+      "id": "Petit Lenormand:homme",
+      "titre": "Homme",
+      "symbole": "Homme",
+      "theme": "Significateur",
+      "signification_fondamentale": "Significateur",
+      "positive": {
+        "famille": "Affirmation",
+        "description": "Affirmer qui tu es demande le courage d’exprimer tes convictions tout en reconnaissant la légitimité de celles des autres.",
+        "mots_cles": [
+          "affirmation",
+          "significateur"
+        ]
+      },
+      "negative": {
+        "famille": "Égocentrisme",
+        "description": "L’égocentrisme réduit le monde à ton propre point de vue et t’empêche de découvrir ce que les autres peuvent t’apprendre.",
+        "mots_cles": [
+          "égocentrisme",
+          "significateur"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Petit Lenormand",
+      "id": "Petit Lenormand:femme",
+      "titre": "Femme",
+      "symbole": "Femme",
+      "theme": "Significateur",
+      "signification_fondamentale": "Significateur",
+      "positive": {
+        "famille": "Autonomie",
+        "description": "L’autonomie consiste à donner une direction à ta vie sans laisser les attentes extérieures définir tes aspirations.",
+        "mots_cles": [
+          "autonomie",
+          "significateur"
+        ]
+      },
+      "negative": {
+        "famille": "Effacement",
+        "description": "À vouloir répondre à toutes les attentes, tu risques de rendre silencieuse la voix de tes propres désirs.",
+        "mots_cles": [
+          "effacement",
+          "significateur"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Petit Lenormand",
+      "id": "Petit Lenormand:lys",
+      "titre": "Lys",
+      "symbole": "Lys",
+      "theme": "Paix",
+      "signification_fondamentale": "Paix",
+      "positive": {
+        "famille": "Sérénité",
+        "description": "La sérénité naît de la capacité à accueillir les désaccords sans leur abandonner ta paix intérieure.",
+        "mots_cles": [
+          "sérénité",
+          "paix"
+        ]
+      },
+      "negative": {
+        "famille": "Passivité",
+        "description": "La recherche de la paix devient passivité lorsqu’elle te conduit à tolérer ce qui mérite d’être remis en question.",
+        "mots_cles": [
+          "passivité",
+          "paix"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Petit Lenormand",
+      "id": "Petit Lenormand:soleil",
+      "titre": "Soleil",
+      "symbole": "Soleil",
+      "theme": "Lumière",
+      "signification_fondamentale": "Lumière",
+      "positive": {
+        "famille": "Rayonnement",
+        "description": "Rayonner, c’est partager la lumière de tes qualités sans diminuer celle des personnes qui t’entourent.",
+        "mots_cles": [
+          "rayonnement",
+          "lumière"
+        ]
+      },
+      "negative": {
+        "famille": "Orgueil",
+        "description": "L’orgueil peut t’aveugler lorsque tu accordes davantage de valeur à ton éclat qu’à ce qu’il permet d’éclairer.",
+        "mots_cles": [
+          "orgueil",
+          "lumière"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Petit Lenormand",
+      "id": "Petit Lenormand:lune",
+      "titre": "Lune",
+      "symbole": "Lune",
+      "theme": "Imagination",
+      "signification_fondamentale": "Imagination",
+      "positive": {
+        "famille": "Intuition",
+        "description": "L’intuition et l’imagination enrichissent ta compréhension lorsque tu les accueilles comme des pistes à explorer.",
+        "mots_cles": [
+          "intuition",
+          "imagination"
+        ]
+      },
+      "negative": {
+        "famille": "Illusion",
+        "description": "L’imagination devient illusion lorsque tu prends les images de ton esprit pour des certitudes sur le monde.",
+        "mots_cles": [
+          "illusion",
+          "imagination"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Petit Lenormand",
+      "id": "Petit Lenormand:cle",
+      "titre": "Clé",
+      "symbole": "Clé",
+      "theme": "Accès",
+      "signification_fondamentale": "Accès",
+      "positive": {
+        "famille": "Solution",
+        "description": "Une solution apparaît parfois lorsque tu cesses de forcer une porte et cherches à comprendre ce qui la maintient fermée.",
+        "mots_cles": [
+          "solution",
+          "accès"
+        ]
+      },
+      "negative": {
+        "famille": "Contrôle",
+        "description": "Posséder la clé d’une situation ne te donne pas le droit de contrôler toutes les libertés qui s’y expriment.",
+        "mots_cles": [
+          "contrôle",
+          "accès"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Petit Lenormand",
+      "id": "Petit Lenormand:poissons",
+      "titre": "Poissons",
+      "symbole": "Poissons",
+      "theme": "Flux",
+      "signification_fondamentale": "Flux",
+      "positive": {
+        "famille": "Abondance",
+        "description": "L’abondance prend son sens lorsque les ressources circulent et contribuent à enrichir la vie au-delà de la seule possession.",
+        "mots_cles": [
+          "abondance",
+          "flux"
+        ]
+      },
+      "negative": {
+        "famille": "Matérialisme",
+        "description": "Le matérialisme appauvrit ton regard lorsqu’il réduit la valeur de toute chose à ce qu’elle permet d’acquérir.",
+        "mots_cles": [
+          "matérialisme",
+          "flux"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Petit Lenormand",
+      "id": "Petit Lenormand:ancre",
+      "titre": "Ancre",
+      "symbole": "Ancre",
+      "theme": "Durée",
+      "signification_fondamentale": "Durée",
+      "positive": {
+        "famille": "Stabilité",
+        "description": "La stabilité offre un point d’appui durable à partir duquel tu peux explorer le changement avec confiance.",
+        "mots_cles": [
+          "stabilité",
+          "durée"
+        ]
+      },
+      "negative": {
+        "famille": "Immobilisme",
+        "description": "Une ancre qui ne peut jamais être relevée transforme la sécurité du mouillage en impossibilité de voyager.",
+        "mots_cles": [
+          "immobilisme",
+          "durée"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Petit Lenormand",
+      "id": "Petit Lenormand:croix",
+      "titre": "Croix",
+      "symbole": "Croix",
+      "theme": "Épreuve",
+      "signification_fondamentale": "Épreuve",
+      "positive": {
+        "famille": "Résilience",
+        "description": "La résilience consiste à reconnaître le poids d’une épreuve tout en préservant la possibilité de retrouver un sens à son existence.",
+        "mots_cles": [
+          "résilience",
+          "épreuve"
+        ]
+      },
+      "negative": {
+        "famille": "Accablement",
+        "description": "L’accablement peut rendre l’horizon invisible, mais tu n’as pas à porter seul tout le poids de ce qui te fait souffrir.",
+        "mots_cles": [
+          "accablement",
+          "épreuve"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    }
+  ]
+}

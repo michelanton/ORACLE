@@ -1,0 +1,1815 @@
+{
+  "version": "1.7",
+  "tradition": "Sagesse fictionnelle",
+  "references": [
+    {
+      "tradition": "Sagesse fictionnelle",
+      "nombre_symboles": 53,
+      "source": "Enseignements reformulés, non citations authentiques"
+    }
+  ],
+  "symboles": [
+    {
+      "id": "sagesse_001",
+      "personnage": "Yoda",
+      "univers": "Star Wars",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Observe ta peur avant de lui laisser guider tes décisions.",
+      "mots_cles": [
+        "peur",
+        "discernement"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : peur et discernement.",
+      "conseil": "Identifie ce qui te fait hésiter.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Yoda",
+      "symbole": "✧",
+      "theme": "peur · discernement",
+      "positive": {
+        "famille": "Peur",
+        "description": "Ce tirage invite à explorer les thèmes suivants : peur et discernement.",
+        "mots_cles": [
+          "peur",
+          "discernement"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à peur ou discernement influence ta situation.",
+        "mots_cles": [
+          "peur",
+          "discernement"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_002",
+      "personnage": "Yoda",
+      "univers": "Star Wars",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Le futur reste ouvert tant que tes choix peuvent évoluer.",
+      "mots_cles": [
+        "avenir",
+        "changement"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : avenir et changement.",
+      "conseil": "Garde plusieurs possibilités ouvertes.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Yoda",
+      "symbole": "✧",
+      "theme": "avenir · changement",
+      "positive": {
+        "famille": "Avenir",
+        "description": "Ce tirage invite à explorer les thèmes suivants : avenir et changement.",
+        "mots_cles": [
+          "avenir",
+          "changement"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à avenir ou changement influence ta situation.",
+        "mots_cles": [
+          "avenir",
+          "changement"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_003",
+      "personnage": "Yoda",
+      "univers": "Star Wars",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Une certitude ancienne peut empêcher une découverte nouvelle.",
+      "mots_cles": [
+        "apprentissage",
+        "renouveau"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : apprentissage et renouveau.",
+      "conseil": "Remets une habitude en question.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Yoda",
+      "symbole": "✧",
+      "theme": "apprentissage · renouveau",
+      "positive": {
+        "famille": "Apprentissage",
+        "description": "Ce tirage invite à explorer les thèmes suivants : apprentissage et renouveau.",
+        "mots_cles": [
+          "apprentissage",
+          "renouveau"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à apprentissage ou renouveau influence ta situation.",
+        "mots_cles": [
+          "apprentissage",
+          "renouveau"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_004",
+      "personnage": "Yoda",
+      "univers": "Star Wars",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Vouloir tout retenir peut empêcher de vivre pleinement.",
+      "mots_cles": [
+        "attachement",
+        "lâcher-prise"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : attachement et lâcher-prise.",
+      "conseil": "Distingue amour et possession.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Yoda",
+      "symbole": "✧",
+      "theme": "attachement · lâcher-prise",
+      "positive": {
+        "famille": "Attachement",
+        "description": "Ce tirage invite à explorer les thèmes suivants : attachement et lâcher-prise.",
+        "mots_cles": [
+          "attachement",
+          "lâcher-prise"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à attachement ou lâcher-prise influence ta situation.",
+        "mots_cles": [
+          "attachement",
+          "lâcher-prise"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_005",
+      "personnage": "Yoda",
+      "univers": "Star Wars",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Une intention prend sa valeur dans les actes.",
+      "mots_cles": [
+        "engagement",
+        "décision"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : engagement et décision.",
+      "conseil": "Accomplis une action concrète.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Yoda",
+      "symbole": "✧",
+      "theme": "engagement · décision",
+      "positive": {
+        "famille": "Engagement",
+        "description": "Ce tirage invite à explorer les thèmes suivants : engagement et décision.",
+        "mots_cles": [
+          "engagement",
+          "décision"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à engagement ou décision influence ta situation.",
+        "mots_cles": [
+          "engagement",
+          "décision"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_006",
+      "personnage": "Yoda",
+      "univers": "Star Wars",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Ne mesure pas tes possibilités à ton apparence.",
+      "mots_cles": [
+        "confiance",
+        "potentiel"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : confiance et potentiel.",
+      "conseil": "Essaie une tâche que tu croyais inaccessible.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Yoda",
+      "symbole": "✧",
+      "theme": "confiance · potentiel",
+      "positive": {
+        "famille": "Confiance",
+        "description": "Ce tirage invite à explorer les thèmes suivants : confiance et potentiel.",
+        "mots_cles": [
+          "confiance",
+          "potentiel"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à confiance ou potentiel influence ta situation.",
+        "mots_cles": [
+          "confiance",
+          "potentiel"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_007",
+      "personnage": "Yoda",
+      "univers": "Star Wars",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Une erreur comprise devient une ressource.",
+      "mots_cles": [
+        "échec",
+        "expérience"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : échec et expérience.",
+      "conseil": "Analyse ton dernier échec sans te juger.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Yoda",
+      "symbole": "✧",
+      "theme": "échec · expérience",
+      "positive": {
+        "famille": "Échec",
+        "description": "Ce tirage invite à explorer les thèmes suivants : échec et expérience.",
+        "mots_cles": [
+          "échec",
+          "expérience"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à échec ou expérience influence ta situation.",
+        "mots_cles": [
+          "échec",
+          "expérience"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_008",
+      "personnage": "Yoda",
+      "univers": "Star Wars",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Enseigner implique de laisser autrui trouver sa voie.",
+      "mots_cles": [
+        "transmission",
+        "humilité"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : transmission et humilité.",
+      "conseil": "Partage ton expérience sans imposer tes choix.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Yoda",
+      "symbole": "✧",
+      "theme": "transmission · humilité",
+      "positive": {
+        "famille": "Transmission",
+        "description": "Ce tirage invite à explorer les thèmes suivants : transmission et humilité.",
+        "mots_cles": [
+          "transmission",
+          "humilité"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à transmission ou humilité influence ta situation.",
+        "mots_cles": [
+          "transmission",
+          "humilité"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_009",
+      "personnage": "Obi-Wan Kenobi",
+      "univers": "Star Wars",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Une situation change de sens selon le regard porté sur elle.",
+      "mots_cles": [
+        "perspective",
+        "compréhension"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : perspective et compréhension.",
+      "conseil": "Écoute un point de vue différent.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Obi-Wan Kenobi",
+      "symbole": "✧",
+      "theme": "perspective · compréhension",
+      "positive": {
+        "famille": "Perspective",
+        "description": "Ce tirage invite à explorer les thèmes suivants : perspective et compréhension.",
+        "mots_cles": [
+          "perspective",
+          "compréhension"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à perspective ou compréhension influence ta situation.",
+        "mots_cles": [
+          "perspective",
+          "compréhension"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_010",
+      "personnage": "Obi-Wan Kenobi",
+      "univers": "Star Wars",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "La maîtrise de soi donne du poids à tes engagements.",
+      "mots_cles": [
+        "responsabilité",
+        "discipline"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : responsabilité et discipline.",
+      "conseil": "Respecte une promesse importante.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Obi-Wan Kenobi",
+      "symbole": "✧",
+      "theme": "responsabilité · discipline",
+      "positive": {
+        "famille": "Responsabilité",
+        "description": "Ce tirage invite à explorer les thèmes suivants : responsabilité et discipline.",
+        "mots_cles": [
+          "responsabilité",
+          "discipline"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à responsabilité ou discipline influence ta situation.",
+        "mots_cles": [
+          "responsabilité",
+          "discipline"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_011",
+      "personnage": "Qui-Gon Jinn",
+      "univers": "Star Wars",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Le moment présent contient des indices que l'inquiétude dissimule.",
+      "mots_cles": [
+        "présent",
+        "attention"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : présent et attention.",
+      "conseil": "Observe les faits immédiats.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Qui-Gon Jinn",
+      "symbole": "✧",
+      "theme": "présent · attention",
+      "positive": {
+        "famille": "Présent",
+        "description": "Ce tirage invite à explorer les thèmes suivants : présent et attention.",
+        "mots_cles": [
+          "présent",
+          "attention"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à présent ou attention influence ta situation.",
+        "mots_cles": [
+          "présent",
+          "attention"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_012",
+      "personnage": "Qui-Gon Jinn",
+      "univers": "Star Wars",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Une conviction mérite parfois d'être examinée au-delà des conventions.",
+      "mots_cles": [
+        "intuition",
+        "indépendance"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : intuition et indépendance.",
+      "conseil": "Confronte ton intuition aux faits.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Qui-Gon Jinn",
+      "symbole": "✧",
+      "theme": "intuition · indépendance",
+      "positive": {
+        "famille": "Intuition",
+        "description": "Ce tirage invite à explorer les thèmes suivants : intuition et indépendance.",
+        "mots_cles": [
+          "intuition",
+          "indépendance"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à intuition ou indépendance influence ta situation.",
+        "mots_cles": [
+          "intuition",
+          "indépendance"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_013",
+      "personnage": "Gandalf",
+      "univers": "Le Seigneur des anneaux",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Tu peux choisir comment employer le temps dont tu disposes.",
+      "mots_cles": [
+        "temps",
+        "priorité"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : temps et priorité.",
+      "conseil": "Consacre du temps à ce qui compte.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Gandalf",
+      "symbole": "✧",
+      "theme": "temps · priorité",
+      "positive": {
+        "famille": "Temps",
+        "description": "Ce tirage invite à explorer les thèmes suivants : temps et priorité.",
+        "mots_cles": [
+          "temps",
+          "priorité"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à temps ou priorité influence ta situation.",
+        "mots_cles": [
+          "temps",
+          "priorité"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_014",
+      "personnage": "Gandalf",
+      "univers": "Le Seigneur des anneaux",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Une action modeste peut avoir de grandes conséquences.",
+      "mots_cles": [
+        "espoir",
+        "courage"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : espoir et courage.",
+      "conseil": "Ne néglige pas les petits gestes.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Gandalf",
+      "symbole": "✧",
+      "theme": "espoir · courage",
+      "positive": {
+        "famille": "Espoir",
+        "description": "Ce tirage invite à explorer les thèmes suivants : espoir et courage.",
+        "mots_cles": [
+          "espoir",
+          "courage"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à espoir ou courage influence ta situation.",
+        "mots_cles": [
+          "espoir",
+          "courage"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_015",
+      "personnage": "Gandalf",
+      "univers": "Le Seigneur des anneaux",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "La clémence laisse une place aux transformations inattendues.",
+      "mots_cles": [
+        "compassion",
+        "pardon"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : compassion et pardon.",
+      "conseil": "Évite un jugement définitif.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Gandalf",
+      "symbole": "✧",
+      "theme": "compassion · pardon",
+      "positive": {
+        "famille": "Compassion",
+        "description": "Ce tirage invite à explorer les thèmes suivants : compassion et pardon.",
+        "mots_cles": [
+          "compassion",
+          "pardon"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à compassion ou pardon influence ta situation.",
+        "mots_cles": [
+          "compassion",
+          "pardon"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_016",
+      "personnage": "Galadriel",
+      "univers": "Le Seigneur des anneaux",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Renoncer à un pouvoir peut être une preuve de maîtrise.",
+      "mots_cles": [
+        "pouvoir",
+        "tentation"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : pouvoir et tentation.",
+      "conseil": "Examine le prix de ton ambition.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Galadriel",
+      "symbole": "✧",
+      "theme": "pouvoir · tentation",
+      "positive": {
+        "famille": "Pouvoir",
+        "description": "Ce tirage invite à explorer les thèmes suivants : pouvoir et tentation.",
+        "mots_cles": [
+          "pouvoir",
+          "tentation"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à pouvoir ou tentation influence ta situation.",
+        "mots_cles": [
+          "pouvoir",
+          "tentation"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_017",
+      "personnage": "Galadriel",
+      "univers": "Le Seigneur des anneaux",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Une vision séduisante ne garantit pas un avenir certain.",
+      "mots_cles": [
+        "lucidité",
+        "prudence"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : lucidité et prudence.",
+      "conseil": "Vérifie tes suppositions.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Galadriel",
+      "symbole": "✧",
+      "theme": "lucidité · prudence",
+      "positive": {
+        "famille": "Lucidité",
+        "description": "Ce tirage invite à explorer les thèmes suivants : lucidité et prudence.",
+        "mots_cles": [
+          "lucidité",
+          "prudence"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à lucidité ou prudence influence ta situation.",
+        "mots_cles": [
+          "lucidité",
+          "prudence"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_018",
+      "personnage": "Morpheus",
+      "univers": "Matrix",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Reconnaître ses conditionnements ouvre de nouvelles possibilités.",
+      "mots_cles": [
+        "liberté",
+        "éveil"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : liberté et éveil.",
+      "conseil": "Interroge une croyance limitante.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Morpheus",
+      "symbole": "✧",
+      "theme": "liberté · éveil",
+      "positive": {
+        "famille": "Liberté",
+        "description": "Ce tirage invite à explorer les thèmes suivants : liberté et éveil.",
+        "mots_cles": [
+          "liberté",
+          "éveil"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à liberté ou éveil influence ta situation.",
+        "mots_cles": [
+          "liberté",
+          "éveil"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_019",
+      "personnage": "Morpheus",
+      "univers": "Matrix",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Comprendre une possibilité ne remplace pas l'expérience.",
+      "mots_cles": [
+        "choix",
+        "action"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : choix et action.",
+      "conseil": "Teste une hypothèse concrètement.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Morpheus",
+      "symbole": "✧",
+      "theme": "choix · action",
+      "positive": {
+        "famille": "Choix",
+        "description": "Ce tirage invite à explorer les thèmes suivants : choix et action.",
+        "mots_cles": [
+          "choix",
+          "action"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à choix ou action influence ta situation.",
+        "mots_cles": [
+          "choix",
+          "action"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_020",
+      "personnage": "L’Oracle",
+      "univers": "Matrix",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Comprendre pourquoi tu choisis éclaire davantage que prévoir ton choix.",
+      "mots_cles": [
+        "connaissance de soi",
+        "introspection"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : connaissance de soi et introspection.",
+      "conseil": "Identifie tes motivations.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "L’Oracle",
+      "symbole": "✧",
+      "theme": "connaissance de soi · introspection",
+      "positive": {
+        "famille": "Connaissance de soi",
+        "description": "Ce tirage invite à explorer les thèmes suivants : connaissance de soi et introspection.",
+        "mots_cles": [
+          "connaissance de soi",
+          "introspection"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à connaissance de soi ou introspection influence ta situation.",
+        "mots_cles": [
+          "connaissance de soi",
+          "introspection"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_021",
+      "personnage": "L’Oracle",
+      "univers": "Matrix",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Tu n'as pas besoin de connaître toute la route pour avancer.",
+      "mots_cles": [
+        "incertitude",
+        "confiance"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : incertitude et confiance.",
+      "conseil": "Décide de la prochaine étape.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "L’Oracle",
+      "symbole": "✧",
+      "theme": "incertitude · confiance",
+      "positive": {
+        "famille": "Incertitude",
+        "description": "Ce tirage invite à explorer les thèmes suivants : incertitude et confiance.",
+        "mots_cles": [
+          "incertitude",
+          "confiance"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à incertitude ou confiance influence ta situation.",
+        "mots_cles": [
+          "incertitude",
+          "confiance"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_022",
+      "personnage": "Maître Oogway",
+      "univers": "Kung Fu Panda",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Les regrets et les anticipations peuvent masquer ce qui existe maintenant.",
+      "mots_cles": [
+        "présent",
+        "sérénité"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : présent et sérénité.",
+      "conseil": "Accorde ton attention à aujourd'hui.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Maître Oogway",
+      "symbole": "✧",
+      "theme": "présent · sérénité",
+      "positive": {
+        "famille": "Présent",
+        "description": "Ce tirage invite à explorer les thèmes suivants : présent et sérénité.",
+        "mots_cles": [
+          "présent",
+          "sérénité"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à présent ou sérénité influence ta situation.",
+        "mots_cles": [
+          "présent",
+          "sérénité"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_023",
+      "personnage": "Maître Oogway",
+      "univers": "Kung Fu Panda",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Tout ne peut être dirigé par ta volonté.",
+      "mots_cles": [
+        "acceptation",
+        "équilibre"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : acceptation et équilibre.",
+      "conseil": "Identifie ce qui échappe à ton contrôle.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Maître Oogway",
+      "symbole": "✧",
+      "theme": "acceptation · équilibre",
+      "positive": {
+        "famille": "Acceptation",
+        "description": "Ce tirage invite à explorer les thèmes suivants : acceptation et équilibre.",
+        "mots_cles": [
+          "acceptation",
+          "équilibre"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à acceptation ou équilibre influence ta situation.",
+        "mots_cles": [
+          "acceptation",
+          "équilibre"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_024",
+      "personnage": "Maître Shifu",
+      "univers": "Kung Fu Panda",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Une méthode efficace respecte les particularités de celui qui apprend.",
+      "mots_cles": [
+        "discipline",
+        "progression"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : discipline et progression.",
+      "conseil": "Adapte ton entraînement à tes besoins.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Maître Shifu",
+      "symbole": "✧",
+      "theme": "discipline · progression",
+      "positive": {
+        "famille": "Discipline",
+        "description": "Ce tirage invite à explorer les thèmes suivants : discipline et progression.",
+        "mots_cles": [
+          "discipline",
+          "progression"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à discipline ou progression influence ta situation.",
+        "mots_cles": [
+          "discipline",
+          "progression"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_025",
+      "personnage": "Maître Shifu",
+      "univers": "Kung Fu Panda",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "L'exigence devient utile lorsqu'elle laisse une place à la progression.",
+      "mots_cles": [
+        "patience",
+        "persévérance"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : patience et persévérance.",
+      "conseil": "Fixe un objectif réaliste.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Maître Shifu",
+      "symbole": "✧",
+      "theme": "patience · persévérance",
+      "positive": {
+        "famille": "Patience",
+        "description": "Ce tirage invite à explorer les thèmes suivants : patience et persévérance.",
+        "mots_cles": [
+          "patience",
+          "persévérance"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à patience ou persévérance influence ta situation.",
+        "mots_cles": [
+          "patience",
+          "persévérance"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_026",
+      "personnage": "Oncle Iroh",
+      "univers": "Avatar : Le Dernier Maître de l’air",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Une vie riche ne se résume pas à la victoire.",
+      "mots_cles": [
+        "équilibre",
+        "harmonie"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : équilibre et harmonie.",
+      "conseil": "Préserve un moment de plaisir simple.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Oncle Iroh",
+      "symbole": "✧",
+      "theme": "équilibre · harmonie",
+      "positive": {
+        "famille": "Équilibre",
+        "description": "Ce tirage invite à explorer les thèmes suivants : équilibre et harmonie.",
+        "mots_cles": [
+          "équilibre",
+          "harmonie"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à équilibre ou harmonie influence ta situation.",
+        "mots_cles": [
+          "équilibre",
+          "harmonie"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_027",
+      "personnage": "Oncle Iroh",
+      "univers": "Avatar : Le Dernier Maître de l’air",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Ton chemin peut différer de celui que les autres attendent de toi.",
+      "mots_cles": [
+        "identité",
+        "liberté"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : identité et liberté.",
+      "conseil": "Définis tes propres priorités.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Oncle Iroh",
+      "symbole": "✧",
+      "theme": "identité · liberté",
+      "positive": {
+        "famille": "Identité",
+        "description": "Ce tirage invite à explorer les thèmes suivants : identité et liberté.",
+        "mots_cles": [
+          "identité",
+          "liberté"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à identité ou liberté influence ta situation.",
+        "mots_cles": [
+          "identité",
+          "liberté"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_028",
+      "personnage": "Oncle Iroh",
+      "univers": "Avatar : Le Dernier Maître de l’air",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Accepter une aide ne diminue pas ta valeur.",
+      "mots_cles": [
+        "soutien",
+        "solidarité"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : soutien et solidarité.",
+      "conseil": "Parle à une personne de confiance.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Oncle Iroh",
+      "symbole": "✧",
+      "theme": "soutien · solidarité",
+      "positive": {
+        "famille": "Soutien",
+        "description": "Ce tirage invite à explorer les thèmes suivants : soutien et solidarité.",
+        "mots_cles": [
+          "soutien",
+          "solidarité"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à soutien ou solidarité influence ta situation.",
+        "mots_cles": [
+          "soutien",
+          "solidarité"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_029",
+      "personnage": "Dumbledore",
+      "univers": "Harry Potter",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Tes décisions révèlent davantage tes valeurs que tes aptitudes.",
+      "mots_cles": [
+        "choix",
+        "responsabilité"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : choix et responsabilité.",
+      "conseil": "Choisis selon tes principes.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Dumbledore",
+      "symbole": "✧",
+      "theme": "choix · responsabilité",
+      "positive": {
+        "famille": "Choix",
+        "description": "Ce tirage invite à explorer les thèmes suivants : choix et responsabilité.",
+        "mots_cles": [
+          "choix",
+          "responsabilité"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à choix ou responsabilité influence ta situation.",
+        "mots_cles": [
+          "choix",
+          "responsabilité"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_030",
+      "personnage": "Dumbledore",
+      "univers": "Harry Potter",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Les liens sincères donnent une force que la domination ne procure pas.",
+      "mots_cles": [
+        "amour",
+        "affection"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : amour et affection.",
+      "conseil": "Prends soin d'une relation importante.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Dumbledore",
+      "symbole": "✧",
+      "theme": "amour · affection",
+      "positive": {
+        "famille": "Amour",
+        "description": "Ce tirage invite à explorer les thèmes suivants : amour et affection.",
+        "mots_cles": [
+          "amour",
+          "affection"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à amour ou affection influence ta situation.",
+        "mots_cles": [
+          "amour",
+          "affection"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_031",
+      "personnage": "Dumbledore",
+      "univers": "Harry Potter",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Une aspiration peut devenir un obstacle si elle remplace la vie réelle.",
+      "mots_cles": [
+        "désir",
+        "lucidité"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : désir et lucidité.",
+      "conseil": "Transforme un rêve en projet concret.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Dumbledore",
+      "symbole": "✧",
+      "theme": "désir · lucidité",
+      "positive": {
+        "famille": "Désir",
+        "description": "Ce tirage invite à explorer les thèmes suivants : désir et lucidité.",
+        "mots_cles": [
+          "désir",
+          "lucidité"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à désir ou lucidité influence ta situation.",
+        "mots_cles": [
+          "désir",
+          "lucidité"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_032",
+      "personnage": "Rafiki",
+      "univers": "Le Roi Lion",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Le passé peut devenir une leçon plutôt qu'une prison.",
+      "mots_cles": [
+        "passé",
+        "résilience"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : passé et résilience.",
+      "conseil": "Retire un enseignement d'un souvenir difficile.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Rafiki",
+      "symbole": "✧",
+      "theme": "passé · résilience",
+      "positive": {
+        "famille": "Passé",
+        "description": "Ce tirage invite à explorer les thèmes suivants : passé et résilience.",
+        "mots_cles": [
+          "passé",
+          "résilience"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à passé ou résilience influence ta situation.",
+        "mots_cles": [
+          "passé",
+          "résilience"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_033",
+      "personnage": "Rafiki",
+      "univers": "Le Roi Lion",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Retrouver ses valeurs aide à retrouver sa direction.",
+      "mots_cles": [
+        "identité",
+        "orientation"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : identité et orientation.",
+      "conseil": "Rappelle-toi ce qui te motive profondément.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Rafiki",
+      "symbole": "✧",
+      "theme": "identité · orientation",
+      "positive": {
+        "famille": "Identité",
+        "description": "Ce tirage invite à explorer les thèmes suivants : identité et orientation.",
+        "mots_cles": [
+          "identité",
+          "orientation"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à identité ou orientation influence ta situation.",
+        "mots_cles": [
+          "identité",
+          "orientation"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_034",
+      "personnage": "M. Miyagi",
+      "univers": "Karate Kid",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "La maîtrise commence par une posture intérieure stable.",
+      "mots_cles": [
+        "équilibre",
+        "calme"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : équilibre et calme.",
+      "conseil": "Ralentis avant de répondre à un conflit.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "M. Miyagi",
+      "symbole": "✧",
+      "theme": "équilibre · calme",
+      "positive": {
+        "famille": "Équilibre",
+        "description": "Ce tirage invite à explorer les thèmes suivants : équilibre et calme.",
+        "mots_cles": [
+          "équilibre",
+          "calme"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à équilibre ou calme influence ta situation.",
+        "mots_cles": [
+          "équilibre",
+          "calme"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_035",
+      "personnage": "M. Miyagi",
+      "univers": "Karate Kid",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Les gestes ordinaires préparent parfois les grandes réussites.",
+      "mots_cles": [
+        "répétition",
+        "discipline"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : répétition et discipline.",
+      "conseil": "Travaille régulièrement un fondamental.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "M. Miyagi",
+      "symbole": "✧",
+      "theme": "répétition · discipline",
+      "positive": {
+        "famille": "Répétition",
+        "description": "Ce tirage invite à explorer les thèmes suivants : répétition et discipline.",
+        "mots_cles": [
+          "répétition",
+          "discipline"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à répétition ou discipline influence ta situation.",
+        "mots_cles": [
+          "répétition",
+          "discipline"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_036",
+      "personnage": "Le Petit Prince",
+      "univers": "Le Petit Prince",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "La valeur d'un lien grandit avec l'attention qu'on lui accorde.",
+      "mots_cles": [
+        "relation",
+        "fidélité"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : relation et fidélité.",
+      "conseil": "Consacre du temps à une personne chère.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Le Petit Prince",
+      "symbole": "✧",
+      "theme": "relation · fidélité",
+      "positive": {
+        "famille": "Relation",
+        "description": "Ce tirage invite à explorer les thèmes suivants : relation et fidélité.",
+        "mots_cles": [
+          "relation",
+          "fidélité"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à relation ou fidélité influence ta situation.",
+        "mots_cles": [
+          "relation",
+          "fidélité"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_037",
+      "personnage": "Le Petit Prince",
+      "univers": "Le Petit Prince",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Ce qui compte ne se réduit pas à ce qui se mesure.",
+      "mots_cles": [
+        "regard",
+        "sensibilité"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : regard et sensibilité.",
+      "conseil": "Examine la dimension humaine de ta décision.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Le Petit Prince",
+      "symbole": "✧",
+      "theme": "regard · sensibilité",
+      "positive": {
+        "famille": "Regard",
+        "description": "Ce tirage invite à explorer les thèmes suivants : regard et sensibilité.",
+        "mots_cles": [
+          "regard",
+          "sensibilité"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à regard ou sensibilité influence ta situation.",
+        "mots_cles": [
+          "regard",
+          "sensibilité"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_038",
+      "personnage": "Aslan",
+      "univers": "Le Monde de Narnia",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Agir avec droiture reste possible malgré l'incertitude.",
+      "mots_cles": [
+        "courage",
+        "intégrité"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : courage et intégrité.",
+      "conseil": "Fais un choix conforme à tes valeurs.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Aslan",
+      "symbole": "✧",
+      "theme": "courage · intégrité",
+      "positive": {
+        "famille": "Courage",
+        "description": "Ce tirage invite à explorer les thèmes suivants : courage et intégrité.",
+        "mots_cles": [
+          "courage",
+          "intégrité"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à courage ou intégrité influence ta situation.",
+        "mots_cles": [
+          "courage",
+          "intégrité"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_039",
+      "personnage": "Aslan",
+      "univers": "Le Monde de Narnia",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Une faute ne condamne pas nécessairement tout un parcours.",
+      "mots_cles": [
+        "pardon",
+        "rédemption"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : pardon et rédemption.",
+      "conseil": "Laisse une place à la réparation.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Aslan",
+      "symbole": "✧",
+      "theme": "pardon · rédemption",
+      "positive": {
+        "famille": "Pardon",
+        "description": "Ce tirage invite à explorer les thèmes suivants : pardon et rédemption.",
+        "mots_cles": [
+          "pardon",
+          "rédemption"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à pardon ou rédemption influence ta situation.",
+        "mots_cles": [
+          "pardon",
+          "rédemption"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_040",
+      "personnage": "Kratos",
+      "univers": "God of War",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Tu peux interrompre les habitudes destructrices héritées du passé.",
+      "mots_cles": [
+        "héritage",
+        "transformation"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : héritage et transformation.",
+      "conseil": "Choisis une réponse différente de tes réflexes.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Kratos",
+      "symbole": "✧",
+      "theme": "héritage · transformation",
+      "positive": {
+        "famille": "Héritage",
+        "description": "Ce tirage invite à explorer les thèmes suivants : héritage et transformation.",
+        "mots_cles": [
+          "héritage",
+          "transformation"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à héritage ou transformation influence ta situation.",
+        "mots_cles": [
+          "héritage",
+          "transformation"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_041",
+      "personnage": "Kratos",
+      "univers": "God of War",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "La puissance devient dangereuse lorsqu'elle remplace le jugement.",
+      "mots_cles": [
+        "colère",
+        "maîtrise"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : colère et maîtrise.",
+      "conseil": "Attends de retrouver ton calme avant d'agir.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Kratos",
+      "symbole": "✧",
+      "theme": "colère · maîtrise",
+      "positive": {
+        "famille": "Colère",
+        "description": "Ce tirage invite à explorer les thèmes suivants : colère et maîtrise.",
+        "mots_cles": [
+          "colère",
+          "maîtrise"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à colère ou maîtrise influence ta situation.",
+        "mots_cles": [
+          "colère",
+          "maîtrise"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_042",
+      "personnage": "Paarthurnax",
+      "univers": "Skyrim",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "La maîtrise de ses tendances compte davantage que leur absence.",
+      "mots_cles": [
+        "nature",
+        "volonté"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : nature et volonté.",
+      "conseil": "Travaille une habitude difficile.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Paarthurnax",
+      "symbole": "✧",
+      "theme": "nature · volonté",
+      "positive": {
+        "famille": "Nature",
+        "description": "Ce tirage invite à explorer les thèmes suivants : nature et volonté.",
+        "mots_cles": [
+          "nature",
+          "volonté"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à nature ou volonté influence ta situation.",
+        "mots_cles": [
+          "nature",
+          "volonté"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_043",
+      "personnage": "Paarthurnax",
+      "univers": "Skyrim",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Le silence peut rendre perceptible ce que l'agitation dissimule.",
+      "mots_cles": [
+        "contemplation",
+        "recul"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : contemplation et recul.",
+      "conseil": "Prends un moment de réflexion.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Paarthurnax",
+      "symbole": "✧",
+      "theme": "contemplation · recul",
+      "positive": {
+        "famille": "Contemplation",
+        "description": "Ce tirage invite à explorer les thèmes suivants : contemplation et recul.",
+        "mots_cles": [
+          "contemplation",
+          "recul"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à contemplation ou recul influence ta situation.",
+        "mots_cles": [
+          "contemplation",
+          "recul"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_044",
+      "personnage": "Zenyatta",
+      "univers": "Overwatch",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "La différence n'empêche pas la compréhension mutuelle.",
+      "mots_cles": [
+        "harmonie",
+        "tolérance"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : harmonie et tolérance.",
+      "conseil": "Cherche un terrain commun.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Zenyatta",
+      "symbole": "✧",
+      "theme": "harmonie · tolérance",
+      "positive": {
+        "famille": "Harmonie",
+        "description": "Ce tirage invite à explorer les thèmes suivants : harmonie et tolérance.",
+        "mots_cles": [
+          "harmonie",
+          "tolérance"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à harmonie ou tolérance influence ta situation.",
+        "mots_cles": [
+          "harmonie",
+          "tolérance"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_045",
+      "personnage": "Zenyatta",
+      "univers": "Overwatch",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "La sérénité se cultive dans la manière de répondre aux événements.",
+      "mots_cles": [
+        "paix",
+        "conscience"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : paix et conscience.",
+      "conseil": "Observe ta réaction avant de parler.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Zenyatta",
+      "symbole": "✧",
+      "theme": "paix · conscience",
+      "positive": {
+        "famille": "Paix",
+        "description": "Ce tirage invite à explorer les thèmes suivants : paix et conscience.",
+        "mots_cles": [
+          "paix",
+          "conscience"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à paix ou conscience influence ta situation.",
+        "mots_cles": [
+          "paix",
+          "conscience"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_046",
+      "personnage": "Ryu",
+      "univers": "Street Fighter",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "La progression personnelle importe davantage que la domination d'autrui.",
+      "mots_cles": [
+        "maîtrise",
+        "humilité"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : maîtrise et humilité.",
+      "conseil": "Compare tes progrès à ton propre parcours.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Ryu",
+      "symbole": "✧",
+      "theme": "maîtrise · humilité",
+      "positive": {
+        "famille": "Maîtrise",
+        "description": "Ce tirage invite à explorer les thèmes suivants : maîtrise et humilité.",
+        "mots_cles": [
+          "maîtrise",
+          "humilité"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à maîtrise ou humilité influence ta situation.",
+        "mots_cles": [
+          "maîtrise",
+          "humilité"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_047",
+      "personnage": "Ryu",
+      "univers": "Street Fighter",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "La force sans direction ne suffit pas à atteindre la maîtrise.",
+      "mots_cles": [
+        "discipline",
+        "concentration"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : discipline et concentration.",
+      "conseil": "Entraîne une compétence précise.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Ryu",
+      "symbole": "✧",
+      "theme": "discipline · concentration",
+      "positive": {
+        "famille": "Discipline",
+        "description": "Ce tirage invite à explorer les thèmes suivants : discipline et concentration.",
+        "mots_cles": [
+          "discipline",
+          "concentration"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à discipline ou concentration influence ta situation.",
+        "mots_cles": [
+          "discipline",
+          "concentration"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_048",
+      "personnage": "Maître Yi",
+      "univers": "League of Legends",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Une attention dispersée affaiblit même les meilleures capacités.",
+      "mots_cles": [
+        "concentration",
+        "clarté"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : concentration et clarté.",
+      "conseil": "Choisis une seule priorité immédiate.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Maître Yi",
+      "symbole": "✧",
+      "theme": "concentration · clarté",
+      "positive": {
+        "famille": "Concentration",
+        "description": "Ce tirage invite à explorer les thèmes suivants : concentration et clarté.",
+        "mots_cles": [
+          "concentration",
+          "clarté"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à concentration ou clarté influence ta situation.",
+        "mots_cles": [
+          "concentration",
+          "clarté"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_049",
+      "personnage": "Maître Yi",
+      "univers": "League of Legends",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "La précipitation peut compromettre un geste pourtant maîtrisé.",
+      "mots_cles": [
+        "patience",
+        "timing"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : patience et timing.",
+      "conseil": "Attends les conditions favorables.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Maître Yi",
+      "symbole": "✧",
+      "theme": "patience · timing",
+      "positive": {
+        "famille": "Patience",
+        "description": "Ce tirage invite à explorer les thèmes suivants : patience et timing.",
+        "mots_cles": [
+          "patience",
+          "timing"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à patience ou timing influence ta situation.",
+        "mots_cles": [
+          "patience",
+          "timing"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_050",
+      "personnage": "Shen",
+      "univers": "League of Legends",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "La justice exige de considérer les conséquences au-delà de ses préférences.",
+      "mots_cles": [
+        "équilibre",
+        "impartialité"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : équilibre et impartialité.",
+      "conseil": "Examine les intérêts de chaque partie.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Shen",
+      "symbole": "✧",
+      "theme": "équilibre · impartialité",
+      "positive": {
+        "famille": "Équilibre",
+        "description": "Ce tirage invite à explorer les thèmes suivants : équilibre et impartialité.",
+        "mots_cles": [
+          "équilibre",
+          "impartialité"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à équilibre ou impartialité influence ta situation.",
+        "mots_cles": [
+          "équilibre",
+          "impartialité"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_051",
+      "personnage": "Shen",
+      "univers": "League of Legends",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Une responsabilité ne doit pas être confondue avec une réaction personnelle.",
+      "mots_cles": [
+        "devoir",
+        "discernement"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : devoir et discernement.",
+      "conseil": "Sépare tes émotions de ton obligation.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Shen",
+      "symbole": "✧",
+      "theme": "devoir · discernement",
+      "positive": {
+        "famille": "Devoir",
+        "description": "Ce tirage invite à explorer les thèmes suivants : devoir et discernement.",
+        "mots_cles": [
+          "devoir",
+          "discernement"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à devoir ou discernement influence ta situation.",
+        "mots_cles": [
+          "devoir",
+          "discernement"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_052",
+      "personnage": "Bard",
+      "univers": "League of Legends",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Un événement isolé peut prendre un autre sens dans un ensemble plus vaste.",
+      "mots_cles": [
+        "harmonie",
+        "perspective"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : harmonie et perspective.",
+      "conseil": "Replace le problème dans son contexte.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Bard",
+      "symbole": "✧",
+      "theme": "harmonie · perspective",
+      "positive": {
+        "famille": "Harmonie",
+        "description": "Ce tirage invite à explorer les thèmes suivants : harmonie et perspective.",
+        "mots_cles": [
+          "harmonie",
+          "perspective"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à harmonie ou perspective influence ta situation.",
+        "mots_cles": [
+          "harmonie",
+          "perspective"
+        ]
+      }
+    },
+    {
+      "id": "sagesse_053",
+      "personnage": "Bard",
+      "univers": "League of Legends",
+      "categorie": "sagesse_fiction",
+      "type": "enseignement_reformule",
+      "enseignement": "Un détour peut révéler une possibilité ignorée.",
+      "mots_cles": [
+        "exploration",
+        "curiosité"
+      ],
+      "interpretation": "Ce tirage invite à explorer les thèmes suivants : exploration et curiosité.",
+      "conseil": "Explore une alternative sans abandonner ton objectif.",
+      "tradition": "Sagesse fictionnelle",
+      "titre": "Bard",
+      "symbole": "✧",
+      "theme": "exploration · curiosité",
+      "positive": {
+        "famille": "Exploration",
+        "description": "Ce tirage invite à explorer les thèmes suivants : exploration et curiosité.",
+        "mots_cles": [
+          "exploration",
+          "curiosité"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examine si un déséquilibre lié à exploration ou curiosité influence ta situation.",
+        "mots_cles": [
+          "exploration",
+          "curiosité"
+        ]
+      }
+    }
+  ]
+}

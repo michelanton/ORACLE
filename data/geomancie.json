@@ -1,0 +1,557 @@
+{
+  "version": "1.5",
+  "tradition": "Géomancie",
+  "references": [
+    {
+      "tradition": "Géomancie",
+      "nombre_symboles": 16,
+      "source": "https://zenitheye.net/sixteen-geomantic-figures/"
+    }
+  ],
+  "symboles": [
+    {
+      "tradition": "Géomancie",
+      "id": "Géomancie:via",
+      "titre": "Via",
+      "symbole": "Via",
+      "theme": "Chemin",
+      "signification_fondamentale": "Chemin",
+      "positive": {
+        "famille": "Progression",
+        "description": "Le chemin prend son sens dans les progrès que tu accomplis, même lorsque chaque pas semble modeste.",
+        "mots_cles": [
+          "progression",
+          "chemin"
+        ]
+      },
+      "negative": {
+        "famille": "Instabilité",
+        "description": "À changer sans cesse de direction, tu risques de confondre le mouvement avec le progrès.",
+        "mots_cles": [
+          "instabilité",
+          "chemin"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "figure": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "sources": [
+        "https://zenitheye.net/sixteen-geomantic-figures/"
+      ]
+    },
+    {
+      "tradition": "Géomancie",
+      "id": "Géomancie:populus",
+      "titre": "Populus",
+      "symbole": "Populus",
+      "theme": "Collectivité",
+      "signification_fondamentale": "Collectivité",
+      "positive": {
+        "famille": "Solidarité",
+        "description": "La solidarité donne sa force à la collectivité lorsque chacun contribue au bien commun sans perdre sa singularité.",
+        "mots_cles": [
+          "solidarité",
+          "collectivité"
+        ]
+      },
+      "negative": {
+        "famille": "Conformisme",
+        "description": "Appartenir à un groupe ne signifie pas renoncer à penser par soi-même.",
+        "mots_cles": [
+          "conformisme",
+          "collectivité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "figure": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "sources": [
+        "https://zenitheye.net/sixteen-geomantic-figures/"
+      ]
+    },
+    {
+      "tradition": "Géomancie",
+      "id": "Géomancie:fortuna-major",
+      "titre": "Fortuna Major",
+      "symbole": "Fortuna Major",
+      "theme": "Grande fortune",
+      "signification_fondamentale": "Grande fortune",
+      "positive": {
+        "famille": "Réussite durable",
+        "description": "La réussite durable repose moins sur la chance que sur la sagesse avec laquelle tu fais fructifier ce que la vie t’offre.",
+        "mots_cles": [
+          "réussite durable",
+          "grande fortune"
+        ]
+      },
+      "negative": {
+        "famille": "Suffisance",
+        "description": "Lorsque la réussite nourrit la suffisance, elle peut te faire oublier les qualités qui t’ont permis de l’atteindre.",
+        "mots_cles": [
+          "suffisance",
+          "grande fortune"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "figure": [
+        2,
+        2,
+        1,
+        1
+      ],
+      "sources": [
+        "https://zenitheye.net/sixteen-geomantic-figures/"
+      ]
+    },
+    {
+      "tradition": "Géomancie",
+      "id": "Géomancie:fortuna-minor",
+      "titre": "Fortuna Minor",
+      "symbole": "Fortuna Minor",
+      "theme": "Petite fortune",
+      "signification_fondamentale": "Petite fortune",
+      "positive": {
+        "famille": "Opportunité",
+        "description": "Une occasion modeste peut ouvrir de grandes perspectives lorsque tu sais en reconnaître la valeur.",
+        "mots_cles": [
+          "opportunité",
+          "petite fortune"
+        ]
+      },
+      "negative": {
+        "famille": "Fragilité",
+        "description": "Une chance passagère ne constitue pas une fondation solide tant que tu n’as pas appris à en faire quelque chose de durable.",
+        "mots_cles": [
+          "fragilité",
+          "petite fortune"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "figure": [
+        1,
+        1,
+        2,
+        2
+      ],
+      "sources": [
+        "https://zenitheye.net/sixteen-geomantic-figures/"
+      ]
+    },
+    {
+      "tradition": "Géomancie",
+      "id": "Géomancie:acquisitio",
+      "titre": "Acquisitio",
+      "symbole": "Acquisitio",
+      "theme": "Gain",
+      "signification_fondamentale": "Gain",
+      "positive": {
+        "famille": "Abondance",
+        "description": "La véritable abondance se mesure autant à ce que tu sais apprécier et partager qu’à ce que tu parviens à acquérir.",
+        "mots_cles": [
+          "abondance",
+          "gain"
+        ]
+      },
+      "negative": {
+        "famille": "Avidité",
+        "description": "L’avidité transforme chaque gain en un nouveau manque lorsque rien ne semble jamais suffire.",
+        "mots_cles": [
+          "avidité",
+          "gain"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "figure": [
+        2,
+        1,
+        2,
+        1
+      ],
+      "sources": [
+        "https://zenitheye.net/sixteen-geomantic-figures/"
+      ]
+    },
+    {
+      "tradition": "Géomancie",
+      "id": "Géomancie:amissio",
+      "titre": "Amissio",
+      "symbole": "Amissio",
+      "theme": "Perte",
+      "signification_fondamentale": "Perte",
+      "positive": {
+        "famille": "Détachement",
+        "description": "Le détachement permet d’accepter la perte sans laisser ce qui disparaît emporter tout le sens de ton existence.",
+        "mots_cles": [
+          "détachement",
+          "perte"
+        ]
+      },
+      "negative": {
+        "famille": "Dépossession",
+        "description": "Lorsque tu définis ta valeur par ce que tu possèdes, chaque dépossession risque d’ébranler ton identité.",
+        "mots_cles": [
+          "dépossession",
+          "perte"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "figure": [
+        1,
+        2,
+        1,
+        2
+      ],
+      "sources": [
+        "https://zenitheye.net/sixteen-geomantic-figures/"
+      ]
+    },
+    {
+      "tradition": "Géomancie",
+      "id": "Géomancie:laetitia",
+      "titre": "Laetitia",
+      "symbole": "Laetitia",
+      "theme": "Joie",
+      "signification_fondamentale": "Joie",
+      "positive": {
+        "famille": "Optimisme",
+        "description": "L’optimisme ne consiste pas à nier les difficultés, mais à reconnaître que la joie peut encore trouver sa place au milieu d’elles.",
+        "mots_cles": [
+          "optimisme",
+          "joie"
+        ]
+      },
+      "negative": {
+        "famille": "Insouciance",
+        "description": "La joie perd sa profondeur lorsque l’insouciance te détourne des responsabilités qui donnent du sens à ta vie.",
+        "mots_cles": [
+          "insouciance",
+          "joie"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "figure": [
+        1,
+        2,
+        2,
+        2
+      ],
+      "sources": [
+        "https://zenitheye.net/sixteen-geomantic-figures/"
+      ]
+    },
+    {
+      "tradition": "Géomancie",
+      "id": "Géomancie:tristitia",
+      "titre": "Tristitia",
+      "symbole": "Tristitia",
+      "theme": "Tristesse",
+      "signification_fondamentale": "Tristesse",
+      "positive": {
+        "famille": "Introspection",
+        "description": "La tristesse peut devenir un espace de réflexion où tu découvres ce qui compte véritablement pour toi.",
+        "mots_cles": [
+          "introspection",
+          "tristesse"
+        ]
+      },
+      "negative": {
+        "famille": "Découragement",
+        "description": "Le découragement risque de te faire prendre la douleur du présent pour une vérité définitive sur ton avenir.",
+        "mots_cles": [
+          "découragement",
+          "tristesse"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "figure": [
+        2,
+        2,
+        2,
+        1
+      ],
+      "sources": [
+        "https://zenitheye.net/sixteen-geomantic-figures/"
+      ]
+    },
+    {
+      "tradition": "Géomancie",
+      "id": "Géomancie:puella",
+      "titre": "Puella",
+      "symbole": "Puella",
+      "theme": "Harmonie",
+      "signification_fondamentale": "Harmonie",
+      "positive": {
+        "famille": "Douceur",
+        "description": "La douceur favorise une harmonie véritable lorsqu’elle respecte les différences sans chercher à effacer les désaccords.",
+        "mots_cles": [
+          "douceur",
+          "harmonie"
+        ]
+      },
+      "negative": {
+        "famille": "Futilité",
+        "description": "À privilégier les apparences et les satisfactions futiles, tu risques de confondre une harmonie de façade avec une paix véritable.",
+        "mots_cles": [
+          "futilité",
+          "harmonie"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "figure": [
+        1,
+        2,
+        1,
+        1
+      ],
+      "sources": [
+        "https://zenitheye.net/sixteen-geomantic-figures/"
+      ]
+    },
+    {
+      "tradition": "Géomancie",
+      "id": "Géomancie:puer",
+      "titre": "Puer",
+      "symbole": "Puer",
+      "theme": "Ardeur",
+      "signification_fondamentale": "Ardeur",
+      "positive": {
+        "famille": "Courage",
+        "description": "Le courage donne une direction à ton ardeur lorsque tu mets ton énergie au service de ce qui mérite ton engagement.",
+        "mots_cles": [
+          "courage",
+          "ardeur"
+        ]
+      },
+      "negative": {
+        "famille": "Impulsivité",
+        "description": "L’ardeur devient impulsivité lorsque le désir d’agir l’emporte sur la compréhension des conséquences.",
+        "mots_cles": [
+          "impulsivité",
+          "ardeur"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "figure": [
+        1,
+        1,
+        2,
+        1
+      ],
+      "sources": [
+        "https://zenitheye.net/sixteen-geomantic-figures/"
+      ]
+    },
+    {
+      "tradition": "Géomancie",
+      "id": "Géomancie:albus",
+      "titre": "Albus",
+      "symbole": "Albus",
+      "theme": "Clarté",
+      "signification_fondamentale": "Clarté",
+      "positive": {
+        "famille": "Sagesse",
+        "description": "La sagesse naît de la clarté avec laquelle tu examines tes pensées et reconnais les limites de ton savoir.",
+        "mots_cles": [
+          "sagesse",
+          "clarté"
+        ]
+      },
+      "negative": {
+        "famille": "Passivité",
+        "description": "La réflexion devient passivité lorsqu’elle sert de refuge pour éviter les décisions que la lucidité invite à prendre.",
+        "mots_cles": [
+          "passivité",
+          "clarté"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "figure": [
+        2,
+        2,
+        1,
+        2
+      ],
+      "sources": [
+        "https://zenitheye.net/sixteen-geomantic-figures/"
+      ]
+    },
+    {
+      "tradition": "Géomancie",
+      "id": "Géomancie:rubeus",
+      "titre": "Rubeus",
+      "symbole": "Rubeus",
+      "theme": "Passion",
+      "signification_fondamentale": "Passion",
+      "positive": {
+        "famille": "Vitalité",
+        "description": "La passion nourrit ta vitalité lorsqu’elle donne à ton existence un élan créateur et un sens profond.",
+        "mots_cles": [
+          "vitalité",
+          "passion"
+        ]
+      },
+      "negative": {
+        "famille": "Violence",
+        "description": "Lorsque la passion se transforme en violence, elle détruit ce qui donnait initialement un sens à son intensité.",
+        "mots_cles": [
+          "violence",
+          "passion"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "figure": [
+        2,
+        1,
+        2,
+        2
+      ],
+      "sources": [
+        "https://zenitheye.net/sixteen-geomantic-figures/"
+      ]
+    },
+    {
+      "tradition": "Géomancie",
+      "id": "Géomancie:conjunctio",
+      "titre": "Conjunctio",
+      "symbole": "Conjunctio",
+      "theme": "Union",
+      "signification_fondamentale": "Union",
+      "positive": {
+        "famille": "Coopération",
+        "description": "L’union trouve sa force dans la coopération lorsque chacun apporte librement ce qu’il peut offrir à l’autre.",
+        "mots_cles": [
+          "coopération",
+          "union"
+        ]
+      },
+      "negative": {
+        "famille": "Dépendance",
+        "description": "Un lien devient une dépendance lorsqu’il exige de renoncer à sa propre liberté pour continuer d’exister.",
+        "mots_cles": [
+          "dépendance",
+          "union"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "figure": [
+        2,
+        1,
+        1,
+        2
+      ],
+      "sources": [
+        "https://zenitheye.net/sixteen-geomantic-figures/"
+      ]
+    },
+    {
+      "tradition": "Géomancie",
+      "id": "Géomancie:carcer",
+      "titre": "Carcer",
+      "symbole": "Carcer",
+      "theme": "Limite",
+      "signification_fondamentale": "Limite",
+      "positive": {
+        "famille": "Discipline",
+        "description": "La discipline donne un sens aux limites lorsqu’elles protègent ta liberté et orientent tes efforts.",
+        "mots_cles": [
+          "discipline",
+          "limite"
+        ]
+      },
+      "negative": {
+        "famille": "Enfermement",
+        "description": "Une limite devient une prison lorsque tu ne t’autorises plus à questionner les raisons qui l’ont fait naître.",
+        "mots_cles": [
+          "enfermement",
+          "limite"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "figure": [
+        1,
+        2,
+        2,
+        1
+      ],
+      "sources": [
+        "https://zenitheye.net/sixteen-geomantic-figures/"
+      ]
+    },
+    {
+      "tradition": "Géomancie",
+      "id": "Géomancie:caput-draconis",
+      "titre": "Caput Draconis",
+      "symbole": "Caput Draconis",
+      "theme": "Commencement",
+      "signification_fondamentale": "Commencement",
+      "positive": {
+        "famille": "Ouverture",
+        "description": "Chaque commencement invite à accueillir l’inconnu avec ouverture, sans exiger de connaître d’avance tout le chemin.",
+        "mots_cles": [
+          "ouverture",
+          "commencement"
+        ]
+      },
+      "negative": {
+        "famille": "Précipitation",
+        "description": "La précipitation peut fragiliser un nouveau départ lorsque l’impatience t’empêche d’en préparer les fondations.",
+        "mots_cles": [
+          "précipitation",
+          "commencement"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "figure": [
+        2,
+        1,
+        1,
+        1
+      ],
+      "sources": [
+        "https://zenitheye.net/sixteen-geomantic-figures/"
+      ]
+    },
+    {
+      "tradition": "Géomancie",
+      "id": "Géomancie:cauda-draconis",
+      "titre": "Cauda Draconis",
+      "symbole": "Cauda Draconis",
+      "theme": "Fin",
+      "signification_fondamentale": "Fin",
+      "positive": {
+        "famille": "Libération",
+        "description": "Accepter la fin de ce qui a perdu son sens peut te libérer et rendre possible un nouvel engagement.",
+        "mots_cles": [
+          "libération",
+          "fin"
+        ]
+      },
+      "negative": {
+        "famille": "Rupture",
+        "description": "Une rupture précipitée peut laisser des blessures que la seule volonté de tourner la page ne suffit pas à apaiser.",
+        "mots_cles": [
+          "rupture",
+          "fin"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "figure": [
+        1,
+        1,
+        1,
+        2
+      ],
+      "sources": [
+        "https://zenitheye.net/sixteen-geomantic-figures/"
+      ]
+    }
+  ]
+}

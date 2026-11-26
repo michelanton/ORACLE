@@ -1,0 +1,351 @@
+{
+  "version": "1.5",
+  "tradition": "Mythologie romaine",
+  "references": [
+    {
+      "tradition": "Mythologie romaine",
+      "nombre_symboles": 13,
+      "source": "Synthèse éditoriale originale ; sources historiques à compléter"
+    }
+  ],
+  "symboles": [
+    {
+      "tradition": "Mythologie romaine",
+      "id": "Mythologie romaine:jupiter",
+      "titre": "Jupiter",
+      "symbole": "Jupiter",
+      "theme": "Souveraineté",
+      "signification_fondamentale": "Souveraineté",
+      "positive": {
+        "famille": "Justice",
+        "description": "Exercer une autorité avec justice, c’est accepter que le pouvoir engage davantage de responsabilités qu’il n’accorde de privilèges.",
+        "mots_cles": [
+          "justice",
+          "souveraineté"
+        ]
+      },
+      "negative": {
+        "famille": "Domination",
+        "description": "Lorsque le pouvoir devient un moyen de soumettre les autres, il perd la légitimité que seule la justice peut lui donner.",
+        "mots_cles": [
+          "domination",
+          "souveraineté"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Dieu du ciel et garant des engagements publics."
+    },
+    {
+      "tradition": "Mythologie romaine",
+      "id": "Mythologie romaine:junon",
+      "titre": "Junon",
+      "symbole": "Junon",
+      "theme": "Mariage",
+      "signification_fondamentale": "Mariage",
+      "positive": {
+        "famille": "Fidélité",
+        "description": "La fidélité se construit chaque jour dans le respect des engagements librement consentis et dans l’attention portée à l’autre.",
+        "mots_cles": [
+          "fidélité",
+          "mariage"
+        ]
+      },
+      "negative": {
+        "famille": "Jalousie",
+        "description": "La jalousie fragilise les liens qu’elle prétend préserver lorsqu’elle substitue la surveillance à la confiance.",
+        "mots_cles": [
+          "jalousie",
+          "mariage"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Déesse protectrice du mariage et de la communauté romaine."
+    },
+    {
+      "tradition": "Mythologie romaine",
+      "id": "Mythologie romaine:neptune",
+      "titre": "Neptune",
+      "symbole": "Neptune",
+      "theme": "Mer",
+      "signification_fondamentale": "Mer",
+      "positive": {
+        "famille": "Souplesse",
+        "description": "Comme la mer épouse les contours du rivage, la souplesse te permet de composer avec les circonstances sans renoncer à tes aspirations.",
+        "mots_cles": [
+          "souplesse",
+          "mer"
+        ]
+      },
+      "negative": {
+        "famille": "Colère",
+        "description": "Lorsque la colère soulève une tempête intérieure, attends que les eaux s’apaisent avant de choisir ta direction.",
+        "mots_cles": [
+          "colère",
+          "mer"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Dieu associé aux eaux et à la mer."
+    },
+    {
+      "tradition": "Mythologie romaine",
+      "id": "Mythologie romaine:minerve",
+      "titre": "Minerve",
+      "symbole": "Minerve",
+      "theme": "Savoir-faire",
+      "signification_fondamentale": "Savoir-faire",
+      "positive": {
+        "famille": "Sagesse",
+        "description": "La sagesse donne au savoir-faire sa véritable valeur en unissant la maîtrise du geste à la compréhension de son utilité.",
+        "mots_cles": [
+          "sagesse",
+          "savoir-faire"
+        ]
+      },
+      "negative": {
+        "famille": "Froideur",
+        "description": "La maîtrise technique perd une part de sa valeur lorsque la froideur du jugement fait oublier les besoins humains auxquels elle répond.",
+        "mots_cles": [
+          "froideur",
+          "savoir-faire"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Déesse des arts, des métiers et de la sagesse."
+    },
+    {
+      "tradition": "Mythologie romaine",
+      "id": "Mythologie romaine:mars",
+      "titre": "Mars",
+      "symbole": "Mars",
+      "theme": "Guerre",
+      "signification_fondamentale": "Guerre",
+      "positive": {
+        "famille": "Courage",
+        "description": "Le courage consiste autant à défendre ce qui est juste qu’à reconnaître les combats qui ne méritent pas d’être menés.",
+        "mots_cles": [
+          "courage",
+          "guerre"
+        ]
+      },
+      "negative": {
+        "famille": "Agressivité",
+        "description": "L’agressivité transforme les désaccords en affrontements lorsque le désir de vaincre prend le pas sur celui de comprendre.",
+        "mots_cles": [
+          "agressivité",
+          "guerre"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Dieu guerrier et père mythique de Romulus."
+    },
+    {
+      "tradition": "Mythologie romaine",
+      "id": "Mythologie romaine:venus",
+      "titre": "Vénus",
+      "symbole": "Vénus",
+      "theme": "Amour",
+      "signification_fondamentale": "Amour",
+      "positive": {
+        "famille": "Harmonie",
+        "description": "L’harmonie amoureuse naît de la rencontre de deux êtres qui apprennent à accueillir leurs différences sans chercher à les effacer.",
+        "mots_cles": [
+          "harmonie",
+          "amour"
+        ]
+      },
+      "negative": {
+        "famille": "Vanité",
+        "description": "La vanité détourne l’amour de sa profondeur lorsque le désir d’être admiré devient plus important que celui de connaître l’autre.",
+        "mots_cles": [
+          "vanité",
+          "amour"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Déesse de l'amour et ancêtre mythique des Romains par Énée."
+    },
+    {
+      "tradition": "Mythologie romaine",
+      "id": "Mythologie romaine:mercure",
+      "titre": "Mercure",
+      "symbole": "Mercure",
+      "theme": "Commerce",
+      "signification_fondamentale": "Commerce",
+      "positive": {
+        "famille": "Échange",
+        "description": "Un échange véritable enrichit chacun lorsque la recherche de son propre intérêt s’accompagne du respect de celui des autres.",
+        "mots_cles": [
+          "échange",
+          "commerce"
+        ]
+      },
+      "negative": {
+        "famille": "Tromperie",
+        "description": "La tromperie peut procurer un avantage immédiat, mais elle détruit la confiance sur laquelle reposent les échanges durables.",
+        "mots_cles": [
+          "tromperie",
+          "commerce"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Dieu des échanges et des voyageurs."
+    },
+    {
+      "tradition": "Mythologie romaine",
+      "id": "Mythologie romaine:vulcain",
+      "titre": "Vulcain",
+      "symbole": "Vulcain",
+      "theme": "Forge",
+      "signification_fondamentale": "Forge",
+      "positive": {
+        "famille": "Créativité",
+        "description": "Comme le métal sous le marteau du forgeron, une idée prend forme lorsque la créativité s’allie à la patience du travail.",
+        "mots_cles": [
+          "créativité",
+          "forge"
+        ]
+      },
+      "negative": {
+        "famille": "Destruction",
+        "description": "Le feu qui permet de façonner la matière peut aussi la détruire lorsque l’énergie créatrice n’est plus guidée par le discernement.",
+        "mots_cles": [
+          "destruction",
+          "forge"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Dieu du feu et du travail des métaux."
+    },
+    {
+      "tradition": "Mythologie romaine",
+      "id": "Mythologie romaine:ceres",
+      "titre": "Cérès",
+      "symbole": "Cérès",
+      "theme": "Récolte",
+      "signification_fondamentale": "Récolte",
+      "positive": {
+        "famille": "Générosité",
+        "description": "La récolte prend une dimension nouvelle lorsque la générosité transforme le fruit de tes efforts en une richesse partagée.",
+        "mots_cles": [
+          "générosité",
+          "récolte"
+        ]
+      },
+      "negative": {
+        "famille": "Possessivité",
+        "description": "À vouloir retenir pour toi seul tous les fruits de la récolte, tu risques d’appauvrir les liens qui donnent un sens à l’abondance.",
+        "mots_cles": [
+          "possessivité",
+          "récolte"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Déesse de l'agriculture et des céréales."
+    },
+    {
+      "tradition": "Mythologie romaine",
+      "id": "Mythologie romaine:diane",
+      "titre": "Diane",
+      "symbole": "Diane",
+      "theme": "Nature",
+      "signification_fondamentale": "Nature",
+      "positive": {
+        "famille": "Indépendance",
+        "description": "La nature rappelle que l’indépendance consiste à suivre son propre rythme tout en reconnaissant les liens qui nous unissent au vivant.",
+        "mots_cles": [
+          "indépendance",
+          "nature"
+        ]
+      },
+      "negative": {
+        "famille": "Isolement",
+        "description": "La solitude peut nourrir ta liberté, mais elle devient isolement lorsque tu refuses toute rencontre par crainte de perdre ton indépendance.",
+        "mots_cles": [
+          "isolement",
+          "nature"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Déesse de la chasse et des espaces sauvages."
+    },
+    {
+      "tradition": "Mythologie romaine",
+      "id": "Mythologie romaine:vesta",
+      "titre": "Vesta",
+      "symbole": "Vesta",
+      "theme": "Foyer",
+      "signification_fondamentale": "Foyer",
+      "positive": {
+        "famille": "Dévouement",
+        "description": "Le dévouement entretient la chaleur du foyer lorsque les gestes quotidiens deviennent une expression sincère de l’attention aux autres.",
+        "mots_cles": [
+          "dévouement",
+          "foyer"
+        ]
+      },
+      "negative": {
+        "famille": "Oubli de soi",
+        "description": "À entretenir sans relâche la flamme du foyer, veille à ne pas laisser s’éteindre celle de tes propres aspirations.",
+        "mots_cles": [
+          "oubli de soi",
+          "foyer"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Déesse du feu sacré entretenu par les vestales."
+    },
+    {
+      "tradition": "Mythologie romaine",
+      "id": "Mythologie romaine:janus",
+      "titre": "Janus",
+      "symbole": "Janus",
+      "theme": "Seuil",
+      "signification_fondamentale": "Seuil",
+      "positive": {
+        "famille": "Transition",
+        "description": "Franchir un seuil, c’est reconnaître ce que le passé t’a appris tout en acceptant de ne pas connaître entièrement le chemin qui s’ouvre.",
+        "mots_cles": [
+          "transition",
+          "seuil"
+        ]
+      },
+      "negative": {
+        "famille": "Indécision",
+        "description": "À demeurer indéfiniment entre ce que tu quittes et ce que tu pourrais entreprendre, tu risques de faire de l’indécision un obstacle au changement.",
+        "mots_cles": [
+          "indécision",
+          "seuil"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Dieu des portes et des commencements, représenté avec deux visages."
+    },
+    {
+      "tradition": "Mythologie romaine",
+      "id": "Mythologie romaine:saturne",
+      "titre": "Saturne",
+      "symbole": "Saturne",
+      "theme": "Temps agricole",
+      "signification_fondamentale": "Temps agricole",
+      "positive": {
+        "famille": "Patience",
+        "description": "Comme le cultivateur respecte le rythme des saisons, apprends à laisser mûrir ce que tes efforts ont semé sans exiger de résultat immédiat.",
+        "mots_cles": [
+          "patience",
+          "temps agricole"
+        ]
+      },
+      "negative": {
+        "famille": "Rigidité",
+        "description": "La fidélité aux habitudes devient rigidité lorsque tu refuses d’adapter tes gestes aux changements du temps et des circonstances.",
+        "mots_cles": [
+          "rigidité",
+          "temps agricole"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "contexte": "Dieu des semailles associé à l'âge d'or."
+    }
+  ]
+}

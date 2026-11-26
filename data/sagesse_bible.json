@@ -1,0 +1,1261 @@
+{
+  "version": "1.9",
+  "tradition": "Sagesse — Bible",
+  "references": [
+    {
+      "tradition": "Sagesse — Bible",
+      "nombre_symboles": 48,
+      "source": "Sélection éditoriale de passages et reformulations ; références à vérifier"
+    }
+  ],
+  "symboles": [
+    {
+      "id": "bible_001",
+      "tradition": "Sagesse — Bible",
+      "titre": "Ecclésiaste 3:1",
+      "symbole": "✧",
+      "theme": "Cycles",
+      "enseignement": "Il y a un temps pour tout.",
+      "reference": "Ecclésiaste 3:1",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Cycles",
+        "description": "Il y a un temps pour tout.",
+        "mots_cles": [
+          "cycles"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Il y a un temps pour tout.",
+        "mots_cles": [
+          "cycles"
+        ]
+      }
+    },
+    {
+      "id": "bible_002",
+      "tradition": "Sagesse — Bible",
+      "titre": "Ecclésiaste 3:4",
+      "symbole": "✧",
+      "theme": "Émotions",
+      "enseignement": "Un temps pour pleurer et un temps pour rire.",
+      "reference": "Ecclésiaste 3:4",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Émotions",
+        "description": "Un temps pour pleurer et un temps pour rire.",
+        "mots_cles": [
+          "émotions"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Un temps pour pleurer et un temps pour rire.",
+        "mots_cles": [
+          "émotions"
+        ]
+      }
+    },
+    {
+      "id": "bible_003",
+      "tradition": "Sagesse — Bible",
+      "titre": "Ecclésiaste 1:2",
+      "symbole": "✧",
+      "theme": "Détachement",
+      "enseignement": "Vanité des vanités, tout est vanité.",
+      "reference": "Ecclésiaste 1:2",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Détachement",
+        "description": "Vanité des vanités, tout est vanité.",
+        "mots_cles": [
+          "détachement"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Vanité des vanités, tout est vanité.",
+        "mots_cles": [
+          "détachement"
+        ]
+      }
+    },
+    {
+      "id": "bible_004",
+      "tradition": "Sagesse — Bible",
+      "titre": "Ecclésiaste 4:9",
+      "symbole": "✧",
+      "theme": "Union",
+      "enseignement": "Deux valent mieux qu'un.",
+      "reference": "Ecclésiaste 4:9",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Union",
+        "description": "Deux valent mieux qu'un.",
+        "mots_cles": [
+          "union"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Deux valent mieux qu'un.",
+        "mots_cles": [
+          "union"
+        ]
+      }
+    },
+    {
+      "id": "bible_005",
+      "tradition": "Sagesse — Bible",
+      "titre": "Ecclésiaste 11:4",
+      "symbole": "✧",
+      "theme": "Hésitation",
+      "enseignement": "Qui observe trop le vent ne sèmera jamais.",
+      "reference": "Ecclésiaste 11:4",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Hésitation",
+        "description": "Qui observe trop le vent ne sèmera jamais.",
+        "mots_cles": [
+          "hésitation"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Qui observe trop le vent ne sèmera jamais.",
+        "mots_cles": [
+          "hésitation"
+        ]
+      }
+    },
+    {
+      "id": "bible_006",
+      "tradition": "Sagesse — Bible",
+      "titre": "Ecclésiaste 7:8",
+      "symbole": "✧",
+      "theme": "Patience",
+      "enseignement": "La patience vaut mieux que l'orgueil.",
+      "reference": "Ecclésiaste 7:8",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Patience",
+        "description": "La patience vaut mieux que l'orgueil.",
+        "mots_cles": [
+          "patience"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "La patience vaut mieux que l'orgueil.",
+        "mots_cles": [
+          "patience"
+        ]
+      }
+    },
+    {
+      "id": "bible_007",
+      "tradition": "Sagesse — Bible",
+      "titre": "Ecclésiaste 1:9",
+      "symbole": "✧",
+      "theme": "Répétition",
+      "enseignement": "Rien de nouveau sous le soleil.",
+      "reference": "Ecclésiaste 1:9",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Répétition",
+        "description": "Rien de nouveau sous le soleil.",
+        "mots_cles": [
+          "répétition"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Rien de nouveau sous le soleil.",
+        "mots_cles": [
+          "répétition"
+        ]
+      }
+    },
+    {
+      "id": "bible_008",
+      "tradition": "Sagesse — Bible",
+      "titre": "Proverbes 8:11",
+      "symbole": "✧",
+      "theme": "Sagesse",
+      "enseignement": "La sagesse vaut mieux que les perles.",
+      "reference": "Proverbes 8:11",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Sagesse",
+        "description": "La sagesse vaut mieux que les perles.",
+        "mots_cles": [
+          "sagesse"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "La sagesse vaut mieux que les perles.",
+        "mots_cles": [
+          "sagesse"
+        ]
+      }
+    },
+    {
+      "id": "bible_009",
+      "tradition": "Sagesse — Bible",
+      "titre": "Proverbes 15:33",
+      "symbole": "✧",
+      "theme": "Humilité",
+      "enseignement": "L'humilité précède la gloire.",
+      "reference": "Proverbes 15:33",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Humilité",
+        "description": "L'humilité précède la gloire.",
+        "mots_cles": [
+          "humilité"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "L'humilité précède la gloire.",
+        "mots_cles": [
+          "humilité"
+        ]
+      }
+    },
+    {
+      "id": "bible_010",
+      "tradition": "Sagesse — Bible",
+      "titre": "Proverbes 15:1",
+      "symbole": "✧",
+      "theme": "Diplomatie",
+      "enseignement": "Une réponse douce apaise la colère.",
+      "reference": "Proverbes 15:1",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Diplomatie",
+        "description": "Une réponse douce apaise la colère.",
+        "mots_cles": [
+          "diplomatie"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Une réponse douce apaise la colère.",
+        "mots_cles": [
+          "diplomatie"
+        ]
+      }
+    },
+    {
+      "id": "bible_011",
+      "tradition": "Sagesse — Bible",
+      "titre": "Proverbes 24:16",
+      "symbole": "✧",
+      "theme": "Résilience",
+      "enseignement": "Le juste tombe sept fois et se relève.",
+      "reference": "Proverbes 24:16",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Résilience",
+        "description": "Le juste tombe sept fois et se relève.",
+        "mots_cles": [
+          "résilience"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Le juste tombe sept fois et se relève.",
+        "mots_cles": [
+          "résilience"
+        ]
+      }
+    },
+    {
+      "id": "bible_012",
+      "tradition": "Sagesse — Bible",
+      "titre": "Proverbes 27:17",
+      "symbole": "✧",
+      "theme": "Entraide",
+      "enseignement": "Le fer aiguise le fer.",
+      "reference": "Proverbes 27:17",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Entraide",
+        "description": "Le fer aiguise le fer.",
+        "mots_cles": [
+          "entraide"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Le fer aiguise le fer.",
+        "mots_cles": [
+          "entraide"
+        ]
+      }
+    },
+    {
+      "id": "bible_013",
+      "tradition": "Sagesse — Bible",
+      "titre": "Proverbes 4:23",
+      "symbole": "✧",
+      "theme": "Protection",
+      "enseignement": "Garde ton cœur plus que toute autre chose.",
+      "reference": "Proverbes 4:23",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Protection",
+        "description": "Garde ton cœur plus que toute autre chose.",
+        "mots_cles": [
+          "protection"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Garde ton cœur plus que toute autre chose.",
+        "mots_cles": [
+          "protection"
+        ]
+      }
+    },
+    {
+      "id": "bible_014",
+      "tradition": "Sagesse — Bible",
+      "titre": "Proverbes 11:25",
+      "symbole": "✧",
+      "theme": "Partage",
+      "enseignement": "La générosité enrichit celui qui la pratique.",
+      "reference": "Proverbes 11:25",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Partage",
+        "description": "La générosité enrichit celui qui la pratique.",
+        "mots_cles": [
+          "partage"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "La générosité enrichit celui qui la pratique.",
+        "mots_cles": [
+          "partage"
+        ]
+      }
+    },
+    {
+      "id": "bible_015",
+      "tradition": "Sagesse — Bible",
+      "titre": "Proverbes 15:22",
+      "symbole": "✧",
+      "theme": "Préparation",
+      "enseignement": "Les projets échouent faute de délibération.",
+      "reference": "Proverbes 15:22",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Préparation",
+        "description": "Les projets échouent faute de délibération.",
+        "mots_cles": [
+          "préparation"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Les projets échouent faute de délibération.",
+        "mots_cles": [
+          "préparation"
+        ]
+      }
+    },
+    {
+      "id": "bible_016",
+      "tradition": "Sagesse — Bible",
+      "titre": "Proverbes 16:18",
+      "symbole": "✧",
+      "theme": "Vigilance",
+      "enseignement": "L'orgueil précède la chute.",
+      "reference": "Proverbes 16:18",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Vigilance",
+        "description": "L'orgueil précède la chute.",
+        "mots_cles": [
+          "vigilance"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "L'orgueil précède la chute.",
+        "mots_cles": [
+          "vigilance"
+        ]
+      }
+    },
+    {
+      "id": "bible_017",
+      "tradition": "Sagesse — Bible",
+      "titre": "Proverbes 17:17",
+      "symbole": "✧",
+      "theme": "Fidélité",
+      "enseignement": "Un ami aime en tout temps.",
+      "reference": "Proverbes 17:17",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Fidélité",
+        "description": "Un ami aime en tout temps.",
+        "mots_cles": [
+          "fidélité"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Un ami aime en tout temps.",
+        "mots_cles": [
+          "fidélité"
+        ]
+      }
+    },
+    {
+      "id": "bible_018",
+      "tradition": "Sagesse — Bible",
+      "titre": "Proverbes 16:32",
+      "symbole": "✧",
+      "theme": "Maîtrise de soi",
+      "enseignement": "Il vaut mieux maîtriser sa colère que conquérir une ville.",
+      "reference": "Proverbes 16:32",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Maîtrise de soi",
+        "description": "Il vaut mieux maîtriser sa colère que conquérir une ville.",
+        "mots_cles": [
+          "maîtrise de soi"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Il vaut mieux maîtriser sa colère que conquérir une ville.",
+        "mots_cles": [
+          "maîtrise de soi"
+        ]
+      }
+    },
+    {
+      "id": "bible_019",
+      "tradition": "Sagesse — Bible",
+      "titre": "Proverbes 13:20",
+      "symbole": "✧",
+      "theme": "Entourage",
+      "enseignement": "Celui qui marche avec les sages devient sage.",
+      "reference": "Proverbes 13:20",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Entourage",
+        "description": "Celui qui marche avec les sages devient sage.",
+        "mots_cles": [
+          "entourage"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Celui qui marche avec les sages devient sage.",
+        "mots_cles": [
+          "entourage"
+        ]
+      }
+    },
+    {
+      "id": "bible_020",
+      "tradition": "Sagesse — Bible",
+      "titre": "Proverbes 16:9",
+      "symbole": "✧",
+      "theme": "Destin",
+      "enseignement": "Le cœur de l'homme médite sa voie.",
+      "reference": "Proverbes 16:9",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Destin",
+        "description": "Le cœur de l'homme médite sa voie.",
+        "mots_cles": [
+          "destin"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Le cœur de l'homme médite sa voie.",
+        "mots_cles": [
+          "destin"
+        ]
+      }
+    },
+    {
+      "id": "bible_021",
+      "tradition": "Sagesse — Bible",
+      "titre": "Osée 8:7",
+      "symbole": "✧",
+      "theme": "Conséquences",
+      "enseignement": "Qui sème le vent récolte la tempête.",
+      "reference": "Osée 8:7",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Conséquences",
+        "description": "Qui sème le vent récolte la tempête.",
+        "mots_cles": [
+          "conséquences"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Qui sème le vent récolte la tempête.",
+        "mots_cles": [
+          "conséquences"
+        ]
+      }
+    },
+    {
+      "id": "bible_022",
+      "tradition": "Sagesse — Bible",
+      "titre": "Psaume 126:5",
+      "symbole": "✧",
+      "theme": "Espérance",
+      "enseignement": "Les larmes d'aujourd'hui peuvent devenir les joies de demain.",
+      "reference": "Psaume 126:5",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Espérance",
+        "description": "Les larmes d'aujourd'hui peuvent devenir les joies de demain.",
+        "mots_cles": [
+          "espérance"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Les larmes d'aujourd'hui peuvent devenir les joies de demain.",
+        "mots_cles": [
+          "espérance"
+        ]
+      }
+    },
+    {
+      "id": "bible_023",
+      "tradition": "Sagesse — Bible",
+      "titre": "Proverbes 17:28",
+      "symbole": "✧",
+      "theme": "Silence",
+      "enseignement": "Le silence peut être une forme de sagesse.",
+      "reference": "Proverbes 17:28",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Silence",
+        "description": "Le silence peut être une forme de sagesse.",
+        "mots_cles": [
+          "silence"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Le silence peut être une forme de sagesse.",
+        "mots_cles": [
+          "silence"
+        ]
+      }
+    },
+    {
+      "id": "bible_024",
+      "tradition": "Sagesse — Bible",
+      "titre": "Ecclésiaste 7:14",
+      "symbole": "✧",
+      "theme": "Acceptation",
+      "enseignement": "Le bonheur et le malheur invitent chacun à une réflexion différente.",
+      "reference": "Ecclésiaste 7:14",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Acceptation",
+        "description": "Le bonheur et le malheur invitent chacun à une réflexion différente.",
+        "mots_cles": [
+          "acceptation"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Le bonheur et le malheur invitent chacun à une réflexion différente.",
+        "mots_cles": [
+          "acceptation"
+        ]
+      }
+    },
+    {
+      "id": "bible_025",
+      "tradition": "Sagesse — Bible",
+      "titre": "Matthieu 7:8",
+      "symbole": "✧",
+      "theme": "Recherche",
+      "enseignement": "Qui cherche trouve.",
+      "reference": "Matthieu 7:8",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Recherche",
+        "description": "Qui cherche trouve.",
+        "mots_cles": [
+          "recherche"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Qui cherche trouve.",
+        "mots_cles": [
+          "recherche"
+        ]
+      }
+    },
+    {
+      "id": "bible_026",
+      "tradition": "Sagesse — Bible",
+      "titre": "Matthieu 7:7",
+      "symbole": "✧",
+      "theme": "Initiative",
+      "enseignement": "Demandez, et l'on vous donnera.",
+      "reference": "Matthieu 7:7",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Initiative",
+        "description": "Demandez, et l'on vous donnera.",
+        "mots_cles": [
+          "initiative"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Demandez, et l'on vous donnera.",
+        "mots_cles": [
+          "initiative"
+        ]
+      }
+    },
+    {
+      "id": "bible_027",
+      "tradition": "Sagesse — Bible",
+      "titre": "Matthieu 20:16",
+      "symbole": "✧",
+      "theme": "Renversement",
+      "enseignement": "Les derniers seront les premiers.",
+      "reference": "Matthieu 20:16",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Renversement",
+        "description": "Les derniers seront les premiers.",
+        "mots_cles": [
+          "renversement"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Les derniers seront les premiers.",
+        "mots_cles": [
+          "renversement"
+        ]
+      }
+    },
+    {
+      "id": "bible_028",
+      "tradition": "Sagesse — Bible",
+      "titre": "Matthieu 6:24",
+      "symbole": "✧",
+      "theme": "Choix",
+      "enseignement": "Nul ne peut servir deux maîtres.",
+      "reference": "Matthieu 6:24",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Choix",
+        "description": "Nul ne peut servir deux maîtres.",
+        "mots_cles": [
+          "choix"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Nul ne peut servir deux maîtres.",
+        "mots_cles": [
+          "choix"
+        ]
+      }
+    },
+    {
+      "id": "bible_029",
+      "tradition": "Sagesse — Bible",
+      "titre": "Matthieu 6:34",
+      "symbole": "✧",
+      "theme": "Présent",
+      "enseignement": "À chaque jour suffit sa peine.",
+      "reference": "Matthieu 6:34",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Présent",
+        "description": "À chaque jour suffit sa peine.",
+        "mots_cles": [
+          "présent"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "À chaque jour suffit sa peine.",
+        "mots_cles": [
+          "présent"
+        ]
+      }
+    },
+    {
+      "id": "bible_030",
+      "tradition": "Sagesse — Bible",
+      "titre": "Matthieu 12:33",
+      "symbole": "✧",
+      "theme": "Conséquences",
+      "enseignement": "On reconnaît l'arbre à ses fruits.",
+      "reference": "Matthieu 12:33",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Conséquences",
+        "description": "On reconnaît l'arbre à ses fruits.",
+        "mots_cles": [
+          "conséquences"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "On reconnaît l'arbre à ses fruits.",
+        "mots_cles": [
+          "conséquences"
+        ]
+      }
+    },
+    {
+      "id": "bible_031",
+      "tradition": "Sagesse — Bible",
+      "titre": "Matthieu 6:21",
+      "symbole": "✧",
+      "theme": "Priorités",
+      "enseignement": "Là où est ton trésor, là aussi sera ton cœur.",
+      "reference": "Matthieu 6:21",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Priorités",
+        "description": "Là où est ton trésor, là aussi sera ton cœur.",
+        "mots_cles": [
+          "priorités"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Là où est ton trésor, là aussi sera ton cœur.",
+        "mots_cles": [
+          "priorités"
+        ]
+      }
+    },
+    {
+      "id": "bible_032",
+      "tradition": "Sagesse — Bible",
+      "titre": "Matthieu 7:1",
+      "symbole": "✧",
+      "theme": "Tolérance",
+      "enseignement": "Ne jugez point, afin que vous ne soyez point jugés.",
+      "reference": "Matthieu 7:1",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Tolérance",
+        "description": "Ne jugez point, afin que vous ne soyez point jugés.",
+        "mots_cles": [
+          "tolérance"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Ne jugez point, afin que vous ne soyez point jugés.",
+        "mots_cles": [
+          "tolérance"
+        ]
+      }
+    },
+    {
+      "id": "bible_033",
+      "tradition": "Sagesse — Bible",
+      "titre": "Jean 8:7",
+      "symbole": "✧",
+      "theme": "Pardon",
+      "enseignement": "Que celui qui est sans péché jette la première pierre.",
+      "reference": "Jean 8:7",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Pardon",
+        "description": "Que celui qui est sans péché jette la première pierre.",
+        "mots_cles": [
+          "pardon"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Que celui qui est sans péché jette la première pierre.",
+        "mots_cles": [
+          "pardon"
+        ]
+      }
+    },
+    {
+      "id": "bible_034",
+      "tradition": "Sagesse — Bible",
+      "titre": "Jean 8:32",
+      "symbole": "✧",
+      "theme": "Liberté",
+      "enseignement": "La vérité vous affranchira.",
+      "reference": "Jean 8:32",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Liberté",
+        "description": "La vérité vous affranchira.",
+        "mots_cles": [
+          "liberté"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "La vérité vous affranchira.",
+        "mots_cles": [
+          "liberté"
+        ]
+      }
+    },
+    {
+      "id": "bible_035",
+      "tradition": "Sagesse — Bible",
+      "titre": "Matthieu 26:41",
+      "symbole": "✧",
+      "theme": "Volonté",
+      "enseignement": "La chair est faible, mais l'esprit est bien disposé.",
+      "reference": "Matthieu 26:41",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Volonté",
+        "description": "La chair est faible, mais l'esprit est bien disposé.",
+        "mots_cles": [
+          "volonté"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "La chair est faible, mais l'esprit est bien disposé.",
+        "mots_cles": [
+          "volonté"
+        ]
+      }
+    },
+    {
+      "id": "bible_036",
+      "tradition": "Sagesse — Bible",
+      "titre": "Matthieu 22:39",
+      "symbole": "✧",
+      "theme": "Amour",
+      "enseignement": "Aime ton prochain comme toi-même.",
+      "reference": "Matthieu 22:39",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Amour",
+        "description": "Aime ton prochain comme toi-même.",
+        "mots_cles": [
+          "amour"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Aime ton prochain comme toi-même.",
+        "mots_cles": [
+          "amour"
+        ]
+      }
+    },
+    {
+      "id": "bible_037",
+      "tradition": "Sagesse — Bible",
+      "titre": "Actes 20:35",
+      "symbole": "✧",
+      "theme": "Générosité",
+      "enseignement": "Il y a plus de bonheur à donner qu'à recevoir.",
+      "reference": "Actes 20:35",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Générosité",
+        "description": "Il y a plus de bonheur à donner qu'à recevoir.",
+        "mots_cles": [
+          "générosité"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Il y a plus de bonheur à donner qu'à recevoir.",
+        "mots_cles": [
+          "générosité"
+        ]
+      }
+    },
+    {
+      "id": "bible_038",
+      "tradition": "Sagesse — Bible",
+      "titre": "Galates 6:7",
+      "symbole": "✧",
+      "theme": "Responsabilité",
+      "enseignement": "Tout ce qu'un homme aura semé, il le moissonnera aussi.",
+      "reference": "Galates 6:7",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Responsabilité",
+        "description": "Tout ce qu'un homme aura semé, il le moissonnera aussi.",
+        "mots_cles": [
+          "responsabilité"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Tout ce qu'un homme aura semé, il le moissonnera aussi.",
+        "mots_cles": [
+          "responsabilité"
+        ]
+      }
+    },
+    {
+      "id": "bible_039",
+      "tradition": "Sagesse — Bible",
+      "titre": "1 Thessaloniciens 5:21",
+      "symbole": "✧",
+      "theme": "Discernement",
+      "enseignement": "Examinez toutes choses ; retenez ce qui est bon.",
+      "reference": "1 Thessaloniciens 5:21",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Discernement",
+        "description": "Examinez toutes choses ; retenez ce qui est bon.",
+        "mots_cles": [
+          "discernement"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Examinez toutes choses ; retenez ce qui est bon.",
+        "mots_cles": [
+          "discernement"
+        ]
+      }
+    },
+    {
+      "id": "bible_040",
+      "tradition": "Sagesse — Bible",
+      "titre": "Romains 12:21",
+      "symbole": "✧",
+      "theme": "Courage",
+      "enseignement": "Ne te laisse pas vaincre par le mal.",
+      "reference": "Romains 12:21",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Courage",
+        "description": "Ne te laisse pas vaincre par le mal.",
+        "mots_cles": [
+          "courage"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Ne te laisse pas vaincre par le mal.",
+        "mots_cles": [
+          "courage"
+        ]
+      }
+    },
+    {
+      "id": "bible_041",
+      "tradition": "Sagesse — Bible",
+      "titre": "1 Corinthiens 13:4",
+      "symbole": "✧",
+      "theme": "Bienveillance",
+      "enseignement": "L'amour est patient, l'amour est plein de bonté.",
+      "reference": "1 Corinthiens 13:4",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Bienveillance",
+        "description": "L'amour est patient, l'amour est plein de bonté.",
+        "mots_cles": [
+          "bienveillance"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "L'amour est patient, l'amour est plein de bonté.",
+        "mots_cles": [
+          "bienveillance"
+        ]
+      }
+    },
+    {
+      "id": "bible_042",
+      "tradition": "Sagesse — Bible",
+      "titre": "2 Corinthiens 3:6",
+      "symbole": "✧",
+      "theme": "Compréhension",
+      "enseignement": "La lettre tue, mais l'esprit vivifie.",
+      "reference": "2 Corinthiens 3:6",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Compréhension",
+        "description": "La lettre tue, mais l'esprit vivifie.",
+        "mots_cles": [
+          "compréhension"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "La lettre tue, mais l'esprit vivifie.",
+        "mots_cles": [
+          "compréhension"
+        ]
+      }
+    },
+    {
+      "id": "bible_043",
+      "tradition": "Sagesse — Bible",
+      "titre": "Matthieu 5:37",
+      "symbole": "✧",
+      "theme": "Intégrité",
+      "enseignement": "Que votre oui soit oui, et votre non soit non.",
+      "reference": "Matthieu 5:37",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Intégrité",
+        "description": "Que votre oui soit oui, et votre non soit non.",
+        "mots_cles": [
+          "intégrité"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Que votre oui soit oui, et votre non soit non.",
+        "mots_cles": [
+          "intégrité"
+        ]
+      }
+    },
+    {
+      "id": "bible_044",
+      "tradition": "Sagesse — Bible",
+      "titre": "Luc 9:25",
+      "symbole": "✧",
+      "theme": "Identité",
+      "enseignement": "À quoi bon gagner le monde entier si l'on se perd soi-même ?",
+      "reference": "Luc 9:25",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Identité",
+        "description": "À quoi bon gagner le monde entier si l'on se perd soi-même ?",
+        "mots_cles": [
+          "identité"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "À quoi bon gagner le monde entier si l'on se perd soi-même ?",
+        "mots_cles": [
+          "identité"
+        ]
+      }
+    },
+    {
+      "id": "bible_045",
+      "tradition": "Sagesse — Bible",
+      "titre": "Jacques 1:19",
+      "symbole": "✧",
+      "theme": "Écoute",
+      "enseignement": "Sois prompt à écouter et lent à parler.",
+      "reference": "Jacques 1:19",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Écoute",
+        "description": "Sois prompt à écouter et lent à parler.",
+        "mots_cles": [
+          "écoute"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Sois prompt à écouter et lent à parler.",
+        "mots_cles": [
+          "écoute"
+        ]
+      }
+    },
+    {
+      "id": "bible_046",
+      "tradition": "Sagesse — Bible",
+      "titre": "Jacques 2:26",
+      "symbole": "✧",
+      "theme": "Action",
+      "enseignement": "La foi sans les œuvres est morte.",
+      "reference": "Jacques 2:26",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Action",
+        "description": "La foi sans les œuvres est morte.",
+        "mots_cles": [
+          "action"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "La foi sans les œuvres est morte.",
+        "mots_cles": [
+          "action"
+        ]
+      }
+    },
+    {
+      "id": "bible_047",
+      "tradition": "Sagesse — Bible",
+      "titre": "1 Jean 4:18",
+      "symbole": "✧",
+      "theme": "Confiance",
+      "enseignement": "L'amour parfait bannit la crainte.",
+      "reference": "1 Jean 4:18",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Confiance",
+        "description": "L'amour parfait bannit la crainte.",
+        "mots_cles": [
+          "confiance"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "L'amour parfait bannit la crainte.",
+        "mots_cles": [
+          "confiance"
+        ]
+      }
+    },
+    {
+      "id": "bible_048",
+      "tradition": "Sagesse — Bible",
+      "titre": "Matthieu 18:22",
+      "symbole": "✧",
+      "theme": "Pardon",
+      "enseignement": "Pardonne non pas sept fois, mais soixante-dix fois sept fois.",
+      "reference": "Matthieu 18:22",
+      "source": "Bible",
+      "type": "extrait_ou_reformulation_editoriale",
+      "verification": "Référence reprise de la sélection précédente, non vérifiée individuellement",
+      "positive": {
+        "famille": "Pardon",
+        "description": "Pardonne non pas sept fois, mais soixante-dix fois sept fois.",
+        "mots_cles": [
+          "pardon"
+        ]
+      },
+      "negative": {
+        "famille": "Point de vigilance",
+        "description": "Pardonne non pas sept fois, mais soixante-dix fois sept fois.",
+        "mots_cles": [
+          "pardon"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,509 @@
+{
+  "version": "1.5",
+  "tradition": "Astrologie",
+  "references": [
+    {
+      "tradition": "Astrologie",
+      "nombre_symboles": 12,
+      "source": "astrologie-v03.json"
+    }
+  ],
+  "symboles": [
+    {
+      "tradition": "Astrologie",
+      "id": "Astrologie:1",
+      "titre": "Bélier",
+      "symbole": "♈",
+      "theme": "L’action",
+      "positive": {
+        "famille": "Initiative",
+        "description": "Le courage ne consiste pas à ignorer ses peurs, mais à avancer malgré elles. Chaque initiative ouvre la possibilité d’un nouveau chemin.",
+        "mots_cles": [
+          "courage",
+          "audace",
+          "action",
+          "volonté",
+          "commencement",
+          "conquête"
+        ]
+      },
+      "negative": {
+        "famille": "Impulsivité",
+        "description": "L’action perd sa force lorsqu’elle devance la réflexion. Apprends à distinguer l’élan du courage de la précipitation de la colère.",
+        "mots_cles": [
+          "colère",
+          "précipitation",
+          "violence",
+          "impatience",
+          "conflit"
+        ]
+      },
+      "signe": "Bélier",
+      "signification_fondamentale": "L’action",
+      "element": "Feu",
+      "modalite": "Cardinale",
+      "id_source": 1,
+      "image": {
+        "fichier": "images/astrologie/01.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Bélier"
+      }
+    },
+    {
+      "tradition": "Astrologie",
+      "id": "Astrologie:2",
+      "titre": "Taureau",
+      "symbole": "♉",
+      "theme": "La stabilité",
+      "positive": {
+        "famille": "Enracinement",
+        "description": "Ce qui dure se construit avec patience et constance. Apprends à apprécier les choses simples sans oublier la valeur des liens qui t’enracinent.",
+        "mots_cles": [
+          "patience",
+          "fidélité",
+          "sécurité",
+          "constance",
+          "abondance",
+          "plaisir"
+        ]
+      },
+      "negative": {
+        "famille": "Attachement",
+        "description": "La stabilité devient une prison lorsque la peur de perdre ce que tu possèdes t’empêche d’accueillir le changement.",
+        "mots_cles": [
+          "entêtement",
+          "inertie",
+          "possession",
+          "avidité",
+          "matérialisme"
+        ]
+      },
+      "signe": "Taureau",
+      "signification_fondamentale": "La stabilité",
+      "element": "Terre",
+      "modalite": "Fixe",
+      "id_source": 2,
+      "image": {
+        "fichier": "images/astrologie/02.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Taureau"
+      }
+    },
+    {
+      "tradition": "Astrologie",
+      "id": "Astrologie:3",
+      "titre": "Gémeaux",
+      "symbole": "♊",
+      "theme": "La communication",
+      "positive": {
+        "famille": "Communication",
+        "description": "Chaque échange est une occasion d’élargir ta compréhension du monde. La curiosité nourrit l’esprit lorsqu’elle s’accompagne d’une véritable écoute.",
+        "mots_cles": [
+          "curiosité",
+          "échange",
+          "intelligence",
+          "apprentissage",
+          "souplesse"
+        ]
+      },
+      "negative": {
+        "famille": "Dispersion",
+        "description": "À vouloir explorer toutes les directions, tu risques de ne jamais approfondir ce qui compte. La liberté de l’esprit n’exclut pas la fidélité à ses engagements.",
+        "mots_cles": [
+          "distraction",
+          "superficialité",
+          "instabilité",
+          "bavardage",
+          "inconstance"
+        ]
+      },
+      "signe": "Gémeaux",
+      "signification_fondamentale": "La communication",
+      "element": "Air",
+      "modalite": "Mutable",
+      "id_source": 3,
+      "image": {
+        "fichier": "images/astrologie/03.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Gémeaux"
+      }
+    },
+    {
+      "tradition": "Astrologie",
+      "id": "Astrologie:4",
+      "titre": "Cancer",
+      "symbole": "♋",
+      "theme": "La sensibilité",
+      "positive": {
+        "famille": "Protection",
+        "description": "Accueillir tes émotions avec bienveillance te permet de construire une sécurité intérieure et d’offrir aux autres une présence attentive.",
+        "mots_cles": [
+          "famille",
+          "tendresse",
+          "mémoire",
+          "refuge",
+          "empathie",
+          "sensibilité"
+        ]
+      },
+      "negative": {
+        "famille": "Repli",
+        "description": "Le passé peut être un refuge, mais il ne doit pas devenir une demeure dont tu ne peux plus sortir. Apprends à te protéger sans te fermer au présent.",
+        "mots_cles": [
+          "nostalgie",
+          "susceptibilité",
+          "dépendance",
+          "insécurité",
+          "peur"
+        ]
+      },
+      "signe": "Cancer",
+      "signification_fondamentale": "La sensibilité",
+      "element": "Eau",
+      "modalite": "Cardinale",
+      "id_source": 4,
+      "image": {
+        "fichier": "images/astrologie/04.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Cancer"
+      }
+    },
+    {
+      "tradition": "Astrologie",
+      "id": "Astrologie:5",
+      "titre": "Lion",
+      "symbole": "♌",
+      "theme": "Le rayonnement",
+      "positive": {
+        "famille": "Rayonnement",
+        "description": "Rayonner, ce n’est pas éclipser les autres, mais exprimer pleinement ta singularité et partager généreusement ce que tu portes en toi.",
+        "mots_cles": [
+          "créativité",
+          "générosité",
+          "confiance",
+          "dignité",
+          "leadership"
+        ]
+      },
+      "negative": {
+        "famille": "Vanité",
+        "description": "Lorsque ta valeur dépend de l’admiration des autres, tu risques de perdre de vue qui tu es. La dignité n’a pas besoin d’être constamment applaudie.",
+        "mots_cles": [
+          "orgueil",
+          "arrogance",
+          "narcissisme",
+          "domination",
+          "admiration"
+        ]
+      },
+      "signe": "Lion",
+      "signification_fondamentale": "Le rayonnement",
+      "element": "Feu",
+      "modalite": "Fixe",
+      "id_source": 5,
+      "image": {
+        "fichier": "images/astrologie/05.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Lion"
+      }
+    },
+    {
+      "tradition": "Astrologie",
+      "id": "Astrologie:6",
+      "titre": "Vierge",
+      "symbole": "♍",
+      "theme": "Le discernement",
+      "positive": {
+        "famille": "Discernement",
+        "description": "Le discernement naît de l’attention portée aux petites choses. Cherche à améliorer ce qui peut l’être avec méthode et humilité, au service de ce qui a du sens.",
+        "mots_cles": [
+          "méthode",
+          "précision",
+          "humilité",
+          "service",
+          "analyse",
+          "amélioration"
+        ]
+      },
+      "negative": {
+        "famille": "Perfectionnisme",
+        "description": "À rechercher sans cesse la perfection, tu risques de ne plus reconnaître la valeur de ce qui existe. La sagesse consiste aussi à accepter l’imperfection.",
+        "mots_cles": [
+          "critique",
+          "anxiété",
+          "doute",
+          "obsession",
+          "culpabilité"
+        ]
+      },
+      "signe": "Vierge",
+      "signification_fondamentale": "Le discernement",
+      "element": "Terre",
+      "modalite": "Mutable",
+      "id_source": 6,
+      "image": {
+        "fichier": "images/astrologie/06.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Vierge"
+      }
+    },
+    {
+      "tradition": "Astrologie",
+      "id": "Astrologie:7",
+      "titre": "Balance",
+      "symbole": "♎",
+      "theme": "L’équilibre",
+      "positive": {
+        "famille": "Harmonie",
+        "description": "L’harmonie se construit dans la reconnaissance mutuelle. Cherche un équilibre qui respecte autant tes besoins que ceux des autres.",
+        "mots_cles": [
+          "justice",
+          "équilibre",
+          "diplomatie",
+          "beauté",
+          "réciprocité"
+        ]
+      },
+      "negative": {
+        "famille": "Indécision",
+        "description": "À vouloir éviter tout désaccord, tu risques de renoncer à tes propres convictions. Un équilibre véritable exige parfois le courage de choisir.",
+        "mots_cles": [
+          "hésitation",
+          "compromis excessif",
+          "apparence",
+          "dépendance"
+        ]
+      },
+      "signe": "Balance",
+      "signification_fondamentale": "L’équilibre",
+      "element": "Air",
+      "modalite": "Cardinale",
+      "id_source": 7,
+      "image": {
+        "fichier": "images/astrologie/07.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Balance"
+      }
+    },
+    {
+      "tradition": "Astrologie",
+      "id": "Astrologie:8",
+      "titre": "Scorpion",
+      "symbole": "♏",
+      "theme": "La transformation",
+      "positive": {
+        "famille": "Transformation",
+        "description": "Traverser une épreuve peut t’aider à mieux te connaître. En acceptant de laisser derrière toi ce qui n’a plus lieu d’être, tu ouvres la voie à une transformation profonde.",
+        "mots_cles": [
+          "renaissance",
+          "résilience",
+          "profondeur",
+          "vérité",
+          "régénération"
+        ]
+      },
+      "negative": {
+        "famille": "Obsession",
+        "description": "Le désir de tout contrôler et le ressentiment peuvent te maintenir prisonnier de ce qui t’a blessé. Renoncer à la vengeance, c’est retrouver une part de ta liberté.",
+        "mots_cles": [
+          "jalousie",
+          "vengeance",
+          "manipulation",
+          "secret",
+          "ressentiment"
+        ]
+      },
+      "signe": "Scorpion",
+      "signification_fondamentale": "La transformation",
+      "element": "Eau",
+      "modalite": "Fixe",
+      "id_source": 8,
+      "image": {
+        "fichier": "images/astrologie/08.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Scorpion"
+      }
+    },
+    {
+      "tradition": "Astrologie",
+      "id": "Astrologie:9",
+      "titre": "Sagittaire",
+      "symbole": "♐",
+      "theme": "L’expansion",
+      "positive": {
+        "famille": "Exploration",
+        "description": "La découverte du monde commence lorsque tu acceptes de dépasser les frontières de tes certitudes. La connaissance prend tout son sens lorsqu’elle se partage.",
+        "mots_cles": [
+          "voyage",
+          "liberté",
+          "sagesse",
+          "optimisme",
+          "découverte",
+          "connaissance"
+        ]
+      },
+      "negative": {
+        "famille": "Excès",
+        "description": "La quête de liberté perd son sens lorsqu’elle devient une fuite devant les responsabilités. Garde l’esprit ouvert sans imposer tes convictions aux autres.",
+        "mots_cles": [
+          "imprudence",
+          "fanatisme",
+          "arrogance",
+          "fuite",
+          "démesure"
+        ]
+      },
+      "signe": "Sagittaire",
+      "signification_fondamentale": "L’expansion",
+      "element": "Feu",
+      "modalite": "Mutable",
+      "id_source": 9,
+      "image": {
+        "fichier": "images/astrologie/09.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Sagittaire"
+      }
+    },
+    {
+      "tradition": "Astrologie",
+      "id": "Astrologie:10",
+      "titre": "Capricorne",
+      "symbole": "♑",
+      "theme": "L’accomplissement",
+      "positive": {
+        "famille": "Accomplissement",
+        "description": "Les accomplissements durables naissent de la patience, de la discipline et des efforts quotidiens. Avance avec ambition sans oublier la responsabilité qui accompagne tes choix.",
+        "mots_cles": [
+          "discipline",
+          "effort",
+          "patience",
+          "responsabilité",
+          "ambition"
+        ]
+      },
+      "negative": {
+        "famille": "Rigidité",
+        "description": "La réussite perd de sa valeur lorsqu’elle exige de sacrifier tes émotions et tes liens humains. Ne laisse pas l’ambition transformer la discipline en rigidité.",
+        "mots_cles": [
+          "froideur",
+          "austérité",
+          "pessimisme",
+          "contrôle",
+          "ambition démesurée"
+        ]
+      },
+      "signe": "Capricorne",
+      "signification_fondamentale": "L’accomplissement",
+      "element": "Terre",
+      "modalite": "Cardinale",
+      "id_source": 10,
+      "image": {
+        "fichier": "images/astrologie/10.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Capricorne"
+      }
+    },
+    {
+      "tradition": "Astrologie",
+      "id": "Astrologie:11",
+      "titre": "Verseau",
+      "symbole": "♒",
+      "theme": "L’innovation",
+      "positive": {
+        "famille": "Émancipation",
+        "description": "Oser penser autrement ouvre de nouvelles possibilités. Ton indépendance prend une dimension plus profonde lorsqu’elle contribue aussi à la liberté des autres.",
+        "mots_cles": [
+          "innovation",
+          "indépendance",
+          "fraternité",
+          "invention",
+          "progrès"
+        ]
+      },
+      "negative": {
+        "famille": "Rupture",
+        "description": "S’opposer à tout ne suffit pas à devenir libre. Apprends à préserver ton indépendance sans rompre les liens qui donnent du sens à la vie collective.",
+        "mots_cles": [
+          "rébellion",
+          "marginalité",
+          "détachement",
+          "provocation",
+          "isolement"
+        ]
+      },
+      "signe": "Verseau",
+      "signification_fondamentale": "L’innovation",
+      "element": "Air",
+      "modalite": "Fixe",
+      "id_source": 11,
+      "image": {
+        "fichier": "images/astrologie/11.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Verseau"
+      }
+    },
+    {
+      "tradition": "Astrologie",
+      "id": "Astrologie:12",
+      "titre": "Poissons",
+      "symbole": "♓",
+      "theme": "La transcendance",
+      "positive": {
+        "famille": "Transcendance",
+        "description": "L’imagination et la compassion permettent de regarder au-delà de ses seuls intérêts. Accueille ce que tu ne comprends pas encore avec sensibilité et ouverture.",
+        "mots_cles": [
+          "intuition",
+          "imagination",
+          "compassion",
+          "rêve",
+          "spiritualité"
+        ]
+      },
+      "negative": {
+        "famille": "Illusion",
+        "description": "Le rêve devient une illusion lorsqu’il te détourne de la réalité. Tu peux accueillir le mystère sans perdre tes repères ni renoncer à tes propres limites.",
+        "mots_cles": [
+          "confusion",
+          "fuite",
+          "naïveté",
+          "désillusion",
+          "sacrifice"
+        ]
+      },
+      "signe": "Poissons",
+      "signification_fondamentale": "La transcendance",
+      "element": "Eau",
+      "modalite": "Mutable",
+      "id_source": 12,
+      "image": {
+        "fichier": "images/astrologie/12.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Poissons"
+      }
+    }
+  ]
+}

@@ -1,0 +1,513 @@
+{
+  "version": "1.5",
+  "tradition": "Tonalpohualli",
+  "references": [
+    {
+      "tradition": "Tonalpohualli",
+      "nombre_symboles": 20,
+      "source": "Nomenclature traditionnelle ; interprétations éditoriales, vérification documentaire à compléter"
+    }
+  ],
+  "symboles": [
+    {
+      "tradition": "Tonalpohualli",
+      "id": "Tonalpohualli:cipactli",
+      "titre": "Cipactli",
+      "symbole": "Cipactli",
+      "theme": "Crocodile",
+      "signification_fondamentale": "Crocodile",
+      "positive": {
+        "famille": "Création",
+        "description": "Créer, c’est donner une forme nouvelle à ce qui existe encore à l’état de possibilité, sans craindre de partir de l’inconnu.",
+        "mots_cles": [
+          "création",
+          "crocodile"
+        ]
+      },
+      "negative": {
+        "famille": "Avidité",
+        "description": "L’avidité dévore jusqu’aux fruits de la création lorsqu’elle ne laisse aucune place à la satisfaction.",
+        "mots_cles": [
+          "avidité",
+          "crocodile"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tonalpohualli",
+      "id": "Tonalpohualli:ehecatl",
+      "titre": "Ehecatl",
+      "symbole": "Ehecatl",
+      "theme": "Vent",
+      "signification_fondamentale": "Vent",
+      "positive": {
+        "famille": "Liberté",
+        "description": "Comme le vent qui traverse les frontières, la liberté de l’esprit naît de sa capacité à dépasser les limites de ses certitudes.",
+        "mots_cles": [
+          "liberté",
+          "vent"
+        ]
+      },
+      "negative": {
+        "famille": "Instabilité",
+        "description": "À changer de direction au moindre souffle, tu risques de confondre la liberté avec l’absence de repères.",
+        "mots_cles": [
+          "instabilité",
+          "vent"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tonalpohualli",
+      "id": "Tonalpohualli:calli",
+      "titre": "Calli",
+      "symbole": "Calli",
+      "theme": "Maison",
+      "signification_fondamentale": "Maison",
+      "positive": {
+        "famille": "Sécurité",
+        "description": "La véritable sécurité ressemble à une maison dont les fondations solides permettent de garder les portes ouvertes sur le monde.",
+        "mots_cles": [
+          "sécurité",
+          "maison"
+        ]
+      },
+      "negative": {
+        "famille": "Repli",
+        "description": "Un refuge devient une prison lorsque la peur de l’inconnu t’empêche d’en franchir le seuil.",
+        "mots_cles": [
+          "repli",
+          "maison"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tonalpohualli",
+      "id": "Tonalpohualli:cuetzpalin",
+      "titre": "Cuetzpalin",
+      "symbole": "Cuetzpalin",
+      "theme": "Lézard",
+      "signification_fondamentale": "Lézard",
+      "positive": {
+        "famille": "Adaptation",
+        "description": "À l’image du lézard qui s’ajuste à son environnement, apprends à modifier tes habitudes sans renoncer à ce qui te définit.",
+        "mots_cles": [
+          "adaptation",
+          "lézard"
+        ]
+      },
+      "negative": {
+        "famille": "Agitation",
+        "description": "Réagir sans cesse aux changements peut t’empêcher de comprendre lesquels méritent réellement ton attention.",
+        "mots_cles": [
+          "agitation",
+          "lézard"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tonalpohualli",
+      "id": "Tonalpohualli:coatl",
+      "titre": "Coatl",
+      "symbole": "Coatl",
+      "theme": "Serpent",
+      "signification_fondamentale": "Serpent",
+      "positive": {
+        "famille": "Régénération",
+        "description": "Comme le serpent abandonne son ancienne peau, tu peux te libérer des habitudes devenues trop étroites pour poursuivre ton évolution.",
+        "mots_cles": [
+          "régénération",
+          "serpent"
+        ]
+      },
+      "negative": {
+        "famille": "Tromperie",
+        "description": "Changer d’apparence sans transformer ses intentions ne fait que dissimuler ce qui demeure inchangé.",
+        "mots_cles": [
+          "tromperie",
+          "serpent"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tonalpohualli",
+      "id": "Tonalpohualli:miquiztli",
+      "titre": "Miquiztli",
+      "symbole": "Miquiztli",
+      "theme": "Mort symbolique",
+      "signification_fondamentale": "Mort symbolique",
+      "positive": {
+        "famille": "Transformation",
+        "description": "Accepter la fin d’une étape, c’est offrir à ce qui n’existe pas encore la possibilité de prendre naissance.",
+        "mots_cles": [
+          "transformation",
+          "mort symbolique"
+        ]
+      },
+      "negative": {
+        "famille": "Attachement",
+        "description": "L’attachement à ce qui appartient au passé peut empêcher le présent de devenir le commencement d’une autre histoire.",
+        "mots_cles": [
+          "attachement",
+          "mort symbolique"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tonalpohualli",
+      "id": "Tonalpohualli:mazatl",
+      "titre": "Mazatl",
+      "symbole": "Mazatl",
+      "theme": "Cerf",
+      "signification_fondamentale": "Cerf",
+      "positive": {
+        "famille": "Vigilance",
+        "description": "La vigilance du cerf rappelle que l’attention au monde permet d’avancer avec prudence sans renoncer à sa liberté.",
+        "mots_cles": [
+          "vigilance",
+          "cerf"
+        ]
+      },
+      "negative": {
+        "famille": "Timidité",
+        "description": "Lorsque la crainte de chaque bruit te retient, la prudence finit par t’interdire les chemins que tu pourrais emprunter.",
+        "mots_cles": [
+          "timidité",
+          "cerf"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tonalpohualli",
+      "id": "Tonalpohualli:tochtli",
+      "titre": "Tochtli",
+      "symbole": "Tochtli",
+      "theme": "Lapin",
+      "signification_fondamentale": "Lapin",
+      "positive": {
+        "famille": "Fécondité",
+        "description": "La fécondité de l’esprit se mesure moins au nombre de ses idées qu’à sa capacité à leur donner vie.",
+        "mots_cles": [
+          "fécondité",
+          "lapin"
+        ]
+      },
+      "negative": {
+        "famille": "Excès",
+        "description": "L’abondance perd son sens lorsque le désir de multiplier les plaisirs ou les projets ne laisse plus le temps de les apprécier.",
+        "mots_cles": [
+          "excès",
+          "lapin"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tonalpohualli",
+      "id": "Tonalpohualli:atl",
+      "titre": "Atl",
+      "symbole": "Atl",
+      "theme": "Eau",
+      "signification_fondamentale": "Eau",
+      "positive": {
+        "famille": "Fluidité",
+        "description": "Comme l’eau qui contourne les obstacles, la souplesse permet de poursuivre son chemin sans opposer une résistance à chaque difficulté.",
+        "mots_cles": [
+          "fluidité",
+          "eau"
+        ]
+      },
+      "negative": {
+        "famille": "Confusion",
+        "description": "À te laisser emporter par tous les courants, tu risques de ne plus distinguer tes aspirations de celles qui t’entourent.",
+        "mots_cles": [
+          "confusion",
+          "eau"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tonalpohualli",
+      "id": "Tonalpohualli:itzcuintli",
+      "titre": "Itzcuintli",
+      "symbole": "Itzcuintli",
+      "theme": "Chien",
+      "signification_fondamentale": "Chien",
+      "positive": {
+        "famille": "Loyauté",
+        "description": "La loyauté trouve sa noblesse dans un engagement librement renouvelé, et non dans une fidélité imposée par la peur.",
+        "mots_cles": [
+          "loyauté",
+          "chien"
+        ]
+      },
+      "negative": {
+        "famille": "Dépendance",
+        "description": "Être fidèle à quelqu’un ne devrait jamais exiger de renoncer à sa propre liberté de penser et d’agir.",
+        "mots_cles": [
+          "dépendance",
+          "chien"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tonalpohualli",
+      "id": "Tonalpohualli:ozomatli",
+      "titre": "Ozomatli",
+      "symbole": "Ozomatli",
+      "theme": "Singe",
+      "signification_fondamentale": "Singe",
+      "positive": {
+        "famille": "Créativité",
+        "description": "La créativité s’épanouit lorsque la curiosité et le jeu permettent d’imaginer des réponses nouvelles aux questions anciennes.",
+        "mots_cles": [
+          "créativité",
+          "singe"
+        ]
+      },
+      "negative": {
+        "famille": "Dispersion",
+        "description": "À poursuivre chaque idée nouvelle, tu risques de ne jamais donner à aucune le temps de devenir une œuvre.",
+        "mots_cles": [
+          "dispersion",
+          "singe"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tonalpohualli",
+      "id": "Tonalpohualli:malinalli",
+      "titre": "Malinalli",
+      "symbole": "Malinalli",
+      "theme": "Herbe",
+      "signification_fondamentale": "Herbe",
+      "positive": {
+        "famille": "Résilience",
+        "description": "Comme l’herbe qui repousse après avoir été couchée par le vent, la résilience consiste à retrouver un élan malgré les épreuves.",
+        "mots_cles": [
+          "résilience",
+          "herbe"
+        ]
+      },
+      "negative": {
+        "famille": "Enchevêtrement",
+        "description": "Lorsque les préoccupations s’entremêlent, vouloir tout résoudre à la fois peut resserrer les nœuds que tu cherches à défaire.",
+        "mots_cles": [
+          "enchevêtrement",
+          "herbe"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tonalpohualli",
+      "id": "Tonalpohualli:acatl",
+      "titre": "Acatl",
+      "symbole": "Acatl",
+      "theme": "Roseau",
+      "signification_fondamentale": "Roseau",
+      "positive": {
+        "famille": "Croissance",
+        "description": "Le roseau rappelle que grandir ne signifie pas seulement s’élever, mais aussi apprendre à plier sans perdre ses racines.",
+        "mots_cles": [
+          "croissance",
+          "roseau"
+        ]
+      },
+      "negative": {
+        "famille": "Rigidité",
+        "description": "La rigidité fragilise ce qu’elle prétend protéger lorsqu’elle refuse toute adaptation aux forces du changement.",
+        "mots_cles": [
+          "rigidité",
+          "roseau"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tonalpohualli",
+      "id": "Tonalpohualli:ocelotl",
+      "titre": "Ocelotl",
+      "symbole": "Ocelotl",
+      "theme": "Jaguar",
+      "signification_fondamentale": "Jaguar",
+      "positive": {
+        "famille": "Courage",
+        "description": "Le courage du jaguar évoque une force intérieure qui permet d’affronter ses peurs sans avoir à imposer sa puissance aux autres.",
+        "mots_cles": [
+          "courage",
+          "jaguar"
+        ]
+      },
+      "negative": {
+        "famille": "Domination",
+        "description": "La volonté de dominer révèle parfois une difficulté à accepter que les autres puissent exercer leur propre liberté.",
+        "mots_cles": [
+          "domination",
+          "jaguar"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tonalpohualli",
+      "id": "Tonalpohualli:cuauhtli",
+      "titre": "Cuauhtli",
+      "symbole": "Cuauhtli",
+      "theme": "Aigle",
+      "signification_fondamentale": "Aigle",
+      "positive": {
+        "famille": "Vision",
+        "description": "Comme l’aigle qui prend de la hauteur, tu peux mieux comprendre une difficulté en la replaçant dans un horizon plus vaste.",
+        "mots_cles": [
+          "vision",
+          "aigle"
+        ]
+      },
+      "negative": {
+        "famille": "Orgueil",
+        "description": "Prendre de la hauteur ne signifie pas se croire supérieur à ceux qui regardent le monde depuis un autre point de vue.",
+        "mots_cles": [
+          "orgueil",
+          "aigle"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tonalpohualli",
+      "id": "Tonalpohualli:cozcacuauhtli",
+      "titre": "Cozcacuauhtli",
+      "symbole": "Cozcacuauhtli",
+      "theme": "Vautour",
+      "signification_fondamentale": "Vautour",
+      "positive": {
+        "famille": "Renouvellement",
+        "description": "À l’image du vautour qui participe au renouvellement de la nature, tu peux tirer de ce qui s’achève une matière pour reconstruire.",
+        "mots_cles": [
+          "renouvellement",
+          "vautour"
+        ]
+      },
+      "negative": {
+        "famille": "Opportunisme",
+        "description": "Saisir une occasion devient opportunisme lorsque ton intérêt te rend indifférent aux difficultés dont elle est née.",
+        "mots_cles": [
+          "opportunisme",
+          "vautour"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tonalpohualli",
+      "id": "Tonalpohualli:ollin",
+      "titre": "Ollin",
+      "symbole": "Ollin",
+      "theme": "Mouvement",
+      "signification_fondamentale": "Mouvement",
+      "positive": {
+        "famille": "Évolution",
+        "description": "L’évolution ne consiste pas simplement à être en mouvement, mais à laisser chaque expérience transformer ta compréhension du monde.",
+        "mots_cles": [
+          "évolution",
+          "mouvement"
+        ]
+      },
+      "negative": {
+        "famille": "Agitation",
+        "description": "L’agitation donne parfois l’illusion du progrès alors qu’elle ne fait que multiplier les efforts sans direction.",
+        "mots_cles": [
+          "agitation",
+          "mouvement"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tonalpohualli",
+      "id": "Tonalpohualli:tecpatl",
+      "titre": "Tecpatl",
+      "symbole": "Tecpatl",
+      "theme": "Silex",
+      "signification_fondamentale": "Silex",
+      "positive": {
+        "famille": "Discernement",
+        "description": "Le discernement, tel le tranchant du silex, permet de séparer l’essentiel du superflu sans méconnaître la complexité des choses.",
+        "mots_cles": [
+          "discernement",
+          "silex"
+        ]
+      },
+      "negative": {
+        "famille": "Dureté",
+        "description": "Une vérité exprimée sans bienveillance peut blesser davantage qu’elle n’éclaire.",
+        "mots_cles": [
+          "dureté",
+          "silex"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tonalpohualli",
+      "id": "Tonalpohualli:quiahuitl",
+      "titre": "Quiahuitl",
+      "symbole": "Quiahuitl",
+      "theme": "Pluie",
+      "signification_fondamentale": "Pluie",
+      "positive": {
+        "famille": "Ressourcement",
+        "description": "Comme la pluie qui nourrit une terre asséchée, accorde-toi le temps de retrouver les ressources intérieures nécessaires à ton épanouissement.",
+        "mots_cles": [
+          "ressourcement",
+          "pluie"
+        ]
+      },
+      "negative": {
+        "famille": "Submersion",
+        "description": "Même ce qui nourrit peut devenir envahissant lorsque tu ne reconnais plus les limites de ce que tu peux accueillir.",
+        "mots_cles": [
+          "submersion",
+          "pluie"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Tonalpohualli",
+      "id": "Tonalpohualli:xochitl",
+      "titre": "Xochitl",
+      "symbole": "Xochitl",
+      "theme": "Fleur",
+      "signification_fondamentale": "Fleur",
+      "positive": {
+        "famille": "Beauté",
+        "description": "La beauté d’une fleur rappelle que la valeur d’un instant ne dépend pas de sa durée, mais de l’attention que tu lui accordes.",
+        "mots_cles": [
+          "beauté",
+          "fleur"
+        ]
+      },
+      "negative": {
+        "famille": "Vanité",
+        "description": "La vanité réduit la beauté à un besoin d’être admiré et détourne le regard de ce qui lui donne sa profondeur.",
+        "mots_cles": [
+          "vanité",
+          "fleur"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    }
+  ]
+}

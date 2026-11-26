@@ -1,0 +1,1469 @@
+{
+  "version": "1.5",
+  "tradition": "Cartomancie",
+  "references": [
+    {
+      "tradition": "Cartomancie",
+      "nombre_symboles": 52,
+      "source": "Synthèse symbolique originale pour Oracle universel ; jeu français de 52 cartes, sans jokers. Interprétations non normalisées."
+    }
+  ],
+  "symboles": [
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:cœur:As",
+      "titre": "As de cœur",
+      "symbole": "As ♥",
+      "theme": "Amour",
+      "positive": {
+        "famille": "Ouverture affective",
+        "description": "Accueillir un sentiment nouveau et offrir une place à la tendresse.",
+        "mots_cles": [
+          "amour",
+          "affection",
+          "rencontre"
+        ]
+      },
+      "negative": {
+        "famille": "Idéalisation",
+        "description": "Confondre le désir d’être aimé avec la réalité d’une relation.",
+        "mots_cles": [
+          "illusion",
+          "dépendance",
+          "attentes"
+        ]
+      },
+      "signification_fondamentale": "Amour",
+      "couleur": "cœur",
+      "valeur": "As"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:cœur:2",
+      "titre": "2 de cœur",
+      "symbole": "2 ♥",
+      "theme": "Union",
+      "positive": {
+        "famille": "Réciprocité",
+        "description": "Construire un lien où chacun peut donner et recevoir.",
+        "mots_cles": [
+          "union",
+          "partage",
+          "confiance"
+        ]
+      },
+      "negative": {
+        "famille": "Fusion",
+        "description": "Perdre ses propres limites pour préserver un lien.",
+        "mots_cles": [
+          "dépendance",
+          "fusion",
+          "effacement"
+        ]
+      },
+      "signification_fondamentale": "Union",
+      "couleur": "cœur",
+      "valeur": "2"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:cœur:3",
+      "titre": "3 de cœur",
+      "symbole": "3 ♥",
+      "theme": "Joie",
+      "positive": {
+        "famille": "Convivialité",
+        "description": "Partager les moments heureux et nourrir les amitiés.",
+        "mots_cles": [
+          "joie",
+          "amitié",
+          "célébration"
+        ]
+      },
+      "negative": {
+        "famille": "Superficialité",
+        "description": "Chercher la fête pour éviter les émotions difficiles.",
+        "mots_cles": [
+          "dispersion",
+          "apparence",
+          "excès"
+        ]
+      },
+      "signification_fondamentale": "Joie",
+      "couleur": "cœur",
+      "valeur": "3"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:cœur:4",
+      "titre": "4 de cœur",
+      "symbole": "4 ♥",
+      "theme": "Sécurité affective",
+      "positive": {
+        "famille": "Ancrage",
+        "description": "Trouver un refuge émotionnel sans renoncer à évoluer.",
+        "mots_cles": [
+          "stabilité",
+          "foyer",
+          "confiance"
+        ]
+      },
+      "negative": {
+        "famille": "Fermeture",
+        "description": "Se protéger au point de refuser toute rencontre nouvelle.",
+        "mots_cles": [
+          "routine",
+          "repli",
+          "peur"
+        ]
+      },
+      "signification_fondamentale": "Sécurité affective",
+      "couleur": "cœur",
+      "valeur": "4"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:cœur:5",
+      "titre": "5 de cœur",
+      "symbole": "5 ♥",
+      "theme": "Évolution émotionnelle",
+      "positive": {
+        "famille": "Acceptation",
+        "description": "Reconnaître une déception et laisser les sentiments évoluer.",
+        "mots_cles": [
+          "acceptation",
+          "deuil",
+          "renouveau"
+        ]
+      },
+      "negative": {
+        "famille": "Regret",
+        "description": "Rester fixé sur ce qui a été perdu.",
+        "mots_cles": [
+          "tristesse",
+          "regret",
+          "rumination"
+        ]
+      },
+      "signification_fondamentale": "Évolution émotionnelle",
+      "couleur": "cœur",
+      "valeur": "5"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:cœur:6",
+      "titre": "6 de cœur",
+      "symbole": "6 ♥",
+      "theme": "Souvenirs",
+      "positive": {
+        "famille": "Transmission",
+        "description": "Puiser dans les souvenirs une douceur qui nourrit le présent.",
+        "mots_cles": [
+          "souvenir",
+          "enfance",
+          "tendresse"
+        ]
+      },
+      "negative": {
+        "famille": "Nostalgie",
+        "description": "Embellir le passé au détriment du présent.",
+        "mots_cles": [
+          "passé",
+          "nostalgie",
+          "idéalisation"
+        ]
+      },
+      "signification_fondamentale": "Souvenirs",
+      "couleur": "cœur",
+      "valeur": "6"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:cœur:7",
+      "titre": "7 de cœur",
+      "symbole": "7 ♥",
+      "theme": "Désir",
+      "positive": {
+        "famille": "Aspiration",
+        "description": "Identifier les aspirations qui donnent du sens à la vie.",
+        "mots_cles": [
+          "désir",
+          "imagination",
+          "choix"
+        ]
+      },
+      "negative": {
+        "famille": "Illusion",
+        "description": "Multiplier les rêves sans distinguer les possibilités réelles.",
+        "mots_cles": [
+          "fantasme",
+          "confusion",
+          "indécision"
+        ]
+      },
+      "signification_fondamentale": "Désir",
+      "couleur": "cœur",
+      "valeur": "7"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:cœur:8",
+      "titre": "8 de cœur",
+      "symbole": "8 ♥",
+      "theme": "Détachement",
+      "positive": {
+        "famille": "Libération",
+        "description": "Quitter un attachement devenu stérile pour retrouver son élan.",
+        "mots_cles": [
+          "détachement",
+          "liberté",
+          "transition"
+        ]
+      },
+      "negative": {
+        "famille": "Fuite",
+        "description": "S’éloigner sans affronter les difficultés relationnelles.",
+        "mots_cles": [
+          "évitement",
+          "abandon",
+          "isolement"
+        ]
+      },
+      "signification_fondamentale": "Détachement",
+      "couleur": "cœur",
+      "valeur": "8"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:cœur:9",
+      "titre": "9 de cœur",
+      "symbole": "9 ♥",
+      "theme": "Satisfaction",
+      "positive": {
+        "famille": "Gratitude",
+        "description": "Apprécier ce qui est déjà présent et savourer les progrès.",
+        "mots_cles": [
+          "gratitude",
+          "bonheur",
+          "plénitude"
+        ]
+      },
+      "negative": {
+        "famille": "Complaisance",
+        "description": "Faire de son plaisir la seule mesure des décisions.",
+        "mots_cles": [
+          "excès",
+          "complaisance",
+          "égoïsme"
+        ]
+      },
+      "signification_fondamentale": "Satisfaction",
+      "couleur": "cœur",
+      "valeur": "9"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:cœur:10",
+      "titre": "10 de cœur",
+      "symbole": "10 ♥",
+      "theme": "Harmonie familiale",
+      "positive": {
+        "famille": "Appartenance",
+        "description": "Cultiver des liens durables dans le respect des différences.",
+        "mots_cles": [
+          "famille",
+          "harmonie",
+          "solidarité"
+        ]
+      },
+      "negative": {
+        "famille": "Pression familiale",
+        "description": "Sacrifier ses aspirations à une image de famille idéale.",
+        "mots_cles": [
+          "conformisme",
+          "pression",
+          "dépendance"
+        ]
+      },
+      "signification_fondamentale": "Harmonie familiale",
+      "couleur": "cœur",
+      "valeur": "10"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:cœur:Valet",
+      "titre": "Valet de cœur",
+      "symbole": "Valet ♥",
+      "theme": "Sensibilité",
+      "positive": {
+        "famille": "Écoute",
+        "description": "Accueillir les émotions avec fraîcheur et bienveillance.",
+        "mots_cles": [
+          "écoute",
+          "sensibilité",
+          "curiosité"
+        ]
+      },
+      "negative": {
+        "famille": "Immaturité",
+        "description": "Réagir aux sentiments sans prendre le temps de les comprendre.",
+        "mots_cles": [
+          "susceptibilité",
+          "naïveté",
+          "instabilité"
+        ]
+      },
+      "signification_fondamentale": "Sensibilité",
+      "couleur": "cœur",
+      "valeur": "Valet"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:cœur:Dame",
+      "titre": "Dame de cœur",
+      "symbole": "Dame ♥",
+      "theme": "Compassion",
+      "positive": {
+        "famille": "Empathie",
+        "description": "Comprendre autrui tout en respectant ses propres besoins.",
+        "mots_cles": [
+          "empathie",
+          "compassion",
+          "soin"
+        ]
+      },
+      "negative": {
+        "famille": "Oubli de soi",
+        "description": "Absorber les difficultés des autres jusqu’à négliger les siennes.",
+        "mots_cles": [
+          "sacrifice",
+          "épuisement",
+          "dépendance"
+        ]
+      },
+      "signification_fondamentale": "Compassion",
+      "couleur": "cœur",
+      "valeur": "Dame"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:cœur:Roi",
+      "titre": "Roi de cœur",
+      "symbole": "Roi ♥",
+      "theme": "Maturité affective",
+      "positive": {
+        "famille": "Équilibre",
+        "description": "Exprimer ses sentiments avec calme et responsabilité.",
+        "mots_cles": [
+          "équilibre",
+          "maîtrise",
+          "bienveillance"
+        ]
+      },
+      "negative": {
+        "famille": "Contrôle affectif",
+        "description": "Utiliser la maîtrise émotionnelle pour tenir autrui à distance.",
+        "mots_cles": [
+          "manipulation",
+          "contrôle",
+          "froideur"
+        ]
+      },
+      "signification_fondamentale": "Maturité affective",
+      "couleur": "cœur",
+      "valeur": "Roi"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:carreau:As",
+      "titre": "As de carreau",
+      "symbole": "As ♦",
+      "theme": "Opportunité",
+      "positive": {
+        "famille": "Abondance",
+        "description": "Reconnaître une possibilité concrète et lui donner une première forme.",
+        "mots_cles": [
+          "opportunité",
+          "ressources",
+          "projet"
+        ]
+      },
+      "negative": {
+        "famille": "Avidité",
+        "description": "Poursuivre un gain sans examiner ses conséquences.",
+        "mots_cles": [
+          "avidité",
+          "précipitation",
+          "matérialisme"
+        ]
+      },
+      "signification_fondamentale": "Opportunité",
+      "couleur": "carreau",
+      "valeur": "As"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:carreau:2",
+      "titre": "2 de carreau",
+      "symbole": "2 ♦",
+      "theme": "Échange",
+      "positive": {
+        "famille": "Adaptabilité",
+        "description": "Ajuster ses ressources aux besoins et négocier avec souplesse.",
+        "mots_cles": [
+          "échange",
+          "équilibre",
+          "adaptation"
+        ]
+      },
+      "negative": {
+        "famille": "Instabilité",
+        "description": "Multiplier les engagements au-delà de ses moyens.",
+        "mots_cles": [
+          "déséquilibre",
+          "dette",
+          "dispersion"
+        ]
+      },
+      "signification_fondamentale": "Échange",
+      "couleur": "carreau",
+      "valeur": "2"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:carreau:3",
+      "titre": "3 de carreau",
+      "symbole": "3 ♦",
+      "theme": "Développement",
+      "positive": {
+        "famille": "Construction",
+        "description": "Faire grandir un projet grâce au savoir-faire partagé.",
+        "mots_cles": [
+          "construction",
+          "compétence",
+          "collaboration"
+        ]
+      },
+      "negative": {
+        "famille": "Médiocrité",
+        "description": "Négliger la qualité pour obtenir un résultat rapide.",
+        "mots_cles": [
+          "négligence",
+          "rivalité",
+          "improvisation"
+        ]
+      },
+      "signification_fondamentale": "Développement",
+      "couleur": "carreau",
+      "valeur": "3"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:carreau:4",
+      "titre": "4 de carreau",
+      "symbole": "4 ♦",
+      "theme": "Stabilité",
+      "positive": {
+        "famille": "Prudence",
+        "description": "Préserver ses acquis et établir des limites matérielles raisonnables.",
+        "mots_cles": [
+          "sécurité",
+          "épargne",
+          "stabilité"
+        ]
+      },
+      "negative": {
+        "famille": "Possessivité",
+        "description": "S’accrocher aux biens par crainte de manquer.",
+        "mots_cles": [
+          "avarice",
+          "contrôle",
+          "peur"
+        ]
+      },
+      "signification_fondamentale": "Stabilité",
+      "couleur": "carreau",
+      "valeur": "4"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:carreau:5",
+      "titre": "5 de carreau",
+      "symbole": "5 ♦",
+      "theme": "Ressources",
+      "positive": {
+        "famille": "Solidarité",
+        "description": "Identifier les aides disponibles lorsque les moyens diminuent.",
+        "mots_cles": [
+          "entraide",
+          "ressources",
+          "soutien"
+        ]
+      },
+      "negative": {
+        "famille": "Précarité",
+        "description": "Se laisser enfermer par la peur du manque.",
+        "mots_cles": [
+          "manque",
+          "isolement",
+          "inquiétude"
+        ]
+      },
+      "signification_fondamentale": "Ressources",
+      "couleur": "carreau",
+      "valeur": "5"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:carreau:6",
+      "titre": "6 de carreau",
+      "symbole": "6 ♦",
+      "theme": "Générosité",
+      "positive": {
+        "famille": "Partage",
+        "description": "Distribuer les ressources de façon équilibrée et respectueuse.",
+        "mots_cles": [
+          "générosité",
+          "justice",
+          "partage"
+        ]
+      },
+      "negative": {
+        "famille": "Dépendance",
+        "description": "Transformer l’aide en moyen de pression.",
+        "mots_cles": [
+          "dette",
+          "domination",
+          "intérêt"
+        ]
+      },
+      "signification_fondamentale": "Générosité",
+      "couleur": "carreau",
+      "valeur": "6"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:carreau:7",
+      "titre": "7 de carreau",
+      "symbole": "7 ♦",
+      "theme": "Investissement",
+      "positive": {
+        "famille": "Patience",
+        "description": "Évaluer les fruits d’un effort avant de décider de la suite.",
+        "mots_cles": [
+          "patience",
+          "investissement",
+          "persévérance"
+        ]
+      },
+      "negative": {
+        "famille": "Impatience",
+        "description": "Abandonner trop tôt ou investir sans discernement.",
+        "mots_cles": [
+          "impatience",
+          "doute",
+          "gaspillage"
+        ]
+      },
+      "signification_fondamentale": "Investissement",
+      "couleur": "carreau",
+      "valeur": "7"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:carreau:8",
+      "titre": "8 de carreau",
+      "symbole": "8 ♦",
+      "theme": "Travail",
+      "positive": {
+        "famille": "Apprentissage",
+        "description": "Perfectionner une compétence par une pratique régulière.",
+        "mots_cles": [
+          "travail",
+          "rigueur",
+          "apprentissage"
+        ]
+      },
+      "negative": {
+        "famille": "Surmenage",
+        "description": "Confondre la valeur personnelle avec la productivité.",
+        "mots_cles": [
+          "routine",
+          "perfectionnisme",
+          "épuisement"
+        ]
+      },
+      "signification_fondamentale": "Travail",
+      "couleur": "carreau",
+      "valeur": "8"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:carreau:9",
+      "titre": "9 de carreau",
+      "symbole": "9 ♦",
+      "theme": "Indépendance",
+      "positive": {
+        "famille": "Autonomie",
+        "description": "Profiter des acquis en conservant sa capacité de décision.",
+        "mots_cles": [
+          "autonomie",
+          "aisance",
+          "liberté"
+        ]
+      },
+      "negative": {
+        "famille": "Isolement",
+        "description": "Faire de l’autonomie un refus de toute entraide.",
+        "mots_cles": [
+          "orgueil",
+          "solitude",
+          "ostentation"
+        ]
+      },
+      "signification_fondamentale": "Indépendance",
+      "couleur": "carreau",
+      "valeur": "9"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:carreau:10",
+      "titre": "10 de carreau",
+      "symbole": "10 ♦",
+      "theme": "Patrimoine",
+      "positive": {
+        "famille": "Transmission",
+        "description": "Préserver des ressources utiles aux générations suivantes.",
+        "mots_cles": [
+          "héritage",
+          "transmission",
+          "stabilité"
+        ]
+      },
+      "negative": {
+        "famille": "Matérialisme",
+        "description": "Faire passer les biens avant les relations humaines.",
+        "mots_cles": [
+          "héritage",
+          "conflit",
+          "possessivité"
+        ]
+      },
+      "signification_fondamentale": "Patrimoine",
+      "couleur": "carreau",
+      "valeur": "10"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:carreau:Valet",
+      "titre": "Valet de carreau",
+      "symbole": "Valet ♦",
+      "theme": "Nouvelle",
+      "positive": {
+        "famille": "Curiosité",
+        "description": "Examiner une information concrète avec attention et curiosité.",
+        "mots_cles": [
+          "nouvelle",
+          "apprentissage",
+          "opportunité"
+        ]
+      },
+      "negative": {
+        "famille": "Naïveté",
+        "description": "Croire une promesse sans vérifier sa faisabilité.",
+        "mots_cles": [
+          "promesse",
+          "distraction",
+          "imprudence"
+        ]
+      },
+      "signification_fondamentale": "Nouvelle",
+      "couleur": "carreau",
+      "valeur": "Valet"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:carreau:Dame",
+      "titre": "Dame de carreau",
+      "symbole": "Dame ♦",
+      "theme": "Gestion",
+      "positive": {
+        "famille": "Pragmatisme",
+        "description": "Administrer les ressources avec attention aux besoins quotidiens.",
+        "mots_cles": [
+          "gestion",
+          "organisation",
+          "soin"
+        ]
+      },
+      "negative": {
+        "famille": "Contrôle",
+        "description": "Vouloir tout gérer au détriment de la spontanéité.",
+        "mots_cles": [
+          "rigidité",
+          "contrôle",
+          "inquiétude"
+        ]
+      },
+      "signification_fondamentale": "Gestion",
+      "couleur": "carreau",
+      "valeur": "Dame"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:carreau:Roi",
+      "titre": "Roi de carreau",
+      "symbole": "Roi ♦",
+      "theme": "Prospérité",
+      "positive": {
+        "famille": "Responsabilité",
+        "description": "Mettre son expérience matérielle au service de projets durables.",
+        "mots_cles": [
+          "prospérité",
+          "gestion",
+          "réalisation"
+        ]
+      },
+      "negative": {
+        "famille": "Domination",
+        "description": "Mesurer la réussite uniquement par la richesse ou le pouvoir.",
+        "mots_cles": [
+          "avidité",
+          "pouvoir",
+          "matérialisme"
+        ]
+      },
+      "signification_fondamentale": "Prospérité",
+      "couleur": "carreau",
+      "valeur": "Roi"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:trèfle:As",
+      "titre": "As de trèfle",
+      "symbole": "As ♣",
+      "theme": "Initiative",
+      "positive": {
+        "famille": "Élan",
+        "description": "Transformer une idée en premier geste concret.",
+        "mots_cles": [
+          "initiative",
+          "action",
+          "création"
+        ]
+      },
+      "negative": {
+        "famille": "Précipitation",
+        "description": "Agir avant de mesurer les conséquences.",
+        "mots_cles": [
+          "impulsivité",
+          "impatience",
+          "dispersion"
+        ]
+      },
+      "signification_fondamentale": "Initiative",
+      "couleur": "trèfle",
+      "valeur": "As"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:trèfle:2",
+      "titre": "2 de trèfle",
+      "symbole": "2 ♣",
+      "theme": "Coopération",
+      "positive": {
+        "famille": "Alliance",
+        "description": "Associer des compétences autour d’un objectif commun.",
+        "mots_cles": [
+          "coopération",
+          "partenariat",
+          "planification"
+        ]
+      },
+      "negative": {
+        "famille": "Rivalité",
+        "description": "Imposer sa vision au lieu de construire ensemble.",
+        "mots_cles": [
+          "rivalité",
+          "désaccord",
+          "contrôle"
+        ]
+      },
+      "signification_fondamentale": "Coopération",
+      "couleur": "trèfle",
+      "valeur": "2"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:trèfle:3",
+      "titre": "3 de trèfle",
+      "symbole": "3 ♣",
+      "theme": "Créativité",
+      "positive": {
+        "famille": "Expansion",
+        "description": "Explorer de nouvelles voies et élargir le champ des possibles.",
+        "mots_cles": [
+          "créativité",
+          "expansion",
+          "vision"
+        ]
+      },
+      "negative": {
+        "famille": "Dispersion",
+        "description": "Ouvrir trop de pistes sans en approfondir aucune.",
+        "mots_cles": [
+          "dispersion",
+          "illusion",
+          "excès"
+        ]
+      },
+      "signification_fondamentale": "Créativité",
+      "couleur": "trèfle",
+      "valeur": "3"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:trèfle:4",
+      "titre": "4 de trèfle",
+      "symbole": "4 ♣",
+      "theme": "Organisation",
+      "positive": {
+        "famille": "Structure",
+        "description": "Établir un cadre qui facilite le travail collectif.",
+        "mots_cles": [
+          "organisation",
+          "stabilité",
+          "équipe"
+        ]
+      },
+      "negative": {
+        "famille": "Rigidité",
+        "description": "Maintenir une organisation qui ne répond plus aux besoins.",
+        "mots_cles": [
+          "routine",
+          "rigidité",
+          "contrainte"
+        ]
+      },
+      "signification_fondamentale": "Organisation",
+      "couleur": "trèfle",
+      "valeur": "4"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:trèfle:5",
+      "titre": "5 de trèfle",
+      "symbole": "5 ♣",
+      "theme": "Compétition",
+      "positive": {
+        "famille": "Stimulation",
+        "description": "Utiliser les différences comme moteur de progression.",
+        "mots_cles": [
+          "défi",
+          "émulation",
+          "courage"
+        ]
+      },
+      "negative": {
+        "famille": "Confrontation",
+        "description": "Chercher à gagner au détriment du collectif.",
+        "mots_cles": [
+          "conflit",
+          "rivalité",
+          "agressivité"
+        ]
+      },
+      "signification_fondamentale": "Compétition",
+      "couleur": "trèfle",
+      "valeur": "5"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:trèfle:6",
+      "titre": "6 de trèfle",
+      "symbole": "6 ♣",
+      "theme": "Réussite",
+      "positive": {
+        "famille": "Reconnaissance",
+        "description": "Reconnaître les efforts accomplis et partager le mérite.",
+        "mots_cles": [
+          "réussite",
+          "reconnaissance",
+          "confiance"
+        ]
+      },
+      "negative": {
+        "famille": "Vanité",
+        "description": "Dépendre de l’admiration pour se sentir légitime.",
+        "mots_cles": [
+          "orgueil",
+          "vanité",
+          "comparaison"
+        ]
+      },
+      "signification_fondamentale": "Réussite",
+      "couleur": "trèfle",
+      "valeur": "6"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:trèfle:7",
+      "titre": "7 de trèfle",
+      "symbole": "7 ♣",
+      "theme": "Persévérance",
+      "positive": {
+        "famille": "Détermination",
+        "description": "Défendre un projet important malgré les obstacles.",
+        "mots_cles": [
+          "persévérance",
+          "courage",
+          "conviction"
+        ]
+      },
+      "negative": {
+        "famille": "Entêtement",
+        "description": "Refuser de réexaminer une position devenue fragile.",
+        "mots_cles": [
+          "entêtement",
+          "défensive",
+          "rigidité"
+        ]
+      },
+      "signification_fondamentale": "Persévérance",
+      "couleur": "trèfle",
+      "valeur": "7"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:trèfle:8",
+      "titre": "8 de trèfle",
+      "symbole": "8 ♣",
+      "theme": "Mouvement",
+      "positive": {
+        "famille": "Progression",
+        "description": "Profiter d’une dynamique favorable pour avancer.",
+        "mots_cles": [
+          "mouvement",
+          "progression",
+          "rapidité"
+        ]
+      },
+      "negative": {
+        "famille": "Agitation",
+        "description": "Accélérer sans direction claire.",
+        "mots_cles": [
+          "précipitation",
+          "agitation",
+          "dispersion"
+        ]
+      },
+      "signification_fondamentale": "Mouvement",
+      "couleur": "trèfle",
+      "valeur": "8"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:trèfle:9",
+      "titre": "9 de trèfle",
+      "symbole": "9 ♣",
+      "theme": "Endurance",
+      "positive": {
+        "famille": "Résilience",
+        "description": "Mobiliser son expérience pour traverser une difficulté.",
+        "mots_cles": [
+          "endurance",
+          "résilience",
+          "patience"
+        ]
+      },
+      "negative": {
+        "famille": "Épuisement",
+        "description": "Continuer malgré des limites qui exigent du repos.",
+        "mots_cles": [
+          "fatigue",
+          "méfiance",
+          "surmenage"
+        ]
+      },
+      "signification_fondamentale": "Endurance",
+      "couleur": "trèfle",
+      "valeur": "9"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:trèfle:10",
+      "titre": "10 de trèfle",
+      "symbole": "10 ♣",
+      "theme": "Responsabilité",
+      "positive": {
+        "famille": "Engagement",
+        "description": "Assumer ses obligations tout en répartissant les charges.",
+        "mots_cles": [
+          "responsabilité",
+          "engagement",
+          "effort"
+        ]
+      },
+      "negative": {
+        "famille": "Surcharge",
+        "description": "Porter seul des tâches qui pourraient être partagées.",
+        "mots_cles": [
+          "surcharge",
+          "épuisement",
+          "contrôle"
+        ]
+      },
+      "signification_fondamentale": "Responsabilité",
+      "couleur": "trèfle",
+      "valeur": "10"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:trèfle:Valet",
+      "titre": "Valet de trèfle",
+      "symbole": "Valet ♣",
+      "theme": "Enthousiasme",
+      "positive": {
+        "famille": "Exploration",
+        "description": "Expérimenter une idée avec énergie et ouverture.",
+        "mots_cles": [
+          "enthousiasme",
+          "curiosité",
+          "audace"
+        ]
+      },
+      "negative": {
+        "famille": "Inconstance",
+        "description": "Passer d’un projet à l’autre dès que l’intérêt baisse.",
+        "mots_cles": [
+          "impulsivité",
+          "ennui",
+          "dispersion"
+        ]
+      },
+      "signification_fondamentale": "Enthousiasme",
+      "couleur": "trèfle",
+      "valeur": "Valet"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:trèfle:Dame",
+      "titre": "Dame de trèfle",
+      "symbole": "Dame ♣",
+      "theme": "Créativité",
+      "positive": {
+        "famille": "Rayonnement",
+        "description": "Encourager l’expression personnelle et celle des autres.",
+        "mots_cles": [
+          "créativité",
+          "confiance",
+          "inspiration"
+        ]
+      },
+      "negative": {
+        "famille": "Égocentrisme",
+        "description": "Chercher à monopoliser l’attention et les décisions.",
+        "mots_cles": [
+          "jalousie",
+          "orgueil",
+          "contrôle"
+        ]
+      },
+      "signification_fondamentale": "Créativité",
+      "couleur": "trèfle",
+      "valeur": "Dame"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:trèfle:Roi",
+      "titre": "Roi de trèfle",
+      "symbole": "Roi ♣",
+      "theme": "Leadership",
+      "positive": {
+        "famille": "Vision",
+        "description": "Donner une direction claire en responsabilisant chacun.",
+        "mots_cles": [
+          "leadership",
+          "vision",
+          "courage"
+        ]
+      },
+      "negative": {
+        "famille": "Autoritarisme",
+        "description": "Imposer ses objectifs sans écouter les personnes concernées.",
+        "mots_cles": [
+          "domination",
+          "impatience",
+          "autoritarisme"
+        ]
+      },
+      "signification_fondamentale": "Leadership",
+      "couleur": "trèfle",
+      "valeur": "Roi"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:pique:As",
+      "titre": "As de pique",
+      "symbole": "As ♠",
+      "theme": "Vérité",
+      "positive": {
+        "famille": "Clarté",
+        "description": "Nommer les faits avec précision pour éclairer une décision.",
+        "mots_cles": [
+          "vérité",
+          "clarté",
+          "discernement"
+        ]
+      },
+      "negative": {
+        "famille": "Dureté",
+        "description": "Utiliser la vérité comme prétexte pour blesser.",
+        "mots_cles": [
+          "jugement",
+          "agressivité",
+          "froideur"
+        ]
+      },
+      "signification_fondamentale": "Vérité",
+      "couleur": "pique",
+      "valeur": "As"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:pique:2",
+      "titre": "2 de pique",
+      "symbole": "2 ♠",
+      "theme": "Dilemme",
+      "positive": {
+        "famille": "Réflexion",
+        "description": "Comparer les options avant de prendre position.",
+        "mots_cles": [
+          "réflexion",
+          "équilibre",
+          "choix"
+        ]
+      },
+      "negative": {
+        "famille": "Indécision",
+        "description": "Reporter une décision par peur de ses conséquences.",
+        "mots_cles": [
+          "blocage",
+          "évitement",
+          "confusion"
+        ]
+      },
+      "signification_fondamentale": "Dilemme",
+      "couleur": "pique",
+      "valeur": "2"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:pique:3",
+      "titre": "3 de pique",
+      "symbole": "3 ♠",
+      "theme": "Séparation",
+      "positive": {
+        "famille": "Acceptation",
+        "description": "Reconnaître une blessure et amorcer une reconstruction.",
+        "mots_cles": [
+          "acceptation",
+          "guérison",
+          "transition"
+        ]
+      },
+      "negative": {
+        "famille": "Ressentiment",
+        "description": "Entretenir la blessure en refusant toute évolution.",
+        "mots_cles": [
+          "douleur",
+          "ressentiment",
+          "rumination"
+        ]
+      },
+      "signification_fondamentale": "Séparation",
+      "couleur": "pique",
+      "valeur": "3"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:pique:4",
+      "titre": "4 de pique",
+      "symbole": "4 ♠",
+      "theme": "Repos",
+      "positive": {
+        "famille": "Récupération",
+        "description": "S’accorder une pause pour retrouver ses capacités.",
+        "mots_cles": [
+          "repos",
+          "calme",
+          "réflexion"
+        ]
+      },
+      "negative": {
+        "famille": "Inertie",
+        "description": "Prolonger le retrait pour ne plus affronter les responsabilités.",
+        "mots_cles": [
+          "repli",
+          "stagnation",
+          "évitement"
+        ]
+      },
+      "signification_fondamentale": "Repos",
+      "couleur": "pique",
+      "valeur": "4"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:pique:5",
+      "titre": "5 de pique",
+      "symbole": "5 ♠",
+      "theme": "Conflit",
+      "positive": {
+        "famille": "Discernement",
+        "description": "Identifier les désaccords et choisir les combats utiles.",
+        "mots_cles": [
+          "discernement",
+          "limites",
+          "justice"
+        ]
+      },
+      "negative": {
+        "famille": "Hostilité",
+        "description": "Chercher la victoire même si elle détruit les liens.",
+        "mots_cles": [
+          "hostilité",
+          "vengeance",
+          "rivalité"
+        ]
+      },
+      "signification_fondamentale": "Conflit",
+      "couleur": "pique",
+      "valeur": "5"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:pique:6",
+      "titre": "6 de pique",
+      "symbole": "6 ♠",
+      "theme": "Transition",
+      "positive": {
+        "famille": "Apaisement",
+        "description": "S’éloigner progressivement d’une situation difficile.",
+        "mots_cles": [
+          "transition",
+          "apaisement",
+          "adaptation"
+        ]
+      },
+      "negative": {
+        "famille": "Fuite",
+        "description": "Changer de cadre sans résoudre les causes du problème.",
+        "mots_cles": [
+          "fuite",
+          "nostalgie",
+          "incertitude"
+        ]
+      },
+      "signification_fondamentale": "Transition",
+      "couleur": "pique",
+      "valeur": "6"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:pique:7",
+      "titre": "7 de pique",
+      "symbole": "7 ♠",
+      "theme": "Stratégie",
+      "positive": {
+        "famille": "Ingéniosité",
+        "description": "Préparer une action avec méthode et discrétion.",
+        "mots_cles": [
+          "stratégie",
+          "prudence",
+          "ingéniosité"
+        ]
+      },
+      "negative": {
+        "famille": "Tromperie",
+        "description": "Contourner la confiance pour obtenir un avantage.",
+        "mots_cles": [
+          "mensonge",
+          "manipulation",
+          "dissimulation"
+        ]
+      },
+      "signification_fondamentale": "Stratégie",
+      "couleur": "pique",
+      "valeur": "7"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:pique:8",
+      "titre": "8 de pique",
+      "symbole": "8 ♠",
+      "theme": "Limitation",
+      "positive": {
+        "famille": "Lucidité",
+        "description": "Distinguer les contraintes réelles des obstacles imaginés.",
+        "mots_cles": [
+          "lucidité",
+          "liberté",
+          "discernement"
+        ]
+      },
+      "negative": {
+        "famille": "Impuissance",
+        "description": "Se croire incapable d’agir malgré des marges de manœuvre.",
+        "mots_cles": [
+          "peur",
+          "blocage",
+          "enfermement"
+        ]
+      },
+      "signification_fondamentale": "Limitation",
+      "couleur": "pique",
+      "valeur": "8"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:pique:9",
+      "titre": "9 de pique",
+      "symbole": "9 ♠",
+      "theme": "Inquiétude",
+      "positive": {
+        "famille": "Vigilance",
+        "description": "Transformer une préoccupation en question concrète à examiner.",
+        "mots_cles": [
+          "vigilance",
+          "anticipation",
+          "réflexion"
+        ]
+      },
+      "negative": {
+        "famille": "Anxiété",
+        "description": "Laisser les scénarios redoutés envahir le présent.",
+        "mots_cles": [
+          "inquiétude",
+          "rumination",
+          "peur"
+        ]
+      },
+      "signification_fondamentale": "Inquiétude",
+      "couleur": "pique",
+      "valeur": "9"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:pique:10",
+      "titre": "10 de pique",
+      "symbole": "10 ♠",
+      "theme": "Fin de cycle",
+      "positive": {
+        "famille": "Renouveau",
+        "description": "Reconnaître une fin et préparer une nouvelle étape.",
+        "mots_cles": [
+          "renouveau",
+          "acceptation",
+          "libération"
+        ]
+      },
+      "negative": {
+        "famille": "Désespoir",
+        "description": "Considérer un revers comme une impossibilité définitive.",
+        "mots_cles": [
+          "fatalisme",
+          "abandon",
+          "désillusion"
+        ]
+      },
+      "signification_fondamentale": "Fin de cycle",
+      "couleur": "pique",
+      "valeur": "10"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:pique:Valet",
+      "titre": "Valet de pique",
+      "symbole": "Valet ♠",
+      "theme": "Observation",
+      "positive": {
+        "famille": "Curiosité",
+        "description": "Recueillir les faits avant de formuler un jugement.",
+        "mots_cles": [
+          "observation",
+          "analyse",
+          "curiosité"
+        ]
+      },
+      "negative": {
+        "famille": "Suspicion",
+        "description": "Interpréter chaque détail comme une menace cachée.",
+        "mots_cles": [
+          "méfiance",
+          "indiscrétion",
+          "jugement"
+        ]
+      },
+      "signification_fondamentale": "Observation",
+      "couleur": "pique",
+      "valeur": "Valet"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:pique:Dame",
+      "titre": "Dame de pique",
+      "symbole": "Dame ♠",
+      "theme": "Discernement",
+      "positive": {
+        "famille": "Indépendance",
+        "description": "Poser des limites claires avec une parole réfléchie.",
+        "mots_cles": [
+          "discernement",
+          "indépendance",
+          "franchise"
+        ]
+      },
+      "negative": {
+        "famille": "Froideur",
+        "description": "Écarter les émotions au nom d’une logique inflexible.",
+        "mots_cles": [
+          "critique",
+          "isolement",
+          "dureté"
+        ]
+      },
+      "signification_fondamentale": "Discernement",
+      "couleur": "pique",
+      "valeur": "Dame"
+    },
+    {
+      "tradition": "Cartomancie",
+      "id": "Cartomancie:pique:Roi",
+      "titre": "Roi de pique",
+      "symbole": "Roi ♠",
+      "theme": "Autorité",
+      "positive": {
+        "famille": "Justice",
+        "description": "Exercer son jugement avec impartialité et responsabilité.",
+        "mots_cles": [
+          "justice",
+          "autorité",
+          "raison"
+        ]
+      },
+      "negative": {
+        "famille": "Intransigeance",
+        "description": "Transformer les règles en instruments de pouvoir.",
+        "mots_cles": [
+          "domination",
+          "rigidité",
+          "autoritarisme"
+        ]
+      },
+      "signification_fondamentale": "Autorité",
+      "couleur": "pique",
+      "valeur": "Roi"
+    }
+  ]
+}

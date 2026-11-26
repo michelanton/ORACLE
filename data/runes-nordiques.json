@@ -1,0 +1,838 @@
+{
+  "version": "1.5",
+  "tradition": "Runes nordiques",
+  "references": [
+    {
+      "tradition": "Runes nordiques",
+      "nombre_symboles": 24,
+      "source": "runes-v11.json"
+    }
+  ],
+  "symboles": [
+    {
+      "tradition": "Runes nordiques",
+      "id": "Runes nordiques:1",
+      "titre": "Fehu",
+      "symbole": "ᚠ",
+      "theme": "La richesse",
+      "positive": {
+        "famille": "Abondance",
+        "description": "Cultiver les ressources avec générosité permet de transformer les acquis en possibilités nouvelles.",
+        "mots_cles": [
+          "richesse",
+          "abondance",
+          "générosité",
+          "ressource",
+          "prospérité"
+        ]
+      },
+      "negative": {
+        "famille": "Avidité",
+        "description": "L'accumulation devient une entrave lorsque la possession prend le pas sur les relations et les besoins réels.",
+        "mots_cles": [
+          "avidité",
+          "matérialisme",
+          "attachement",
+          "possession"
+        ]
+      },
+      "image": {
+        "fichier": "images/runes/01.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Fehu"
+      }
+    },
+    {
+      "tradition": "Runes nordiques",
+      "id": "Runes nordiques:2",
+      "titre": "Uruz",
+      "symbole": "ᚢ",
+      "theme": "La force vitale",
+      "positive": {
+        "famille": "Vitalité",
+        "description": "La vigueur et le courage permettent de retrouver son élan et de traverser les épreuves.",
+        "mots_cles": [
+          "force",
+          "énergie",
+          "courage",
+          "vitalité",
+          "résilience"
+        ]
+      },
+      "negative": {
+        "famille": "Brutalité",
+        "description": "Une force mal maîtrisée risque de devenir violence ou épuisement.",
+        "mots_cles": [
+          "violence",
+          "colère",
+          "excès",
+          "épuisement"
+        ]
+      },
+      "image": {
+        "fichier": "images/runes/02.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Uruz"
+      }
+    },
+    {
+      "tradition": "Runes nordiques",
+      "id": "Runes nordiques:3",
+      "titre": "Thurisaz",
+      "symbole": "ᚦ",
+      "theme": "La confrontation",
+      "positive": {
+        "famille": "Protection",
+        "description": "Reconnaître les dangers et poser des limites aide à défendre ce qui importe sans céder à la peur.",
+        "mots_cles": [
+          "protection",
+          "prudence",
+          "vigilance",
+          "limites"
+        ]
+      },
+      "negative": {
+        "famille": "Agressivité",
+        "description": "La défense permanente peut transformer chaque désaccord en affrontement.",
+        "mots_cles": [
+          "agressivité",
+          "colère",
+          "conflit",
+          "peur"
+        ]
+      },
+      "image": {
+        "fichier": "images/runes/03.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Thurisaz"
+      }
+    },
+    {
+      "tradition": "Runes nordiques",
+      "id": "Runes nordiques:4",
+      "titre": "Ansuz",
+      "symbole": "ᚨ",
+      "theme": "La parole",
+      "positive": {
+        "famille": "Communication",
+        "description": "Une parole claire et une écoute attentive ouvrent la voie à la compréhension et à la transmission.",
+        "mots_cles": [
+          "communication",
+          "écoute",
+          "sagesse",
+          "transmission",
+          "inspiration"
+        ]
+      },
+      "negative": {
+        "famille": "Manipulation",
+        "description": "La parole perd sa valeur lorsqu'elle sert à tromper ou à imposer une croyance.",
+        "mots_cles": [
+          "manipulation",
+          "mensonge",
+          "dogmatisme",
+          "tromperie"
+        ]
+      },
+      "image": {
+        "fichier": "images/runes/04.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Ansuz"
+      }
+    },
+    {
+      "tradition": "Runes nordiques",
+      "id": "Runes nordiques:5",
+      "titre": "Raidho",
+      "symbole": "ᚱ",
+      "theme": "Le voyage",
+      "positive": {
+        "famille": "Progression",
+        "description": "Avancer avec un cap et accepter les étapes du voyage favorisent l'évolution personnelle.",
+        "mots_cles": [
+          "voyage",
+          "mouvement",
+          "progression",
+          "changement",
+          "liberté"
+        ]
+      },
+      "negative": {
+        "famille": "Désorientation",
+        "description": "Multiplier les déplacements sans intention claire peut éloigner de l'essentiel.",
+        "mots_cles": [
+          "errance",
+          "dispersion",
+          "fuite",
+          "confusion"
+        ]
+      },
+      "image": {
+        "fichier": "images/runes/05.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Raidho"
+      }
+    },
+    {
+      "tradition": "Runes nordiques",
+      "id": "Runes nordiques:6",
+      "titre": "Kenaz",
+      "symbole": "ᚲ",
+      "theme": "La lumière",
+      "positive": {
+        "famille": "Créativité",
+        "description": "La curiosité et le savoir éclairent les difficultés et donnent forme à de nouvelles idées.",
+        "mots_cles": [
+          "créativité",
+          "connaissance",
+          "clarté",
+          "inspiration",
+          "lumière"
+        ]
+      },
+      "negative": {
+        "famille": "Aveuglement",
+        "description": "Une certitude excessive peut empêcher de voir ce qui contredit ses convictions.",
+        "mots_cles": [
+          "aveuglement",
+          "orgueil",
+          "illusion",
+          "rigidité"
+        ]
+      },
+      "image": {
+        "fichier": "images/runes/06.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Kenaz"
+      }
+    },
+    {
+      "tradition": "Runes nordiques",
+      "id": "Runes nordiques:7",
+      "titre": "Gebo",
+      "symbole": "ᚷ",
+      "theme": "Le don",
+      "positive": {
+        "famille": "Réciprocité",
+        "description": "Le partage libre et équilibré nourrit la confiance et les relations durables.",
+        "mots_cles": [
+          "don",
+          "partage",
+          "amour",
+          "équilibre",
+          "réciprocité"
+        ]
+      },
+      "negative": {
+        "famille": "Dépendance",
+        "description": "Un don assorti d'obligations cachées peut créer une relation de dette ou de contrôle.",
+        "mots_cles": [
+          "dépendance",
+          "manipulation",
+          "contrôle",
+          "culpabilité"
+        ]
+      },
+      "image": {
+        "fichier": "images/runes/07.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Gebo"
+      }
+    },
+    {
+      "tradition": "Runes nordiques",
+      "id": "Runes nordiques:8",
+      "titre": "Wunjo",
+      "symbole": "ᚹ",
+      "theme": "La joie",
+      "positive": {
+        "famille": "Épanouissement",
+        "description": "Reconnaître les joies simples et les partager favorise l'harmonie et la gratitude.",
+        "mots_cles": [
+          "joie",
+          "bonheur",
+          "harmonie",
+          "partage",
+          "gratitude"
+        ]
+      },
+      "negative": {
+        "famille": "Complaisance",
+        "description": "La recherche permanente du plaisir peut faire oublier les difficultés qui demandent une attention réelle.",
+        "mots_cles": [
+          "excès",
+          "superficialité",
+          "évitement",
+          "complaisance"
+        ]
+      },
+      "image": {
+        "fichier": "images/runes/08.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Wunjo"
+      }
+    },
+    {
+      "tradition": "Runes nordiques",
+      "id": "Runes nordiques:9",
+      "titre": "Hagalaz",
+      "symbole": "ᚺ",
+      "theme": "Le bouleversement",
+      "positive": {
+        "famille": "Transformation",
+        "description": "Un bouleversement peut inviter à reconstruire autrement et à découvrir de nouvelles ressources.",
+        "mots_cles": [
+          "transformation",
+          "rupture",
+          "renouveau",
+          "résilience"
+        ]
+      },
+      "negative": {
+        "famille": "Chaos",
+        "description": "La perte de repères peut nourrir la peur et des réactions précipitées.",
+        "mots_cles": [
+          "chaos",
+          "crise",
+          "peur",
+          "destruction"
+        ]
+      },
+      "image": {
+        "fichier": "images/runes/09.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Hagalaz"
+      }
+    },
+    {
+      "tradition": "Runes nordiques",
+      "id": "Runes nordiques:10",
+      "titre": "Nauthiz",
+      "symbole": "ᚾ",
+      "theme": "La nécessité",
+      "positive": {
+        "famille": "Endurance",
+        "description": "Identifier ses besoins essentiels aide à traverser les contraintes avec patience et inventivité.",
+        "mots_cles": [
+          "patience",
+          "endurance",
+          "discipline",
+          "nécessité"
+        ]
+      },
+      "negative": {
+        "famille": "Frustration",
+        "description": "La fixation sur ce qui manque peut entretenir le ressentiment et l'impuissance.",
+        "mots_cles": [
+          "frustration",
+          "privation",
+          "ressentiment",
+          "impuissance"
+        ]
+      },
+      "image": {
+        "fichier": "images/runes/10.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Nauthiz"
+      }
+    },
+    {
+      "tradition": "Runes nordiques",
+      "id": "Runes nordiques:11",
+      "titre": "Isa",
+      "symbole": "ᛁ",
+      "theme": "L’immobilité",
+      "positive": {
+        "famille": "Maîtrise de soi",
+        "description": "Suspendre l'action permet de retrouver le calme et de discerner le moment opportun.",
+        "mots_cles": [
+          "calme",
+          "patience",
+          "introspection",
+          "maîtrise de soi"
+        ]
+      },
+      "negative": {
+        "famille": "Stagnation",
+        "description": "Une pause prolongée par peur du changement risque de devenir un blocage.",
+        "mots_cles": [
+          "stagnation",
+          "blocage",
+          "rigidité",
+          "immobilisme"
+        ]
+      },
+      "image": {
+        "fichier": "images/runes/11.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Isa"
+      }
+    },
+    {
+      "tradition": "Runes nordiques",
+      "id": "Runes nordiques:12",
+      "titre": "Jera",
+      "symbole": "ᛃ",
+      "theme": "La récolte",
+      "positive": {
+        "famille": "Accomplissement",
+        "description": "Respecter le rythme des cycles permet de recueillir les fruits d'un effort régulier.",
+        "mots_cles": [
+          "cycle",
+          "récolte",
+          "patience",
+          "persévérance",
+          "accomplissement"
+        ]
+      },
+      "negative": {
+        "famille": "Impatience",
+        "description": "Exiger des résultats avant leur maturation peut compromettre le travail déjà réalisé.",
+        "mots_cles": [
+          "impatience",
+          "précipitation",
+          "frustration"
+        ]
+      },
+      "image": {
+        "fichier": "images/runes/12.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Jera"
+      }
+    },
+    {
+      "tradition": "Runes nordiques",
+      "id": "Runes nordiques:13",
+      "titre": "Eihwaz",
+      "symbole": "ᛇ",
+      "theme": "La continuité",
+      "positive": {
+        "famille": "Résilience",
+        "description": "La solidité intérieure permet de traverser les transitions sans perdre ses repères essentiels.",
+        "mots_cles": [
+          "résilience",
+          "transformation",
+          "endurance",
+          "stabilité"
+        ]
+      },
+      "negative": {
+        "famille": "Résistance",
+        "description": "S'accrocher à des formes anciennes peut empêcher une évolution nécessaire.",
+        "mots_cles": [
+          "résistance",
+          "attachement",
+          "peur",
+          "rigidité"
+        ]
+      },
+      "image": {
+        "fichier": "images/runes/13.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Eihwaz"
+      }
+    },
+    {
+      "tradition": "Runes nordiques",
+      "id": "Runes nordiques:14",
+      "titre": "Perthro",
+      "symbole": "ᛈ",
+      "theme": "Le mystère",
+      "positive": {
+        "famille": "Découverte",
+        "description": "Accueillir l'incertitude avec curiosité ouvre des perspectives inattendues.",
+        "mots_cles": [
+          "mystère",
+          "hasard",
+          "découverte",
+          "curiosité"
+        ]
+      },
+      "negative": {
+        "famille": "Fatalisme",
+        "description": "Attribuer toute décision au destin peut conduire à renoncer à sa responsabilité.",
+        "mots_cles": [
+          "fatalisme",
+          "illusion",
+          "passivité",
+          "impuissance"
+        ]
+      },
+      "image": {
+        "fichier": "images/runes/14.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Perthro"
+      }
+    },
+    {
+      "tradition": "Runes nordiques",
+      "id": "Runes nordiques:15",
+      "titre": "Algiz",
+      "symbole": "ᛉ",
+      "theme": "La protection",
+      "positive": {
+        "famille": "Vigilance",
+        "description": "Une attention lucide à son environnement aide à préserver son équilibre et ses limites.",
+        "mots_cles": [
+          "vigilance",
+          "protection",
+          "prudence",
+          "discernement"
+        ]
+      },
+      "negative": {
+        "famille": "Méfiance",
+        "description": "La peur permanente du danger peut isoler et empêcher la confiance.",
+        "mots_cles": [
+          "méfiance",
+          "peur",
+          "isolement",
+          "contrôle"
+        ]
+      },
+      "image": {
+        "fichier": "images/runes/15.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Algiz"
+      }
+    },
+    {
+      "tradition": "Runes nordiques",
+      "id": "Runes nordiques:16",
+      "titre": "Sowilo",
+      "symbole": "ᛊ",
+      "theme": "Le soleil",
+      "positive": {
+        "famille": "Rayonnement",
+        "description": "La clarté et la confiance donnent de l'élan aux projets et encouragent le partage.",
+        "mots_cles": [
+          "lumière",
+          "confiance",
+          "joie",
+          "réussite",
+          "rayonnement"
+        ]
+      },
+      "negative": {
+        "famille": "Orgueil",
+        "description": "Vouloir briller à tout prix peut masquer ses limites et diminuer les autres.",
+        "mots_cles": [
+          "orgueil",
+          "vanité",
+          "domination",
+          "aveuglement"
+        ]
+      },
+      "image": {
+        "fichier": "images/runes/16.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Sowilo"
+      }
+    },
+    {
+      "tradition": "Runes nordiques",
+      "id": "Runes nordiques:17",
+      "titre": "Tiwaz",
+      "symbole": "ᛏ",
+      "theme": "La justice",
+      "positive": {
+        "famille": "Courage",
+        "description": "Agir avec intégrité demande parfois de défendre une décision juste malgré les difficultés.",
+        "mots_cles": [
+          "justice",
+          "courage",
+          "intégrité",
+          "responsabilité"
+        ]
+      },
+      "negative": {
+        "famille": "Intransigeance",
+        "description": "La défense d'un principe peut devenir dureté si elle refuse toute nuance.",
+        "mots_cles": [
+          "rigidité",
+          "jugement",
+          "dureté",
+          "conflit"
+        ]
+      },
+      "image": {
+        "fichier": "images/runes/17.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Tiwaz"
+      }
+    },
+    {
+      "tradition": "Runes nordiques",
+      "id": "Runes nordiques:18",
+      "titre": "Berkano",
+      "symbole": "ᛒ",
+      "theme": "La naissance",
+      "positive": {
+        "famille": "Croissance",
+        "description": "Prendre soin de ce qui commence favorise une croissance progressive et durable.",
+        "mots_cles": [
+          "croissance",
+          "naissance",
+          "protection",
+          "patience",
+          "renouveau"
+        ]
+      },
+      "negative": {
+        "famille": "Surprotection",
+        "description": "Protéger sans laisser d'autonomie peut freiner le développement.",
+        "mots_cles": [
+          "possessivité",
+          "contrôle",
+          "dépendance",
+          "peur"
+        ]
+      },
+      "image": {
+        "fichier": "images/runes/18.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Berkano"
+      }
+    },
+    {
+      "tradition": "Runes nordiques",
+      "id": "Runes nordiques:19",
+      "titre": "Ehwaz",
+      "symbole": "ᛖ",
+      "theme": "Le mouvement",
+      "positive": {
+        "famille": "Coopération",
+        "description": "La confiance mutuelle et la coordination permettent d'avancer ensemble.",
+        "mots_cles": [
+          "coopération",
+          "confiance",
+          "mouvement",
+          "union"
+        ]
+      },
+      "negative": {
+        "famille": "Instabilité",
+        "description": "Changer constamment de direction fragilise les engagements communs.",
+        "mots_cles": [
+          "instabilité",
+          "inconstance",
+          "dispersion",
+          "doute"
+        ]
+      },
+      "image": {
+        "fichier": "images/runes/19.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Ehwaz"
+      }
+    },
+    {
+      "tradition": "Runes nordiques",
+      "id": "Runes nordiques:20",
+      "titre": "Mannaz",
+      "symbole": "ᛗ",
+      "theme": "L’humanité",
+      "positive": {
+        "famille": "Connaissance de soi",
+        "description": "Comprendre ses propres limites et reconnaître celles des autres nourrit la fraternité.",
+        "mots_cles": [
+          "introspection",
+          "humanité",
+          "fraternité",
+          "connaissance"
+        ]
+      },
+      "negative": {
+        "famille": "Égocentrisme",
+        "description": "Se croire au centre de toute situation peut empêcher une relation authentique.",
+        "mots_cles": [
+          "égoïsme",
+          "orgueil",
+          "isolement",
+          "vanité"
+        ]
+      },
+      "image": {
+        "fichier": "images/runes/20.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Mannaz"
+      }
+    },
+    {
+      "tradition": "Runes nordiques",
+      "id": "Runes nordiques:21",
+      "titre": "Laguz",
+      "symbole": "ᛚ",
+      "theme": "L’eau",
+      "positive": {
+        "famille": "Intuition",
+        "description": "Écouter ses émotions sans les confondre avec des certitudes favorise l'adaptation.",
+        "mots_cles": [
+          "intuition",
+          "émotion",
+          "fluidité",
+          "adaptation"
+        ]
+      },
+      "negative": {
+        "famille": "Confusion",
+        "description": "Se laisser emporter par ses impressions peut brouiller le discernement.",
+        "mots_cles": [
+          "confusion",
+          "illusion",
+          "angoisse",
+          "hypersensibilité"
+        ]
+      },
+      "image": {
+        "fichier": "images/runes/21.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Laguz"
+      }
+    },
+    {
+      "tradition": "Runes nordiques",
+      "id": "Runes nordiques:22",
+      "titre": "Ingwaz",
+      "symbole": "ᛜ",
+      "theme": "La gestation",
+      "positive": {
+        "famille": "Potentiel",
+        "description": "Laisser mûrir un projet en préservant ses ressources prépare un commencement solide.",
+        "mots_cles": [
+          "potentiel",
+          "maturation",
+          "patience",
+          "création"
+        ]
+      },
+      "negative": {
+        "famille": "Enfermement",
+        "description": "Garder indéfiniment ses idées en réserve peut empêcher leur réalisation.",
+        "mots_cles": [
+          "enfermement",
+          "passivité",
+          "blocage",
+          "peur"
+        ]
+      },
+      "image": {
+        "fichier": "images/runes/22.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Ingwaz"
+      }
+    },
+    {
+      "tradition": "Runes nordiques",
+      "id": "Runes nordiques:23",
+      "titre": "Dagaz",
+      "symbole": "ᛞ",
+      "theme": "L’aube",
+      "positive": {
+        "famille": "Éveil",
+        "description": "Un changement de regard peut révéler une issue jusque-là invisible.",
+        "mots_cles": [
+          "éveil",
+          "clarté",
+          "renouveau",
+          "révélation"
+        ]
+      },
+      "negative": {
+        "famille": "Désorientation",
+        "description": "Une transition rapide peut déstabiliser lorsque les anciens repères disparaissent.",
+        "mots_cles": [
+          "confusion",
+          "instabilité",
+          "peur",
+          "rupture"
+        ]
+      },
+      "image": {
+        "fichier": "images/runes/23.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Dagaz"
+      }
+    },
+    {
+      "tradition": "Runes nordiques",
+      "id": "Runes nordiques:24",
+      "titre": "Othala",
+      "symbole": "ᛟ",
+      "theme": "L’héritage",
+      "positive": {
+        "famille": "Transmission",
+        "description": "Recevoir et partager un héritage permet de nourrir son identité tout en la faisant évoluer.",
+        "mots_cles": [
+          "transmission",
+          "tradition",
+          "famille",
+          "identité"
+        ]
+      },
+      "negative": {
+        "famille": "Exclusion",
+        "description": "L'attachement exclusif aux origines peut devenir rejet de la différence.",
+        "mots_cles": [
+          "exclusion",
+          "conformisme",
+          "attachement",
+          "intolérance"
+        ]
+      },
+      "image": {
+        "fichier": "images/runes/24.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Othala"
+      }
+    }
+  ]
+}

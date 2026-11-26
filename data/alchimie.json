@@ -1,0 +1,763 @@
+{
+  "version": "1.5",
+  "tradition": "Alchimie",
+  "references": [
+    {
+      "tradition": "Alchimie",
+      "nombre_symboles": 30,
+      "source": "Synthèse éditoriale originale ; sources historiques à compléter"
+    }
+  ],
+  "symboles": [
+    {
+      "tradition": "Alchimie",
+      "id": "Alchimie:soufre",
+      "titre": "Soufre",
+      "symbole": "Soufre",
+      "theme": "Énergie",
+      "signification_fondamentale": "Énergie",
+      "positive": {
+        "famille": "Volonté",
+        "description": "Fais preuve de détermination, mais veille à ne pas disperser ton énergie.",
+        "mots_cles": [
+          "volonté",
+          "énergie"
+        ]
+      },
+      "negative": {
+        "famille": "Emportement",
+        "description": "Apprends à canaliser ton énergie pour qu’elle devienne une force constructive plutôt qu’une source de déséquilibre.",
+        "mots_cles": [
+          "emportement",
+          "énergie"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Alchimie",
+      "id": "Alchimie:mercure-principe",
+      "titre": "Mercure principe",
+      "symbole": "Mercure principe",
+      "theme": "Médiation",
+      "signification_fondamentale": "Médiation",
+      "positive": {
+        "famille": "Adaptabilité",
+        "description": "Fais preuve de souplesse face aux événements et cherche à rétablir l’harmonie par le dialogue et la compréhension mutuelle.",
+        "mots_cles": [
+          "adaptabilité",
+          "médiation"
+        ]
+      },
+      "negative": {
+        "famille": "Instabilité",
+        "description": "Lorsque tes émotions sont instables, il devient plus difficile de trouver un équilibre et de rétablir l’harmonie entre les personnes.",
+        "mots_cles": [
+          "instabilité",
+          "médiation"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Alchimie",
+      "id": "Alchimie:sel",
+      "titre": "Sel",
+      "symbole": "Sel",
+      "theme": "Fixation",
+      "signification_fondamentale": "Fixation",
+      "positive": {
+        "famille": "Stabilité",
+        "description": "Recherche la stabilité sans t'enfermer dans des habitudes qui pourraient freiner ton évolution.",
+        "mots_cles": [
+          "stabilité",
+          "fixation"
+        ]
+      },
+      "negative": {
+        "famille": "Rigidité",
+        "description": "À trop vouloir maintenir les choses en l’état, tu risques de freiner ta propre évolution.",
+        "mots_cles": [
+          "rigidité",
+          "fixation"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Alchimie",
+      "id": "Alchimie:feu",
+      "titre": "Feu",
+      "symbole": "Feu",
+      "theme": "Transformation",
+      "signification_fondamentale": "Transformation",
+      "positive": {
+        "famille": "Élan",
+        "description": "Laisse ton élan intérieur te guider, tout en restant attentif aux transformations qu’il peut engendrer.",
+        "mots_cles": [
+          "élan",
+          "transformation"
+        ]
+      },
+      "negative": {
+        "famille": "Destruction",
+        "description": "Toute transformation implique de laisser certaines choses derrière soi, mais détruire sans discernement peut empêcher le renouveau.",
+        "mots_cles": [
+          "destruction",
+          "transformation"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Alchimie",
+      "id": "Alchimie:eau",
+      "titre": "Eau",
+      "symbole": "Eau",
+      "theme": "Fluidité",
+      "signification_fondamentale": "Fluidité",
+      "positive": {
+        "famille": "Réceptivité",
+        "description": "Accueille ce qui se présente à toi et laisse les événements suivre leur cours, sans chercher à tout contrôler",
+        "mots_cles": [
+          "réceptivité",
+          "fluidité"
+        ]
+      },
+      "negative": {
+        "famille": "Dissolution",
+        "description": "S’adapter aux changements est une force, mais attention à ne pas te perdre en cherchant à suivre tous les courants.",
+        "mots_cles": [
+          "dissolution",
+          "fluidité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Alchimie",
+      "id": "Alchimie:air",
+      "titre": "Air",
+      "symbole": "Air",
+      "theme": "Pensée",
+      "signification_fondamentale": "Pensée",
+      "positive": {
+        "famille": "Liberté",
+        "description": "Ouvre-toi à de nouvelles possibilités, sans perdre de vue l’importance du discernement et de la réflexion.",
+        "mots_cles": [
+          "liberté",
+          "pensée"
+        ]
+      },
+      "negative": {
+        "famille": "Dispersion",
+        "description": "Lorsque tes pensées se dispersent dans trop de directions, tu risques de perdre ta clarté d’esprit et de t’éloigner de l’essentiel.",
+        "mots_cles": [
+          "dispersion",
+          "pensée"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Alchimie",
+      "id": "Alchimie:terre",
+      "titre": "Terre",
+      "symbole": "Terre",
+      "theme": "Matière",
+      "signification_fondamentale": "Matière",
+      "positive": {
+        "famille": "Ancrage",
+        "description": "Prends le temps de t’ancrer dans le présent et de construire sur des bases solides, sans négliger les aspects concrets de ta situation.",
+        "mots_cles": [
+          "ancrage",
+          "matière"
+        ]
+      },
+      "negative": {
+        "famille": "Inertie",
+        "description": "Un attachement excessif aux choses matérielles peut te maintenir dans l’immobilisme et t’empêcher d’évoluer.",
+        "mots_cles": [
+          "inertie",
+          "matière"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Alchimie",
+      "id": "Alchimie:or",
+      "titre": "Or",
+      "symbole": "Or",
+      "theme": "Perfection",
+      "signification_fondamentale": "Perfection",
+      "positive": {
+        "famille": "Rayonnement",
+        "description": "Laisse s’exprimer le meilleur de toi-même, tout en cherchant à améliorer ce qui peut encore l’être.",
+        "mots_cles": [
+          "rayonnement",
+          "perfection"
+        ]
+      },
+      "negative": {
+        "famille": "Orgueil",
+        "description": "La recherche de la perfection devient un obstacle lorsque l’orgueil t’empêche de reconnaître tes erreurs et d’accepter tes imperfections.",
+        "mots_cles": [
+          "orgueil",
+          "perfection"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Alchimie",
+      "id": "Alchimie:argent",
+      "titre": "Argent",
+      "symbole": "Argent",
+      "theme": "Réceptivité",
+      "signification_fondamentale": "Réceptivité",
+      "positive": {
+        "famille": "Intuition",
+        "description": "Écoute ton intuition et reste réceptif aux nouvelles perspectives qui s’offrent à toi.",
+        "mots_cles": [
+          "intuition",
+          "réceptivité"
+        ]
+      },
+      "negative": {
+        "famille": "Illusion",
+        "description": "Reste ouvert à ce qui se présente à toi, sans laisser tes illusions ou tes attentes déformer ta perception de la réalité.",
+        "mots_cles": [
+          "illusion",
+          "réceptivité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Alchimie",
+      "id": "Alchimie:fer",
+      "titre": "Fer",
+      "symbole": "Fer",
+      "theme": "Force",
+      "signification_fondamentale": "Force",
+      "positive": {
+        "famille": "Courage",
+        "description": "Face à cette situation, explore les ressources de ton courage et prends conscience de la force qui réside en toi.",
+        "mots_cles": [
+          "courage",
+          "force"
+        ]
+      },
+      "negative": {
+        "famille": "Brutalité",
+        "description": "La véritable force réside dans la maîtrise de soi. Lorsqu’elle devient brutalité, elle détruit plutôt qu’elle ne construit.",
+        "mots_cles": [
+          "brutalité",
+          "force"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Alchimie",
+      "id": "Alchimie:cuivre",
+      "titre": "Cuivre",
+      "symbole": "Cuivre",
+      "theme": "Relation",
+      "signification_fondamentale": "Relation",
+      "positive": {
+        "famille": "Harmonie",
+        "description": "Cultive l’harmonie dans ce que tu traverses, sans oublier l’importance des liens qui t’unissent aux autres.",
+        "mots_cles": [
+          "harmonie",
+          "relation"
+        ]
+      },
+      "negative": {
+        "famille": "Séduction excessive",
+        "description": "Lorsque le désir de séduire prend le pas sur la sincérité, la relation risque de perdre son authenticité et son équilibre.",
+        "mots_cles": [
+          "séduction excessive",
+          "relation"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Alchimie",
+      "id": "Alchimie:etain",
+      "titre": "Étain",
+      "symbole": "Étain",
+      "theme": "Expansion",
+      "signification_fondamentale": "Expansion",
+      "positive": {
+        "famille": "Générosité",
+        "description": "La véritable richesse ne réside pas dans ce que tu accumules, mais dans ce que tu partages et fais grandir autour de toi.",
+        "mots_cles": [
+          "générosité",
+          "expansion"
+        ]
+      },
+      "negative": {
+        "famille": "Excès",
+        "description": "À vouloir toujours davantage, on risque de perdre le sens de ce que l’on cherche à atteindre.",
+        "mots_cles": [
+          "excès",
+          "expansion"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Alchimie",
+      "id": "Alchimie:plomb",
+      "titre": "Plomb",
+      "symbole": "Plomb",
+      "theme": "Pesanteur",
+      "signification_fondamentale": "Pesanteur",
+      "positive": {
+        "famille": "Patience",
+        "description": "La patience est une force lorsqu’elle accompagne le mouvement, mais devient un fardeau lorsqu’elle empêche d’agir.",
+        "mots_cles": [
+          "patience",
+          "pesanteur"
+        ]
+      },
+      "negative": {
+        "famille": "Découragement",
+        "description": "Le découragement donne à l’âme une pesanteur que seul l’espoir peut alléger. Ce n’est pas toujours le chemin qui est difficile, mais le poids que nous portons en nous.",
+        "mots_cles": [
+          "découragement",
+          "pesanteur"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Alchimie",
+      "id": "Alchimie:mercure-metallique",
+      "titre": "Mercure métallique",
+      "symbole": "Mercure métallique",
+      "theme": "Mobilité",
+      "signification_fondamentale": "Mobilité",
+      "positive": {
+        "famille": "Souplesse",
+        "description": "La souplesse de l’esprit ouvre des chemins là où la rigidité ne rencontre que des obstacles.",
+        "mots_cles": [
+          "souplesse",
+          "mobilité"
+        ]
+      },
+      "negative": {
+        "famille": "Fuite",
+        "description": "« Avancer ne signifie pas toujours progresser ; parfois, le mouvement n’est qu’une manière de fuir ce que l’on refuse d’affronter.",
+        "mots_cles": [
+          "fuite",
+          "mobilité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Alchimie",
+      "id": "Alchimie:nigredo",
+      "titre": "Nigredo",
+      "symbole": "Nigredo",
+      "theme": "Décomposition",
+      "signification_fondamentale": "Décomposition",
+      "positive": {
+        "famille": "Renouveau",
+        "description": "Toute renaissance porte en elle la dissolution d’un ancien équilibre.",
+        "mots_cles": [
+          "renouveau",
+          "décomposition"
+        ]
+      },
+      "negative": {
+        "famille": "Désespoir",
+        "description": "Lorsque le désespoir obscurcit notre regard, nous ne voyons dans la disparition des choses que leur fin, oubliant qu’elle prépare aussi leur renaissance.",
+        "mots_cles": [
+          "désespoir",
+          "décomposition"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Alchimie",
+      "id": "Alchimie:albedo",
+      "titre": "Albedo",
+      "symbole": "Albedo",
+      "theme": "Purification",
+      "signification_fondamentale": "Purification",
+      "positive": {
+        "famille": "Clarté",
+        "description": "La clarté naît lorsque l’esprit se libère de ce qui l’encombre. Apprends à distinguer l’essentiel du superflu pour éclairer ton chemin.",
+        "mots_cles": [
+          "clarté",
+          "purification"
+        ]
+      },
+      "negative": {
+        "famille": "Perfectionnisme",
+        "description": "La quête de pureté devient un obstacle lorsqu’elle ne laisse plus de place à l’imperfection humaine.",
+        "mots_cles": [
+          "perfectionnisme",
+          "purification"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Alchimie",
+      "id": "Alchimie:citrinitas",
+      "titre": "Citrinitas",
+      "symbole": "Citrinitas",
+      "theme": "Éveil",
+      "signification_fondamentale": "Éveil",
+      "positive": {
+        "famille": "Compréhension",
+        "description": "Au-delà des apparences, cherche le sens profond de ce que tu traverses et laisse cette compréhension éclairer ton chemin.",
+        "mots_cles": [
+          "compréhension",
+          "éveil"
+        ]
+      },
+      "negative": {
+        "famille": "Suffisance",
+        "description": "La suffisance enferme l’esprit dans ses certitudes, tandis que l’humilité ouvre le chemin de l’éveil.",
+        "mots_cles": [
+          "suffisance",
+          "éveil"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Alchimie",
+      "id": "Alchimie:rubedo",
+      "titre": "Rubedo",
+      "symbole": "Rubedo",
+      "theme": "Accomplissement",
+      "signification_fondamentale": "Accomplissement",
+      "positive": {
+        "famille": "Unification",
+        "description": "L’accomplissement ne réside pas dans la domination d’une force sur une autre, mais dans leur capacité à s’unir.",
+        "mots_cles": [
+          "unification",
+          "accomplissement"
+        ]
+      },
+      "negative": {
+        "famille": "Orgueil",
+        "description": "Le véritable accomplissement ne réside pas dans la fierté de ce que tu as réalisé, mais dans l’humilité qui te permet de continuer à grandir.",
+        "mots_cles": [
+          "orgueil",
+          "accomplissement"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Alchimie",
+      "id": "Alchimie:calcination",
+      "titre": "Calcination",
+      "symbole": "Calcination",
+      "theme": "Épreuve",
+      "signification_fondamentale": "Épreuve",
+      "positive": {
+        "famille": "Détachement",
+        "description": "Le détachement ne consiste pas à ignorer l’épreuve, mais à ne pas lui laisser le pouvoir de troubler ta paix intérieure.",
+        "mots_cles": [
+          "détachement",
+          "épreuve"
+        ]
+      },
+      "negative": {
+        "famille": "Acharnement",
+        "description": "L’épreuve invite au dépassement de soi, mais l’acharnement peut transformer la volonté de vaincre en un obstacle à sa propre évolution.",
+        "mots_cles": [
+          "acharnement",
+          "épreuve"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Alchimie",
+      "id": "Alchimie:dissolution",
+      "titre": "Dissolution",
+      "symbole": "Dissolution",
+      "theme": "Assouplissement",
+      "signification_fondamentale": "Assouplissement",
+      "positive": {
+        "famille": "Ouverture",
+        "description": "L’ouverture d’esprit commence lorsque tu acceptes de remettre en question tes certitudes sans craindre de transformer ta manière de voir le monde.",
+        "mots_cles": [
+          "ouverture",
+          "assouplissement"
+        ]
+      },
+      "negative": {
+        "famille": "Perte de repères",
+        "description": "À vouloir assouplir toutes tes convictions, tu risques de perdre les repères qui donnent une direction à ta liberté.",
+        "mots_cles": [
+          "perte de repères",
+          "assouplissement"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Alchimie",
+      "id": "Alchimie:separation",
+      "titre": "Séparation",
+      "symbole": "Séparation",
+      "theme": "Tri",
+      "signification_fondamentale": "Tri",
+      "positive": {
+        "famille": "Discernement",
+        "description": "Le discernement consiste à distinguer ce qui nourrit ton existence de ce qui l’encombre, sans confondre l’essentiel avec ce qui t’est familier.",
+        "mots_cles": [
+          "discernement",
+          "tri"
+        ]
+      },
+      "negative": {
+        "famille": "Division",
+        "description": "Distinguer les choses aide à les comprendre, mais les opposer systématiquement peut détruire les liens qui leur donnent du sens.",
+        "mots_cles": [
+          "division",
+          "tri"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Alchimie",
+      "id": "Alchimie:conjonction",
+      "titre": "Conjonction",
+      "symbole": "Conjonction",
+      "theme": "Union",
+      "signification_fondamentale": "Union",
+      "positive": {
+        "famille": "Coopération",
+        "description": "L’union devient féconde lorsque chacun apporte sa singularité à une œuvre commune sans renoncer à ce qui le distingue.",
+        "mots_cles": [
+          "coopération",
+          "union"
+        ]
+      },
+      "negative": {
+        "famille": "Fusion",
+        "description": "La fusion appauvrit le lien lorsqu’elle efface les différences qui faisaient la richesse de la rencontre.",
+        "mots_cles": [
+          "fusion",
+          "union"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Alchimie",
+      "id": "Alchimie:fermentation",
+      "titre": "Fermentation",
+      "symbole": "Fermentation",
+      "theme": "Maturation",
+      "signification_fondamentale": "Maturation",
+      "positive": {
+        "famille": "Émergence",
+        "description": "Comme une matière qui se transforme lentement, une idée nouvelle a besoin de temps pour mûrir avant de révéler son potentiel.",
+        "mots_cles": [
+          "émergence",
+          "maturation"
+        ]
+      },
+      "negative": {
+        "famille": "Agitation",
+        "description": "L’agitation intérieure peut étouffer ce qui cherche à naître lorsque l’impatience ne laisse plus de place à la maturation.",
+        "mots_cles": [
+          "agitation",
+          "maturation"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Alchimie",
+      "id": "Alchimie:distillation",
+      "titre": "Distillation",
+      "symbole": "Distillation",
+      "theme": "Affinement",
+      "signification_fondamentale": "Affinement",
+      "positive": {
+        "famille": "Précision",
+        "description": "La précision de la pensée se cultive en écartant progressivement le superflu pour mieux saisir l’essence des choses.",
+        "mots_cles": [
+          "précision",
+          "affinement"
+        ]
+      },
+      "negative": {
+        "famille": "Exigence excessive",
+        "description": "À vouloir affiner chaque détail jusqu’à la perfection, tu risques de perdre de vue le sens de l’ensemble.",
+        "mots_cles": [
+          "exigence excessive",
+          "affinement"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Alchimie",
+      "id": "Alchimie:coagulation",
+      "titre": "Coagulation",
+      "symbole": "Coagulation",
+      "theme": "Concrétisation",
+      "signification_fondamentale": "Concrétisation",
+      "positive": {
+        "famille": "Construction",
+        "description": "Une intention prend véritablement corps lorsque la constance des actes donne une forme durable à ce que l’esprit a imaginé.",
+        "mots_cles": [
+          "construction",
+          "concrétisation"
+        ]
+      },
+      "negative": {
+        "famille": "Fixation",
+        "description": "Ce que tu construis doit pouvoir évoluer, car un attachement excessif à sa forme initiale peut compromettre sa raison d’être.",
+        "mots_cles": [
+          "fixation",
+          "concrétisation"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Alchimie",
+      "id": "Alchimie:ouroboros",
+      "titre": "Ouroboros",
+      "symbole": "Ouroboros",
+      "theme": "Cycle",
+      "signification_fondamentale": "Cycle",
+      "positive": {
+        "famille": "Renouvellement",
+        "description": "Chaque cycle offre la possibilité de revenir à un point familier avec un regard enrichi par le chemin parcouru.",
+        "mots_cles": [
+          "renouvellement",
+          "cycle"
+        ]
+      },
+      "negative": {
+        "famille": "Répétition",
+        "description": "La répétition devient un cercle fermé lorsque les expériences vécues ne transforment ni tes choix ni ta compréhension.",
+        "mots_cles": [
+          "répétition",
+          "cycle"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Alchimie",
+      "id": "Alchimie:phenix",
+      "titre": "Phénix",
+      "symbole": "Phénix",
+      "theme": "Renaissance",
+      "signification_fondamentale": "Renaissance",
+      "positive": {
+        "famille": "Résilience",
+        "description": "La résilience ne consiste pas à redevenir celui que tu étais, mais à donner une forme nouvelle à ton existence après l’épreuve.",
+        "mots_cles": [
+          "résilience",
+          "renaissance"
+        ]
+      },
+      "negative": {
+        "famille": "Destruction répétée",
+        "description": "À vouloir sans cesse renaître de tes cendres, tu risques d’oublier que grandir demande aussi de préserver ce qui mérite de durer.",
+        "mots_cles": [
+          "destruction répétée",
+          "renaissance"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Alchimie",
+      "id": "Alchimie:lion-vert",
+      "titre": "Lion vert",
+      "symbole": "Lion vert",
+      "theme": "Puissance brute",
+      "signification_fondamentale": "Puissance brute",
+      "positive": {
+        "famille": "Vitalité",
+        "description": "La vitalité devient une force créatrice lorsque tu apprends à orienter ton énergie instinctive vers ce qui nourrit la vie.",
+        "mots_cles": [
+          "vitalité",
+          "puissance brute"
+        ]
+      },
+      "negative": {
+        "famille": "Dévoration",
+        "description": "Une puissance livrée à ses seuls appétits risque de dévorer jusqu’à ce qui lui permet de grandir.",
+        "mots_cles": [
+          "dévoration",
+          "puissance brute"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Alchimie",
+      "id": "Alchimie:rebis",
+      "titre": "Rebis",
+      "symbole": "Rebis",
+      "theme": "Complémentarité",
+      "signification_fondamentale": "Complémentarité",
+      "positive": {
+        "famille": "Équilibre",
+        "description": "L’équilibre intérieur naît de la capacité à faire dialoguer les forces opposées en toi plutôt qu’à chercher à faire triompher l’une sur l’autre.",
+        "mots_cles": [
+          "équilibre",
+          "complémentarité"
+        ]
+      },
+      "negative": {
+        "famille": "Confusion",
+        "description": "La complémentarité perd son sens lorsque tu confonds les différences au lieu de reconnaître la place et la valeur de chacune.",
+        "mots_cles": [
+          "confusion",
+          "complémentarité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    },
+    {
+      "tradition": "Alchimie",
+      "id": "Alchimie:pierre-philosophale",
+      "titre": "Pierre philosophale",
+      "symbole": "Pierre philosophale",
+      "theme": "Transmutation",
+      "signification_fondamentale": "Transmutation",
+      "positive": {
+        "famille": "Réalisation",
+        "description": "La plus profonde des transmutations consiste à transformer la matière de tes expériences en une compréhension qui enrichit ta manière de vivre.",
+        "mots_cles": [
+          "réalisation",
+          "transmutation"
+        ]
+      },
+      "negative": {
+        "famille": "Obsession",
+        "description": "La quête de transformation devient une obsession lorsque l’idéal à atteindre t’empêche de reconnaître la valeur de ce que tu es déjà.",
+        "mots_cles": [
+          "obsession",
+          "transmutation"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive"
+    }
+  ]
+}

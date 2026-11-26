@@ -1,0 +1,2189 @@
+{
+  "version": "1.5",
+  "tradition": "Yi Jing",
+  "references": [
+    {
+      "tradition": "Yi Jing",
+      "nombre_symboles": 64,
+      "source": "yi-jing-v05.json"
+    }
+  ],
+  "symboles": [
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:1",
+      "titre": "1 — Le Créateur",
+      "symbole": "䷀",
+      "theme": "Le Créateur",
+      "positive": {
+        "famille": "Création",
+        "description": "Création : initiative, force, inspiration. Cette lecture invite à cultiver initiative, force, inspiration.",
+        "mots_cles": [
+          "initiative",
+          "force",
+          "inspiration"
+        ]
+      },
+      "negative": {
+        "famille": "Domination",
+        "description": "Domination : orgueil, autoritarisme, excès. Cette lecture invite à reconnaître les risques liés à orgueil, autoritarisme, excès.",
+        "mots_cles": [
+          "orgueil",
+          "autoritarisme",
+          "excès"
+        ]
+      },
+      "nombre": 1,
+      "signification_fondamentale": "Le Créateur",
+      "image": {
+        "fichier": "images/yijing/01.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "1 — Le Créateur"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:2",
+      "titre": "2 — Le Réceptif",
+      "symbole": "䷁",
+      "theme": "Le Réceptif",
+      "positive": {
+        "famille": "Accueil",
+        "description": "Accueil : patience, disponibilité, fécondité. Cette lecture invite à cultiver patience, disponibilité, fécondité.",
+        "mots_cles": [
+          "patience",
+          "disponibilité",
+          "fécondité"
+        ]
+      },
+      "negative": {
+        "famille": "Passivité",
+        "description": "Passivité : soumission, dépendance, effacement. Cette lecture invite à reconnaître les risques liés à soumission, dépendance, effacement.",
+        "mots_cles": [
+          "soumission",
+          "dépendance",
+          "effacement"
+        ]
+      },
+      "nombre": 2,
+      "signification_fondamentale": "Le Réceptif",
+      "image": {
+        "fichier": "images/yijing/02.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "2 — Le Réceptif"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:3",
+      "titre": "3 — La difficulté initiale",
+      "symbole": "䷂",
+      "theme": "La difficulté initiale",
+      "positive": {
+        "famille": "Commencement",
+        "description": "Commencement : persévérance, organisation, apprentissage. Cette lecture invite à cultiver persévérance, organisation, apprentissage.",
+        "mots_cles": [
+          "persévérance",
+          "organisation",
+          "apprentissage"
+        ]
+      },
+      "negative": {
+        "famille": "Confusion",
+        "description": "Confusion : désordre, découragement, précipitation. Cette lecture invite à reconnaître les risques liés à désordre, découragement, précipitation.",
+        "mots_cles": [
+          "désordre",
+          "découragement",
+          "précipitation"
+        ]
+      },
+      "nombre": 3,
+      "signification_fondamentale": "La difficulté initiale",
+      "image": {
+        "fichier": "images/yijing/03.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "3 — La difficulté initiale"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:4",
+      "titre": "4 — La folie juvénile",
+      "symbole": "䷃",
+      "theme": "La folie juvénile",
+      "positive": {
+        "famille": "Apprentissage",
+        "description": "Apprentissage : humilité, curiosité, éducation. Cette lecture invite à cultiver humilité, curiosité, éducation.",
+        "mots_cles": [
+          "humilité",
+          "curiosité",
+          "éducation"
+        ]
+      },
+      "negative": {
+        "famille": "Ignorance",
+        "description": "Ignorance : naïveté, arrogance, obstination. Cette lecture invite à reconnaître les risques liés à naïveté, arrogance, obstination.",
+        "mots_cles": [
+          "naïveté",
+          "arrogance",
+          "obstination"
+        ]
+      },
+      "nombre": 4,
+      "signification_fondamentale": "La folie juvénile",
+      "image": {
+        "fichier": "images/yijing/04.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "4 — La folie juvénile"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:5",
+      "titre": "5 — L'attente",
+      "symbole": "䷄",
+      "theme": "L'attente",
+      "positive": {
+        "famille": "Patience",
+        "description": "Patience : confiance, préparation, timing. Cette lecture invite à cultiver confiance, préparation, timing.",
+        "mots_cles": [
+          "confiance",
+          "préparation",
+          "timing"
+        ]
+      },
+      "negative": {
+        "famille": "Impatience",
+        "description": "Impatience : anxiété, inertie, frustration. Cette lecture invite à reconnaître les risques liés à anxiété, inertie, frustration.",
+        "mots_cles": [
+          "anxiété",
+          "inertie",
+          "frustration"
+        ]
+      },
+      "nombre": 5,
+      "signification_fondamentale": "L'attente",
+      "image": {
+        "fichier": "images/yijing/05.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "5 — L'attente"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:6",
+      "titre": "6 — Le conflit",
+      "symbole": "䷅",
+      "theme": "Le conflit",
+      "positive": {
+        "famille": "Conciliation",
+        "description": "Conciliation : justice, dialogue, discernement. Cette lecture invite à cultiver justice, dialogue, discernement.",
+        "mots_cles": [
+          "justice",
+          "dialogue",
+          "discernement"
+        ]
+      },
+      "negative": {
+        "famille": "Affrontement",
+        "description": "Affrontement : rivalité, rancune, hostilité. Cette lecture invite à reconnaître les risques liés à rivalité, rancune, hostilité.",
+        "mots_cles": [
+          "rivalité",
+          "rancune",
+          "hostilité"
+        ]
+      },
+      "nombre": 6,
+      "signification_fondamentale": "Le conflit",
+      "image": {
+        "fichier": "images/yijing/06.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "6 — Le conflit"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:7",
+      "titre": "7 — L'armée",
+      "symbole": "䷆",
+      "theme": "L'armée",
+      "positive": {
+        "famille": "Discipline",
+        "description": "Discipline : coordination, responsabilité, stratégie. Cette lecture invite à cultiver coordination, responsabilité, stratégie.",
+        "mots_cles": [
+          "coordination",
+          "responsabilité",
+          "stratégie"
+        ]
+      },
+      "negative": {
+        "famille": "Coercition",
+        "description": "Coercition : violence, obéissance aveugle, oppression. Cette lecture invite à reconnaître les risques liés à violence, obéissance aveugle, oppression.",
+        "mots_cles": [
+          "violence",
+          "obéissance aveugle",
+          "oppression"
+        ]
+      },
+      "nombre": 7,
+      "signification_fondamentale": "L'armée",
+      "image": {
+        "fichier": "images/yijing/07.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "7 — L'armée"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:8",
+      "titre": "8 — La solidarité",
+      "symbole": "䷇",
+      "theme": "La solidarité",
+      "positive": {
+        "famille": "Union",
+        "description": "Union : entraide, fidélité, appartenance. Cette lecture invite à cultiver entraide, fidélité, appartenance.",
+        "mots_cles": [
+          "entraide",
+          "fidélité",
+          "appartenance"
+        ]
+      },
+      "negative": {
+        "famille": "Conformisme",
+        "description": "Conformisme : dépendance, exclusion, pression collective. Cette lecture invite à reconnaître les risques liés à dépendance, exclusion, pression collective.",
+        "mots_cles": [
+          "dépendance",
+          "exclusion",
+          "pression collective"
+        ]
+      },
+      "nombre": 8,
+      "signification_fondamentale": "La solidarité",
+      "image": {
+        "fichier": "images/yijing/08.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "8 — La solidarité"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:9",
+      "titre": "9 — Le pouvoir d'apprivoisement du petit",
+      "symbole": "䷈",
+      "theme": "Le pouvoir d'apprivoisement du petit",
+      "positive": {
+        "famille": "Progression",
+        "description": "Progression : retenue, douceur, petits pas. Cette lecture invite à cultiver retenue, douceur, petits pas.",
+        "mots_cles": [
+          "retenue",
+          "douceur",
+          "petits pas"
+        ]
+      },
+      "negative": {
+        "famille": "Frustration",
+        "description": "Frustration : impuissance, dispersion, impatience. Cette lecture invite à reconnaître les risques liés à impuissance, dispersion, impatience.",
+        "mots_cles": [
+          "impuissance",
+          "dispersion",
+          "impatience"
+        ]
+      },
+      "nombre": 9,
+      "signification_fondamentale": "Le pouvoir d'apprivoisement du petit",
+      "image": {
+        "fichier": "images/yijing/09.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "9 — Le pouvoir d'apprivoisement du petit"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:10",
+      "titre": "10 — La marche",
+      "symbole": "䷉",
+      "theme": "La marche",
+      "positive": {
+        "famille": "Prudence",
+        "description": "Prudence : respect, tact, courage. Cette lecture invite à cultiver respect, tact, courage.",
+        "mots_cles": [
+          "respect",
+          "tact",
+          "courage"
+        ]
+      },
+      "negative": {
+        "famille": "Imprudence",
+        "description": "Imprudence : provocation, arrogance, danger. Cette lecture invite à reconnaître les risques liés à provocation, arrogance, danger.",
+        "mots_cles": [
+          "provocation",
+          "arrogance",
+          "danger"
+        ]
+      },
+      "nombre": 10,
+      "signification_fondamentale": "La marche",
+      "image": {
+        "fichier": "images/yijing/10.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "10 — La marche"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:11",
+      "titre": "11 — La paix",
+      "symbole": "䷊",
+      "theme": "La paix",
+      "positive": {
+        "famille": "Harmonie",
+        "description": "Harmonie : équilibre, coopération, prospérité. Cette lecture invite à cultiver équilibre, coopération, prospérité.",
+        "mots_cles": [
+          "équilibre",
+          "coopération",
+          "prospérité"
+        ]
+      },
+      "negative": {
+        "famille": "Complaisance",
+        "description": "Complaisance : relâchement, naïveté, stagnation. Cette lecture invite à reconnaître les risques liés à relâchement, naïveté, stagnation.",
+        "mots_cles": [
+          "relâchement",
+          "naïveté",
+          "stagnation"
+        ]
+      },
+      "nombre": 11,
+      "signification_fondamentale": "La paix",
+      "image": {
+        "fichier": "images/yijing/11.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "11 — La paix"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:12",
+      "titre": "12 — La stagnation",
+      "symbole": "䷋",
+      "theme": "La stagnation",
+      "positive": {
+        "famille": "Préservation",
+        "description": "Préservation : recul, intégrité, patience. Cette lecture invite à cultiver recul, intégrité, patience.",
+        "mots_cles": [
+          "recul",
+          "intégrité",
+          "patience"
+        ]
+      },
+      "negative": {
+        "famille": "Blocage",
+        "description": "Blocage : isolement, fermeture, impuissance. Cette lecture invite à reconnaître les risques liés à isolement, fermeture, impuissance.",
+        "mots_cles": [
+          "isolement",
+          "fermeture",
+          "impuissance"
+        ]
+      },
+      "nombre": 12,
+      "signification_fondamentale": "La stagnation",
+      "image": {
+        "fichier": "images/yijing/12.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "12 — La stagnation"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:13",
+      "titre": "13 — La communauté avec les hommes",
+      "symbole": "䷌",
+      "theme": "La communauté avec les hommes",
+      "positive": {
+        "famille": "Fraternité",
+        "description": "Fraternité : ouverture, coopération, solidarité. Cette lecture invite à cultiver ouverture, coopération, solidarité.",
+        "mots_cles": [
+          "ouverture",
+          "coopération",
+          "solidarité"
+        ]
+      },
+      "negative": {
+        "famille": "Clanisme",
+        "description": "Clanisme : exclusion, favoritisme, conformisme. Cette lecture invite à reconnaître les risques liés à exclusion, favoritisme, conformisme.",
+        "mots_cles": [
+          "exclusion",
+          "favoritisme",
+          "conformisme"
+        ]
+      },
+      "nombre": 13,
+      "signification_fondamentale": "La communauté avec les hommes",
+      "image": {
+        "fichier": "images/yijing/13.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "13 — La communauté avec les hommes"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:14",
+      "titre": "14 — Le grand avoir",
+      "symbole": "䷍",
+      "theme": "Le grand avoir",
+      "positive": {
+        "famille": "Abondance",
+        "description": "Abondance : générosité, responsabilité, réussite. Cette lecture invite à cultiver générosité, responsabilité, réussite.",
+        "mots_cles": [
+          "générosité",
+          "responsabilité",
+          "réussite"
+        ]
+      },
+      "negative": {
+        "famille": "Avidité",
+        "description": "Avidité : possession, vanité, gaspillage. Cette lecture invite à reconnaître les risques liés à possession, vanité, gaspillage.",
+        "mots_cles": [
+          "possession",
+          "vanité",
+          "gaspillage"
+        ]
+      },
+      "nombre": 14,
+      "signification_fondamentale": "Le grand avoir",
+      "image": {
+        "fichier": "images/yijing/14.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "14 — Le grand avoir"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:15",
+      "titre": "15 — L'humilité",
+      "symbole": "䷎",
+      "theme": "L'humilité",
+      "positive": {
+        "famille": "Modestie",
+        "description": "Modestie : simplicité, mesure, respect. Cette lecture invite à cultiver simplicité, mesure, respect.",
+        "mots_cles": [
+          "simplicité",
+          "mesure",
+          "respect"
+        ]
+      },
+      "negative": {
+        "famille": "Effacement",
+        "description": "Effacement : dévalorisation, soumission, timidité. Cette lecture invite à reconnaître les risques liés à dévalorisation, soumission, timidité.",
+        "mots_cles": [
+          "dévalorisation",
+          "soumission",
+          "timidité"
+        ]
+      },
+      "nombre": 15,
+      "signification_fondamentale": "L'humilité",
+      "image": {
+        "fichier": "images/yijing/15.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "15 — L'humilité"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:16",
+      "titre": "16 — L'enthousiasme",
+      "symbole": "䷏",
+      "theme": "L'enthousiasme",
+      "positive": {
+        "famille": "Mobilisation",
+        "description": "Mobilisation : joie, inspiration, engagement. Cette lecture invite à cultiver joie, inspiration, engagement.",
+        "mots_cles": [
+          "joie",
+          "inspiration",
+          "engagement"
+        ]
+      },
+      "negative": {
+        "famille": "Emballement",
+        "description": "Emballement : illusion, agitation, excès. Cette lecture invite à reconnaître les risques liés à illusion, agitation, excès.",
+        "mots_cles": [
+          "illusion",
+          "agitation",
+          "excès"
+        ]
+      },
+      "nombre": 16,
+      "signification_fondamentale": "L'enthousiasme",
+      "image": {
+        "fichier": "images/yijing/16.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "16 — L'enthousiasme"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:17",
+      "titre": "17 — La suite",
+      "symbole": "䷐",
+      "theme": "La suite",
+      "positive": {
+        "famille": "Adaptation",
+        "description": "Adaptation : écoute, souplesse, confiance. Cette lecture invite à cultiver écoute, souplesse, confiance.",
+        "mots_cles": [
+          "écoute",
+          "souplesse",
+          "confiance"
+        ]
+      },
+      "negative": {
+        "famille": "Suivisme",
+        "description": "Suivisme : dépendance, opportunisme, conformisme. Cette lecture invite à reconnaître les risques liés à dépendance, opportunisme, conformisme.",
+        "mots_cles": [
+          "dépendance",
+          "opportunisme",
+          "conformisme"
+        ]
+      },
+      "nombre": 17,
+      "signification_fondamentale": "La suite",
+      "image": {
+        "fichier": "images/yijing/17.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "17 — La suite"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:18",
+      "titre": "18 — Le travail sur ce qui est corrompu",
+      "symbole": "䷑",
+      "theme": "Le travail sur ce qui est corrompu",
+      "positive": {
+        "famille": "Réparation",
+        "description": "Réparation : responsabilité, correction, renouvellement. Cette lecture invite à cultiver responsabilité, correction, renouvellement.",
+        "mots_cles": [
+          "responsabilité",
+          "correction",
+          "renouvellement"
+        ]
+      },
+      "negative": {
+        "famille": "Négligence",
+        "description": "Négligence : dégradation, culpabilité, répétition. Cette lecture invite à reconnaître les risques liés à dégradation, culpabilité, répétition.",
+        "mots_cles": [
+          "dégradation",
+          "culpabilité",
+          "répétition"
+        ]
+      },
+      "nombre": 18,
+      "signification_fondamentale": "Le travail sur ce qui est corrompu",
+      "image": {
+        "fichier": "images/yijing/18.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "18 — Le travail sur ce qui est corrompu"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:19",
+      "titre": "19 — L'approche",
+      "symbole": "䷒",
+      "theme": "L'approche",
+      "positive": {
+        "famille": "Proximité",
+        "description": "Proximité : bienveillance, disponibilité, accompagnement. Cette lecture invite à cultiver bienveillance, disponibilité, accompagnement.",
+        "mots_cles": [
+          "bienveillance",
+          "disponibilité",
+          "accompagnement"
+        ]
+      },
+      "negative": {
+        "famille": "Intrusion",
+        "description": "Intrusion : paternalisme, pression, contrôle. Cette lecture invite à reconnaître les risques liés à paternalisme, pression, contrôle.",
+        "mots_cles": [
+          "paternalisme",
+          "pression",
+          "contrôle"
+        ]
+      },
+      "nombre": 19,
+      "signification_fondamentale": "L'approche",
+      "image": {
+        "fichier": "images/yijing/19.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "19 — L'approche"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:20",
+      "titre": "20 — La contemplation",
+      "symbole": "䷓",
+      "theme": "La contemplation",
+      "positive": {
+        "famille": "Observation",
+        "description": "Observation : recul, méditation, lucidité. Cette lecture invite à cultiver recul, méditation, lucidité.",
+        "mots_cles": [
+          "recul",
+          "méditation",
+          "lucidité"
+        ]
+      },
+      "negative": {
+        "famille": "Détachement excessif",
+        "description": "Détachement excessif : passivité, jugement, distance. Cette lecture invite à reconnaître les risques liés à passivité, jugement, distance.",
+        "mots_cles": [
+          "passivité",
+          "jugement",
+          "distance"
+        ]
+      },
+      "nombre": 20,
+      "signification_fondamentale": "La contemplation",
+      "image": {
+        "fichier": "images/yijing/20.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "20 — La contemplation"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:21",
+      "titre": "21 — Mordre au travers",
+      "symbole": "䷔",
+      "theme": "Mordre au travers",
+      "positive": {
+        "famille": "Résolution",
+        "description": "Résolution : justice, décision, fermeté. Cette lecture invite à cultiver justice, décision, fermeté.",
+        "mots_cles": [
+          "justice",
+          "décision",
+          "fermeté"
+        ]
+      },
+      "negative": {
+        "famille": "Dureté",
+        "description": "Dureté : punition, brutalité, rigidité. Cette lecture invite à reconnaître les risques liés à punition, brutalité, rigidité.",
+        "mots_cles": [
+          "punition",
+          "brutalité",
+          "rigidité"
+        ]
+      },
+      "nombre": 21,
+      "signification_fondamentale": "Mordre au travers",
+      "image": {
+        "fichier": "images/yijing/21.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "21 — Mordre au travers"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:22",
+      "titre": "22 — La grâce",
+      "symbole": "䷕",
+      "theme": "La grâce",
+      "positive": {
+        "famille": "Beauté",
+        "description": "Beauté : élégance, simplicité, expression. Cette lecture invite à cultiver élégance, simplicité, expression.",
+        "mots_cles": [
+          "élégance",
+          "simplicité",
+          "expression"
+        ]
+      },
+      "negative": {
+        "famille": "Apparence",
+        "description": "Apparence : vanité, superficialité, artifice. Cette lecture invite à reconnaître les risques liés à vanité, superficialité, artifice.",
+        "mots_cles": [
+          "vanité",
+          "superficialité",
+          "artifice"
+        ]
+      },
+      "nombre": 22,
+      "signification_fondamentale": "La grâce",
+      "image": {
+        "fichier": "images/yijing/22.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "22 — La grâce"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:23",
+      "titre": "23 — L'éclatement",
+      "symbole": "䷖",
+      "theme": "L'éclatement",
+      "positive": {
+        "famille": "Dépouillement",
+        "description": "Dépouillement : acceptation, prudence, détachement. Cette lecture invite à cultiver acceptation, prudence, détachement.",
+        "mots_cles": [
+          "acceptation",
+          "prudence",
+          "détachement"
+        ]
+      },
+      "negative": {
+        "famille": "Effondrement",
+        "description": "Effondrement : perte, désespoir, destruction. Cette lecture invite à reconnaître les risques liés à perte, désespoir, destruction.",
+        "mots_cles": [
+          "perte",
+          "désespoir",
+          "destruction"
+        ]
+      },
+      "nombre": 23,
+      "signification_fondamentale": "L'éclatement",
+      "image": {
+        "fichier": "images/yijing/23.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "23 — L'éclatement"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:24",
+      "titre": "24 — Le retour",
+      "symbole": "䷗",
+      "theme": "Le retour",
+      "positive": {
+        "famille": "Renouveau",
+        "description": "Renouveau : recommencement, réconciliation, cycle. Cette lecture invite à cultiver recommencement, réconciliation, cycle.",
+        "mots_cles": [
+          "recommencement",
+          "réconciliation",
+          "cycle"
+        ]
+      },
+      "negative": {
+        "famille": "Répétition",
+        "description": "Répétition : rechute, regret, immobilisme. Cette lecture invite à reconnaître les risques liés à rechute, regret, immobilisme.",
+        "mots_cles": [
+          "rechute",
+          "regret",
+          "immobilisme"
+        ]
+      },
+      "nombre": 24,
+      "signification_fondamentale": "Le retour",
+      "image": {
+        "fichier": "images/yijing/24.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "24 — Le retour"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:25",
+      "titre": "25 — L'innocence",
+      "symbole": "䷘",
+      "theme": "L'innocence",
+      "positive": {
+        "famille": "Authenticité",
+        "description": "Authenticité : sincérité, spontanéité, naturel. Cette lecture invite à cultiver sincérité, spontanéité, naturel.",
+        "mots_cles": [
+          "sincérité",
+          "spontanéité",
+          "naturel"
+        ]
+      },
+      "negative": {
+        "famille": "Naïveté",
+        "description": "Naïveté : imprudence, crédulité, aveuglement. Cette lecture invite à reconnaître les risques liés à imprudence, crédulité, aveuglement.",
+        "mots_cles": [
+          "imprudence",
+          "crédulité",
+          "aveuglement"
+        ]
+      },
+      "nombre": 25,
+      "signification_fondamentale": "L'innocence",
+      "image": {
+        "fichier": "images/yijing/25.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "25 — L'innocence"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:26",
+      "titre": "26 — Le pouvoir d'apprivoisement du grand",
+      "symbole": "䷙",
+      "theme": "Le pouvoir d'apprivoisement du grand",
+      "positive": {
+        "famille": "Maîtrise",
+        "description": "Maîtrise : culture, retenue, accumulation. Cette lecture invite à cultiver culture, retenue, accumulation.",
+        "mots_cles": [
+          "culture",
+          "retenue",
+          "accumulation"
+        ]
+      },
+      "negative": {
+        "famille": "Contrôle",
+        "description": "Contrôle : répression, rigidité, accumulation excessive. Cette lecture invite à reconnaître les risques liés à répression, rigidité, accumulation excessive.",
+        "mots_cles": [
+          "répression",
+          "rigidité",
+          "accumulation excessive"
+        ]
+      },
+      "nombre": 26,
+      "signification_fondamentale": "Le pouvoir d'apprivoisement du grand",
+      "image": {
+        "fichier": "images/yijing/26.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "26 — Le pouvoir d'apprivoisement du grand"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:27",
+      "titre": "27 — Les commissures des lèvres",
+      "symbole": "䷚",
+      "theme": "Les commissures des lèvres",
+      "positive": {
+        "famille": "Nourriture",
+        "description": "Nourriture : soin, parole, discernement. Cette lecture invite à cultiver soin, parole, discernement.",
+        "mots_cles": [
+          "soin",
+          "parole",
+          "discernement"
+        ]
+      },
+      "negative": {
+        "famille": "Excès",
+        "description": "Excès : avidité, dépendance, paroles nuisibles. Cette lecture invite à reconnaître les risques liés à avidité, dépendance, paroles nuisibles.",
+        "mots_cles": [
+          "avidité",
+          "dépendance",
+          "paroles nuisibles"
+        ]
+      },
+      "nombre": 27,
+      "signification_fondamentale": "Les commissures des lèvres",
+      "image": {
+        "fichier": "images/yijing/27.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "27 — Les commissures des lèvres"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:28",
+      "titre": "28 — La prépondérance du grand",
+      "symbole": "䷛",
+      "theme": "La prépondérance du grand",
+      "positive": {
+        "famille": "Réajustement",
+        "description": "Réajustement : courage, adaptation, décision. Cette lecture invite à cultiver courage, adaptation, décision.",
+        "mots_cles": [
+          "courage",
+          "adaptation",
+          "décision"
+        ]
+      },
+      "negative": {
+        "famille": "Surcharge",
+        "description": "Surcharge : épuisement, pression, démesure. Cette lecture invite à reconnaître les risques liés à épuisement, pression, démesure.",
+        "mots_cles": [
+          "épuisement",
+          "pression",
+          "démesure"
+        ]
+      },
+      "nombre": 28,
+      "signification_fondamentale": "La prépondérance du grand",
+      "image": {
+        "fichier": "images/yijing/28.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "28 — La prépondérance du grand"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:29",
+      "titre": "29 — L'insondable",
+      "symbole": "䷜",
+      "theme": "L'insondable",
+      "positive": {
+        "famille": "Traversée",
+        "description": "Traversée : courage, constance, confiance. Cette lecture invite à cultiver courage, constance, confiance.",
+        "mots_cles": [
+          "courage",
+          "constance",
+          "confiance"
+        ]
+      },
+      "negative": {
+        "famille": "Peur",
+        "description": "Peur : angoisse, danger, enfermement. Cette lecture invite à reconnaître les risques liés à angoisse, danger, enfermement.",
+        "mots_cles": [
+          "angoisse",
+          "danger",
+          "enfermement"
+        ]
+      },
+      "nombre": 29,
+      "signification_fondamentale": "L'insondable",
+      "image": {
+        "fichier": "images/yijing/29.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "29 — L'insondable"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:30",
+      "titre": "30 — Ce qui s'attache",
+      "symbole": "䷝",
+      "theme": "Ce qui s'attache",
+      "positive": {
+        "famille": "Clarté",
+        "description": "Clarté : lucidité, conscience, inspiration. Cette lecture invite à cultiver lucidité, conscience, inspiration.",
+        "mots_cles": [
+          "lucidité",
+          "conscience",
+          "inspiration"
+        ]
+      },
+      "negative": {
+        "famille": "Aveuglement",
+        "description": "Aveuglement : illusion, dépendance, agitation. Cette lecture invite à reconnaître les risques liés à illusion, dépendance, agitation.",
+        "mots_cles": [
+          "illusion",
+          "dépendance",
+          "agitation"
+        ]
+      },
+      "nombre": 30,
+      "signification_fondamentale": "Ce qui s'attache",
+      "image": {
+        "fichier": "images/yijing/30.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "30 — Ce qui s'attache"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:31",
+      "titre": "31 — L'influence",
+      "symbole": "䷞",
+      "theme": "L'influence",
+      "positive": {
+        "famille": "Réceptivité",
+        "description": "Réceptivité : attirance, écoute, réciprocité. Cette lecture invite à cultiver attirance, écoute, réciprocité.",
+        "mots_cles": [
+          "attirance",
+          "écoute",
+          "réciprocité"
+        ]
+      },
+      "negative": {
+        "famille": "Manipulation",
+        "description": "Manipulation : séduction, emprise, dépendance. Cette lecture invite à reconnaître les risques liés à séduction, emprise, dépendance.",
+        "mots_cles": [
+          "séduction",
+          "emprise",
+          "dépendance"
+        ]
+      },
+      "nombre": 31,
+      "signification_fondamentale": "L'influence",
+      "image": {
+        "fichier": "images/yijing/31.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "31 — L'influence"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:32",
+      "titre": "32 — La durée",
+      "symbole": "䷟",
+      "theme": "La durée",
+      "positive": {
+        "famille": "Constance",
+        "description": "Constance : fidélité, endurance, continuité. Cette lecture invite à cultiver fidélité, endurance, continuité.",
+        "mots_cles": [
+          "fidélité",
+          "endurance",
+          "continuité"
+        ]
+      },
+      "negative": {
+        "famille": "Routine",
+        "description": "Routine : inertie, obstination, monotonie. Cette lecture invite à reconnaître les risques liés à inertie, obstination, monotonie.",
+        "mots_cles": [
+          "inertie",
+          "obstination",
+          "monotonie"
+        ]
+      },
+      "nombre": 32,
+      "signification_fondamentale": "La durée",
+      "image": {
+        "fichier": "images/yijing/32.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "32 — La durée"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:33",
+      "titre": "33 — La retraite",
+      "symbole": "䷠",
+      "theme": "La retraite",
+      "positive": {
+        "famille": "Recul",
+        "description": "Recul : prudence, discernement, préservation. Cette lecture invite à cultiver prudence, discernement, préservation.",
+        "mots_cles": [
+          "prudence",
+          "discernement",
+          "préservation"
+        ]
+      },
+      "negative": {
+        "famille": "Fuite",
+        "description": "Fuite : évitement, peur, abandon. Cette lecture invite à reconnaître les risques liés à évitement, peur, abandon.",
+        "mots_cles": [
+          "évitement",
+          "peur",
+          "abandon"
+        ]
+      },
+      "nombre": 33,
+      "signification_fondamentale": "La retraite",
+      "image": {
+        "fichier": "images/yijing/33.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "33 — La retraite"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:34",
+      "titre": "34 — La puissance du grand",
+      "symbole": "䷡",
+      "theme": "La puissance du grand",
+      "positive": {
+        "famille": "Force",
+        "description": "Force : courage, maîtrise, droiture. Cette lecture invite à cultiver courage, maîtrise, droiture.",
+        "mots_cles": [
+          "courage",
+          "maîtrise",
+          "droiture"
+        ]
+      },
+      "negative": {
+        "famille": "Abus",
+        "description": "Abus : domination, brutalité, arrogance. Cette lecture invite à reconnaître les risques liés à domination, brutalité, arrogance.",
+        "mots_cles": [
+          "domination",
+          "brutalité",
+          "arrogance"
+        ]
+      },
+      "nombre": 34,
+      "signification_fondamentale": "La puissance du grand",
+      "image": {
+        "fichier": "images/yijing/34.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "34 — La puissance du grand"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:35",
+      "titre": "35 — Le progrès",
+      "symbole": "䷢",
+      "theme": "Le progrès",
+      "positive": {
+        "famille": "Avancement",
+        "description": "Avancement : croissance, confiance, reconnaissance. Cette lecture invite à cultiver croissance, confiance, reconnaissance.",
+        "mots_cles": [
+          "croissance",
+          "confiance",
+          "reconnaissance"
+        ]
+      },
+      "negative": {
+        "famille": "Ambition excessive",
+        "description": "Ambition excessive : précipitation, vanité, opportunisme. Cette lecture invite à reconnaître les risques liés à précipitation, vanité, opportunisme.",
+        "mots_cles": [
+          "précipitation",
+          "vanité",
+          "opportunisme"
+        ]
+      },
+      "nombre": 35,
+      "signification_fondamentale": "Le progrès",
+      "image": {
+        "fichier": "images/yijing/35.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "35 — Le progrès"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:36",
+      "titre": "36 — L'obscurcissement de la lumière",
+      "symbole": "䷣",
+      "theme": "L'obscurcissement de la lumière",
+      "positive": {
+        "famille": "Intégrité",
+        "description": "Intégrité : discrétion, endurance, protection. Cette lecture invite à cultiver discrétion, endurance, protection.",
+        "mots_cles": [
+          "discrétion",
+          "endurance",
+          "protection"
+        ]
+      },
+      "negative": {
+        "famille": "Dissimulation",
+        "description": "Dissimulation : peur, désespoir, renoncement. Cette lecture invite à reconnaître les risques liés à peur, désespoir, renoncement.",
+        "mots_cles": [
+          "peur",
+          "désespoir",
+          "renoncement"
+        ]
+      },
+      "nombre": 36,
+      "signification_fondamentale": "L'obscurcissement de la lumière",
+      "image": {
+        "fichier": "images/yijing/36.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "36 — L'obscurcissement de la lumière"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:37",
+      "titre": "37 — La famille",
+      "symbole": "䷤",
+      "theme": "La famille",
+      "positive": {
+        "famille": "Responsabilité",
+        "description": "Responsabilité : soin, cohésion, respect. Cette lecture invite à cultiver soin, cohésion, respect.",
+        "mots_cles": [
+          "soin",
+          "cohésion",
+          "respect"
+        ]
+      },
+      "negative": {
+        "famille": "Enfermement",
+        "description": "Enfermement : contrôle, dépendance, rigidité. Cette lecture invite à reconnaître les risques liés à contrôle, dépendance, rigidité.",
+        "mots_cles": [
+          "contrôle",
+          "dépendance",
+          "rigidité"
+        ]
+      },
+      "nombre": 37,
+      "signification_fondamentale": "La famille",
+      "image": {
+        "fichier": "images/yijing/37.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "37 — La famille"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:38",
+      "titre": "38 — L'opposition",
+      "symbole": "䷥",
+      "theme": "L'opposition",
+      "positive": {
+        "famille": "Différence",
+        "description": "Différence : tolérance, autonomie, complémentarité. Cette lecture invite à cultiver tolérance, autonomie, complémentarité.",
+        "mots_cles": [
+          "tolérance",
+          "autonomie",
+          "complémentarité"
+        ]
+      },
+      "negative": {
+        "famille": "Division",
+        "description": "Division : hostilité, incompréhension, rejet. Cette lecture invite à reconnaître les risques liés à hostilité, incompréhension, rejet.",
+        "mots_cles": [
+          "hostilité",
+          "incompréhension",
+          "rejet"
+        ]
+      },
+      "nombre": 38,
+      "signification_fondamentale": "L'opposition",
+      "image": {
+        "fichier": "images/yijing/38.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "38 — L'opposition"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:39",
+      "titre": "39 — L'obstacle",
+      "symbole": "䷦",
+      "theme": "L'obstacle",
+      "positive": {
+        "famille": "Réorientation",
+        "description": "Réorientation : entraide, recul, adaptation. Cette lecture invite à cultiver entraide, recul, adaptation.",
+        "mots_cles": [
+          "entraide",
+          "recul",
+          "adaptation"
+        ]
+      },
+      "negative": {
+        "famille": "Découragement",
+        "description": "Découragement : blocage, frustration, isolement. Cette lecture invite à reconnaître les risques liés à blocage, frustration, isolement.",
+        "mots_cles": [
+          "blocage",
+          "frustration",
+          "isolement"
+        ]
+      },
+      "nombre": 39,
+      "signification_fondamentale": "L'obstacle",
+      "image": {
+        "fichier": "images/yijing/39.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "39 — L'obstacle"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:40",
+      "titre": "40 — La délivrance",
+      "symbole": "䷧",
+      "theme": "La délivrance",
+      "positive": {
+        "famille": "Libération",
+        "description": "Libération : pardon, soulagement, résolution. Cette lecture invite à cultiver pardon, soulagement, résolution.",
+        "mots_cles": [
+          "pardon",
+          "soulagement",
+          "résolution"
+        ]
+      },
+      "negative": {
+        "famille": "Relâchement",
+        "description": "Relâchement : négligence, fuite, irresponsabilité. Cette lecture invite à reconnaître les risques liés à négligence, fuite, irresponsabilité.",
+        "mots_cles": [
+          "négligence",
+          "fuite",
+          "irresponsabilité"
+        ]
+      },
+      "nombre": 40,
+      "signification_fondamentale": "La délivrance",
+      "image": {
+        "fichier": "images/yijing/40.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "40 — La délivrance"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:41",
+      "titre": "41 — La diminution",
+      "symbole": "䷨",
+      "theme": "La diminution",
+      "positive": {
+        "famille": "Simplicité",
+        "description": "Simplicité : sobriété, partage, détachement. Cette lecture invite à cultiver sobriété, partage, détachement.",
+        "mots_cles": [
+          "sobriété",
+          "partage",
+          "détachement"
+        ]
+      },
+      "negative": {
+        "famille": "Privation",
+        "description": "Privation : sacrifice, manque, austérité. Cette lecture invite à reconnaître les risques liés à sacrifice, manque, austérité.",
+        "mots_cles": [
+          "sacrifice",
+          "manque",
+          "austérité"
+        ]
+      },
+      "nombre": 41,
+      "signification_fondamentale": "La diminution",
+      "image": {
+        "fichier": "images/yijing/41.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "41 — La diminution"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:42",
+      "titre": "42 — L'augmentation",
+      "symbole": "䷩",
+      "theme": "L'augmentation",
+      "positive": {
+        "famille": "Croissance",
+        "description": "Croissance : générosité, progrès, entraide. Cette lecture invite à cultiver générosité, progrès, entraide.",
+        "mots_cles": [
+          "générosité",
+          "progrès",
+          "entraide"
+        ]
+      },
+      "negative": {
+        "famille": "Démesure",
+        "description": "Démesure : avidité, gaspillage, expansion excessive. Cette lecture invite à reconnaître les risques liés à avidité, gaspillage, expansion excessive.",
+        "mots_cles": [
+          "avidité",
+          "gaspillage",
+          "expansion excessive"
+        ]
+      },
+      "nombre": 42,
+      "signification_fondamentale": "L'augmentation",
+      "image": {
+        "fichier": "images/yijing/42.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "42 — L'augmentation"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:43",
+      "titre": "43 — La percée",
+      "symbole": "䷪",
+      "theme": "La percée",
+      "positive": {
+        "famille": "Décision",
+        "description": "Décision : franchise, courage, résolution. Cette lecture invite à cultiver franchise, courage, résolution.",
+        "mots_cles": [
+          "franchise",
+          "courage",
+          "résolution"
+        ]
+      },
+      "negative": {
+        "famille": "Intransigeance",
+        "description": "Intransigeance : agressivité, précipitation, exclusion. Cette lecture invite à reconnaître les risques liés à agressivité, précipitation, exclusion.",
+        "mots_cles": [
+          "agressivité",
+          "précipitation",
+          "exclusion"
+        ]
+      },
+      "nombre": 43,
+      "signification_fondamentale": "La percée",
+      "image": {
+        "fichier": "images/yijing/43.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "43 — La percée"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:44",
+      "titre": "44 — La rencontre",
+      "symbole": "䷫",
+      "theme": "La rencontre",
+      "positive": {
+        "famille": "Vigilance",
+        "description": "Vigilance : ouverture, discernement, rencontre. Cette lecture invite à cultiver ouverture, discernement, rencontre.",
+        "mots_cles": [
+          "ouverture",
+          "discernement",
+          "rencontre"
+        ]
+      },
+      "negative": {
+        "famille": "Emprise",
+        "description": "Emprise : tentation, manipulation, imprudence. Cette lecture invite à reconnaître les risques liés à tentation, manipulation, imprudence.",
+        "mots_cles": [
+          "tentation",
+          "manipulation",
+          "imprudence"
+        ]
+      },
+      "nombre": 44,
+      "signification_fondamentale": "La rencontre",
+      "image": {
+        "fichier": "images/yijing/44.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "44 — La rencontre"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:45",
+      "titre": "45 — Le rassemblement",
+      "symbole": "䷬",
+      "theme": "Le rassemblement",
+      "positive": {
+        "famille": "Cohésion",
+        "description": "Cohésion : solidarité, mobilisation, communauté. Cette lecture invite à cultiver solidarité, mobilisation, communauté.",
+        "mots_cles": [
+          "solidarité",
+          "mobilisation",
+          "communauté"
+        ]
+      },
+      "negative": {
+        "famille": "Massification",
+        "description": "Massification : conformisme, pression, exclusion. Cette lecture invite à reconnaître les risques liés à conformisme, pression, exclusion.",
+        "mots_cles": [
+          "conformisme",
+          "pression",
+          "exclusion"
+        ]
+      },
+      "nombre": 45,
+      "signification_fondamentale": "Le rassemblement",
+      "image": {
+        "fichier": "images/yijing/45.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "45 — Le rassemblement"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:46",
+      "titre": "46 — La poussée vers le haut",
+      "symbole": "䷭",
+      "theme": "La poussée vers le haut",
+      "positive": {
+        "famille": "Ascension",
+        "description": "Ascension : effort, patience, progression. Cette lecture invite à cultiver effort, patience, progression.",
+        "mots_cles": [
+          "effort",
+          "patience",
+          "progression"
+        ]
+      },
+      "negative": {
+        "famille": "Arrivisme",
+        "description": "Arrivisme : ambition, impatience, rivalité. Cette lecture invite à reconnaître les risques liés à ambition, impatience, rivalité.",
+        "mots_cles": [
+          "ambition",
+          "impatience",
+          "rivalité"
+        ]
+      },
+      "nombre": 46,
+      "signification_fondamentale": "La poussée vers le haut",
+      "image": {
+        "fichier": "images/yijing/46.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "46 — La poussée vers le haut"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:47",
+      "titre": "47 — L'accablement",
+      "symbole": "䷮",
+      "theme": "L'accablement",
+      "positive": {
+        "famille": "Endurance",
+        "description": "Endurance : résilience, intégrité, courage. Cette lecture invite à cultiver résilience, intégrité, courage.",
+        "mots_cles": [
+          "résilience",
+          "intégrité",
+          "courage"
+        ]
+      },
+      "negative": {
+        "famille": "Épuisement",
+        "description": "Épuisement : désespoir, oppression, isolement. Cette lecture invite à reconnaître les risques liés à désespoir, oppression, isolement.",
+        "mots_cles": [
+          "désespoir",
+          "oppression",
+          "isolement"
+        ]
+      },
+      "nombre": 47,
+      "signification_fondamentale": "L'accablement",
+      "image": {
+        "fichier": "images/yijing/47.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "47 — L'accablement"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:48",
+      "titre": "48 — Le puits",
+      "symbole": "䷯",
+      "theme": "Le puits",
+      "positive": {
+        "famille": "Ressource",
+        "description": "Ressource : partage, profondeur, entretien. Cette lecture invite à cultiver partage, profondeur, entretien.",
+        "mots_cles": [
+          "partage",
+          "profondeur",
+          "entretien"
+        ]
+      },
+      "negative": {
+        "famille": "Tarissement",
+        "description": "Tarissement : négligence, gaspillage, stagnation. Cette lecture invite à reconnaître les risques liés à négligence, gaspillage, stagnation.",
+        "mots_cles": [
+          "négligence",
+          "gaspillage",
+          "stagnation"
+        ]
+      },
+      "nombre": 48,
+      "signification_fondamentale": "Le puits",
+      "image": {
+        "fichier": "images/yijing/48.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "48 — Le puits"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:49",
+      "titre": "49 — La révolution",
+      "symbole": "䷰",
+      "theme": "La révolution",
+      "positive": {
+        "famille": "Mutation",
+        "description": "Mutation : renouvellement, réforme, courage. Cette lecture invite à cultiver renouvellement, réforme, courage.",
+        "mots_cles": [
+          "renouvellement",
+          "réforme",
+          "courage"
+        ]
+      },
+      "negative": {
+        "famille": "Rupture excessive",
+        "description": "Rupture excessive : violence, instabilité, précipitation. Cette lecture invite à reconnaître les risques liés à violence, instabilité, précipitation.",
+        "mots_cles": [
+          "violence",
+          "instabilité",
+          "précipitation"
+        ]
+      },
+      "nombre": 49,
+      "signification_fondamentale": "La révolution",
+      "image": {
+        "fichier": "images/yijing/49.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "49 — La révolution"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:50",
+      "titre": "50 — Le chaudron",
+      "symbole": "䷱",
+      "theme": "Le chaudron",
+      "positive": {
+        "famille": "Transformation",
+        "description": "Transformation : culture, transmission, maturation. Cette lecture invite à cultiver culture, transmission, maturation.",
+        "mots_cles": [
+          "culture",
+          "transmission",
+          "maturation"
+        ]
+      },
+      "negative": {
+        "famille": "Corruption",
+        "description": "Corruption : gaspillage, arrogance, dégradation. Cette lecture invite à reconnaître les risques liés à gaspillage, arrogance, dégradation.",
+        "mots_cles": [
+          "gaspillage",
+          "arrogance",
+          "dégradation"
+        ]
+      },
+      "nombre": 50,
+      "signification_fondamentale": "Le chaudron",
+      "image": {
+        "fichier": "images/yijing/50.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "50 — Le chaudron"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:51",
+      "titre": "51 — L'ébranlement",
+      "symbole": "䷲",
+      "theme": "L'ébranlement",
+      "positive": {
+        "famille": "Éveil",
+        "description": "Éveil : vigilance, renouvellement, courage. Cette lecture invite à cultiver vigilance, renouvellement, courage.",
+        "mots_cles": [
+          "vigilance",
+          "renouvellement",
+          "courage"
+        ]
+      },
+      "negative": {
+        "famille": "Panique",
+        "description": "Panique : peur, agitation, sidération. Cette lecture invite à reconnaître les risques liés à peur, agitation, sidération.",
+        "mots_cles": [
+          "peur",
+          "agitation",
+          "sidération"
+        ]
+      },
+      "nombre": 51,
+      "signification_fondamentale": "L'ébranlement",
+      "image": {
+        "fichier": "images/yijing/51.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "51 — L'ébranlement"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:52",
+      "titre": "52 — L'immobilisation",
+      "symbole": "䷳",
+      "theme": "L'immobilisation",
+      "positive": {
+        "famille": "Sérénité",
+        "description": "Sérénité : repos, méditation, maîtrise. Cette lecture invite à cultiver repos, méditation, maîtrise.",
+        "mots_cles": [
+          "repos",
+          "méditation",
+          "maîtrise"
+        ]
+      },
+      "negative": {
+        "famille": "Paralysie",
+        "description": "Paralysie : inertie, rigidité, isolement. Cette lecture invite à reconnaître les risques liés à inertie, rigidité, isolement.",
+        "mots_cles": [
+          "inertie",
+          "rigidité",
+          "isolement"
+        ]
+      },
+      "nombre": 52,
+      "signification_fondamentale": "L'immobilisation",
+      "image": {
+        "fichier": "images/yijing/52.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "52 — L'immobilisation"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:53",
+      "titre": "53 — Le développement",
+      "symbole": "䷴",
+      "theme": "Le développement",
+      "positive": {
+        "famille": "Maturation",
+        "description": "Maturation : patience, progression, stabilité. Cette lecture invite à cultiver patience, progression, stabilité.",
+        "mots_cles": [
+          "patience",
+          "progression",
+          "stabilité"
+        ]
+      },
+      "negative": {
+        "famille": "Lenteur subie",
+        "description": "Lenteur subie : frustration, stagnation, hésitation. Cette lecture invite à reconnaître les risques liés à frustration, stagnation, hésitation.",
+        "mots_cles": [
+          "frustration",
+          "stagnation",
+          "hésitation"
+        ]
+      },
+      "nombre": 53,
+      "signification_fondamentale": "Le développement",
+      "image": {
+        "fichier": "images/yijing/53.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "53 — Le développement"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:54",
+      "titre": "54 — L'épousée",
+      "symbole": "䷵",
+      "theme": "L'épousée",
+      "positive": {
+        "famille": "Lucidité relationnelle",
+        "description": "Lucidité relationnelle : adaptation, mesure, réalisme. Cette lecture invite à cultiver adaptation, mesure, réalisme.",
+        "mots_cles": [
+          "adaptation",
+          "mesure",
+          "réalisme"
+        ]
+      },
+      "negative": {
+        "famille": "Subordination",
+        "description": "Subordination : dépendance, illusion, précipitation. Cette lecture invite à reconnaître les risques liés à dépendance, illusion, précipitation.",
+        "mots_cles": [
+          "dépendance",
+          "illusion",
+          "précipitation"
+        ]
+      },
+      "nombre": 54,
+      "signification_fondamentale": "L'épousée",
+      "image": {
+        "fichier": "images/yijing/54.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "54 — L'épousée"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:55",
+      "titre": "55 — L'abondance",
+      "symbole": "䷶",
+      "theme": "L'abondance",
+      "positive": {
+        "famille": "Plénitude",
+        "description": "Plénitude : joie, clarté, générosité. Cette lecture invite à cultiver joie, clarté, générosité.",
+        "mots_cles": [
+          "joie",
+          "clarté",
+          "générosité"
+        ]
+      },
+      "negative": {
+        "famille": "Saturation",
+        "description": "Saturation : excès, vanité, gaspillage. Cette lecture invite à reconnaître les risques liés à excès, vanité, gaspillage.",
+        "mots_cles": [
+          "excès",
+          "vanité",
+          "gaspillage"
+        ]
+      },
+      "nombre": 55,
+      "signification_fondamentale": "L'abondance",
+      "image": {
+        "fichier": "images/yijing/55.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "55 — L'abondance"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:56",
+      "titre": "56 — Le voyageur",
+      "symbole": "䷷",
+      "theme": "Le voyageur",
+      "positive": {
+        "famille": "Exploration",
+        "description": "Exploration : autonomie, prudence, découverte. Cette lecture invite à cultiver autonomie, prudence, découverte.",
+        "mots_cles": [
+          "autonomie",
+          "prudence",
+          "découverte"
+        ]
+      },
+      "negative": {
+        "famille": "Déracinement",
+        "description": "Déracinement : solitude, instabilité, imprudence. Cette lecture invite à reconnaître les risques liés à solitude, instabilité, imprudence.",
+        "mots_cles": [
+          "solitude",
+          "instabilité",
+          "imprudence"
+        ]
+      },
+      "nombre": 56,
+      "signification_fondamentale": "Le voyageur",
+      "image": {
+        "fichier": "images/yijing/56.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "56 — Le voyageur"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:57",
+      "titre": "57 — Le doux",
+      "symbole": "䷸",
+      "theme": "Le doux",
+      "positive": {
+        "famille": "Influence progressive",
+        "description": "Influence progressive : souplesse, persévérance, écoute. Cette lecture invite à cultiver souplesse, persévérance, écoute.",
+        "mots_cles": [
+          "souplesse",
+          "persévérance",
+          "écoute"
+        ]
+      },
+      "negative": {
+        "famille": "Indécision",
+        "description": "Indécision : manipulation, hésitation, soumission. Cette lecture invite à reconnaître les risques liés à manipulation, hésitation, soumission.",
+        "mots_cles": [
+          "manipulation",
+          "hésitation",
+          "soumission"
+        ]
+      },
+      "nombre": 57,
+      "signification_fondamentale": "Le doux",
+      "image": {
+        "fichier": "images/yijing/57.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "57 — Le doux"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:58",
+      "titre": "58 — Le joyeux",
+      "symbole": "䷹",
+      "theme": "Le joyeux",
+      "positive": {
+        "famille": "Joie",
+        "description": "Joie : partage, dialogue, convivialité. Cette lecture invite à cultiver partage, dialogue, convivialité.",
+        "mots_cles": [
+          "partage",
+          "dialogue",
+          "convivialité"
+        ]
+      },
+      "negative": {
+        "famille": "Complaisance",
+        "description": "Complaisance : séduction, superficialité, excès. Cette lecture invite à reconnaître les risques liés à séduction, superficialité, excès.",
+        "mots_cles": [
+          "séduction",
+          "superficialité",
+          "excès"
+        ]
+      },
+      "nombre": 58,
+      "signification_fondamentale": "Le joyeux",
+      "image": {
+        "fichier": "images/yijing/58.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "58 — Le joyeux"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:59",
+      "titre": "59 — La dispersion",
+      "symbole": "䷺",
+      "theme": "La dispersion",
+      "positive": {
+        "famille": "Dissolution",
+        "description": "Dissolution : libération, ouverture, réconciliation. Cette lecture invite à cultiver libération, ouverture, réconciliation.",
+        "mots_cles": [
+          "libération",
+          "ouverture",
+          "réconciliation"
+        ]
+      },
+      "negative": {
+        "famille": "Désagrégation",
+        "description": "Désagrégation : dispersion, confusion, perte de cohésion. Cette lecture invite à reconnaître les risques liés à dispersion, confusion, perte de cohésion.",
+        "mots_cles": [
+          "dispersion",
+          "confusion",
+          "perte de cohésion"
+        ]
+      },
+      "nombre": 59,
+      "signification_fondamentale": "La dispersion",
+      "image": {
+        "fichier": "images/yijing/59.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "59 — La dispersion"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:60",
+      "titre": "60 — La limitation",
+      "symbole": "䷻",
+      "theme": "La limitation",
+      "positive": {
+        "famille": "Mesure",
+        "description": "Mesure : limites, discipline, équilibre. Cette lecture invite à cultiver limites, discipline, équilibre.",
+        "mots_cles": [
+          "limites",
+          "discipline",
+          "équilibre"
+        ]
+      },
+      "negative": {
+        "famille": "Restriction",
+        "description": "Restriction : rigidité, frustration, oppression. Cette lecture invite à reconnaître les risques liés à rigidité, frustration, oppression.",
+        "mots_cles": [
+          "rigidité",
+          "frustration",
+          "oppression"
+        ]
+      },
+      "nombre": 60,
+      "signification_fondamentale": "La limitation",
+      "image": {
+        "fichier": "images/yijing/60.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "60 — La limitation"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:61",
+      "titre": "61 — La vérité intérieure",
+      "symbole": "䷼",
+      "theme": "La vérité intérieure",
+      "positive": {
+        "famille": "Sincérité",
+        "description": "Sincérité : confiance, authenticité, écoute. Cette lecture invite à cultiver confiance, authenticité, écoute.",
+        "mots_cles": [
+          "confiance",
+          "authenticité",
+          "écoute"
+        ]
+      },
+      "negative": {
+        "famille": "Crédulité",
+        "description": "Crédulité : illusion, naïveté, autosuggestion. Cette lecture invite à reconnaître les risques liés à illusion, naïveté, autosuggestion.",
+        "mots_cles": [
+          "illusion",
+          "naïveté",
+          "autosuggestion"
+        ]
+      },
+      "nombre": 61,
+      "signification_fondamentale": "La vérité intérieure",
+      "image": {
+        "fichier": "images/yijing/61.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "61 — La vérité intérieure"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:62",
+      "titre": "62 — La prépondérance du petit",
+      "symbole": "䷽",
+      "theme": "La prépondérance du petit",
+      "positive": {
+        "famille": "Attention",
+        "description": "Attention : modestie, précision, prudence. Cette lecture invite à cultiver modestie, précision, prudence.",
+        "mots_cles": [
+          "modestie",
+          "précision",
+          "prudence"
+        ]
+      },
+      "negative": {
+        "famille": "Mesquinerie",
+        "description": "Mesquinerie : peur, minutie excessive, inhibition. Cette lecture invite à reconnaître les risques liés à peur, minutie excessive, inhibition.",
+        "mots_cles": [
+          "peur",
+          "minutie excessive",
+          "inhibition"
+        ]
+      },
+      "nombre": 62,
+      "signification_fondamentale": "La prépondérance du petit",
+      "image": {
+        "fichier": "images/yijing/62.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "62 — La prépondérance du petit"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:63",
+      "titre": "63 — Après l'accomplissement",
+      "symbole": "䷾",
+      "theme": "Après l'accomplissement",
+      "positive": {
+        "famille": "Consolidation",
+        "description": "Consolidation : vigilance, entretien, équilibre. Cette lecture invite à cultiver vigilance, entretien, équilibre.",
+        "mots_cles": [
+          "vigilance",
+          "entretien",
+          "équilibre"
+        ]
+      },
+      "negative": {
+        "famille": "Relâchement",
+        "description": "Relâchement : négligence, complaisance, déclin. Cette lecture invite à reconnaître les risques liés à négligence, complaisance, déclin.",
+        "mots_cles": [
+          "négligence",
+          "complaisance",
+          "déclin"
+        ]
+      },
+      "nombre": 63,
+      "signification_fondamentale": "Après l'accomplissement",
+      "image": {
+        "fichier": "images/yijing/63.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "63 — Après l'accomplissement"
+      }
+    },
+    {
+      "tradition": "Yi Jing",
+      "id": "Yi Jing:64",
+      "titre": "64 — Avant l'accomplissement",
+      "symbole": "䷿",
+      "theme": "Avant l'accomplissement",
+      "positive": {
+        "famille": "Transition",
+        "description": "Transition : préparation, espoir, discernement. Cette lecture invite à cultiver préparation, espoir, discernement.",
+        "mots_cles": [
+          "préparation",
+          "espoir",
+          "discernement"
+        ]
+      },
+      "negative": {
+        "famille": "Précipitation",
+        "description": "Précipitation : inachèvement, confusion, impatience. Cette lecture invite à reconnaître les risques liés à inachèvement, confusion, impatience.",
+        "mots_cles": [
+          "inachèvement",
+          "confusion",
+          "impatience"
+        ]
+      },
+      "nombre": 64,
+      "signification_fondamentale": "Avant l'accomplissement",
+      "image": {
+        "fichier": "images/yijing/64.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "64 — Avant l'accomplissement"
+      }
+    }
+  ]
+}

@@ -1,0 +1,513 @@
+{
+  "version": "1.5",
+  "tradition": "Numérologie",
+  "references": [
+    {
+      "tradition": "Numérologie",
+      "nombre_symboles": 13,
+      "source": "numerologie-v02.json"
+    }
+  ],
+  "symboles": [
+    {
+      "tradition": "Numérologie",
+      "id": "Numérologie:1",
+      "titre": "Nombre 1",
+      "symbole": "1",
+      "theme": "L’individualité",
+      "positive": {
+        "famille": "Affirmation de soi",
+        "description": "Affirmer ton individualité, c’est avoir le courage de donner forme à tes propres idées sans attendre que les autres définissent qui tu es.",
+        "mots_cles": [
+          "initiative",
+          "autonomie",
+          "volonté",
+          "création",
+          "identité"
+        ]
+      },
+      "negative": {
+        "famille": "Ego",
+        "description": "L’affirmation de soi perd son sens lorsque l’orgueil te pousse à dominer les autres et que l’autonomie devient un prétexte à l’isolement.",
+        "mots_cles": [
+          "égoïsme",
+          "autoritarisme",
+          "orgueil",
+          "domination",
+          "isolement"
+        ]
+      },
+      "nombre": 1,
+      "type": "fondamental",
+      "signification_fondamentale": "L’individualité",
+      "image": {
+        "fichier": "images/numerologie/01.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Nombre 1"
+      }
+    },
+    {
+      "tradition": "Numérologie",
+      "id": "Numérologie:2",
+      "titre": "Nombre 2",
+      "symbole": "2",
+      "theme": "La dualité",
+      "positive": {
+        "famille": "Union",
+        "description": "L’harmonie naît de la rencontre de deux sensibilités capables de s’écouter sans renoncer à leur singularité.",
+        "mots_cles": [
+          "coopération",
+          "sensibilité",
+          "harmonie",
+          "écoute",
+          "diplomatie",
+          "équilibre"
+        ]
+      },
+      "negative": {
+        "famille": "Dépendance",
+        "description": "À chercher constamment l’approbation de l’autre, tu risques de lui confier des choix qui devraient t’appartenir.",
+        "mots_cles": [
+          "dépendance affective",
+          "indécision",
+          "hypersensibilité",
+          "manque d’affirmation"
+        ]
+      },
+      "nombre": 2,
+      "type": "fondamental",
+      "signification_fondamentale": "La dualité",
+      "image": {
+        "fichier": "images/numerologie/02.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Nombre 2"
+      }
+    },
+    {
+      "tradition": "Numérologie",
+      "id": "Numérologie:3",
+      "titre": "Nombre 3",
+      "symbole": "3",
+      "theme": "L’expression",
+      "positive": {
+        "famille": "Créativité",
+        "description": "La créativité donne une voix à ce que tu portes en toi et transforme la joie de vivre en une richesse à partager.",
+        "mots_cles": [
+          "créativité",
+          "communication",
+          "joie de vivre",
+          "expression de soi",
+          "épanouissement"
+        ]
+      },
+      "negative": {
+        "famille": "Dispersion",
+        "description": "À multiplier les idées sans leur consacrer suffisamment d’attention, tu risques de ne donner vie à aucune d’entre elles.",
+        "mots_cles": [
+          "dispersion",
+          "superficialité",
+          "instabilité",
+          "manque de concentration"
+        ]
+      },
+      "nombre": 3,
+      "type": "fondamental",
+      "signification_fondamentale": "L’expression",
+      "image": {
+        "fichier": "images/numerologie/03.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Nombre 3"
+      }
+    },
+    {
+      "tradition": "Numérologie",
+      "id": "Numérologie:4",
+      "titre": "Nombre 4",
+      "symbole": "4",
+      "theme": "La construction",
+      "positive": {
+        "famille": "Construction",
+        "description": "Ce qui dure se construit dans la patience, par des gestes réfléchis dont la constance donne sa solidité à l’ensemble.",
+        "mots_cles": [
+          "stabilité",
+          "persévérance",
+          "organisation",
+          "solidité",
+          "durabilité"
+        ]
+      },
+      "negative": {
+        "famille": "Rigidité",
+        "description": "Les fondations qui te rassurent ne doivent pas devenir des murs qui t’empêchent d’accueillir le changement.",
+        "mots_cles": [
+          "rigidité",
+          "immobilisme",
+          "contrôle",
+          "résistance au changement"
+        ]
+      },
+      "nombre": 4,
+      "type": "fondamental",
+      "signification_fondamentale": "La construction",
+      "image": {
+        "fichier": "images/numerologie/04.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Nombre 4"
+      }
+    },
+    {
+      "tradition": "Numérologie",
+      "id": "Numérologie:5",
+      "titre": "Nombre 5",
+      "symbole": "5",
+      "theme": "La liberté",
+      "positive": {
+        "famille": "Liberté",
+        "description": "La liberté grandit lorsque la curiosité te conduit à explorer l’inconnu et que chaque expérience enrichit ta manière de vivre.",
+        "mots_cles": [
+          "curiosité",
+          "mouvement",
+          "adaptabilité",
+          "expérimentation",
+          "changement",
+          "découverte"
+        ]
+      },
+      "negative": {
+        "famille": "Instabilité",
+        "description": "Le mouvement n’est pas toujours synonyme de liberté : il peut aussi dissimuler la peur de s’engager et d’assumer ses choix.",
+        "mots_cles": [
+          "impulsivité",
+          "excès",
+          "instabilité",
+          "fuite des responsabilités",
+          "peur de l’engagement"
+        ]
+      },
+      "nombre": 5,
+      "type": "fondamental",
+      "signification_fondamentale": "La liberté",
+      "image": {
+        "fichier": "images/numerologie/05.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Nombre 5"
+      }
+    },
+    {
+      "tradition": "Numérologie",
+      "id": "Numérologie:6",
+      "titre": "Nombre 6",
+      "symbole": "6",
+      "theme": "L’harmonie",
+      "positive": {
+        "famille": "Amour",
+        "description": "L’harmonie se cultive en prenant soin des autres avec bienveillance, sans oublier que ton propre équilibre participe à leur bien-être.",
+        "mots_cles": [
+          "amour",
+          "bienveillance",
+          "responsabilité",
+          "équilibre affectif",
+          "beauté",
+          "soin"
+        ]
+      },
+      "negative": {
+        "famille": "Possessivité",
+        "description": "À vouloir tout réparer et rendre chaque relation parfaite, tu risques de transformer l’amour en contrôle et le dévouement en sacrifice.",
+        "mots_cles": [
+          "possessivité",
+          "perfectionnisme",
+          "sacrifice excessif",
+          "contrôle"
+        ]
+      },
+      "nombre": 6,
+      "type": "fondamental",
+      "signification_fondamentale": "L’harmonie",
+      "image": {
+        "fichier": "images/numerologie/06.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Nombre 6"
+      }
+    },
+    {
+      "tradition": "Numérologie",
+      "id": "Numérologie:7",
+      "titre": "Nombre 7",
+      "symbole": "7",
+      "theme": "La connaissance",
+      "positive": {
+        "famille": "Sagesse",
+        "description": "La sagesse commence lorsque tu examines tes certitudes avec autant d’attention que les mystères du monde qui t’entoure.",
+        "mots_cles": [
+          "introspection",
+          "sagesse",
+          "discernement",
+          "vérité",
+          "compréhension"
+        ]
+      },
+      "negative": {
+        "famille": "Isolement",
+        "description": "La pensée devient un refuge lorsqu’elle te dispense d’agir, de rencontrer les autres et de confronter tes idées à la réalité.",
+        "mots_cles": [
+          "isolement",
+          "méfiance",
+          "intellectualisation excessive",
+          "difficulté à agir"
+        ]
+      },
+      "nombre": 7,
+      "type": "fondamental",
+      "signification_fondamentale": "La connaissance",
+      "image": {
+        "fichier": "images/numerologie/07.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Nombre 7"
+      }
+    },
+    {
+      "tradition": "Numérologie",
+      "id": "Numérologie:8",
+      "titre": "Nombre 8",
+      "symbole": "8",
+      "theme": "La puissance",
+      "positive": {
+        "famille": "Réalisation",
+        "description": "La puissance trouve sa noblesse lorsque l’ambition et la maîtrise servent des réalisations justes dont les bienfaits dépassent ton intérêt personnel.",
+        "mots_cles": [
+          "ambition",
+          "maîtrise",
+          "réalisation matérielle",
+          "action",
+          "justice",
+          "pouvoir responsable"
+        ]
+      },
+      "negative": {
+        "famille": "Domination",
+        "description": "Lorsque la réussite matérielle devient la seule mesure de ta valeur, le désir de posséder et de contrôler peut finir par te gouverner.",
+        "mots_cles": [
+          "avidité",
+          "domination",
+          "matérialisme",
+          "contrôle",
+          "reconnaissance excessive"
+        ]
+      },
+      "nombre": 8,
+      "type": "fondamental",
+      "signification_fondamentale": "La puissance",
+      "image": {
+        "fichier": "images/numerologie/08.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Nombre 8"
+      }
+    },
+    {
+      "tradition": "Numérologie",
+      "id": "Numérologie:9",
+      "titre": "Nombre 9",
+      "symbole": "9",
+      "theme": "L’accomplissement",
+      "positive": {
+        "famille": "Détachement",
+        "description": "L’accomplissement consiste aussi à savoir pardonner, partager les fruits de son expérience et laisser s’achever ce qui a fait son temps.",
+        "mots_cles": [
+          "compassion",
+          "générosité",
+          "ouverture universelle",
+          "détachement",
+          "pardon",
+          "achèvement"
+        ]
+      },
+      "negative": {
+        "famille": "Désillusion",
+        "description": "La désillusion peut t’enfermer dans le regret lorsque tu refuses d’accepter les limites du réel ou de tourner la page.",
+        "mots_cles": [
+          "désillusion",
+          "mélancolie",
+          "sacrifice de soi",
+          "difficulté à tourner la page"
+        ]
+      },
+      "nombre": 9,
+      "type": "fondamental",
+      "signification_fondamentale": "L’accomplissement",
+      "image": {
+        "fichier": "images/numerologie/09.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Nombre 9"
+      }
+    },
+    {
+      "tradition": "Numérologie",
+      "id": "Numérologie:11",
+      "titre": "Nombre 11",
+      "symbole": "11",
+      "theme": "L’inspiration",
+      "positive": {
+        "famille": "Inspiration",
+        "description": "L’inspiration ouvre des perspectives nouvelles lorsque tu accueilles ton intuition avec discernement et lui donnes une forme que d’autres peuvent comprendre.",
+        "mots_cles": [
+          "intuition",
+          "illumination",
+          "inspiration",
+          "vision"
+        ]
+      },
+      "negative": {
+        "famille": "Confusion",
+        "description": "Lorsque tes aspirations et tes émotions se bousculent, accorde-toi le temps de distinguer une intuition féconde d’une inquiétude passagère.",
+        "mots_cles": [
+          "anxiété",
+          "nervosité",
+          "confusion",
+          "sensibilité difficile à canaliser"
+        ]
+      },
+      "nombre": 11,
+      "type": "maître",
+      "signification_fondamentale": "L’inspiration",
+      "image": {
+        "fichier": "images/numerologie/11.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Nombre 11"
+      }
+    },
+    {
+      "tradition": "Numérologie",
+      "id": "Numérologie:22",
+      "titre": "Nombre 22",
+      "symbole": "22",
+      "theme": "Le bâtisseur",
+      "positive": {
+        "famille": "Bâtisseur",
+        "description": "Le véritable bâtisseur relie la grandeur de sa vision à la patience des réalisations concrètes, afin que ses idées puissent traverser le temps.",
+        "mots_cles": [
+          "vision",
+          "puissance créatrice",
+          "concrétisation",
+          "réalisations durables"
+        ]
+      },
+      "negative": {
+        "famille": "Ambition démesurée",
+        "description": "Une ambition démesurée peut faire de chaque difficulté une menace pour ta valeur personnelle et de la peur de l’échec un obstacle à la création.",
+        "mots_cles": [
+          "mégalomanie",
+          "pression excessive",
+          "peur de l’échec",
+          "ambitions démesurées"
+        ]
+      },
+      "nombre": 22,
+      "type": "maître",
+      "signification_fondamentale": "Le bâtisseur",
+      "image": {
+        "fichier": "images/numerologie/22.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Nombre 22"
+      }
+    },
+    {
+      "tradition": "Numérologie",
+      "id": "Numérologie:33",
+      "titre": "Nombre 33",
+      "symbole": "33",
+      "theme": "La transmission",
+      "positive": {
+        "famille": "Transmission",
+        "description": "Transmettre avec compassion, c’est offrir le fruit de ton expérience pour aider les autres à développer leurs propres ressources.",
+        "mots_cles": [
+          "compassion",
+          "altruisme",
+          "amour universel",
+          "accompagnement",
+          "transmission",
+          "service"
+        ]
+      },
+      "negative": {
+        "famille": "Oubli de soi",
+        "description": "Le dévouement perd son équilibre lorsque la culpabilité te pousse à porter toutes les difficultés des autres au détriment de tes propres besoins.",
+        "mots_cles": [
+          "dévouement excessif",
+          "culpabilité",
+          "oubli de soi",
+          "sacrifice"
+        ]
+      },
+      "nombre": 33,
+      "type": "maître",
+      "signification_fondamentale": "La transmission",
+      "image": {
+        "fichier": "images/numerologie/33.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Nombre 33"
+      }
+    },
+    {
+      "tradition": "Numérologie",
+      "id": "Numérologie:0",
+      "titre": "Nombre 0",
+      "symbole": "0",
+      "theme": "Le potentiel",
+      "positive": {
+        "famille": "Potentiel",
+        "description": "Le vide peut être un espace de liberté où des possibilités encore indéfinies attendent que ton intention leur donne une forme.",
+        "mots_cles": [
+          "infini",
+          "unité",
+          "possibilités",
+          "potentiel"
+        ]
+      },
+      "negative": {
+        "famille": "Vide",
+        "description": "L’infini des possibles peut devenir une source de confusion lorsque tu refuses de choisir une direction et de donner corps à tes intentions.",
+        "mots_cles": [
+          "vide",
+          "confusion",
+          "absence de direction",
+          "difficulté à concrétiser"
+        ]
+      },
+      "nombre": 0,
+      "type": "particulier",
+      "signification_fondamentale": "Le potentiel",
+      "image": {
+        "fichier": "images/numerologie/00.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Nombre 0"
+      }
+    }
+  ]
+}

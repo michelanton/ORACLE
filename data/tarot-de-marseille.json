@@ -1,0 +1,2474 @@
+{
+  "version": "1.5",
+  "tradition": "Tarot de Marseille",
+  "references": [
+    {
+      "tradition": "Tarot de Marseille",
+      "nombre_symboles": 78,
+      "source": "tarot-marseille-v04.json",
+      "extension": "56 arcanes mineurs, lecture éditoriale contemporaine"
+    }
+  ],
+  "symboles": [
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:1",
+      "titre": "Le Mat",
+      "symbole": "✧",
+      "theme": "La liberté",
+      "positive": {
+        "famille": "Liberté",
+        "description": "La liberté commence lorsque tu oses avancer vers l’inconnu sans laisser les conventions décider de ton chemin.",
+        "mots_cles": [
+          "voyage",
+          "aventure",
+          "spontanéité",
+          "indépendance",
+          "inconnu",
+          "confiance"
+        ]
+      },
+      "negative": {
+        "famille": "Errance",
+        "description": "Partir sans direction peut être une manière de fuir les responsabilités plutôt que de conquérir sa liberté.",
+        "mots_cles": [
+          "fuite",
+          "imprudence",
+          "irresponsabilité",
+          "désorientation",
+          "instabilité"
+        ]
+      },
+      "numero": null,
+      "arcane": "Le Mat",
+      "signification_fondamentale": "La liberté",
+      "id_source": 1,
+      "image": {
+        "fichier": "images/tarot/01.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Le Mat"
+      }
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:2",
+      "titre": "Le Bateleur",
+      "symbole": "1",
+      "theme": "Le commencement",
+      "positive": {
+        "famille": "Initiative",
+        "description": "Le commencement d’une œuvre tient moins à la perfection des moyens qu’au courage de mettre en action les talents dont tu disposes.",
+        "mots_cles": [
+          "commencement",
+          "potentiel",
+          "habileté",
+          "invention",
+          "action",
+          "talent"
+        ]
+      },
+      "negative": {
+        "famille": "Tromperie",
+        "description": "L’habileté perd sa valeur lorsqu’elle sert à entretenir des illusions plutôt qu’à donner corps à une intention sincère.",
+        "mots_cles": [
+          "manipulation",
+          "illusion",
+          "inexpérience",
+          "dispersion",
+          "imposture"
+        ]
+      },
+      "numero": 1,
+      "arcane": "Le Bateleur",
+      "signification_fondamentale": "Le commencement",
+      "id_source": 2,
+      "image": {
+        "fichier": "images/tarot/02.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Le Bateleur"
+      }
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:3",
+      "titre": "La Papesse",
+      "symbole": "2",
+      "theme": "La connaissance intérieure",
+      "positive": {
+        "famille": "Intuition",
+        "description": "Le silence et la patience permettent à la connaissance intérieure de mûrir avant de devenir une parole ou un acte juste.",
+        "mots_cles": [
+          "silence",
+          "secret",
+          "patience",
+          "observation",
+          "connaissance",
+          "intériorité"
+        ]
+      },
+      "negative": {
+        "famille": "Enfermement",
+        "description": "Un savoir que tu gardes enfermé en toi risque de devenir un refuge contre les exigences de la vie.",
+        "mots_cles": [
+          "passivité",
+          "dissimulation",
+          "ignorance",
+          "non-dit",
+          "inhibition"
+        ]
+      },
+      "numero": 2,
+      "arcane": "La Papesse",
+      "signification_fondamentale": "La connaissance intérieure",
+      "id_source": 3,
+      "image": {
+        "fichier": "images/tarot/03.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "La Papesse"
+      }
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:4",
+      "titre": "L'Impératrice",
+      "symbole": "3",
+      "theme": "La création",
+      "positive": {
+        "famille": "Créativité",
+        "description": "Créer, c’est donner une forme partageable à ce que ton imagination découvre au-delà des habitudes de pensée.",
+        "mots_cles": [
+          "expression",
+          "intelligence",
+          "fécondité",
+          "imagination",
+          "communication"
+        ]
+      },
+      "negative": {
+        "famille": "Superficialité",
+        "description": "Le désir de paraître brillant peut disperser une intelligence qui gagnerait à approfondir ses idées.",
+        "mots_cles": [
+          "vanité",
+          "agitation",
+          "bavardage",
+          "dispersion",
+          "prétention"
+        ]
+      },
+      "numero": 3,
+      "arcane": "L'Impératrice",
+      "signification_fondamentale": "La création",
+      "id_source": 4,
+      "image": {
+        "fichier": "images/tarot/04.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "L'Impératrice"
+      }
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:5",
+      "titre": "L'Empereur",
+      "symbole": "4",
+      "theme": "La structure",
+      "positive": {
+        "famille": "Construction",
+        "description": "Construire durablement exige de donner à ses ambitions une structure dont on accepte pleinement la responsabilité.",
+        "mots_cles": [
+          "stabilité",
+          "ordre",
+          "structure",
+          "responsabilité",
+          "autorité",
+          "sécurité"
+        ]
+      },
+      "negative": {
+        "famille": "Domination",
+        "description": "L’ordre devient oppression lorsque la sécurité que tu recherches exige la soumission des autres.",
+        "mots_cles": [
+          "tyrannie",
+          "rigidité",
+          "contrôle",
+          "oppression",
+          "autoritarisme"
+        ]
+      },
+      "numero": 4,
+      "arcane": "L'Empereur",
+      "signification_fondamentale": "La structure",
+      "id_source": 5,
+      "image": {
+        "fichier": "images/tarot/05.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "L'Empereur"
+      }
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:6",
+      "titre": "Le Pape",
+      "symbole": "5",
+      "theme": "La transmission",
+      "positive": {
+        "famille": "Transmission",
+        "description": "Transmettre la sagesse, c’est offrir des repères qui permettent à chacun de construire son propre jugement.",
+        "mots_cles": [
+          "enseignement",
+          "sagesse",
+          "conseil",
+          "tradition",
+          "confiance",
+          "valeurs"
+        ]
+      },
+      "negative": {
+        "famille": "Dogmatisme",
+        "description": "Une tradition cesse d’éclairer les consciences lorsqu’elle interdit de questionner les vérités qu’elle transmet.",
+        "mots_cles": [
+          "conformisme",
+          "hypocrisie",
+          "fanatisme",
+          "soumission",
+          "intolérance"
+        ]
+      },
+      "numero": 5,
+      "arcane": "Le Pape",
+      "signification_fondamentale": "La transmission",
+      "id_source": 6,
+      "image": {
+        "fichier": "images/tarot/06.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Le Pape"
+      }
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:7",
+      "titre": "L'Amoureux",
+      "symbole": "6",
+      "theme": "Le choix",
+      "positive": {
+        "famille": "Engagement",
+        "description": "Choisir avec amour, c’est reconnaître ses aspirations profondes et accepter les engagements qui leur donnent un sens.",
+        "mots_cles": [
+          "amour",
+          "choix",
+          "rencontre",
+          "désir",
+          "relation",
+          "valeurs"
+        ]
+      },
+      "negative": {
+        "famille": "Indécision",
+        "description": "Lorsque la peur de déplaire gouverne tes choix, tu risques de confondre le désir d’être aimé avec tes véritables aspirations.",
+        "mots_cles": [
+          "hésitation",
+          "tentation",
+          "dépendance",
+          "contradiction",
+          "doute"
+        ]
+      },
+      "numero": 6,
+      "arcane": "L'Amoureux",
+      "signification_fondamentale": "Le choix",
+      "id_source": 7,
+      "image": {
+        "fichier": "images/tarot/07.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "L'Amoureux"
+      }
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:8",
+      "titre": "Le Chariot",
+      "symbole": "7",
+      "theme": "La progression",
+      "positive": {
+        "famille": "Progression",
+        "description": "Avancer avec détermination suppose de savoir orienter ses forces vers un but qui mérite d’être poursuivi.",
+        "mots_cles": [
+          "victoire",
+          "détermination",
+          "mouvement",
+          "autonomie",
+          "ambition"
+        ]
+      },
+      "negative": {
+        "famille": "Précipitation",
+        "description": "Une victoire obtenue dans la précipitation peut coûter davantage que ce que l’ambition espérait gagner.",
+        "mots_cles": [
+          "arrogance",
+          "conquête",
+          "impatience",
+          "rivalité",
+          "imprudence"
+        ]
+      },
+      "numero": 7,
+      "arcane": "Le Chariot",
+      "signification_fondamentale": "La progression",
+      "id_source": 8,
+      "image": {
+        "fichier": "images/tarot/08.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Le Chariot"
+      }
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:9",
+      "titre": "La Justice",
+      "symbole": "8",
+      "theme": "L'équilibre",
+      "positive": {
+        "famille": "Équité",
+        "description": "La justice exige de considérer les conséquences de ses actes avec la même lucidité que les intentions qui les motivent.",
+        "mots_cles": [
+          "justice",
+          "vérité",
+          "responsabilité",
+          "équilibre",
+          "discernement"
+        ]
+      },
+      "negative": {
+        "famille": "Jugement",
+        "description": "La sévérité devient injustice lorsqu’une règle compte davantage que la réalité humaine à laquelle elle s’applique.",
+        "mots_cles": [
+          "injustice",
+          "culpabilité",
+          "sévérité",
+          "condamnation",
+          "rigidité"
+        ]
+      },
+      "numero": 8,
+      "arcane": "La Justice",
+      "signification_fondamentale": "L'équilibre",
+      "id_source": 9,
+      "image": {
+        "fichier": "images/tarot/09.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "La Justice"
+      }
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:10",
+      "titre": "L'Hermite",
+      "symbole": "9",
+      "theme": "La recherche intérieure",
+      "positive": {
+        "famille": "Introspection",
+        "description": "Le recul offre à l’expérience le temps de devenir sagesse et à la pensée celui de retrouver sa propre lumière.",
+        "mots_cles": [
+          "solitude",
+          "recherche",
+          "prudence",
+          "maturité",
+          "sagesse",
+          "recul"
+        ]
+      },
+      "negative": {
+        "famille": "Isolement",
+        "description": "La solitude perd sa fécondité lorsque la méfiance t’empêche de partager ce que tu as appris.",
+        "mots_cles": [
+          "retrait",
+          "pessimisme",
+          "méfiance",
+          "fermeture",
+          "abandon"
+        ]
+      },
+      "numero": 9,
+      "arcane": "L'Hermite",
+      "signification_fondamentale": "La recherche intérieure",
+      "id_source": 10,
+      "image": {
+        "fichier": "images/tarot/10.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "L'Hermite"
+      }
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:11",
+      "titre": "La Roue de Fortune",
+      "symbole": "10",
+      "theme": "Les cycles",
+      "positive": {
+        "famille": "Renouvellement",
+        "description": "Tu ne maîtrises pas tous les mouvements de l’existence, mais tu peux choisir la manière dont tu accueilles leurs changements.",
+        "mots_cles": [
+          "cycle",
+          "hasard",
+          "chance",
+          "évolution",
+          "opportunité",
+          "changement"
+        ]
+      },
+      "negative": {
+        "famille": "Fatalisme",
+        "description": "Attribuer chaque difficulté au hasard risque de te faire oublier la part d’action qui demeure entre tes mains.",
+        "mots_cles": [
+          "répétition",
+          "instabilité",
+          "résignation",
+          "impuissance",
+          "malchance"
+        ]
+      },
+      "numero": 10,
+      "arcane": "La Roue de Fortune",
+      "signification_fondamentale": "Les cycles",
+      "id_source": 11,
+      "image": {
+        "fichier": "images/tarot/11.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "La Roue de Fortune"
+      }
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:12",
+      "titre": "La Force",
+      "symbole": "11",
+      "theme": "La maîtrise intérieure",
+      "positive": {
+        "famille": "Maîtrise de soi",
+        "description": "La véritable force consiste à comprendre ses instincts et à orienter leur énergie sans avoir besoin de les écraser.",
+        "mots_cles": [
+          "courage",
+          "patience",
+          "énergie",
+          "volonté",
+          "confiance",
+          "instinct"
+        ]
+      },
+      "negative": {
+        "famille": "Brutalité",
+        "description": "La lutte contre soi-même devient épuisante lorsque la volonté de maîtrise se transforme en violence intérieure.",
+        "mots_cles": [
+          "colère",
+          "violence",
+          "répression",
+          "faiblesse",
+          "épuisement"
+        ]
+      },
+      "numero": 11,
+      "arcane": "La Force",
+      "signification_fondamentale": "La maîtrise intérieure",
+      "id_source": 12,
+      "image": {
+        "fichier": "images/tarot/12.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "La Force"
+      }
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:13",
+      "titre": "Le Pendu",
+      "symbole": "12",
+      "theme": "Le lâcher-prise",
+      "positive": {
+        "famille": "Lâcher-prise",
+        "description": "Suspendre volontairement son action permet parfois de découvrir une perspective que l’effort seul ne pouvait révéler.",
+        "mots_cles": [
+          "acceptation",
+          "attente",
+          "perspective",
+          "suspension",
+          "détachement"
+        ]
+      },
+      "negative": {
+        "famille": "Stagnation",
+        "description": "Le renoncement cesse d’être libérateur lorsqu’il devient une résignation à des obstacles que tu pourrais encore dépasser.",
+        "mots_cles": [
+          "blocage",
+          "sacrifice",
+          "impuissance",
+          "résignation",
+          "immobilisme"
+        ]
+      },
+      "numero": 12,
+      "arcane": "Le Pendu",
+      "signification_fondamentale": "Le lâcher-prise",
+      "id_source": 13,
+      "image": {
+        "fichier": "images/tarot/13.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Le Pendu"
+      }
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:14",
+      "titre": "L'Arcane sans nom",
+      "symbole": "13",
+      "theme": "La transformation",
+      "positive": {
+        "famille": "Transformation",
+        "description": "Toute transformation profonde demande de laisser disparaître certaines habitudes pour faire place à une existence renouvelée.",
+        "mots_cles": [
+          "renaissance",
+          "transition",
+          "fin",
+          "libération",
+          "renouvellement"
+        ]
+      },
+      "negative": {
+        "famille": "Résistance",
+        "description": "S’accrocher à ce qui a pris fin peut prolonger la douleur de la perte et empêcher l’émergence du nouveau.",
+        "mots_cles": [
+          "peur",
+          "perte",
+          "rupture",
+          "attachement",
+          "deuil",
+          "refus"
+        ]
+      },
+      "numero": 13,
+      "arcane": "L'Arcane sans nom",
+      "signification_fondamentale": "La transformation",
+      "id_source": 14,
+      "image": {
+        "fichier": "images/tarot/14.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "L'Arcane sans nom"
+      }
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:15",
+      "titre": "Tempérance",
+      "symbole": "14",
+      "theme": "La modération",
+      "positive": {
+        "famille": "Modération",
+        "description": "La modération rapproche les contraires sans effacer leurs différences et donne à chacun la place nécessaire à l’équilibre.",
+        "mots_cles": [
+          "harmonie",
+          "guérison",
+          "réconciliation",
+          "patience",
+          "adaptation"
+        ]
+      },
+      "negative": {
+        "famille": "Déséquilibre",
+        "description": "À vouloir apaiser toutes les tensions, tu risques de diluer tes propres besoins et de perdre le sens de tes limites.",
+        "mots_cles": [
+          "excès",
+          "dilution",
+          "agitation",
+          "impatience",
+          "instabilité"
+        ]
+      },
+      "numero": 14,
+      "arcane": "Tempérance",
+      "signification_fondamentale": "La modération",
+      "id_source": 15,
+      "image": {
+        "fichier": "images/tarot/15.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Tempérance"
+      }
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:16",
+      "titre": "Le Diable",
+      "symbole": "15",
+      "theme": "Le désir",
+      "positive": {
+        "famille": "Vitalité",
+        "description": "Comprendre la source de tes désirs te permet de transformer leur puissance en une énergie consciente et créatrice.",
+        "mots_cles": [
+          "désir",
+          "passion",
+          "sensualité",
+          "instinct",
+          "énergie",
+          "puissance"
+        ]
+      },
+      "negative": {
+        "famille": "Dépendance",
+        "description": "Le désir devient une chaîne lorsque ce que tu cherches à posséder finit par gouverner tes décisions.",
+        "mots_cles": [
+          "obsession",
+          "addiction",
+          "manipulation",
+          "avidité",
+          "jalousie"
+        ]
+      },
+      "numero": 15,
+      "arcane": "Le Diable",
+      "signification_fondamentale": "Le désir",
+      "id_source": 16,
+      "image": {
+        "fichier": "images/tarot/16.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Le Diable"
+      }
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:17",
+      "titre": "La Maison Dieu",
+      "symbole": "16",
+      "theme": "La libération",
+      "positive": {
+        "famille": "Révélation",
+        "description": "La remise en question d’une certitude peut ouvrir un espace de liberté que sa solidité apparente te dissimulait.",
+        "mots_cles": [
+          "ouverture",
+          "rupture",
+          "vérité",
+          "libération",
+          "reconstruction"
+        ]
+      },
+      "negative": {
+        "famille": "Effondrement",
+        "description": "L’orgueil rend les crises plus douloureuses lorsqu’il t’interdit de reconnaître la fragilité de tes constructions.",
+        "mots_cles": [
+          "chaos",
+          "crise",
+          "orgueil",
+          "destruction",
+          "déstabilisation"
+        ]
+      },
+      "numero": 16,
+      "arcane": "La Maison Dieu",
+      "signification_fondamentale": "La libération",
+      "id_source": 17,
+      "image": {
+        "fichier": "images/tarot/17.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "La Maison Dieu"
+      }
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:18",
+      "titre": "L'Étoile",
+      "symbole": "17",
+      "theme": "L'espérance",
+      "positive": {
+        "famille": "Espérance",
+        "description": "L’espérance prend racine dans la confiance que tu accordes aux possibilités de la vie, même lorsqu’elles demeurent incertaines.",
+        "mots_cles": [
+          "confiance",
+          "authenticité",
+          "générosité",
+          "inspiration",
+          "avenir"
+        ]
+      },
+      "negative": {
+        "famille": "Découragement",
+        "description": "Un idéal trop éloigné du réel peut nourrir la désillusion au lieu de soutenir ton courage.",
+        "mots_cles": [
+          "désillusion",
+          "naïveté",
+          "désespoir",
+          "idéalisation",
+          "doute"
+        ]
+      },
+      "numero": 17,
+      "arcane": "L'Étoile",
+      "signification_fondamentale": "L'espérance",
+      "id_source": 18,
+      "image": {
+        "fichier": "images/tarot/18.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "L'Étoile"
+      }
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:19",
+      "titre": "La Lune",
+      "symbole": "18",
+      "theme": "L'inconscient",
+      "positive": {
+        "famille": "Imagination",
+        "description": "Les rêves et les émotions révèlent des dimensions de ton existence que la seule raison ne suffit pas à comprendre.",
+        "mots_cles": [
+          "rêve",
+          "intuition",
+          "mystère",
+          "émotion",
+          "inconscient",
+          "mémoire"
+        ]
+      },
+      "negative": {
+        "famille": "Illusion",
+        "description": "Une peur intérieure peut prendre l’apparence d’une vérité lorsque tu ne distingues plus tes impressions des faits.",
+        "mots_cles": [
+          "angoisse",
+          "confusion",
+          "peur",
+          "fantasme",
+          "tromperie"
+        ]
+      },
+      "numero": 18,
+      "arcane": "La Lune",
+      "signification_fondamentale": "L'inconscient",
+      "id_source": 19,
+      "image": {
+        "fichier": "images/tarot/19.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "La Lune"
+      }
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:20",
+      "titre": "Le Soleil",
+      "symbole": "19",
+      "theme": "La lumière",
+      "positive": {
+        "famille": "Épanouissement",
+        "description": "La joie s’approfondit lorsque la lumière de tes réussites contribue aussi à l’épanouissement des autres.",
+        "mots_cles": [
+          "joie",
+          "lumière",
+          "fraternité",
+          "bonheur",
+          "partage",
+          "clarté"
+        ]
+      },
+      "negative": {
+        "famille": "Orgueil",
+        "description": "Le besoin de briller peut t’aveugler au point de ne plus reconnaître les qualités de ceux qui t’entourent.",
+        "mots_cles": [
+          "vanité",
+          "aveuglement",
+          "narcissisme",
+          "prétention",
+          "rivalité"
+        ]
+      },
+      "numero": 19,
+      "arcane": "Le Soleil",
+      "signification_fondamentale": "La lumière",
+      "id_source": 20,
+      "image": {
+        "fichier": "images/tarot/20.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Le Soleil"
+      }
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:21",
+      "titre": "Le Jugement",
+      "symbole": "20",
+      "theme": "L'éveil",
+      "positive": {
+        "famille": "Éveil",
+        "description": "Prendre conscience de ce qui t’anime véritablement permet de renouveler ton existence sans rester prisonnier de tes erreurs.",
+        "mots_cles": [
+          "conscience",
+          "vocation",
+          "renaissance",
+          "révélation",
+          "pardon"
+        ]
+      },
+      "negative": {
+        "famille": "Déni",
+        "description": "La peur du jugement et les remords peuvent étouffer une vérité intérieure qui mérite pourtant d’être entendue.",
+        "mots_cles": [
+          "culpabilité",
+          "refus",
+          "remords",
+          "jugement",
+          "peur"
+        ]
+      },
+      "numero": 20,
+      "arcane": "Le Jugement",
+      "signification_fondamentale": "L'éveil",
+      "id_source": 21,
+      "image": {
+        "fichier": "images/tarot/21.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Le Jugement"
+      }
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:22",
+      "titre": "Le Monde",
+      "symbole": "21",
+      "theme": "L'accomplissement",
+      "positive": {
+        "famille": "Accomplissement",
+        "description": "L’accomplissement réside dans la capacité à réunir les expériences de ton parcours en un ensemble auquel tu reconnais un sens.",
+        "mots_cles": [
+          "unité",
+          "totalité",
+          "plénitude",
+          "réussite",
+          "intégration"
+        ]
+      },
+      "negative": {
+        "famille": "Inachèvement",
+        "description": "À ne considérer que ce qui reste à accomplir, tu risques de ne jamais reconnaître la richesse du chemin déjà parcouru.",
+        "mots_cles": [
+          "frustration",
+          "enfermement",
+          "insatisfaction",
+          "limitation"
+        ]
+      },
+      "numero": 21,
+      "arcane": "Le Monde",
+      "signification_fondamentale": "L'accomplissement",
+      "id_source": 22,
+      "image": {
+        "fichier": "images/tarot/22.svg",
+        "auteur": "Composition vectorielle générée pour Oracle universel",
+        "licence": "Création originale, aucune image tierce incorporée; droits éventuels non garantis",
+        "source": "Création locale",
+        "alt": "Le Monde"
+      }
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:as-de-coupes",
+      "titre": "As de coupes",
+      "symbole": "As de coupes",
+      "theme": "Amour",
+      "signification_fondamentale": "Amour",
+      "positive": {
+        "famille": "Ouverture",
+        "description": "Ouvrir son cœur, c’est accueillir l’autre dans sa réalité plutôt que dans le rôle que nos attentes lui attribuent.",
+        "mots_cles": [
+          "ouverture",
+          "amour"
+        ]
+      },
+      "negative": {
+        "famille": "Idéalisation",
+        "description": "L’idéalisation empêche parfois d’aimer une personne réelle en lui préférant l’image que l’on a construite.",
+        "mots_cles": [
+          "idéalisation",
+          "amour"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Coupes",
+      "valeur": "As"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:2-de-coupes",
+      "titre": "2 de coupes",
+      "symbole": "2 de coupes",
+      "theme": "Union",
+      "signification_fondamentale": "Union",
+      "positive": {
+        "famille": "Confiance",
+        "description": "La confiance unit deux êtres lorsqu’elle leur permet de rester eux-mêmes au sein de leur relation.",
+        "mots_cles": [
+          "confiance",
+          "union"
+        ]
+      },
+      "negative": {
+        "famille": "Dépendance",
+        "description": "Une union devient dépendance lorsque la présence de l’autre conditionne entièrement le sentiment de sa propre valeur.",
+        "mots_cles": [
+          "dépendance",
+          "union"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Coupes",
+      "valeur": "2"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:3-de-coupes",
+      "titre": "3 de coupes",
+      "symbole": "3 de coupes",
+      "theme": "Partage",
+      "signification_fondamentale": "Partage",
+      "positive": {
+        "famille": "Joie",
+        "description": "La joie partagée transforme un plaisir individuel en une expérience qui nourrit les liens humains.",
+        "mots_cles": [
+          "joie",
+          "partage"
+        ]
+      },
+      "negative": {
+        "famille": "Excès",
+        "description": "La recherche excessive du plaisir commun peut faire oublier les besoins et les limites de chacun.",
+        "mots_cles": [
+          "excès",
+          "partage"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Coupes",
+      "valeur": "3"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:4-de-coupes",
+      "titre": "4 de coupes",
+      "symbole": "4 de coupes",
+      "theme": "Introspection",
+      "signification_fondamentale": "Introspection",
+      "positive": {
+        "famille": "Réflexion",
+        "description": "Le temps consacré à la réflexion permet de distinguer les désirs passagers des aspirations qui donnent du sens à la vie.",
+        "mots_cles": [
+          "réflexion",
+          "introspection"
+        ]
+      },
+      "negative": {
+        "famille": "Apathie",
+        "description": "L’introspection perd sa valeur lorsqu’elle devient indifférence envers les possibilités du présent.",
+        "mots_cles": [
+          "apathie",
+          "introspection"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Coupes",
+      "valeur": "4"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:5-de-coupes",
+      "titre": "5 de coupes",
+      "symbole": "5 de coupes",
+      "theme": "Déception",
+      "signification_fondamentale": "Déception",
+      "positive": {
+        "famille": "Acceptation",
+        "description": "Accepter une déception, c’est reconnaître que la réalité ne répond pas toujours à nos attentes sans renoncer à espérer.",
+        "mots_cles": [
+          "acceptation",
+          "déception"
+        ]
+      },
+      "negative": {
+        "famille": "Regret",
+        "description": "Le regret prolonge la déception lorsqu’il enferme la pensée dans ce qui aurait pu être.",
+        "mots_cles": [
+          "regret",
+          "déception"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Coupes",
+      "valeur": "5"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:6-de-coupes",
+      "titre": "6 de coupes",
+      "symbole": "6 de coupes",
+      "theme": "Souvenir",
+      "signification_fondamentale": "Souvenir",
+      "positive": {
+        "famille": "Tendresse",
+        "description": "La tendresse des souvenirs peut nourrir le présent sans exiger que le passé revienne.",
+        "mots_cles": [
+          "tendresse",
+          "souvenir"
+        ]
+      },
+      "negative": {
+        "famille": "Nostalgie",
+        "description": "La nostalgie devient un obstacle lorsque le bonheur d’hier sert à déprécier les possibilités d’aujourd’hui.",
+        "mots_cles": [
+          "nostalgie",
+          "souvenir"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Coupes",
+      "valeur": "6"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:7-de-coupes",
+      "titre": "7 de coupes",
+      "symbole": "7 de coupes",
+      "theme": "Imagination",
+      "signification_fondamentale": "Imagination",
+      "positive": {
+        "famille": "Inspiration",
+        "description": "L’imagination ouvre des chemins que l’expérience n’a pas encore explorés et donne naissance à des intentions nouvelles.",
+        "mots_cles": [
+          "inspiration",
+          "imagination"
+        ]
+      },
+      "negative": {
+        "famille": "Illusion",
+        "description": "Les possibles imaginaires deviennent des illusions lorsqu’ils remplacent les choix et les actes nécessaires à leur réalisation.",
+        "mots_cles": [
+          "illusion",
+          "imagination"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Coupes",
+      "valeur": "7"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:8-de-coupes",
+      "titre": "8 de coupes",
+      "symbole": "8 de coupes",
+      "theme": "Détachement",
+      "signification_fondamentale": "Détachement",
+      "positive": {
+        "famille": "Liberté",
+        "description": "Le détachement rend libre lorsqu’il permet de quitter ce qui ne nourrit plus ton existence sans renier ce que tu as vécu.",
+        "mots_cles": [
+          "liberté",
+          "détachement"
+        ]
+      },
+      "negative": {
+        "famille": "Fuite",
+        "description": "Quitter une situation par peur de l’affronter ne procure pas nécessairement la liberté que tu recherches.",
+        "mots_cles": [
+          "fuite",
+          "détachement"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Coupes",
+      "valeur": "8"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:9-de-coupes",
+      "titre": "9 de coupes",
+      "symbole": "9 de coupes",
+      "theme": "Satisfaction",
+      "signification_fondamentale": "Satisfaction",
+      "positive": {
+        "famille": "Gratitude",
+        "description": "La gratitude donne à la satisfaction une profondeur que l’accumulation de nouveaux plaisirs ne saurait garantir.",
+        "mots_cles": [
+          "gratitude",
+          "satisfaction"
+        ]
+      },
+      "negative": {
+        "famille": "Complaisance",
+        "description": "Se satisfaire de tout peut devenir une complaisance qui dispense de reconnaître ce qui demande encore à évoluer.",
+        "mots_cles": [
+          "complaisance",
+          "satisfaction"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Coupes",
+      "valeur": "9"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:10-de-coupes",
+      "titre": "10 de coupes",
+      "symbole": "10 de coupes",
+      "theme": "Harmonie",
+      "signification_fondamentale": "Harmonie",
+      "positive": {
+        "famille": "Solidarité",
+        "description": "L’harmonie collective se construit par une solidarité qui accueille les différences au lieu de les effacer.",
+        "mots_cles": [
+          "solidarité",
+          "harmonie"
+        ]
+      },
+      "negative": {
+        "famille": "Conformisme",
+        "description": "La recherche de l’entente devient conformisme lorsqu’elle impose à chacun de taire sa singularité.",
+        "mots_cles": [
+          "conformisme",
+          "harmonie"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Coupes",
+      "valeur": "10"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:valet-de-coupes",
+      "titre": "Valet de coupes",
+      "symbole": "Valet de coupes",
+      "theme": "Sensibilité",
+      "signification_fondamentale": "Sensibilité",
+      "positive": {
+        "famille": "Écoute",
+        "description": "Écouter avec sensibilité, c’est accueillir les émotions d’autrui sans prétendre les comprendre avant de les avoir entendues.",
+        "mots_cles": [
+          "écoute",
+          "sensibilité"
+        ]
+      },
+      "negative": {
+        "famille": "Naïveté",
+        "description": "La sensibilité a besoin de discernement pour que la confiance ne se transforme pas en crédulité.",
+        "mots_cles": [
+          "naïveté",
+          "sensibilité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Coupes",
+      "valeur": "Valet"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:cavalier-de-coupes",
+      "titre": "Cavalier de coupes",
+      "symbole": "Cavalier de coupes",
+      "theme": "Idéalisme",
+      "signification_fondamentale": "Idéalisme",
+      "positive": {
+        "famille": "Élan",
+        "description": "Un idéal donne de l’élan à l’existence lorsqu’il inspire des gestes capables de rapprocher le rêve du réel.",
+        "mots_cles": [
+          "élan",
+          "idéalisme"
+        ]
+      },
+      "negative": {
+        "famille": "Illusion",
+        "description": "La beauté d’un idéal ne garantit pas sa justesse lorsque tu refuses de le confronter à l’expérience.",
+        "mots_cles": [
+          "illusion",
+          "idéalisme"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Coupes",
+      "valeur": "Cavalier"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:reine-de-coupes",
+      "titre": "Reine de coupes",
+      "symbole": "Reine de coupes",
+      "theme": "Compassion",
+      "signification_fondamentale": "Compassion",
+      "positive": {
+        "famille": "Empathie",
+        "description": "L’empathie permet de rejoindre la souffrance d’autrui tout en respectant la distance entre son histoire et la tienne.",
+        "mots_cles": [
+          "empathie",
+          "compassion"
+        ]
+      },
+      "negative": {
+        "famille": "Effacement",
+        "description": "La compassion perd son équilibre lorsque prendre soin des autres signifie renoncer à tes propres besoins.",
+        "mots_cles": [
+          "effacement",
+          "compassion"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Coupes",
+      "valeur": "Reine"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:roi-de-coupes",
+      "titre": "Roi de coupes",
+      "symbole": "Roi de coupes",
+      "theme": "Maturité",
+      "signification_fondamentale": "Maturité",
+      "positive": {
+        "famille": "Équilibre",
+        "description": "La maturité émotionnelle consiste à accueillir ses sentiments sans leur abandonner la conduite de ses actes.",
+        "mots_cles": [
+          "équilibre",
+          "maturité"
+        ]
+      },
+      "negative": {
+        "famille": "Retenue excessive",
+        "description": "Une retenue excessive peut dissimuler les émotions au point de rendre impossible une relation authentique.",
+        "mots_cles": [
+          "retenue excessive",
+          "maturité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Coupes",
+      "valeur": "Roi"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:as-de-epees",
+      "titre": "As de épées",
+      "symbole": "As de épées",
+      "theme": "Clarté",
+      "signification_fondamentale": "Clarté",
+      "positive": {
+        "famille": "Discernement",
+        "description": "Le discernement apporte la clarté en séparant les faits de ce que nos convictions nous incitent à croire.",
+        "mots_cles": [
+          "discernement",
+          "clarté"
+        ]
+      },
+      "negative": {
+        "famille": "Sévérité",
+        "description": "Une vérité exprimée sans humanité peut blesser davantage qu’elle n’éclaire.",
+        "mots_cles": [
+          "sévérité",
+          "clarté"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Épées",
+      "valeur": "As"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:2-de-epees",
+      "titre": "2 de épées",
+      "symbole": "2 de épées",
+      "theme": "Dilemme",
+      "signification_fondamentale": "Dilemme",
+      "positive": {
+        "famille": "Équilibre",
+        "description": "Face à un dilemme, la sagesse consiste à peser les valeurs en jeu plutôt qu’à rechercher une solution sans aucun renoncement.",
+        "mots_cles": [
+          "équilibre",
+          "dilemme"
+        ]
+      },
+      "negative": {
+        "famille": "Indécision",
+        "description": "Repousser indéfiniment une décision revient parfois à laisser les circonstances choisir à ta place.",
+        "mots_cles": [
+          "indécision",
+          "dilemme"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Épées",
+      "valeur": "2"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:3-de-epees",
+      "titre": "3 de épées",
+      "symbole": "3 de épées",
+      "theme": "Blessure",
+      "signification_fondamentale": "Blessure",
+      "positive": {
+        "famille": "Acceptation",
+        "description": "Reconnaître une blessure permet de lui donner une place dans ton histoire sans lui confier tout ton avenir.",
+        "mots_cles": [
+          "acceptation",
+          "blessure"
+        ]
+      },
+      "negative": {
+        "famille": "Rancune",
+        "description": "La rancune maintient vivante une blessure que le temps seul ne suffit pas à apaiser.",
+        "mots_cles": [
+          "rancune",
+          "blessure"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Épées",
+      "valeur": "3"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:4-de-epees",
+      "titre": "4 de épées",
+      "symbole": "4 de épées",
+      "theme": "Repos",
+      "signification_fondamentale": "Repos",
+      "positive": {
+        "famille": "Récupération",
+        "description": "Le repos fait partie de l’action juste, car il permet de retrouver les forces et la lucidité nécessaires pour poursuivre.",
+        "mots_cles": [
+          "récupération",
+          "repos"
+        ]
+      },
+      "negative": {
+        "famille": "Retrait",
+        "description": "Le retrait devient un obstacle lorsqu’il ne prépare plus le retour à la vie mais sert à l’éviter.",
+        "mots_cles": [
+          "retrait",
+          "repos"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Épées",
+      "valeur": "4"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:5-de-epees",
+      "titre": "5 de épées",
+      "symbole": "5 de épées",
+      "theme": "Conflit",
+      "signification_fondamentale": "Conflit",
+      "positive": {
+        "famille": "Affirmation",
+        "description": "S’affirmer dans un conflit, c’est défendre ce qui importe sans nier la dignité de celui qui s’oppose à toi.",
+        "mots_cles": [
+          "affirmation",
+          "conflit"
+        ]
+      },
+      "negative": {
+        "famille": "Hostilité",
+        "description": "L’hostilité transforme un désaccord en lutte de pouvoir où la compréhension devient secondaire.",
+        "mots_cles": [
+          "hostilité",
+          "conflit"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Épées",
+      "valeur": "5"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:6-de-epees",
+      "titre": "6 de épées",
+      "symbole": "6 de épées",
+      "theme": "Transition",
+      "signification_fondamentale": "Transition",
+      "positive": {
+        "famille": "Adaptation",
+        "description": "Traverser une transition demande d’adapter ses habitudes sans perdre de vue les valeurs qui orientent son parcours.",
+        "mots_cles": [
+          "adaptation",
+          "transition"
+        ]
+      },
+      "negative": {
+        "famille": "Fuite",
+        "description": "Changer de situation ne résout pas toujours les difficultés que l’on refuse de comprendre.",
+        "mots_cles": [
+          "fuite",
+          "transition"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Épées",
+      "valeur": "6"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:7-de-epees",
+      "titre": "7 de épées",
+      "symbole": "7 de épées",
+      "theme": "Stratégie",
+      "signification_fondamentale": "Stratégie",
+      "positive": {
+        "famille": "Ingéniosité",
+        "description": "L’ingéniosité consiste à découvrir une voie nouvelle lorsque les moyens habituels ne répondent plus à la situation.",
+        "mots_cles": [
+          "ingéniosité",
+          "stratégie"
+        ]
+      },
+      "negative": {
+        "famille": "Tromperie",
+        "description": "Une stratégie fondée sur la tromperie fragilise la confiance dont dépend souvent sa réussite.",
+        "mots_cles": [
+          "tromperie",
+          "stratégie"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Épées",
+      "valeur": "7"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:8-de-epees",
+      "titre": "8 de épées",
+      "symbole": "8 de épées",
+      "theme": "Limitation",
+      "signification_fondamentale": "Limitation",
+      "positive": {
+        "famille": "Lucidité",
+        "description": "La lucidité permet de distinguer les limites réelles de celles que nos habitudes de pensée nous imposent.",
+        "mots_cles": [
+          "lucidité",
+          "limitation"
+        ]
+      },
+      "negative": {
+        "famille": "Impuissance",
+        "description": "Le sentiment d’impuissance peut devenir une prison lorsque tu ne recherches plus les marges de liberté qui subsistent.",
+        "mots_cles": [
+          "impuissance",
+          "limitation"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Épées",
+      "valeur": "8"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:9-de-epees",
+      "titre": "9 de épées",
+      "symbole": "9 de épées",
+      "theme": "Inquiétude",
+      "signification_fondamentale": "Inquiétude",
+      "positive": {
+        "famille": "Vigilance",
+        "description": "La vigilance donne à l’inquiétude une utilité lorsqu’elle aide à reconnaître les risques et à préparer une réponse mesurée.",
+        "mots_cles": [
+          "vigilance",
+          "inquiétude"
+        ]
+      },
+      "negative": {
+        "famille": "Anxiété",
+        "description": "L’anxiété peut faire vivre à l’avance des difficultés qui n’existent encore que dans la pensée.",
+        "mots_cles": [
+          "anxiété",
+          "inquiétude"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Épées",
+      "valeur": "9"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:10-de-epees",
+      "titre": "10 de épées",
+      "symbole": "10 de épées",
+      "theme": "Fin de cycle",
+      "signification_fondamentale": "Fin de cycle",
+      "positive": {
+        "famille": "Libération",
+        "description": "Reconnaître qu’un cycle est terminé permet de consacrer ses forces à ce qui reste possible plutôt qu’à ce qui ne peut être restauré.",
+        "mots_cles": [
+          "libération",
+          "fin de cycle"
+        ]
+      },
+      "negative": {
+        "famille": "Accablement",
+        "description": "L’accablement devient plus lourd lorsque la fin d’une expérience semble condamner toutes celles qui pourraient suivre.",
+        "mots_cles": [
+          "accablement",
+          "fin de cycle"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Épées",
+      "valeur": "10"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:valet-de-epees",
+      "titre": "Valet de épées",
+      "symbole": "Valet de épées",
+      "theme": "Curiosité",
+      "signification_fondamentale": "Curiosité",
+      "positive": {
+        "famille": "Observation",
+        "description": "La curiosité devient connaissance lorsque l’observation précède les conclusions et laisse place à la surprise.",
+        "mots_cles": [
+          "observation",
+          "curiosité"
+        ]
+      },
+      "negative": {
+        "famille": "Soupçon",
+        "description": "Le soupçon déforme l’observation lorsqu’il ne cherche plus que des preuves de ce qu’il croit déjà.",
+        "mots_cles": [
+          "soupçon",
+          "curiosité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Épées",
+      "valeur": "Valet"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:cavalier-de-epees",
+      "titre": "Cavalier de épées",
+      "symbole": "Cavalier de épées",
+      "theme": "Détermination",
+      "signification_fondamentale": "Détermination",
+      "positive": {
+        "famille": "Courage",
+        "description": "Le courage donne à la détermination sa valeur lorsqu’il s’accompagne d’une conscience des conséquences de l’action.",
+        "mots_cles": [
+          "courage",
+          "détermination"
+        ]
+      },
+      "negative": {
+        "famille": "Précipitation",
+        "description": "La précipitation peut détourner une volonté sincère de son but en lui faisant négliger les obstacles réels.",
+        "mots_cles": [
+          "précipitation",
+          "détermination"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Épées",
+      "valeur": "Cavalier"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:reine-de-epees",
+      "titre": "Reine de épées",
+      "symbole": "Reine de épées",
+      "theme": "Discernement",
+      "signification_fondamentale": "Discernement",
+      "positive": {
+        "famille": "Justice",
+        "description": "Le discernement devient justice lorsqu’il associe la précision du jugement à la compréhension des situations humaines.",
+        "mots_cles": [
+          "justice",
+          "discernement"
+        ]
+      },
+      "negative": {
+        "famille": "Froideur",
+        "description": "La froideur du jugement peut réduire une personne à ses erreurs et oublier la complexité de son existence.",
+        "mots_cles": [
+          "froideur",
+          "discernement"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Épées",
+      "valeur": "Reine"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:roi-de-epees",
+      "titre": "Roi de épées",
+      "symbole": "Roi de épées",
+      "theme": "Autorité",
+      "signification_fondamentale": "Autorité",
+      "positive": {
+        "famille": "Rigueur",
+        "description": "L’autorité intellectuelle se mérite par la rigueur du raisonnement et la capacité à reconnaître ses propres erreurs.",
+        "mots_cles": [
+          "rigueur",
+          "autorité"
+        ]
+      },
+      "negative": {
+        "famille": "Domination",
+        "description": "La raison devient un instrument de domination lorsqu’elle sert à imposer une conclusion plutôt qu’à rechercher la vérité.",
+        "mots_cles": [
+          "domination",
+          "autorité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Épées",
+      "valeur": "Roi"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:as-de-batons",
+      "titre": "As de bâtons",
+      "symbole": "As de bâtons",
+      "theme": "Création",
+      "signification_fondamentale": "Création",
+      "positive": {
+        "famille": "Initiative",
+        "description": "L’initiative transforme une intuition créatrice en un premier geste qui rend possible la suite de l’œuvre.",
+        "mots_cles": [
+          "initiative",
+          "création"
+        ]
+      },
+      "negative": {
+        "famille": "Impulsivité",
+        "description": "L’impulsivité consume parfois l’énergie de la création avant qu’elle ait trouvé une direction durable.",
+        "mots_cles": [
+          "impulsivité",
+          "création"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Bâtons",
+      "valeur": "As"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:2-de-batons",
+      "titre": "2 de bâtons",
+      "symbole": "2 de bâtons",
+      "theme": "Projection",
+      "signification_fondamentale": "Projection",
+      "positive": {
+        "famille": "Vision",
+        "description": "Une vision féconde relie les possibilités de demain aux décisions que tu peux prendre aujourd’hui.",
+        "mots_cles": [
+          "vision",
+          "projection"
+        ]
+      },
+      "negative": {
+        "famille": "Hésitation",
+        "description": "L’hésitation prolongée peut transformer la préparation de l’avenir en une manière de différer le présent.",
+        "mots_cles": [
+          "hésitation",
+          "projection"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Bâtons",
+      "valeur": "2"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:3-de-batons",
+      "titre": "3 de bâtons",
+      "symbole": "3 de bâtons",
+      "theme": "Expansion",
+      "signification_fondamentale": "Expansion",
+      "positive": {
+        "famille": "Progression",
+        "description": "Progresser vers de nouveaux horizons demande de reconnaître les acquis du chemin sans cesser d’élargir son regard.",
+        "mots_cles": [
+          "progression",
+          "expansion"
+        ]
+      },
+      "negative": {
+        "famille": "Ambition",
+        "description": "L’ambition devient démesurée lorsqu’aucune avancée ne paraît suffisante pour justifier un moment de satisfaction.",
+        "mots_cles": [
+          "ambition",
+          "expansion"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Bâtons",
+      "valeur": "3"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:4-de-batons",
+      "titre": "4 de bâtons",
+      "symbole": "4 de bâtons",
+      "theme": "Célébration",
+      "signification_fondamentale": "Célébration",
+      "positive": {
+        "famille": "Partage",
+        "description": "Célébrer ensemble une réussite donne du sens aux efforts accomplis et renforce les liens qui les ont rendus possibles.",
+        "mots_cles": [
+          "partage",
+          "célébration"
+        ]
+      },
+      "negative": {
+        "famille": "Insouciance",
+        "description": "L’insouciance peut faire oublier que les moments heureux reposent aussi sur des engagements à entretenir.",
+        "mots_cles": [
+          "insouciance",
+          "célébration"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Bâtons",
+      "valeur": "4"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:5-de-batons",
+      "titre": "5 de bâtons",
+      "symbole": "5 de bâtons",
+      "theme": "Compétition",
+      "signification_fondamentale": "Compétition",
+      "positive": {
+        "famille": "Stimulation",
+        "description": "La compétition peut stimuler tes capacités lorsque tu considères l’autre comme une occasion de progresser plutôt que comme un obstacle.",
+        "mots_cles": [
+          "stimulation",
+          "compétition"
+        ]
+      },
+      "negative": {
+        "famille": "Rivalité",
+        "description": "La rivalité appauvrit l’effort lorsque la valeur de ta réussite dépend de l’échec d’autrui.",
+        "mots_cles": [
+          "rivalité",
+          "compétition"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Bâtons",
+      "valeur": "5"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:6-de-batons",
+      "titre": "6 de bâtons",
+      "symbole": "6 de bâtons",
+      "theme": "Reconnaissance",
+      "signification_fondamentale": "Reconnaissance",
+      "positive": {
+        "famille": "Confiance",
+        "description": "La reconnaissance nourrit la confiance lorsqu’elle confirme la valeur d’un effort sans devenir la raison de l’entreprendre.",
+        "mots_cles": [
+          "confiance",
+          "reconnaissance"
+        ]
+      },
+      "negative": {
+        "famille": "Vanité",
+        "description": "La vanité te rend dépendant des regards que tu cherches constamment à attirer.",
+        "mots_cles": [
+          "vanité",
+          "reconnaissance"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Bâtons",
+      "valeur": "6"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:7-de-batons",
+      "titre": "7 de bâtons",
+      "symbole": "7 de bâtons",
+      "theme": "Défense",
+      "signification_fondamentale": "Défense",
+      "positive": {
+        "famille": "Courage",
+        "description": "Défendre une conviction demande du courage, mais aussi la liberté intérieure de la réexaminer.",
+        "mots_cles": [
+          "courage",
+          "défense"
+        ]
+      },
+      "negative": {
+        "famille": "Rigidité",
+        "description": "La défense de tes positions devient rigidité lorsque toute objection est perçue comme une menace.",
+        "mots_cles": [
+          "rigidité",
+          "défense"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Bâtons",
+      "valeur": "7"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:8-de-batons",
+      "titre": "8 de bâtons",
+      "symbole": "8 de bâtons",
+      "theme": "Mouvement",
+      "signification_fondamentale": "Mouvement",
+      "positive": {
+        "famille": "Rapidité",
+        "description": "La rapidité est une qualité lorsque la direction est claire et que le moment appelle une décision.",
+        "mots_cles": [
+          "rapidité",
+          "mouvement"
+        ]
+      },
+      "negative": {
+        "famille": "Précipitation",
+        "description": "Se hâter sans comprendre la situation peut multiplier les obstacles que l’on cherchait à dépasser.",
+        "mots_cles": [
+          "précipitation",
+          "mouvement"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Bâtons",
+      "valeur": "8"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:9-de-batons",
+      "titre": "9 de bâtons",
+      "symbole": "9 de bâtons",
+      "theme": "Endurance",
+      "signification_fondamentale": "Endurance",
+      "positive": {
+        "famille": "Résilience",
+        "description": "La résilience consiste à poursuivre son chemin en tenant compte des blessures et des enseignements accumulés.",
+        "mots_cles": [
+          "résilience",
+          "endurance"
+        ]
+      },
+      "negative": {
+        "famille": "Épuisement",
+        "description": "L’endurance perd sa sagesse lorsque tu ignores l’épuisement pour prouver que tu peux encore tenir.",
+        "mots_cles": [
+          "épuisement",
+          "endurance"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Bâtons",
+      "valeur": "9"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:10-de-batons",
+      "titre": "10 de bâtons",
+      "symbole": "10 de bâtons",
+      "theme": "Responsabilité",
+      "signification_fondamentale": "Responsabilité",
+      "positive": {
+        "famille": "Engagement",
+        "description": "Assumer une responsabilité, c’est donner une continuité à ses engagements tout en reconnaissant les limites de ses forces.",
+        "mots_cles": [
+          "engagement",
+          "responsabilité"
+        ]
+      },
+      "negative": {
+        "famille": "Surmenage",
+        "description": "Porter seul toutes les charges peut compromettre ce que tu souhaites justement préserver.",
+        "mots_cles": [
+          "surmenage",
+          "responsabilité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Bâtons",
+      "valeur": "10"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:valet-de-batons",
+      "titre": "Valet de bâtons",
+      "symbole": "Valet de bâtons",
+      "theme": "Enthousiasme",
+      "signification_fondamentale": "Enthousiasme",
+      "positive": {
+        "famille": "Curiosité",
+        "description": "L’enthousiasme nourrit la découverte lorsqu’il donne à la curiosité le désir d’approfondir ce qu’elle rencontre.",
+        "mots_cles": [
+          "curiosité",
+          "enthousiasme"
+        ]
+      },
+      "negative": {
+        "famille": "Dispersion",
+        "description": "La dispersion transforme une multitude d’élans prometteurs en autant de commencements sans lendemain.",
+        "mots_cles": [
+          "dispersion",
+          "enthousiasme"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Bâtons",
+      "valeur": "Valet"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:cavalier-de-batons",
+      "titre": "Cavalier de bâtons",
+      "symbole": "Cavalier de bâtons",
+      "theme": "Aventure",
+      "signification_fondamentale": "Aventure",
+      "positive": {
+        "famille": "Audace",
+        "description": "L’audace donne à l’aventure sa richesse lorsqu’elle accepte l’incertitude sans mépriser les risques.",
+        "mots_cles": [
+          "audace",
+          "aventure"
+        ]
+      },
+      "negative": {
+        "famille": "Imprudence",
+        "description": "L’imprudence confond parfois la liberté d’explorer avec le refus de mesurer les conséquences de ses actes.",
+        "mots_cles": [
+          "imprudence",
+          "aventure"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Bâtons",
+      "valeur": "Cavalier"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:reine-de-batons",
+      "titre": "Reine de bâtons",
+      "symbole": "Reine de bâtons",
+      "theme": "Créativité",
+      "signification_fondamentale": "Créativité",
+      "positive": {
+        "famille": "Autonomie",
+        "description": "La créativité s’épanouit lorsque tu accordes à tes idées la liberté de prendre une forme qui t’est propre.",
+        "mots_cles": [
+          "autonomie",
+          "créativité"
+        ]
+      },
+      "negative": {
+        "famille": "Égocentrisme",
+        "description": "L’autonomie créatrice devient égocentrisme lorsqu’elle ne reconnaît plus la valeur des contributions extérieures.",
+        "mots_cles": [
+          "égocentrisme",
+          "créativité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Bâtons",
+      "valeur": "Reine"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:roi-de-batons",
+      "titre": "Roi de bâtons",
+      "symbole": "Roi de bâtons",
+      "theme": "Leadership",
+      "signification_fondamentale": "Leadership",
+      "positive": {
+        "famille": "Initiative",
+        "description": "Guider les autres, c’est donner une direction à l’action commune tout en laissant chacun y apporter son initiative.",
+        "mots_cles": [
+          "initiative",
+          "leadership"
+        ]
+      },
+      "negative": {
+        "famille": "Autoritarisme",
+        "description": "Le leadership devient autoritarisme lorsque l’obéissance importe davantage que l’intelligence collective.",
+        "mots_cles": [
+          "autoritarisme",
+          "leadership"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Bâtons",
+      "valeur": "Roi"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:as-de-deniers",
+      "titre": "As de deniers",
+      "symbole": "As de deniers",
+      "theme": "Potentiel matériel",
+      "signification_fondamentale": "Potentiel matériel",
+      "positive": {
+        "famille": "Opportunité",
+        "description": "Une opportunité matérielle prend sa valeur dans l’usage que tu en fais et les possibilités durables qu’elle ouvre.",
+        "mots_cles": [
+          "opportunité",
+          "potentiel matériel"
+        ]
+      },
+      "negative": {
+        "famille": "Avidité",
+        "description": "L’avidité transforme les ressources en une fin en soi au lieu d’en faire des moyens de vivre et de créer.",
+        "mots_cles": [
+          "avidité",
+          "potentiel matériel"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Deniers",
+      "valeur": "As"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:2-de-deniers",
+      "titre": "2 de deniers",
+      "symbole": "2 de deniers",
+      "theme": "Adaptation",
+      "signification_fondamentale": "Adaptation",
+      "positive": {
+        "famille": "Souplesse",
+        "description": "La souplesse permet d’ajuster ses priorités aux changements sans abandonner l’essentiel.",
+        "mots_cles": [
+          "souplesse",
+          "adaptation"
+        ]
+      },
+      "negative": {
+        "famille": "Instabilité",
+        "description": "À modifier constamment tes engagements selon les circonstances, tu risques de perdre la stabilité nécessaire pour les accomplir.",
+        "mots_cles": [
+          "instabilité",
+          "adaptation"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Deniers",
+      "valeur": "2"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:3-de-deniers",
+      "titre": "3 de deniers",
+      "symbole": "3 de deniers",
+      "theme": "Collaboration",
+      "signification_fondamentale": "Collaboration",
+      "positive": {
+        "famille": "Savoir-faire",
+        "description": "Le savoir-faire s’enrichit lorsque des compétences différentes se rencontrent autour d’une réalisation commune.",
+        "mots_cles": [
+          "savoir-faire",
+          "collaboration"
+        ]
+      },
+      "negative": {
+        "famille": "Dépendance",
+        "description": "La collaboration devient dépendance lorsque tu renonces à développer tes propres capacités.",
+        "mots_cles": [
+          "dépendance",
+          "collaboration"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Deniers",
+      "valeur": "3"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:4-de-deniers",
+      "titre": "4 de deniers",
+      "symbole": "4 de deniers",
+      "theme": "Conservation",
+      "signification_fondamentale": "Conservation",
+      "positive": {
+        "famille": "Prudence",
+        "description": "La prudence consiste à préserver les ressources nécessaires à demain sans oublier les besoins d’aujourd’hui.",
+        "mots_cles": [
+          "prudence",
+          "conservation"
+        ]
+      },
+      "negative": {
+        "famille": "Avarice",
+        "description": "L’avarice transforme la conservation des biens en une peur de vivre qui empêche de profiter de leur utilité.",
+        "mots_cles": [
+          "avarice",
+          "conservation"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Deniers",
+      "valeur": "4"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:5-de-deniers",
+      "titre": "5 de deniers",
+      "symbole": "5 de deniers",
+      "theme": "Manque",
+      "signification_fondamentale": "Manque",
+      "positive": {
+        "famille": "Solidarité",
+        "description": "Le manque révèle la valeur de la solidarité et rappelle que l’autonomie humaine se construit aussi grâce aux liens.",
+        "mots_cles": [
+          "solidarité",
+          "manque"
+        ]
+      },
+      "negative": {
+        "famille": "Insécurité",
+        "description": "L’insécurité peut réduire ton horizon à ce qui te manque et dissimuler les ressources encore disponibles.",
+        "mots_cles": [
+          "insécurité",
+          "manque"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Deniers",
+      "valeur": "5"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:6-de-deniers",
+      "titre": "6 de deniers",
+      "symbole": "6 de deniers",
+      "theme": "Générosité",
+      "signification_fondamentale": "Générosité",
+      "positive": {
+        "famille": "Partage",
+        "description": "La générosité est pleinement libre lorsqu’elle offre sans exiger de retour ni imposer de reconnaissance.",
+        "mots_cles": [
+          "partage",
+          "générosité"
+        ]
+      },
+      "negative": {
+        "famille": "Dette morale",
+        "description": "Un don devient une dette morale lorsqu’il sert à obtenir l’obéissance ou la gratitude de celui qui le reçoit.",
+        "mots_cles": [
+          "dette morale",
+          "générosité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Deniers",
+      "valeur": "6"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:7-de-deniers",
+      "titre": "7 de deniers",
+      "symbole": "7 de deniers",
+      "theme": "Patience",
+      "signification_fondamentale": "Patience",
+      "positive": {
+        "famille": "Maturation",
+        "description": "La patience reconnaît que certaines réalisations demandent un temps de maturation que la volonté ne peut raccourcir.",
+        "mots_cles": [
+          "maturation",
+          "patience"
+        ]
+      },
+      "negative": {
+        "famille": "Impatience",
+        "description": "L’impatience peut conduire à abandonner un effort dont les fruits n’ont simplement pas encore mûri.",
+        "mots_cles": [
+          "impatience",
+          "patience"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Deniers",
+      "valeur": "7"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:8-de-deniers",
+      "titre": "8 de deniers",
+      "symbole": "8 de deniers",
+      "theme": "Apprentissage",
+      "signification_fondamentale": "Apprentissage",
+      "positive": {
+        "famille": "Application",
+        "description": "L’apprentissage transforme la répétition attentive en compréhension et la compréhension en maîtrise.",
+        "mots_cles": [
+          "application",
+          "apprentissage"
+        ]
+      },
+      "negative": {
+        "famille": "Perfectionnisme",
+        "description": "Le perfectionnisme peut empêcher de reconnaître les progrès réels en ne considérant que les imperfections restantes.",
+        "mots_cles": [
+          "perfectionnisme",
+          "apprentissage"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Deniers",
+      "valeur": "8"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:9-de-deniers",
+      "titre": "9 de deniers",
+      "symbole": "9 de deniers",
+      "theme": "Autonomie",
+      "signification_fondamentale": "Autonomie",
+      "positive": {
+        "famille": "Indépendance",
+        "description": "L’indépendance permet de savourer le fruit de ses efforts sans faire de l’autosuffisance une obligation.",
+        "mots_cles": [
+          "indépendance",
+          "autonomie"
+        ]
+      },
+      "negative": {
+        "famille": "Isolement",
+        "description": "L’autonomie devient isolement lorsqu’accepter l’aide d’autrui semble menacer ta dignité.",
+        "mots_cles": [
+          "isolement",
+          "autonomie"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Deniers",
+      "valeur": "9"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:10-de-deniers",
+      "titre": "10 de deniers",
+      "symbole": "10 de deniers",
+      "theme": "Transmission",
+      "signification_fondamentale": "Transmission",
+      "positive": {
+        "famille": "Stabilité",
+        "description": "Transmettre durablement, c’est offrir des ressources et des repères dont les générations suivantes pourront faire un usage libre.",
+        "mots_cles": [
+          "stabilité",
+          "transmission"
+        ]
+      },
+      "negative": {
+        "famille": "Matérialisme",
+        "description": "Le matérialisme appauvrit l’héritage lorsque la valeur des biens fait oublier celle des expériences et des liens.",
+        "mots_cles": [
+          "matérialisme",
+          "transmission"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Deniers",
+      "valeur": "10"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:valet-de-deniers",
+      "titre": "Valet de deniers",
+      "symbole": "Valet de deniers",
+      "theme": "Étude",
+      "signification_fondamentale": "Étude",
+      "positive": {
+        "famille": "Curiosité",
+        "description": "Étudier avec curiosité, c’est accepter de ne pas savoir encore et transformer chaque découverte en une possibilité d’apprendre.",
+        "mots_cles": [
+          "curiosité",
+          "étude"
+        ]
+      },
+      "negative": {
+        "famille": "Inexpérience",
+        "description": "L’inexpérience devient un frein lorsque la hâte de réussir dispense d’acquérir les connaissances nécessaires.",
+        "mots_cles": [
+          "inexpérience",
+          "étude"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Deniers",
+      "valeur": "Valet"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:cavalier-de-deniers",
+      "titre": "Cavalier de deniers",
+      "symbole": "Cavalier de deniers",
+      "theme": "Persévérance",
+      "signification_fondamentale": "Persévérance",
+      "positive": {
+        "famille": "Fiabilité",
+        "description": "La persévérance donne sa solidité à une réalisation lorsque chaque effort prolonge une intention réfléchie.",
+        "mots_cles": [
+          "fiabilité",
+          "persévérance"
+        ]
+      },
+      "negative": {
+        "famille": "Routine",
+        "description": "La routine devient stérile lorsque la fidélité aux habitudes remplace l’attention au sens de ce que tu fais.",
+        "mots_cles": [
+          "routine",
+          "persévérance"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Deniers",
+      "valeur": "Cavalier"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:reine-de-deniers",
+      "titre": "Reine de deniers",
+      "symbole": "Reine de deniers",
+      "theme": "Abondance",
+      "signification_fondamentale": "Abondance",
+      "positive": {
+        "famille": "Soin",
+        "description": "L’abondance trouve sa richesse dans le soin apporté aux ressources, aux êtres et aux conditions qui les font grandir.",
+        "mots_cles": [
+          "soin",
+          "abondance"
+        ]
+      },
+      "negative": {
+        "famille": "Possessivité",
+        "description": "Prendre soin devient possessivité lorsque préserver ce que tu aimes signifie vouloir le garder sous ton contrôle.",
+        "mots_cles": [
+          "possessivité",
+          "abondance"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Deniers",
+      "valeur": "Reine"
+    },
+    {
+      "tradition": "Tarot de Marseille",
+      "id": "Tarot de Marseille:roi-de-deniers",
+      "titre": "Roi de deniers",
+      "symbole": "Roi de deniers",
+      "theme": "Prospérité",
+      "signification_fondamentale": "Prospérité",
+      "positive": {
+        "famille": "Gestion",
+        "description": "La prospérité prend tout son sens lorsque la gestion des ressources contribue à une stabilité dont d’autres peuvent aussi bénéficier.",
+        "mots_cles": [
+          "gestion",
+          "prospérité"
+        ]
+      },
+      "negative": {
+        "famille": "Avidité",
+        "description": "L’avidité rend la prospérité fragile lorsque le désir d’accumuler ne connaît plus aucune mesure.",
+        "mots_cles": [
+          "avidité",
+          "prospérité"
+        ]
+      },
+      "nature_interpretation": "Adaptation symbolique originale, non prédictive",
+      "type": "arcane mineur",
+      "couleur": "Deniers",
+      "valeur": "Roi"
+    }
+  ]
+}

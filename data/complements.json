@@ -1,0 +1,376 @@
+{
+  "complements": {
+    "astrologie": {
+      "version": "0.3",
+      "tradition": "Astrologie occidentale, référentiel symbolique",
+      "elements": [
+        {
+          "nom": "Feu",
+          "signes": [
+            "Bélier",
+            "Lion",
+            "Sagittaire"
+          ],
+          "positive": {
+            "mots_cles": [
+              "énergie",
+              "enthousiasme",
+              "inspiration",
+              "action"
+            ],
+            "description": "L’enthousiasme donne à l’énergie une direction lorsque l’inspiration se transforme en action."
+          },
+          "negative": {
+            "mots_cles": [
+              "colère",
+              "destruction",
+              "impulsivité",
+              "excès"
+            ],
+            "description": "Lorsque la colère gouverne tes actes, l’énergie qui pourrait construire risque de tout détruire dans l’excès et la précipitation."
+          }
+        },
+        {
+          "nom": "Terre",
+          "signes": [
+            "Taureau",
+            "Vierge",
+            "Capricorne"
+          ],
+          "positive": {
+            "mots_cles": [
+              "stabilité",
+              "réalisme",
+              "patience",
+              "construction"
+            ],
+            "description": "La stabilité se construit avec patience, en gardant les pieds dans la réalité et en donnant du temps à ce qui doit grandir."
+          },
+          "negative": {
+            "mots_cles": [
+              "inertie",
+              "matérialisme",
+              "rigidité"
+            ],
+            "description": "À trop vouloir préserver tes acquis matériels, tu risques de transformer la stabilité en immobilisme et la prudence en rigidité."
+          }
+        },
+        {
+          "nom": "Air",
+          "signes": [
+            "Gémeaux",
+            "Balance",
+            "Verseau"
+          ],
+          "positive": {
+            "mots_cles": [
+              "intelligence",
+              "liberté",
+              "communication",
+              "ouverture"
+            ],
+            "description": "La liberté de penser grandit lorsque l’intelligence s’ouvre aux idées nouvelles et se nourrit du dialogue."
+          },
+          "negative": {
+            "mots_cles": [
+              "dispersion",
+              "superficialité",
+              "détachement"
+            ],
+            "description": "À disperser ton attention et à rester à la surface des choses, tu risques de perdre la profondeur des liens qui donnent du sens à ta liberté."
+          }
+        },
+        {
+          "nom": "Eau",
+          "signes": [
+            "Cancer",
+            "Scorpion",
+            "Poissons"
+          ],
+          "positive": {
+            "mots_cles": [
+              "intuition",
+              "émotion",
+              "imagination",
+              "empathie"
+            ],
+            "description": "L’intuition et l’imagination enrichissent ta compréhension du monde lorsque tes émotions t’ouvrent à celles des autres."
+          },
+          "negative": {
+            "mots_cles": [
+              "confusion",
+              "hypersensibilité",
+              "dépendance"
+            ],
+            "description": "Lorsque tes émotions brouillent tes repères, la sensibilité peut devenir une source de confusion et de dépendance."
+          }
+        }
+      ],
+      "modalites": [
+        {
+          "nom": "Cardinale",
+          "signes": [
+            "Bélier",
+            "Cancer",
+            "Balance",
+            "Capricorne"
+          ],
+          "positive": {
+            "mots_cles": [
+              "initiative",
+              "commencement",
+              "impulsion"
+            ],
+            "description": "Tout commencement naît d’une impulsion à laquelle le courage de prendre une initiative donne une direction."
+          },
+          "negative": {
+            "mots_cles": [
+              "précipitation",
+              "autoritarisme"
+            ],
+            "description": "Prendre les devants ne signifie ni agir dans la précipitation ni imposer sa volonté aux autres."
+          }
+        },
+        {
+          "nom": "Fixe",
+          "signes": [
+            "Taureau",
+            "Lion",
+            "Scorpion",
+            "Verseau"
+          ],
+          "positive": {
+            "mots_cles": [
+              "persévérance",
+              "fidélité",
+              "détermination"
+            ],
+            "description": "La détermination prend tout son sens lorsque la persévérance reste fidèle à ce qui mérite réellement ton engagement."
+          },
+          "negative": {
+            "mots_cles": [
+              "entêtement",
+              "résistance au changement"
+            ],
+            "description": "La persévérance devient entêtement lorsque la fidélité à une décision t’empêche de reconnaître la nécessité du changement."
+          }
+        },
+        {
+          "nom": "Mutable",
+          "signes": [
+            "Gémeaux",
+            "Vierge",
+            "Sagittaire",
+            "Poissons"
+          ],
+          "positive": {
+            "mots_cles": [
+              "adaptabilité",
+              "évolution",
+              "souplesse"
+            ],
+            "description": "La souplesse permet d’accueillir le changement sans renoncer à soi-même et de faire de chaque adaptation une occasion d’évoluer."
+          },
+          "negative": {
+            "mots_cles": [
+              "instabilité",
+              "dispersion",
+              "inconstance"
+            ],
+            "description": "À changer sans cesse de direction, tu risques de disperser tes forces et de ne jamais donner à tes engagements le temps de porter leurs fruits."
+          }
+        }
+      ]
+    },
+    "yi_jing": {
+      "version": "0.5",
+      "note": "Adaptation éditoriale symbolique, non traduction littérale.",
+      "trigrammes": [
+        {
+          "symbole": "☰",
+          "nom": "Qian",
+          "signification_fondamentale": "Ciel",
+          "positive": {
+            "famille": "créativité",
+            "description": "La force créatrice trouve sa véritable expression lorsque tu prends l’initiative de donner forme à tes idées.",
+            "mots_cles": [
+              "créativité",
+              "force",
+              "initiative"
+            ]
+          },
+          "negative": {
+            "famille": "autoritarisme",
+            "description": "La force perd sa noblesse lorsque l’orgueil transforme la capacité d’agir en désir de dominer.",
+            "mots_cles": [
+              "autoritarisme",
+              "orgueil",
+              "domination"
+            ]
+          }
+        },
+        {
+          "symbole": "☷",
+          "nom": "Kun",
+          "signification_fondamentale": "Terre",
+          "positive": {
+            "famille": "réceptivité",
+            "description": "Comme la terre accueille la graine, la patience et la réceptivité permettent aux possibilités nouvelles de prendre racine.",
+            "mots_cles": [
+              "réceptivité",
+              "patience",
+              "fécondité"
+            ]
+          },
+          "negative": {
+            "famille": "passivité",
+            "description": "Accueillir la volonté des autres ne doit pas te conduire à renoncer à la tienne ni à confondre patience et soumission.",
+            "mots_cles": [
+              "passivité",
+              "soumission",
+              "dépendance"
+            ]
+          }
+        },
+        {
+          "symbole": "☳",
+          "nom": "Zhen",
+          "signification_fondamentale": "Tonnerre",
+          "positive": {
+            "famille": "éveil",
+            "description": "Ce qui bouleverse tes habitudes peut aussi éveiller ta conscience et donner naissance à un mouvement de renouvellement.",
+            "mots_cles": [
+              "éveil",
+              "mouvement",
+              "renouvellement"
+            ]
+          },
+          "negative": {
+            "famille": "agitation",
+            "description": "Lorsque la peur transforme le mouvement en agitation, la précipitation risque d’aggraver ce que tu cherches à surmonter.",
+            "mots_cles": [
+              "agitation",
+              "peur",
+              "précipitation"
+            ]
+          }
+        },
+        {
+          "symbole": "☴",
+          "nom": "Xun",
+          "signification_fondamentale": "Vent",
+          "positive": {
+            "famille": "souplesse",
+            "description": "À l’image du vent, la souplesse permet de s’adapter aux obstacles et d’exercer une influence sans recourir à la force.",
+            "mots_cles": [
+              "souplesse",
+              "influence",
+              "adaptation"
+            ]
+          },
+          "negative": {
+            "famille": "indécision",
+            "description": "À trop hésiter ou à chercher à orienter les autres par des moyens détournés, tu risques de perdre la clarté de tes propres intentions.",
+            "mots_cles": [
+              "indécision",
+              "manipulation",
+              "hésitation"
+            ]
+          }
+        },
+        {
+          "symbole": "☵",
+          "nom": "Kan",
+          "signification_fondamentale": "Eau",
+          "positive": {
+            "famille": "profondeur",
+            "description": "Comme l’eau qui trouve son passage, le courage consiste à traverser les difficultés avec souplesse sans fuir leur profondeur.",
+            "mots_cles": [
+              "profondeur",
+              "courage",
+              "fluidité"
+            ]
+          },
+          "negative": {
+            "famille": "angoisse",
+            "description": "L’angoisse peut t’enfermer dans la crainte du danger au point de t’empêcher de reconnaître les chemins qui restent ouverts.",
+            "mots_cles": [
+              "angoisse",
+              "danger",
+              "enfermement"
+            ]
+          }
+        },
+        {
+          "symbole": "☲",
+          "nom": "Li",
+          "signification_fondamentale": "Feu",
+          "positive": {
+            "famille": "clarté",
+            "description": "La lucidité éclaire ce que l’inspiration révèle et permet de distinguer ce qui mérite réellement ton attention.",
+            "mots_cles": [
+              "clarté",
+              "lucidité",
+              "inspiration"
+            ]
+          },
+          "negative": {
+            "famille": "illusion",
+            "description": "À rechercher sans cesse ce qui te captive, tu risques de confondre l’éclat de l’illusion avec la lumière de la vérité et de devenir dépendant de cette agitation.",
+            "mots_cles": [
+              "illusion",
+              "agitation",
+              "dépendance"
+            ]
+          }
+        },
+        {
+          "symbole": "☶",
+          "nom": "Gen",
+          "signification_fondamentale": "Montagne",
+          "positive": {
+            "famille": "méditation",
+            "description": "La méditation et la maîtrise de soi permettent de trouver dans l’immobilité une sérénité qui prépare à agir avec justesse.",
+            "mots_cles": [
+              "méditation",
+              "maîtrise",
+              "sérénité"
+            ]
+          },
+          "negative": {
+            "famille": "blocage",
+            "description": "L’immobilité cesse d’être une source de sagesse lorsqu’elle devient rigidité et t’empêche de reprendre ton chemin.",
+            "mots_cles": [
+              "blocage",
+              "rigidité",
+              "inertie"
+            ]
+          }
+        },
+        {
+          "symbole": "☱",
+          "nom": "Dui",
+          "signification_fondamentale": "Lac",
+          "positive": {
+            "famille": "joie",
+            "description": "La joie s’approfondit lorsqu’elle s’ouvre aux autres et devient une expérience de partage.",
+            "mots_cles": [
+              "joie",
+              "ouverture",
+              "partage"
+            ]
+          },
+          "negative": {
+            "famille": "superficialité",
+            "description": "À rechercher le plaisir dans l’excès et l’approbation facile, tu risques de confondre la joie véritable avec une satisfaction superficielle.",
+            "mots_cles": [
+              "superficialité",
+              "complaisance",
+              "excès"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
